@@ -1,0 +1,564 @@
+{
+  "_meta": {
+    "chunk_number": 112,
+    "words_range": "aura-cliff",
+    "word_count": 30,
+    "start_index": 3330,
+    "end_index": 3359
+  },
+  "words": [
+    {
+      "word_id": "4e463096-df15-460f-958b-2e826aad9622",
+      "english": "aura",
+      "translation": null,
+      "hebrew": "הילה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The saint had an aura of peace.",
+        "Success gave him an aura of confidence."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c96e823a-8649-4ea0-9c57-ced6c2dad838",
+      "english": "awe",
+      "translation": null,
+      "hebrew": "יראה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We stood in awe of the mountains.",
+        "The power of the storm filled us with awe."
+      ],
+      "synonyms": [
+        "wonder",
+        "amazement"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "e8b127da-d5cd-4239-b21e-e7b8c54dedb7",
+      "english": "awkward",
+      "translation": null,
+      "hebrew": "מגושם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt awkward at the party.",
+        "The silence was awkward."
+      ],
+      "synonyms": [
+        "clumsy",
+        "uncomfortable"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "f0593d71-97bb-4d4e-9332-8ff0c952f018",
+      "english": "awkward",
+      "translation": null,
+      "hebrew": "מביך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was an awkward situation.",
+        "I felt awkward asking for help."
+      ],
+      "synonyms": [
+        "embarrassing"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "61fca8a3-0a73-46d2-b1a1-d9a849aa37eb",
+      "english": "bail",
+      "translation": null,
+      "hebrew": "ערבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was released on bail.",
+        "The judge set bail at $10,000."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "6acf390f-714a-41f4-8c07-b48648098b40",
+      "english": "bald",
+      "translation": null,
+      "hebrew": "קירח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is going bald.",
+        "The old man was bald."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "appearance"
+      ]
+    },
+    {
+      "word_id": "f3d96dc1-f20d-4368-ba74-f2285b784cf7",
+      "english": "bargain",
+      "translation": null,
+      "hebrew": "מציאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This coat was a real bargain.",
+        "I got a bargain at the sale."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "25d2b434-b49a-45b4-8be8-09ba2a281082",
+      "english": "bargain",
+      "translation": null,
+      "hebrew": "להתמקח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He bargained with the seller.",
+        "I like to bargain when I shop."
+      ],
+      "synonyms": [
+        "haggle"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "cb4858b9-2d83-4e44-b418-4ec084b45cf8",
+      "english": "barn",
+      "translation": null,
+      "hebrew": "אסם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The farmer stored the hay in the barn.",
+        "The barn was full of animals."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "agriculture"
+      ]
+    },
+    {
+      "word_id": "1eb9e1d4-82c5-45ad-b542-c7c74667df9e",
+      "english": "basin",
+      "translation": null,
+      "hebrew": "כיור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wash your hands in the basin.",
+        "The river flows into a large basin."
+      ],
+      "synonyms": [
+        "sink"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0e67b7a9-56f8-4f21-8648-847d258d1095",
+      "english": "beard",
+      "translation": null,
+      "hebrew": "זקן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a long beard.",
+        "The old man had a white beard."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "appearance"
+      ]
+    },
+    {
+      "word_id": "320d969a-8709-4482-b59a-807b96b079bf",
+      "english": "beast",
+      "translation": null,
+      "hebrew": "חיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lion is a wild beast.",
+        "He treated her like a beast."
+      ],
+      "synonyms": [
+        "animal"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "95562325-19fd-41c7-970f-14c212897665",
+      "english": "beat",
+      "translation": null,
+      "hebrew": "להכות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't beat the dog.",
+        "The boxer beat his opponent."
+      ],
+      "synonyms": [
+        "hit",
+        "strike"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d18f2a4a-b1b1-477a-905d-689caca96d15",
+      "english": "beat",
+      "translation": null,
+      "hebrew": "קצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I love the beat of this song.",
+        "The music had a strong beat."
+      ],
+      "synonyms": [
+        "rhythm"
+      ],
+      "topic_tags": [
+        "general",
+        "music"
+      ]
+    },
+    {
+      "word_id": "7999599d-9561-4811-8963-991ca9133541",
+      "english": "beg",
+      "translation": null,
+      "hebrew": "לבקש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He begged for forgiveness.",
+        "The dog begged for food."
+      ],
+      "synonyms": [
+        "plead"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9991467f-554f-4733-899d-1c0d1919194a",
+      "english": "betray",
+      "translation": null,
+      "hebrew": "לבגוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He betrayed his friends.",
+        "She felt betrayed by his lies."
+      ],
+      "synonyms": [
+        "deceive"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "99599999-6661-4444-a999-1c0d1919194a",
+      "english": "bewilder",
+      "translation": null,
+      "hebrew": "לבלבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The complex instructions bewildered me.",
+        "I was bewildered by the strange events."
+      ],
+      "synonyms": [
+        "confuse"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d5b3536d-38c9-4958-a609-7ce0d9b0aea2",
+      "english": "bland",
+      "translation": null,
+      "hebrew": "תפל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was bland.",
+        "He has a bland personality."
+      ],
+      "synonyms": [
+        "dull",
+        "boring"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b3e2810a-8d7d-4a43-8764-069f0b7dee20",
+      "english": "blink",
+      "translation": null,
+      "hebrew": "למצמץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I blinked in the bright light.",
+        "He didn't blink an eye."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4c8d323b-3942-4e01-abfb-354371f8586a",
+      "english": "bond",
+      "translation": null,
+      "hebrew": "קשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a strong bond between them.",
+        "The company issued bonds."
+      ],
+      "synonyms": [
+        "tie",
+        "connection"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "51aea428-7b7f-4372-8873-13545a34ca19",
+      "english": "breed",
+      "translation": null,
+      "hebrew": "גזע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What breed of dog is that?",
+        "He is a different breed of politician."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "0d6d3890-f48b-431d-bec0-2bd37e6feb69",
+      "english": "breed",
+      "translation": null,
+      "hebrew": "להתרבות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The birds breed in the spring.",
+        "Poverty can breed crime."
+      ],
+      "synonyms": [
+        "reproduce"
+      ],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "4a7c41d4-6450-4fe4-8ba3-c34654da112f",
+      "english": "burglar",
+      "translation": null,
+      "hebrew": "פורץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The burglar broke into the house.",
+        "The police caught the burglar."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "f11dd6c1-e2c5-4be7-bcff-3023b30a1c1b",
+      "english": "butcher",
+      "translation": null,
+      "hebrew": "קצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I bought meat from the butcher.",
+        "The butcher shop is on the corner."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c1234799-62ad-4a98-bdfa-c02538cdc67e",
+      "english": "butcher",
+      "translation": null,
+      "hebrew": "לטבוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army butchered the enemy soldiers.",
+        "He butchered the English language."
+      ],
+      "synonyms": [
+        "slaughter"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "aa4ee89a-8579-41ec-9604-583c3718038c",
+      "english": "cavity",
+      "translation": null,
+      "hebrew": "חלל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dentist found a cavity in my tooth.",
+        "There is a cavity in the wall."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "c8cddc65-1762-4fa6-8e6e-dde40f95bc01",
+      "english": "celebrate",
+      "translation": null,
+      "hebrew": "לחגוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We celebrated his birthday.",
+        "The town celebrated the victory."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7af85828-844b-4d9d-aca6-564099bf0bde",
+      "english": "charm",
+      "translation": null,
+      "hebrew": "קסם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a lot of charm.",
+        "She wore a charm on her bracelet."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cc2b43af-d2cb-44fa-954f-ed4aeb2f3612",
+      "english": "cheat",
+      "translation": null,
+      "hebrew": "לרמות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He cheated on the test.",
+        "She cheated him out of his money."
+      ],
+      "synonyms": [
+        "deceive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "96bf4148-693c-43f4-a2bb-1f2e7e6b0b12",
+      "english": "clash",
+      "translation": null,
+      "hebrew": "התנגשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a clash between the two armies.",
+        "The colors clash."
+      ],
+      "synonyms": [
+        "conflict"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4907df89-1501-4aa2-a23c-0e42fe7218ce",
+      "english": "cliff",
+      "translation": null,
+      "hebrew": "צוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is on a cliff.",
+        "The car drove off the cliff."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    }
+  ]
+}

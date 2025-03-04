@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 16,
+    "words_range": "call-climb",
+    "word_count": 30,
+    "start_index": 450,
+    "end_index": 479
+  },
+  "words": [
+    {
+      "word_id": "96fc60b7-bfaf-46f2-a193-37123cb08cca",
+      "english": "call",
+      "translation": "להתקשר",
+      "hebrew": "להתקשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will call you later.",
+        "She called her friend to chat."
+      ],
+      "synonyms": ["phone", "ring"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "bd7fd344-2af8-4f7f-ae29-9cd5c54b2b16",
+      "english": "camera",
+      "translation": "מצלמה",
+      "hebrew": "מצלמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He bought a new camera.",
+        "The camera captured beautiful photos."
+      ],
+      "synonyms": ["photographic device", "cam"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "e242d1c1-477b-4f3b-bf4d-e5d2c6979fbb",
+      "english": "care",
+      "translation": "לטפל",
+      "hebrew": "לטפל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She cares for her elderly parents.",
+        "He doesn't care about the weather."
+      ],
+      "synonyms": ["look after", "attend"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "67f1ae10-1bfb-45dc-a6fb-ff7a553af3b3",
+      "english": "care",
+      "translation": "דאגה",
+      "hebrew": "דאגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of care for her family.",
+        "The plant needs proper care."
+      ],
+      "synonyms": ["concern", "attention"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "f0777ac4-ab15-40f0-ade0-25ad63a3de0f",
+      "english": "carefully",
+      "translation": "בזהירות",
+      "hebrew": "בזהירות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She carefully opened the box.",
+        "Drive carefully on the icy roads."
+      ],
+      "synonyms": ["cautiously", "attentively"],
+      "topic_tags": ["general", "manner"]
+    },
+    {
+      "word_id": "7a02134e-c162-416e-ac7c-9d96cbab42ca",
+      "english": "careless",
+      "translation": "חסר זהירות",
+      "hebrew": "חסר זהירות",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a careless mistake.",
+        "Her careless driving caused an accident."
+      ],
+      "synonyms": ["reckless", "negligent"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "0fdf6115-6087-4a2f-94db-a5bb8b8d8076",
+      "english": "carry",
+      "translation": "לשאת",
+      "hebrew": "לשאת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She carried the groceries home.",
+        "He carries a backpack to school."
+      ],
+      "synonyms": ["transport", "bear"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "ac3a66aa-3817-45a6-aeb7-24383900bad3",
+      "english": "catalogue",
+      "translation": "קטלוג",
+      "hebrew": "קטלוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The library has a catalogue of books.",
+        "She browsed the catalogue for new clothes."
+      ],
+      "synonyms": ["list", "directory"],
+      "topic_tags": ["general", "organization"]
+    },
+    {
+      "word_id": "001dc762-da2d-4dec-9918-edfab21e07f6",
+      "english": "catch, caught",
+      "translation": "לתפוס",
+      "hebrew": "לתפוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He caught the ball with one hand.",
+        "She tried to catch the bus."
+      ],
+      "synonyms": ["grab", "seize"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "cfe192de-c10d-4afc-9dd2-569b0eae5ba4",
+      "english": "cause",
+      "translation": "לגרום",
+      "hebrew": "לגרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The storm caused a lot of damage.",
+        "His actions caused a problem."
+      ],
+      "synonyms": ["trigger", "provoke"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "5bc1779c-aeab-48d3-9baa-26d8e6eb5b2b",
+      "english": "cause",
+      "translation": "סיבה",
+      "hebrew": "סיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cause of the fire is unknown.",
+        "She fights for a good cause."
+      ],
+      "synonyms": ["reason", "motive"],
+      "topic_tags": ["general", "reason"]
+    },
+    {
+      "word_id": "4e9c4fe1-c5e4-4b91-8cb3-ed67a910e9ee",
+      "english": "cell",
+      "translation": "תא",
+      "hebrew": "תא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The prisoner was locked in a cell.",
+        "Cells are the basic units of life."
+      ],
+      "synonyms": ["compartment", "unit"],
+      "topic_tags": ["general", "biology"]
+    },
+    {
+      "word_id": "b0f73e41-b987-4df5-88fc-7ffb82fc3999",
+      "english": "center",
+      "translation": "מרכז",
+      "hebrew": "מרכז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city center is very busy.",
+        "He stood in the center of the room."
+      ],
+      "synonyms": ["middle", "core"],
+      "topic_tags": ["general", "location"]
+    },
+    {
+      "word_id": "92cdf3e7-c7fa-4a6c-80e1-a66e9651fa8b",
+      "english": "central",
+      "translation": "מרכזי",
+      "hebrew": "מרכזי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The central issue is important.",
+        "She lives in a central location."
+      ],
+      "synonyms": ["main", "primary"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "540b31ae-9791-403c-af01-90a770f2a8bb",
+      "english": "challenge",
+      "translation": "אתגר",
+      "hebrew": "אתגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The job is a big challenge.",
+        "He accepted the challenge to climb the mountain."
+      ],
+      "synonyms": ["test", "trial"],
+      "topic_tags": ["general", "difficulty"]
+    },
+    {
+      "word_id": "0b0d8ac8-2d0c-4676-a177-189a78cebf7c",
+      "english": "challenge",
+      "translation": "לאתגר",
+      "hebrew": "לאתגר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She challenged him to a race.",
+        "The teacher challenged the students to think critically."
+      ],
+      "synonyms": ["dare", "confront"],
+      "topic_tags": ["general", "difficulty"]
+    },
+    {
+      "word_id": "bf19f585-b157-4398-89c6-f7f4307faa0a",
+      "english": "chance",
+      "translation": "סיכוי",
+      "hebrew": "סיכוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a chance of rain today.",
+        "He took a chance and applied for the job."
+      ],
+      "synonyms": ["opportunity", "possibility"],
+      "topic_tags": ["general", "probability"]
+    },
+    {
+      "word_id": "03faa909-2d53-41cc-a53a-7e79bd7de326",
+      "english": "change",
+      "translation": "לשנות",
+      "hebrew": "לשנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She changed her hairstyle.",
+        "The weather changes quickly here."
+      ],
+      "synonyms": ["alter", "modify"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "bb221cce-8256-4e53-9f08-4373f32462e9",
+      "english": "change",
+      "translation": "שינוי",
+      "hebrew": "שינוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The change in temperature was sudden.",
+        "He made a change to his diet."
+      ],
+      "synonyms": ["transformation", "shift"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "62e25039-2034-4129-af7c-d84d2248ca8a",
+      "english": "characterize",
+      "translation": "לאפיין",
+      "hebrew": "לאפיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The novel is characterized by its humor.",
+        "She characterized him as a kind person."
+      ],
+      "synonyms": ["describe", "define"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "d5d8f221-bb90-4aa8-820c-555a415001d4",
+      "english": "cheap",
+      "translation": "זול",
+      "hebrew": "זול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The shoes were very cheap.",
+        "He bought a cheap car."
+      ],
+      "synonyms": ["inexpensive", "affordable"],
+      "topic_tags": ["general", "price"]
+    },
+    {
+      "word_id": "bfc0ea9c-393a-46ea-b35e-5ff19d026ec3",
+      "english": "check",
+      "translation": "לבדוק",
+      "hebrew": "לבדוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please check your email.",
+        "He checked the time on his watch."
+      ],
+      "synonyms": ["inspect", "examine"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "70e694a9-7523-49b4-91c9-49f16cb3e7ad",
+      "english": "child",
+      "translation": "ילד",
+      "hebrew": "ילד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The child is playing in the park.",
+        "She has a child in kindergarten."
+      ],
+      "synonyms": ["kid", "youngster"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "17406330-264a-4999-a671-3e900c501f1a",
+      "english": "childhood",
+      "translation": "ילדות",
+      "hebrew": "ילדות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She had a happy childhood.",
+        "Childhood memories are precious."
+      ],
+      "synonyms": ["youth", "infancy"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "2e81dd38-b140-4218-bc44-b07752c9fa5b",
+      "english": "children",
+      "translation": "ילדים",
+      "hebrew": "ילדים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children are playing outside.",
+        "She teaches children at school."
+      ],
+      "synonyms": ["kids", "youngsters"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "3817c0bc-964c-4276-9050-aafa600e04ab",
+      "english": "circle",
+      "translation": "מעגל",
+      "hebrew": "מעגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They sat in a circle.",
+        "The circle is perfectly round."
+      ],
+      "synonyms": ["ring", "loop"],
+      "topic_tags": ["general", "shape"]
+    },
+    {
+      "word_id": "db45eacf-e630-4035-ac7e-c756f18beeef",
+      "english": "circle",
+      "translation": "להקיף",
+      "hebrew": "להקיף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane circled the airport.",
+        "He circled the correct answer."
+      ],
+      "synonyms": ["encircle", "surround"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "bb73b267-7a92-4d98-8e86-513dfa72c941",
+      "english": "clean",
+      "translation": "לנקות",
+      "hebrew": "לנקות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She cleaned the house thoroughly.",
+        "He needs to clean his room."
+      ],
+      "synonyms": ["wash", "tidy"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "fd0c6c4c-5990-43da-aefc-8e9e8d60bb92",
+      "english": "clever",
+      "translation": "חכם",
+      "hebrew": "חכם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a clever student.",
+        "He came up with a clever solution."
+      ],
+      "synonyms": ["intelligent", "smart"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "7561ad7c-0f26-4c62-9e6b-ae4e3991e7b0",
+      "english": "climb",
+      "translation": "לטפס",
+      "hebrew": "לטפס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They climbed the mountain.",
+        "He likes to climb trees."
+      ],
+      "synonyms": ["ascend", "scale"],
+      "topic_tags": ["general", "action"]
+    }
+  ]
+}

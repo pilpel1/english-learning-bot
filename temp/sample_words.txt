@@ -1,0 +1,10 @@
+hello
+world
+computer
+language
+learning
+education
+algorithm
+programming
+example
+test 

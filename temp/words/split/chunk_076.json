@@ -1,0 +1,576 @@
+{
+  "_meta": {
+    "chunk_number": 76,
+    "words_range": "invite-morale",
+    "word_count": 30,
+    "start_index": 2250,
+    "end_index": 2279
+  },
+  "words": [
+    {
+      "word_id": "9cc81ded-39ae-4060-a563-f1d4f9ddd9ef",
+      "english": "invite",
+      "translation": null,
+      "hebrew": "להזמין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I'd like to invite you to my party.",
+        "They invited us to dinner."
+      ],
+      "synonyms": [
+        "ask",
+        "summon"
+      ],
+      "topic_tags": [
+        "general",
+        "social"
+      ]
+    },
+    {
+      "word_id": "bb651755-a1bc-40bf-9010-8ad54d67b25c",
+      "english": "Jew",
+      "translation": null,
+      "hebrew": "יהודי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a Jew.",
+        "She is proud to be a Jew."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "culture",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "ef796b87-4bc2-4d11-a781-5d76e410c08f",
+      "english": "kind",
+      "translation": null,
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What kind of music do you like?",
+        "There are many different kinds of animals."
+      ],
+      "synonyms": [
+        "type",
+        "sort"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f4eac7c7-ddc9-4132-9e8e-94f1e6706e22",
+      "english": "kind",
+      "translation": null,
+      "hebrew": "אדיב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a very kind person.",
+        "It was kind of you to help me."
+      ],
+      "synonyms": [
+        "nice",
+        "generous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e73ee98e-3d0b-4803-b2c0-c2952b751bc9",
+      "english": "landmark",
+      "translation": null,
+      "hebrew": "ציון דרך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Eiffel Tower is a famous landmark.",
+        "This event was a landmark in the history of the company."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "5412ff32-b880-4acc-a439-5488a4b5ef9e",
+      "english": "landscape",
+      "translation": null,
+      "hebrew": "נוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The landscape is beautiful.",
+        "They painted the landscape."
+      ],
+      "synonyms": [
+        "scenery",
+        "view"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "f2341f36-17fc-4e6f-9ca7-0cd6ef9dc32a",
+      "english": "lean",
+      "translation": null,
+      "hebrew": "להישען",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can lean on me for support.",
+        "Don't lean against the wall."
+      ],
+      "synonyms": [
+        "rest",
+        "incline"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "93a44ff2-3cfa-44f2-b928-3dfbf8a5b157",
+      "english": "legible",
+      "translation": null,
+      "hebrew": "קריא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His handwriting is not legible.",
+        "The sign was legible from a distance."
+      ],
+      "synonyms": [
+        "readable",
+        "clear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "82f4f980-d7e2-4a6d-ac6e-66a1372891e1",
+      "english": "lens",
+      "translation": null,
+      "hebrew": "עדשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The camera has a good lens.",
+        "He wears contact lenses."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "77051f5f-a1d6-43bc-8d58-db08925794bb",
+      "english": "license",
+      "translation": null,
+      "hebrew": "רישיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need a license to drive a car.",
+        "He has a fishing license."
+      ],
+      "synonyms": [
+        "permit",
+        "authorization"
+      ],
+      "topic_tags": [
+        "general",
+        "legal"
+      ]
+    },
+    {
+      "word_id": "a537574a-3074-4f28-8543-e81547853528",
+      "english": "license",
+      "translation": null,
+      "hebrew": "לתת רישיון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government licenses doctors.",
+        "They are licensed to sell alcohol."
+      ],
+      "synonyms": [
+        "authorize",
+        "permit"
+      ],
+      "topic_tags": [
+        "general",
+        "legal"
+      ]
+    },
+    {
+      "word_id": "6a56f790-5265-4c23-85ac-3902e395d14c",
+      "english": "lifetime",
+      "translation": null,
+      "hebrew": "משך חיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He dedicated his lifetime to helping others.",
+        "This is a once-in-a-lifetime opportunity."
+      ],
+      "synonyms": [
+        "duration",
+        "existence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b893433-2b47-43be-95b0-322df91ac01c",
+      "english": "literary",
+      "translation": null,
+      "hebrew": "ספרותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is a literary masterpiece.",
+        "She is interested in literary criticism."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "aad05ffc-c374-4b79-bc02-bb0fe12caeb2",
+      "english": "literate",
+      "translation": null,
+      "hebrew": "יודע קרוא וכתוב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The population is highly literate.",
+        "He is literate in several languages."
+      ],
+      "synonyms": [
+        "educated",
+        "learned"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "9cf80626-e99f-4a45-afea-c0e88c52eebe",
+      "english": "literature",
+      "translation": null,
+      "hebrew": "ספרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is studying English literature.",
+        "He is a professor of literature."
+      ],
+      "synonyms": [
+        "writings",
+        "books"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "f1199b82-045e-4f33-85b8-f00a4509f84b",
+      "english": "load",
+      "translation": null,
+      "hebrew": "משא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The truck is carrying a heavy load.",
+        "He has a lot on his load."
+      ],
+      "synonyms": [
+        "burden",
+        "weight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "95e244ed-1f06-4dd9-b18b-225e36799247",
+      "english": "losing",
+      "translation": null,
+      "hebrew": "מפסיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Our team is losing the game.",
+        "He is losing his hair."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbbcbff9-0b32-470b-a93d-dfe5148a97d0",
+      "english": "mail",
+      "translation": null,
+      "hebrew": "דואר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have to check my mail.",
+        "The mail arrives at 10 AM."
+      ],
+      "synonyms": [
+        "post",
+        "letters"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "44bf74dd-cd61-4127-b91d-743fd8af3c37",
+      "english": "mailman",
+      "translation": null,
+      "hebrew": "דוור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mailman delivers the mail every day.",
+        "I saw the mailman on my street."
+      ],
+      "synonyms": [
+        "postman",
+        "letter carrier"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2af3059d-be83-49ea-890c-790a2470f68a",
+      "english": "malnutrition",
+      "translation": null,
+      "hebrew": "תת תזונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Malnutrition is a serious problem in developing countries.",
+        "The child is suffering from malnutrition."
+      ],
+      "synonyms": [
+        "undernourishment",
+        "starvation"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "34536801-e76f-4780-b3e6-3ec2be155b66",
+      "english": "mate",
+      "translation": null,
+      "hebrew": "בן זוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The birds are looking for a mate.",
+        "He is my best mate."
+      ],
+      "synonyms": [
+        "partner",
+        "companion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ccffdd7-567f-4d38-8f01-682ed544696d",
+      "english": "mate",
+      "translation": null,
+      "hebrew": "חבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Hey mate, how are you?",
+        "He is my old mate from school."
+      ],
+      "synonyms": [
+        "friend",
+        "buddy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db91c902-1252-44c3-afb4-77683013bee9",
+      "english": "maturity",
+      "translation": null,
+      "hebrew": "בגרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He shows a lot of maturity for his age.",
+        "The fruit has reached maturity."
+      ],
+      "synonyms": [
+        "adulthood",
+        "ripeness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "85acf649-f294-4355-81ca-d809ec9515c1",
+      "english": "mayor",
+      "translation": null,
+      "hebrew": "ראש עיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mayor is giving a speech today.",
+        "He was elected mayor last year."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "39d539a9-3f3b-4eb3-8949-9999ae91387f",
+      "english": "mediate",
+      "translation": null,
+      "hebrew": "לתווך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The UN is trying to mediate between the two countries.",
+        "He is trying to mediate the dispute."
+      ],
+      "synonyms": [
+        "intervene",
+        "arbitrate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b8b89650-3941-4dc5-b62a-21fc39cd130b",
+      "english": "mediocre",
+      "translation": null,
+      "hebrew": "בינוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was mediocre.",
+        "He is a mediocre student."
+      ],
+      "synonyms": [
+        "average",
+        "ordinary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3118a14a-696e-4797-8dd3-5165fb73ea9d",
+      "english": "miserable",
+      "translation": null,
+      "hebrew": "אומלל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is feeling miserable.",
+        "The weather is miserable."
+      ],
+      "synonyms": [
+        "unhappy",
+        "sad"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8836dd3c-0277-47d5-b586-8be26ca47c4e",
+      "english": "moist",
+      "translation": null,
+      "hebrew": "לח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The cake is moist.",
+        "The ground is moist after the rain."
+      ],
+      "synonyms": [
+        "damp",
+        "wet"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "388da3c1-7a76-4e92-832a-d17b5fcc0714",
+      "english": "moral",
+      "translation": null,
+      "hebrew": "מוסרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is important to have moral values.",
+        "He made a moral decision."
+      ],
+      "synonyms": [
+        "ethical",
+        "righteous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27fc3085-bec0-4104-9127-955a7031d8b1",
+      "english": "morale",
+      "translation": null,
+      "hebrew": "מצב רוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The team's morale is high.",
+        "The low morale is affecting productivity."
+      ],
+      "synonyms": [
+        "spirit",
+        "attitude"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

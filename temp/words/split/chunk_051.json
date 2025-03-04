@@ -1,0 +1,640 @@
+{
+  "_meta": {
+    "chunk_number": 51,
+    "words_range": "reporter-solitude",
+    "word_count": 30,
+    "start_index": 1500,
+    "end_index": 1529
+  },
+  "words": [
+    {
+      "word_id": "5d786f00-4a1d-44da-95bc-095979bc78b7",
+      "english": "reporter",
+      "translation": null,
+      "hebrew": "כתב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The reporter asked the president a difficult question.",
+        "She is a reporter for the local newspaper."
+      ],
+      "synonyms": [
+        "journalist",
+        "correspondent",
+        "newscaster"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "18eb7591-d245-4459-b714-1407f86289b8",
+      "english": "request",
+      "translation": null,
+      "hebrew": "בקשה",
+      "part_of_speech": "noun/verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a request for more information.",
+        "I request that you keep this confidential."
+      ],
+      "synonyms": [
+        "appeal",
+        "petition",
+        "demand"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "f4572432-7ce0-4b09-b653-4e590f4a2a0f",
+      "english": "require",
+      "translation": null,
+      "hebrew": "לדרוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "This job requires a lot of travel.",
+        "The law requires all citizens to vote."
+      ],
+      "synonyms": [
+        "need",
+        "demand",
+        "obligate"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "52e05bea-c20b-481c-8f8b-bd403ebcb44d",
+      "english": "restore",
+      "translation": null,
+      "hebrew": "לשחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum is restoring the ancient artifacts.",
+        "We need to restore peace to the region."
+      ],
+      "synonyms": [
+        "rebuild",
+        "repair",
+        "revive"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "e8fc77a6-d89b-4bb3-945c-8d44c265a56d",
+      "english": "resume",
+      "translation": null,
+      "hebrew": "לחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting will resume after a short break.",
+        "He decided to resume his studies."
+      ],
+      "synonyms": [
+        "restart",
+        "continue",
+        "recommence"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "8ef35a03-14b1-4b6a-ab02-7cd44dc0d70f",
+      "english": "resumption",
+      "translation": null,
+      "hebrew": "חידוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The resumption of talks is a positive sign.",
+        "We are awaiting the resumption of services."
+      ],
+      "synonyms": [
+        "restart",
+        "recommencement",
+        "renewal"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "670a53e2-a37b-40b5-be63-213fbad2107a",
+      "english": "rule",
+      "translation": null,
+      "hebrew": "חוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "One of the rules of the game is that you can't use your hands.",
+        "There are many rules in the school."
+      ],
+      "synonyms": [
+        "regulation",
+        "law",
+        "principle"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "b1f82f50-77ff-4b53-8599-1775e11b537b",
+      "english": "rule",
+      "translation": null,
+      "hebrew": "לשלוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The king ruled the country for 50 years.",
+        "He rules his life with an iron fist."
+      ],
+      "synonyms": [
+        "govern",
+        "control",
+        "dominate"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "757bdc10-d360-48f9-a74f-5941d5a786de",
+      "english": "ruler",
+      "translation": null,
+      "hebrew": "שליט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ruler of the country made a controversial decision.",
+        "The people respected their ruler."
+      ],
+      "synonyms": [
+        "leader",
+        "monarch",
+        "governor"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "e4255117-53f2-429c-b934-f46949b10f4f",
+      "english": "ruler",
+      "translation": null,
+      "hebrew": "סרגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Use a ruler to draw a straight line.",
+        "The ruler is 30 centimeters long."
+      ],
+      "synonyms": [
+        "measuring stick",
+        "straightedge"
+      ],
+      "topic_tags": [
+        "general",
+        "tools"
+      ]
+    },
+    {
+      "word_id": "575b7b0d-ab49-4962-aa4b-dc352b7fcb17",
+      "english": "season",
+      "translation": null,
+      "hebrew": "עונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Winter is my favorite season.",
+        "The football season starts in September."
+      ],
+      "synonyms": [
+        "period",
+        "time",
+        "stage"
+      ],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "5feb4664-01f4-4293-8cfe-e515f546b8d4",
+      "english": "season",
+      "translation": null,
+      "hebrew": "לתבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Season the chicken with salt and pepper.",
+        "She seasoned the soup with herbs."
+      ],
+      "synonyms": [
+        "flavor",
+        "spice",
+        "enhance"
+      ],
+      "topic_tags": [
+        "general",
+        "cooking"
+      ]
+    },
+    {
+      "word_id": "8b9d8801-71f4-4892-9142-cc7a2f00504a",
+      "english": "secure",
+      "translation": null,
+      "hebrew": "מאובטח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is very secure.",
+        "Please secure the doors before leaving."
+      ],
+      "synonyms": [
+        "safe",
+        "protected",
+        "ensure"
+      ],
+      "topic_tags": [
+        "general",
+        "security"
+      ]
+    },
+    {
+      "word_id": "0f529a29-ee53-4ec1-aa50-8249199ba4de",
+      "english": "selective",
+      "translation": null,
+      "hebrew": "בררני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is very selective about her friends.",
+        "The school is highly selective."
+      ],
+      "synonyms": [
+        "discriminating",
+        "choosy",
+        "particular"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "25e06044-5b4d-4edd-9b5a-98ef47bbb6ee",
+      "english": "service",
+      "translation": null,
+      "hebrew": "שירות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The service in this restaurant is excellent.",
+        "What kind of service do you provide?"
+      ],
+      "synonyms": [
+        "assistance",
+        "help",
+        "support"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "d2736810-74f0-403f-85fc-1899470b3375",
+      "english": "share",
+      "translation": null,
+      "hebrew": "לשתף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please share your ideas with the group.",
+        "I want to share my feelings with you."
+      ],
+      "synonyms": [
+        "distribute",
+        "divide",
+        "communicate"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "da28a7a6-8951-4353-96f8-f38fef9dc73a",
+      "english": "share",
+      "translation": null,
+      "hebrew": "מניה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He bought shares in the company.",
+        "The value of the shares went up."
+      ],
+      "synonyms": [
+        "stock",
+        "portion",
+        "part"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "43931780-3a61-4c21-8f46-7b96856ae12a",
+      "english": "ship",
+      "translation": null,
+      "hebrew": "אונייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ship sailed across the ocean.",
+        "We saw a ship in the distance."
+      ],
+      "synonyms": [
+        "boat",
+        "vessel",
+        "liner"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "57ab2c33-bc59-4b20-a6f6-c6a194e8d6dc",
+      "english": "ship",
+      "translation": null,
+      "hebrew": "לשלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will ship your order tomorrow.",
+        "The company ships products all over the world."
+      ],
+      "synonyms": [
+        "send",
+        "transport",
+        "convey"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "118391eb-eb74-454e-be19-9072b4cd7dd1",
+      "english": "shipment",
+      "translation": null,
+      "hebrew": "משלוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The shipment arrived on time.",
+        "We are expecting a shipment of new books."
+      ],
+      "synonyms": [
+        "delivery",
+        "consignment",
+        "load"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c438d1b8-4196-4eb2-a6c2-66e36a203994",
+      "english": "significance",
+      "translation": null,
+      "hebrew": "משמעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The discovery has great significance for science.",
+        "The significance of the event is still unclear."
+      ],
+      "synonyms": [
+        "importance",
+        "relevance",
+        "value"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "785d0dbf-0e1b-45da-a123-858983548fd2",
+      "english": "significant",
+      "translation": null,
+      "hebrew": "משמעותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "There has been a significant increase in sales.",
+        "He played a significant role in the project."
+      ],
+      "synonyms": [
+        "important",
+        "notable",
+        "substantial"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "78f5bb0a-bea8-4ca7-8f9c-4b878d904848",
+      "english": "simulate",
+      "translation": null,
+      "hebrew": "לדמות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The computer program can simulate different scenarios.",
+        "Pilots use simulators to simulate flying."
+      ],
+      "synonyms": [
+        "imitate",
+        "reproduce",
+        "replicate"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "deec26a7-6d99-4c8d-b94d-4c2c43763df4",
+      "english": "size",
+      "translation": null,
+      "hebrew": "גודל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What size shoes do you wear?",
+        "The size of the room is 10 square meters."
+      ],
+      "synonyms": [
+        "dimension",
+        "magnitude",
+        "extent"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "0bd2716c-4cec-4054-b2b0-87fe04caec6b",
+      "english": "soar",
+      "translation": null,
+      "hebrew": "להמריא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The eagle soared through the sky.",
+        "His career began to soar after the promotion."
+      ],
+      "synonyms": [
+        "fly",
+        "ascend",
+        "rise"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "80439f2d-f675-432e-ab35-5742aef8fd38",
+      "english": "soil",
+      "translation": null,
+      "hebrew": "אדמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The soil in this area is very fertile.",
+        "Plants need soil to grow."
+      ],
+      "synonyms": [
+        "earth",
+        "ground",
+        "dirt"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "da4d7c6a-17e9-42fc-9c80-63f0e29c1f1a",
+      "english": "soil",
+      "translation": null,
+      "hebrew": "ללכלך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't soil your clothes.",
+        "The mud soiled his shoes."
+      ],
+      "synonyms": [
+        "dirty",
+        "stain",
+        "contaminate"
+      ],
+      "topic_tags": [
+        "general",
+        "hygiene"
+      ]
+    },
+    {
+      "word_id": "1e488888-ac22-4f72-93aa-911063399190",
+      "english": "solicit",
+      "translation": null,
+      "hebrew": "לגייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The charity is soliciting donations.",
+        "They are soliciting volunteers for the project."
+      ],
+      "synonyms": [
+        "request",
+        "seek",
+        "ask for"
+      ],
+      "topic_tags": [
+        "general",
+        "charity"
+      ]
+    },
+    {
+      "word_id": "e920b86c-7bbc-4f02-986a-e69aa2e28c50",
+      "english": "solicit",
+      "translation": null,
+      "hebrew": "לפתות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The advertisement solicits customers with false promises.",
+        "He was accused of soliciting prostitutes."
+      ],
+      "synonyms": [
+        "entice",
+        "lure",
+        "tempt"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "e106f9e7-ba80-4f70-a3ec-228ae11daa1d",
+      "english": "solitude",
+      "translation": null,
+      "hebrew": "בדידות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He enjoys the solitude of the mountains.",
+        "She found peace in solitude."
+      ],
+      "synonyms": [
+        "isolation",
+        "loneliness",
+        "seclusion"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    }
+  ]
+}

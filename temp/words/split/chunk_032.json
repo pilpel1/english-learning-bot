@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 32,
+    "words_range": "issue-mere",
+    "word_count": 30,
+    "start_index": 930,
+    "end_index": 959
+  },
+  "words": [
+    {
+      "word_id": "ccbfebb8-30fd-4981-9cb5-206188b8897f",
+      "english": "issue",
+      "translation": "נושא",
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The issue was discussed at the meeting.",
+        "They addressed the issue of climate change."
+      ],
+      "synonyms": ["topic", "matter", "subject"],
+      "topic_tags": ["general", "discussion", "problem"]
+    },
+    {
+      "word_id": "403785f3-212e-42ab-90da-b04d40eb3b19",
+      "english": "issue",
+      "translation": "להוציא לאור",
+      "hebrew": "להוציא לאור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will issue a new report next week.",
+        "They issued a statement to the press."
+      ],
+      "synonyms": ["publish", "release", "distribute"],
+      "topic_tags": ["general", "publication", "communication"]
+    },
+    {
+      "word_id": "16d3ce39-5dbc-4c16-8392-681097aa02fb",
+      "english": "jewel",
+      "translation": "תכשיט",
+      "hebrew": "תכשיט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a beautiful jewel around her neck.",
+        "The crown was adorned with precious jewels."
+      ],
+      "synonyms": ["gem", "stone", "ornament"],
+      "topic_tags": ["general", "luxury", "fashion"]
+    },
+    {
+      "word_id": "968be004-965f-4b81-a4ba-0f759db8e68a",
+      "english": "join",
+      "translation": "להצטרף",
+      "hebrew": "להצטרף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to join the club.",
+        "Would you like to join us for dinner?"
+      ],
+      "synonyms": ["participate", "enroll", "engage"],
+      "topic_tags": ["general", "participation", "social"]
+    },
+    {
+      "word_id": "8c1a494a-55f8-4568-b861-7ce118709420",
+      "english": "joint",
+      "translation": "מפרק",
+      "hebrew": "מפרק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The knee is a complex joint.",
+        "He has pain in his joints."
+      ],
+      "synonyms": ["connection", "junction", "articulation"],
+      "topic_tags": ["general", "anatomy", "health"]
+    },
+    {
+      "word_id": "72a8f14b-d297-40c4-9ef1-7a24bf6bc675",
+      "english": "joint",
+      "translation": "משותף",
+      "hebrew": "משותף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They made a joint decision.",
+        "The project was a joint effort."
+      ],
+      "synonyms": ["shared", "combined", "collaborative"],
+      "topic_tags": ["general", "cooperation", "partnership"]
+    },
+    {
+      "word_id": "fa89112d-2784-4918-85fe-e0c7f7a89a40",
+      "english": "judge",
+      "translation": "שופט",
+      "hebrew": "שופט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge ruled in favor of the defendant.",
+        "She is a respected judge in the community."
+      ],
+      "synonyms": ["arbiter", "referee", "adjudicator"],
+      "topic_tags": ["general", "law", "authority"]
+    },
+    {
+      "word_id": "9da7e6c6-e499-4553-8969-2dba04e1316d",
+      "english": "judge",
+      "translation": "לשפוט",
+      "hebrew": "לשפוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't judge a book by its cover.",
+        "He was quick to judge the situation."
+      ],
+      "synonyms": ["evaluate", "assess", "determine"],
+      "topic_tags": ["general", "evaluation", "opinion"]
+    },
+    {
+      "word_id": "204b6d78-2179-4d7a-b84b-15f56bcedcff",
+      "english": "lack",
+      "translation": "חוסר",
+      "hebrew": "חוסר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a lack of resources.",
+        "His lack of experience was evident."
+      ],
+      "synonyms": ["shortage", "deficiency", "absence"],
+      "topic_tags": ["general", "deficiency", "need"]
+    },
+    {
+      "word_id": "29a863b9-7d36-40b7-886e-5d43eb235c84",
+      "english": "language",
+      "translation": "שפה",
+      "hebrew": "שפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "English is a global language.",
+        "She is fluent in several languages."
+      ],
+      "synonyms": ["tongue", "dialect", "speech"],
+      "topic_tags": ["general", "communication", "linguistics"]
+    },
+    {
+      "word_id": "34744430-4729-4033-a62a-08d62e2b99cd",
+      "english": "large",
+      "translation": "גדול",
+      "hebrew": "גדול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a large house.",
+        "The company has a large workforce."
+      ],
+      "synonyms": ["big", "huge", "vast"],
+      "topic_tags": ["general", "size", "magnitude"]
+    },
+    {
+      "word_id": "6f9400b1-80ae-40e6-b481-6713770a0176",
+      "english": "largest",
+      "translation": "הגדול ביותר",
+      "hebrew": "הגדול ביותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is the largest city in the country.",
+        "The whale is the largest animal on Earth."
+      ],
+      "synonyms": ["biggest", "greatest", "most extensive"],
+      "topic_tags": ["general", "size", "comparison"]
+    },
+    {
+      "word_id": "c03d652a-5a73-434a-a654-7dd32d36b279",
+      "english": "law",
+      "translation": "חוק",
+      "hebrew": "חוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The law requires everyone to wear a seatbelt.",
+        "He studied law at university."
+      ],
+      "synonyms": ["regulation", "rule", "statute"],
+      "topic_tags": ["general", "legal", "regulation"]
+    },
+    {
+      "word_id": "cc85bf6c-d7e2-44be-b7fe-bec13059381a",
+      "english": "lawyer",
+      "translation": "עורך דין",
+      "hebrew": "עורך דין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She hired a lawyer to represent her in court.",
+        "He is a successful lawyer."
+      ],
+      "synonyms": ["attorney", "counsel", "advocate"],
+      "topic_tags": ["general", "legal", "profession"]
+    },
+    {
+      "word_id": "761e7cf8-8073-417a-b9a6-3780d95db817",
+      "english": "legal",
+      "translation": "חוקי",
+      "hebrew": "חוקי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is legal to drive at 18.",
+        "He sought legal advice."
+      ],
+      "synonyms": ["lawful", "permitted", "authorized"],
+      "topic_tags": ["general", "legal", "status"]
+    },
+    {
+      "word_id": "c6997b35-5fb4-4c2e-a7bf-7393b14ea4ab",
+      "english": "legal",
+      "translation": "משפטי",
+      "hebrew": "משפטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She works in the legal department.",
+        "They are facing legal challenges."
+      ],
+      "synonyms": ["judicial", "juridical", "forensic"],
+      "topic_tags": ["general", "legal", "context"]
+    },
+    {
+      "word_id": "98d6d5d0-246f-4ce5-a193-6835aecc8302",
+      "english": "legalize",
+      "translation": "להפוך לחוקי",
+      "hebrew": "להפוך לחוקי",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are campaigning to legalize the substance.",
+        "The government decided to legalize the practice."
+      ],
+      "synonyms": ["authorize", "permit", "sanction"],
+      "topic_tags": ["general", "legal", "policy"]
+    },
+    {
+      "word_id": "4a16f23b-90df-4e8b-b574-05661a529606",
+      "english": "less",
+      "translation": "פחות",
+      "hebrew": "פחות",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has less money than before.",
+        "The task is less difficult than it seems."
+      ],
+      "synonyms": ["fewer", "reduced", "diminished"],
+      "topic_tags": ["general", "comparison", "quantity"]
+    },
+    {
+      "word_id": "ce235166-526a-4004-a0ae-3769f3ab521a",
+      "english": "lethal",
+      "translation": "קטלני",
+      "hebrew": "קטלני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The snake's bite is lethal.",
+        "He was carrying a lethal weapon."
+      ],
+      "synonyms": ["deadly", "fatal", "mortal"],
+      "topic_tags": ["general", "danger", "health"]
+    },
+    {
+      "word_id": "c65a6296-695e-44e5-994d-92ac2a8f982e",
+      "english": "level",
+      "translation": "רמה",
+      "hebrew": "רמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She reached a high level of proficiency.",
+        "The water level is rising."
+      ],
+      "synonyms": ["standard", "degree", "grade"],
+      "topic_tags": ["general", "measurement", "comparison"]
+    },
+    {
+      "word_id": "8d7b0b98-1756-4976-a7b2-d04d9ec72a22",
+      "english": "level",
+      "translation": "ליישר",
+      "hebrew": "ליישר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They need to level the ground before building.",
+        "He leveled the shelf with a spirit level."
+      ],
+      "synonyms": ["flatten", "even", "smooth"],
+      "topic_tags": ["general", "construction", "adjustment"]
+    },
+    {
+      "word_id": "0c0eb43a-a6d3-4190-9a1a-b9a6051e95e6",
+      "english": "likely",
+      "translation": "סביר",
+      "hebrew": "סביר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is likely to rain tomorrow.",
+        "She is likely to succeed."
+      ],
+      "synonyms": ["probable", "expected", "possible"],
+      "topic_tags": ["general", "probability", "prediction"]
+    },
+    {
+      "word_id": "8b387551-7cf1-46e9-a7fa-0ec3288a0df2",
+      "english": "local",
+      "translation": "מקומי",
+      "hebrew": "מקומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They support local businesses.",
+        "The local news reported the event."
+      ],
+      "synonyms": ["regional", "community", "neighborhood"],
+      "topic_tags": ["general", "geography", "community"]
+    },
+    {
+      "word_id": "74afc2d7-a228-47e4-911a-af5ab0ba9d03",
+      "english": "locate",
+      "translation": "לאתר",
+      "hebrew": "לאתר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They managed to locate the missing keys.",
+        "The store is located downtown."
+      ],
+      "synonyms": ["find", "discover", "identify"],
+      "topic_tags": ["general", "search", "position"]
+    },
+    {
+      "word_id": "3cc7d894-b0f6-4f75-b71d-4540168b8afa",
+      "english": "malfunction",
+      "translation": "תקלה",
+      "hebrew": "תקלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The machine had a malfunction.",
+        "They fixed the malfunction quickly."
+      ],
+      "synonyms": ["failure", "breakdown", "glitch"],
+      "topic_tags": ["general", "technology", "problem"]
+    },
+    {
+      "word_id": "31007f2c-3844-4627-b2f1-1d33ea11bc10",
+      "english": "massacre",
+      "translation": "טבח",
+      "hebrew": "טבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The massacre was a tragic event.",
+        "They commemorated the victims of the massacre."
+      ],
+      "synonyms": ["slaughter", "killing", "bloodbath"],
+      "topic_tags": ["general", "violence", "history"]
+    },
+    {
+      "word_id": "08162a33-de9d-4302-acb9-31b4cc18d655",
+      "english": "medicine",
+      "translation": "רפואה",
+      "hebrew": "רפואה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is studying medicine at university.",
+        "The medicine helped relieve his symptoms."
+      ],
+      "synonyms": ["treatment", "drug", "remedy"],
+      "topic_tags": ["general", "health", "science"]
+    },
+    {
+      "word_id": "f7db7684-c4a1-4860-9645-56208a9ab191",
+      "english": "medieval",
+      "translation": "ימי הביניים",
+      "hebrew": "ימי הביניים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The castle is a medieval structure.",
+        "They studied medieval history."
+      ],
+      "synonyms": ["middle ages", "antique", "ancient"],
+      "topic_tags": ["general", "history", "architecture"]
+    },
+    {
+      "word_id": "dc63545e-5e04-4f02-bfda-a3c7ab547fa7",
+      "english": "merchandise",
+      "translation": "סחורה",
+      "hebrew": "סחורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The store offers a wide range of merchandise.",
+        "They displayed the merchandise in the window."
+      ],
+      "synonyms": ["goods", "products", "wares"],
+      "topic_tags": ["general", "commerce", "retail"]
+    },
+    {
+      "word_id": "d7e46355-74bd-4c7c-b899-3cf875661a37",
+      "english": "mere",
+      "translation": "רק",
+      "hebrew": "רק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a mere coincidence.",
+        "The mere thought of it makes me nervous."
+      ],
+      "synonyms": ["only", "just", "simple"],
+      "topic_tags": ["general", "emphasis", "comparison"]
+    }
+  ]
+}

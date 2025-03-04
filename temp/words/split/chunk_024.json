@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 24,
+    "words_range": "slow down-view",
+    "word_count": 30,
+    "start_index": 690,
+    "end_index": 719
+  },
+  "words": [
+    {
+      "word_id": "fd0c5cb6-ef0f-47bf-b918-9ecd934937b0",
+      "english": "slow down",
+      "translation": "להאט",
+      "hebrew": "להאט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please slow down when driving in the city.",
+        "The project needs to slow down to ensure quality."
+      ],
+      "synonyms": ["decelerate", "reduce speed", "brake"],
+      "topic_tags": ["general", "action", "speed"]
+    },
+    {
+      "word_id": "cd649c3e-adb8-4955-abde-68b6098e2686",
+      "english": "so",
+      "translation": "אז",
+      "hebrew": "אז",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I was tired, so I went to bed early.",
+        "She studied hard, so she passed the exam."
+      ],
+      "synonyms": ["therefore", "thus", "hence"],
+      "topic_tags": ["general", "conjunction", "cause"]
+    },
+    {
+      "word_id": "d2a23675-70c6-4915-ab5a-944d183a8913",
+      "english": "space",
+      "translation": "חלל",
+      "hebrew": "חלל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The astronauts traveled to space.",
+        "There is a lot of space in the new office."
+      ],
+      "synonyms": ["void", "expanse", "area"],
+      "topic_tags": ["general", "astronomy", "area"]
+    },
+    {
+      "word_id": "4cccf172-d8cd-4701-8204-f4b61a2bd1d7",
+      "english": "space",
+      "translation": "מרווח",
+      "hebrew": "מרווח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please leave some space between the chairs.",
+        "The space between the lines is too small."
+      ],
+      "synonyms": ["gap", "interval", "distance"],
+      "topic_tags": ["general", "geometry", "layout"]
+    },
+    {
+      "word_id": "c736bca1-72df-49b6-afeb-e660fcb65872",
+      "english": "speed",
+      "translation": "מהירות",
+      "hebrew": "מהירות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car reached a speed of 100 km/h.",
+        "He finished the race with great speed."
+      ],
+      "synonyms": ["velocity", "pace", "rapidity"],
+      "topic_tags": ["general", "motion", "measurement"]
+    },
+    {
+      "word_id": "b2f06d47-26e1-45d1-9820-ae41d2b50ce2",
+      "english": "start",
+      "translation": "להתחיל",
+      "hebrew": "להתחיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Let's start the meeting now.",
+        "He started a new job last week."
+      ],
+      "synonyms": ["begin", "commence", "initiate"],
+      "topic_tags": ["general", "action", "beginning"]
+    },
+    {
+      "word_id": "639abc46-732b-4c8e-bed9-684a0e9af459",
+      "english": "still",
+      "translation": "עדיין",
+      "hebrew": "עדיין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is still waiting for the bus.",
+        "She still hasn't finished her homework."
+      ],
+      "synonyms": ["yet", "even now", "nevertheless"],
+      "topic_tags": ["general", "time", "continuation"]
+    },
+    {
+      "word_id": "7406ebfd-93a8-4168-aa96-6e9b23ac9644",
+      "english": "stone",
+      "translation": "אבן",
+      "hebrew": "אבן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The path is made of stone.",
+        "He threw a stone into the river."
+      ],
+      "synonyms": ["rock", "pebble", "boulder"],
+      "topic_tags": ["general", "material", "nature"]
+    },
+    {
+      "word_id": "c9775754-1582-4676-87ef-25431c8d0a8d",
+      "english": "strong",
+      "translation": "חזק",
+      "hebrew": "חזק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a strong athlete.",
+        "The coffee is too strong for me."
+      ],
+      "synonyms": ["powerful", "sturdy", "robust"],
+      "topic_tags": ["general", "strength", "quality"]
+    },
+    {
+      "word_id": "15dfa586-ab07-4de2-a63b-e5099270d56e",
+      "english": "stronghold",
+      "translation": "מבצר",
+      "hebrew": "מבצר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The castle was a stronghold during the war.",
+        "They retreated to their stronghold in the mountains."
+      ],
+      "synonyms": ["fortress", "bastion", "citadel"],
+      "topic_tags": ["general", "defense", "structure"]
+    },
+    {
+      "word_id": "db0bbd95-a9cf-462b-a776-76b9ae65db17",
+      "english": "system",
+      "translation": "מערכת",
+      "hebrew": "מערכת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The solar system consists of the sun and planets.",
+        "The new system is more efficient."
+      ],
+      "synonyms": ["network", "structure", "organization"],
+      "topic_tags": ["general", "technology", "organization"]
+    },
+    {
+      "word_id": "5861539b-e302-43d8-aa6c-5a94b7fd546a",
+      "english": "system",
+      "translation": "שיטה",
+      "hebrew": "שיטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They developed a new system for data analysis.",
+        "The system of government is democratic."
+      ],
+      "synonyms": ["method", "procedure", "approach"],
+      "topic_tags": ["general", "methodology", "process"]
+    },
+    {
+      "word_id": "452c3e40-0d19-44dc-a8b5-e56091bf27d7",
+      "english": "target",
+      "translation": "מטרה",
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The target is to increase sales by 20%.",
+        "He hit the target with his first shot."
+      ],
+      "synonyms": ["goal", "aim", "objective"],
+      "topic_tags": ["general", "goal", "focus"]
+    },
+    {
+      "word_id": "53b47142-83af-4244-8d65-cc3ab165ec58",
+      "english": "teach, taught",
+      "translation": "ללמד",
+      "hebrew": "ללמד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She teaches math at the local school.",
+        "He taught me how to play the guitar."
+      ],
+      "synonyms": ["instruct", "educate", "train"],
+      "topic_tags": ["general", "education", "instruction"]
+    },
+    {
+      "word_id": "a7b2d974-6eb5-4435-8e3b-2d3d249ac102",
+      "english": "think, thought",
+      "translation": "לחשוב",
+      "hebrew": "לחשוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I think we should leave now.",
+        "She thought about the problem for a long time."
+      ],
+      "synonyms": ["consider", "ponder", "reflect"],
+      "topic_tags": ["general", "cognition", "reflection"]
+    },
+    {
+      "word_id": "ea8fd519-2978-41ff-afe6-00c57e631aa4",
+      "english": "time",
+      "translation": "זמן",
+      "hebrew": "זמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What time is it?",
+        "He spends a lot of time reading."
+      ],
+      "synonyms": ["period", "duration", "interval"],
+      "topic_tags": ["general", "chronology", "measurement"]
+    },
+    {
+      "word_id": "57d97c0c-0146-40b4-90f6-5e0b73eb42c9",
+      "english": "totally",
+      "translation": "לגמרי",
+      "hebrew": "לגמרי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I am totally convinced by your argument.",
+        "The room was totally silent."
+      ],
+      "synonyms": ["completely", "entirely", "wholly"],
+      "topic_tags": ["general", "degree", "intensity"]
+    },
+    {
+      "word_id": "9e87f7e9-e425-450d-9c3f-941dac6e7486",
+      "english": "town",
+      "translation": "עיר",
+      "hebrew": "עיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a small town.",
+        "The town is known for its historic buildings."
+      ],
+      "synonyms": ["city", "municipality", "village"],
+      "topic_tags": ["general", "geography", "settlement"]
+    },
+    {
+      "word_id": "8b49f2a0-a43e-4a85-8582-6d3e64cc5fd2",
+      "english": "understand",
+      "translation": "להבין",
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I understand the instructions clearly.",
+        "She didn't understand the joke."
+      ],
+      "synonyms": ["comprehend", "grasp", "perceive"],
+      "topic_tags": ["general", "cognition", "comprehension"]
+    },
+    {
+      "word_id": "d2412982-66df-4885-99a6-4c3db38484c8",
+      "english": "unusual",
+      "translation": "יוצא דופן",
+      "hebrew": "יוצא דופן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It's unusual to see snow in this region.",
+        "She has an unusual talent for music."
+      ],
+      "synonyms": ["rare", "unique", "exceptional"],
+      "topic_tags": ["general", "characteristic", "rarity"]
+    },
+    {
+      "word_id": "21a39c36-3f46-495b-99e4-4d593243f7e7",
+      "english": "use",
+      "translation": "שימוש",
+      "hebrew": "שימוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The use of technology is increasing.",
+        "He found a new use for the old tool."
+      ],
+      "synonyms": ["application", "utilization", "employment"],
+      "topic_tags": ["general", "function", "application"]
+    },
+    {
+      "word_id": "05c354a3-3ff4-468d-a099-597dbecd7011",
+      "english": "use",
+      "translation": "להשתמש",
+      "hebrew": "להשתמש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please use a pen to fill out the form.",
+        "She uses her phone for everything."
+      ],
+      "synonyms": ["employ", "utilize", "apply"],
+      "topic_tags": ["general", "action", "application"]
+    },
+    {
+      "word_id": "ec64e467-1316-412f-9a4a-941da83533bc",
+      "english": "use",
+      "translation": "שימוש",
+      "hebrew": "שימוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The use of this software is widespread.",
+        "He made good use of his time."
+      ],
+      "synonyms": ["application", "employment", "operation"],
+      "topic_tags": ["general", "function", "application"]
+    },
+    {
+      "word_id": "c5abab26-55d3-4869-ac0b-d2fd58ce0685",
+      "english": "useful",
+      "translation": "שימושי",
+      "hebrew": "שימושי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This tool is very useful for fixing things.",
+        "She gave me some useful advice."
+      ],
+      "synonyms": ["helpful", "beneficial", "advantageous"],
+      "topic_tags": ["general", "utility", "benefit"]
+    },
+    {
+      "word_id": "f852816b-e612-4d21-819d-0561c21a1c1a",
+      "english": "useless",
+      "translation": "חסר תועלת",
+      "hebrew": "חסר תועלת",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This old phone is useless now.",
+        "He felt useless after losing his job."
+      ],
+      "synonyms": ["ineffective", "worthless", "futile"],
+      "topic_tags": ["general", "utility", "value"]
+    },
+    {
+      "word_id": "6e1f76c9-1af9-4adf-a9c7-485dac22d916",
+      "english": "usual",
+      "translation": "רגיל",
+      "hebrew": "רגיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He arrived at his usual time.",
+        "It's usual for her to work late."
+      ],
+      "synonyms": ["normal", "regular", "typical"],
+      "topic_tags": ["general", "routine", "frequency"]
+    },
+    {
+      "word_id": "c9bfe0eb-1119-4b3c-a8d4-638cfed5610b",
+      "english": "valuable",
+      "translation": "יקר ערך",
+      "hebrew": "יקר ערך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting is very valuable.",
+        "She provided valuable insights during the meeting."
+      ],
+      "synonyms": ["precious", "priceless", "invaluable"],
+      "topic_tags": ["general", "value", "importance"]
+    },
+    {
+      "word_id": "bb3b30ee-16aa-4a1d-8a8d-baf38b726544",
+      "english": "value",
+      "translation": "ערך",
+      "hebrew": "ערך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The value of the property has increased.",
+        "He places a high value on honesty."
+      ],
+      "synonyms": ["worth", "importance", "merit"],
+      "topic_tags": ["general", "economy", "importance"]
+    },
+    {
+      "word_id": "2999c8a2-f8f7-49d8-8846-475908e8ef47",
+      "english": "view",
+      "translation": "נוף",
+      "hebrew": "נוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The view from the top of the mountain is breathtaking.",
+        "She enjoys the view from her window."
+      ],
+      "synonyms": ["scenery", "sight", "panorama"],
+      "topic_tags": ["general", "nature", "perspective"]
+    },
+    {
+      "word_id": "efe8e676-8cbe-4723-81d3-e946b0770e75",
+      "english": "view",
+      "translation": "להביט",
+      "hebrew": "להביט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He viewed the painting with interest.",
+        "She views the situation differently."
+      ],
+      "synonyms": ["look", "see", "observe"],
+      "topic_tags": ["general", "perception", "observation"]
+    }
+  ]
+}

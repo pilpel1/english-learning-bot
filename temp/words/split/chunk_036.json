@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 36,
+    "words_range": "recycle-rigid",
+    "word_count": 30,
+    "start_index": 1050,
+    "end_index": 1079
+  },
+  "words": [
+    {
+      "word_id": "c7c3bc24-711b-49d3-b03a-5611d2f0b89b",
+      "english": "recycle",
+      "translation": "למחזר",
+      "hebrew": "למחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We recycle paper, glass, and plastic.",
+        "It's important to recycle to protect the environment."
+      ],
+      "synonyms": ["reuse", "reprocess", "repurpose"],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "0c43a8fd-a246-4235-a5dc-0d3fca6b77f2",
+      "english": "recycling",
+      "translation": "מיחזור",
+      "hebrew": "מיחזור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Recycling helps reduce waste.",
+        "The city has a new recycling program."
+      ],
+      "synonyms": ["reusing", "reprocessing", "repurposing"],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "3e31021e-391c-4742-9800-0d73418abef6",
+      "english": "reduce",
+      "translation": "להפחית",
+      "hebrew": "להפחית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to reduce our energy consumption.",
+        "The company aims to reduce costs by 20%."
+      ],
+      "synonyms": ["decrease", "diminish", "lessen"],
+      "topic_tags": ["general", "economy"]
+    },
+    {
+      "word_id": "2369517a-f17e-4a68-88c4-cfb2733f4c0e",
+      "english": "refer",
+      "translation": "להתייחס",
+      "hebrew": "להתייחס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please refer to the manual for instructions.",
+        "He referred to his notes during the presentation."
+      ],
+      "synonyms": ["mention", "cite", "allude"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "908616e6-7fee-4317-a9a1-e48e47a4f2fb",
+      "english": "reference",
+      "translation": "הפניה",
+      "hebrew": "הפניה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a reference to the previous meeting.",
+        "The book includes many references to historical events."
+      ],
+      "synonyms": ["citation", "mention", "allusion"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "ffac18e0-dc6f-4c23-b0f3-da0608c8116c",
+      "english": "refuse",
+      "translation": "לסרב",
+      "hebrew": "לסרב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She refused to answer the question.",
+        "He refused the offer politely."
+      ],
+      "synonyms": ["decline", "reject", "deny"],
+      "topic_tags": ["general", "decision"]
+    },
+    {
+      "word_id": "fa64da07-b865-484b-9a7e-0471256f28cb",
+      "english": "refuse",
+      "translation": "פסולת",
+      "hebrew": "פסולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The refuse was collected every Monday.",
+        "They sorted the refuse into different bins."
+      ],
+      "synonyms": ["waste", "garbage", "trash"],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "1a0916a5-779f-441c-9138-69e9caba8559",
+      "english": "regime",
+      "translation": "משטר",
+      "hebrew": "משטר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The regime was overthrown by the rebels.",
+        "He lived under a strict regime."
+      ],
+      "synonyms": ["government", "administration", "authority"],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "58e83ad5-bf32-4c50-a721-9a923d024886",
+      "english": "regulation",
+      "translation": "תקנה",
+      "hebrew": "תקנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The new regulation will be enforced next year.",
+        "They must comply with the safety regulations."
+      ],
+      "synonyms": ["rule", "directive", "guideline"],
+      "topic_tags": ["general", "law"]
+    },
+    {
+      "word_id": "6df83a3a-b144-4a7a-ab87-a461c2f052d7",
+      "english": "reign",
+      "translation": "למלוך",
+      "hebrew": "למלוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Queen Elizabeth II reigned for many years.",
+        "He reigned over the kingdom with wisdom."
+      ],
+      "synonyms": ["rule", "govern", "dominate"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "8034c878-d1ba-414f-bc68-df221d64b260",
+      "english": "reigned",
+      "translation": "מלך",
+      "hebrew": "מלך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He reigned as king for over a decade.",
+        "Peace reigned throughout the land."
+      ],
+      "synonyms": ["ruled", "governed", "dominated"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "e58725a4-4e5c-4ec3-8d27-9662df6c4acc",
+      "english": "relative",
+      "translation": "קרוב משפחה",
+      "hebrew": "קרוב משפחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She visited her relatives during the holidays.",
+        "He is a distant relative of mine."
+      ],
+      "synonyms": ["kin", "family member", "relation"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "a8ee793e-9fa3-4c40-9af9-4437174a2765",
+      "english": "relative",
+      "translation": "יחסי",
+      "hebrew": "יחסי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The cost is relative to the quality.",
+        "His success is relative to his efforts."
+      ],
+      "synonyms": ["comparative", "proportional", "corresponding"],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "4e1dcbb4-7c85-4e73-a06d-2a426f1f2f10",
+      "english": "relatively",
+      "translation": "יחסית",
+      "hebrew": "יחסית",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The exam was relatively easy.",
+        "She is relatively new to the job."
+      ],
+      "synonyms": ["comparatively", "somewhat", "fairly"],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "9ca2b885-db2b-4a3e-b591-ca7ae42729a7",
+      "english": "religion",
+      "translation": "דת",
+      "hebrew": "דת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Religion plays a significant role in many cultures.",
+        "He practices his religion faithfully."
+      ],
+      "synonyms": ["faith", "belief", "creed"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "4e7de031-1fa1-4d76-bc9b-4cebc0be0782",
+      "english": "repeat",
+      "translation": "לחזור",
+      "hebrew": "לחזור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please repeat the question.",
+        "He repeated the experiment to verify the results."
+      ],
+      "synonyms": ["reiterate", "restate", "redo"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "3b327e59-dcad-4979-8bb0-8d6a8d9f1286",
+      "english": "repeat",
+      "translation": "חזרה",
+      "hebrew": "חזרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The song was on repeat all day.",
+        "He asked for a repeat of the performance."
+      ],
+      "synonyms": ["repetition", "replay", "rerun"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "837b2c58-e643-48ff-b0d1-0de805e4fb3d",
+      "english": "repetition",
+      "translation": "חזרה",
+      "hebrew": "חזרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Repetition is key to learning.",
+        "The repetition of the pattern was soothing."
+      ],
+      "synonyms": ["recurrence", "redundancy", "reiteration"],
+      "topic_tags": ["general", "learning"]
+    },
+    {
+      "word_id": "f93cc8ca-095d-4ad7-aa1b-fc3456081e7f",
+      "english": "reply",
+      "translation": "לענות",
+      "hebrew": "לענות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She didn't reply to my message.",
+        "He replied with a smile."
+      ],
+      "synonyms": ["respond", "answer", "retort"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "a87f15fd-1a1d-4587-bab6-8f72090994d6",
+      "english": "research",
+      "translation": "מחקר",
+      "hebrew": "מחקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is conducting research on climate change.",
+        "The research was published in a scientific journal."
+      ],
+      "synonyms": ["study", "investigation", "analysis"],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "1c40f3d7-b35c-4840-a0d6-9a2ded5a2d4b",
+      "english": "resist",
+      "translation": "להתנגד",
+      "hebrew": "להתנגד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He resisted the temptation to eat sweets.",
+        "They resisted the new policy."
+      ],
+      "synonyms": ["oppose", "withstand", "defy"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "c15621ee-771b-4ac3-b03c-465fef846fb4",
+      "english": "resistance",
+      "translation": "התנגדות",
+      "hebrew": "התנגדות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The resistance to the new law was strong.",
+        "He met with little resistance."
+      ],
+      "synonyms": ["opposition", "defiance", "objection"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "9c282d93-f6bd-4b6b-a264-016e72c4eb6b",
+      "english": "resolve",
+      "translation": "לפתור",
+      "hebrew": "לפתור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They resolved the issue quickly.",
+        "He resolved to improve his grades."
+      ],
+      "synonyms": ["settle", "solve", "decide"],
+      "topic_tags": ["general", "decision"]
+    },
+    {
+      "word_id": "4359d649-52f0-46a7-bdeb-b7baa2638736",
+      "english": "resolve",
+      "translation": "החלטה",
+      "hebrew": "החלטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He showed great resolve in the face of adversity.",
+        "Her resolve to succeed was unshakable."
+      ],
+      "synonyms": ["determination", "resolution", "decision"],
+      "topic_tags": ["general", "decision"]
+    },
+    {
+      "word_id": "7c039c68-8057-4452-a507-3714cd28ef9a",
+      "english": "result",
+      "translation": "תוצאה",
+      "hebrew": "תוצאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The result of the test was positive.",
+        "He was pleased with the result."
+      ],
+      "synonyms": ["outcome", "consequence", "effect"],
+      "topic_tags": ["general", "consequence"]
+    },
+    {
+      "word_id": "11543f24-f66a-40a5-a86c-066b2871984e",
+      "english": "result in",
+      "translation": "להוביל ל",
+      "hebrew": "להוביל ל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The changes will result in better performance.",
+        "His actions could result in serious consequences."
+      ],
+      "synonyms": ["lead to", "cause", "bring about"],
+      "topic_tags": ["general", "consequence"]
+    },
+    {
+      "word_id": "bfe097bc-bdc0-4631-8a54-2a09ce577626",
+      "english": "reveal",
+      "translation": "לחשוף",
+      "hebrew": "לחשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician revealed his secret.",
+        "She revealed the truth to her friend."
+      ],
+      "synonyms": ["disclose", "unveil", "expose"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "27c82d88-bbbe-41cf-b6bf-e8c9e286ed1f",
+      "english": "review",
+      "translation": "סקירה",
+      "hebrew": "סקירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book received a positive review.",
+        "He wrote a review of the movie."
+      ],
+      "synonyms": ["critique", "evaluation", "assessment"],
+      "topic_tags": ["general", "evaluation"]
+    },
+    {
+      "word_id": "87cce189-ec9b-4b5d-97d4-c6703ca9d2ef",
+      "english": "review",
+      "translation": "לסקור",
+      "hebrew": "לסקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She will review the documents before the meeting.",
+        "He reviewed the report thoroughly."
+      ],
+      "synonyms": ["examine", "inspect", "analyze"],
+      "topic_tags": ["general", "evaluation"]
+    },
+    {
+      "word_id": "ea9d2b86-1943-4685-b2d1-20902ac8cea8",
+      "english": "rigid",
+      "translation": "נוקשה",
+      "hebrew": "נוקשה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The rules are too rigid.",
+        "He has a rigid schedule."
+      ],
+      "synonyms": ["inflexible", "strict", "unyielding"],
+      "topic_tags": ["general", "character"]
+    }
+  ]
+}

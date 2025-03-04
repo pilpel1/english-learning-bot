@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 13,
+    "words_range": "arrive-available",
+    "word_count": 30,
+    "start_index": 360,
+    "end_index": 389
+  },
+  "words": [
+    {
+      "word_id": "22157ad5-ef53-4327-a767-79eebd627ed3",
+      "english": "arrive",
+      "translation": "להגיע",
+      "hebrew": "להגיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They will arrive at the airport at 3 PM.",
+        "She arrived home late last night."
+      ],
+      "synonyms": ["reach", "come"],
+      "topic_tags": ["general", "travel"]
+    },
+    {
+      "word_id": "1757ffa0-004c-4ae5-a5e7-3bc0da95ba05",
+      "english": "art",
+      "translation": "אמנות",
+      "hebrew": "אמנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She studied art in college.",
+        "The museum has a large collection of modern art."
+      ],
+      "synonyms": ["craft", "creativity"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "79a10855-5495-4eac-8d73-45268822cd9a",
+      "english": "article",
+      "translation": "מאמר",
+      "hebrew": "מאמר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I read an interesting article about climate change.",
+        "The article was published in a scientific journal."
+      ],
+      "synonyms": ["essay", "piece"],
+      "topic_tags": ["general", "writing"]
+    },
+    {
+      "word_id": "9bb62aa2-d4eb-47e2-84e8-23931df65a77",
+      "english": "article",
+      "translation": "פריט",
+      "hebrew": "פריט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She bought an article of clothing.",
+        "The store sells various articles for the home."
+      ],
+      "synonyms": ["item", "object"],
+      "topic_tags": ["general", "shopping"]
+    },
+    {
+      "word_id": "83efe043-546b-484e-8709-c395518a2df4",
+      "english": "articulate",
+      "translation": "לבטא",
+      "hebrew": "לבטא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is able to articulate his thoughts clearly.",
+        "She articulated her vision for the project."
+      ],
+      "synonyms": ["express", "communicate"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "b7878d9a-c2d2-45f6-9142-b9d6f12e8023",
+      "english": "articulate",
+      "translation": "רהוט",
+      "hebrew": "רהוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is an articulate speaker.",
+        "His articulate presentation impressed the audience."
+      ],
+      "synonyms": ["eloquent", "fluent"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "7735a0bb-0289-4ad3-a80d-c5b9b7e8011c",
+      "english": "artist",
+      "translation": "אמן",
+      "hebrew": "אמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist painted a beautiful landscape.",
+        "She is a talented artist known for her sculptures."
+      ],
+      "synonyms": ["painter", "creator"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "ea397ab2-ded7-4658-90da-743e21e09d30",
+      "english": "artistic",
+      "translation": "אמנותי",
+      "hebrew": "אמנותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has an artistic talent for drawing.",
+        "The room was decorated in an artistic style."
+      ],
+      "synonyms": ["creative", "aesthetic"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "12891c6c-0e48-4458-9936-8a1fa3558d63",
+      "english": "as far as",
+      "translation": "עד כמה ש",
+      "hebrew": "עד כמה ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "As far as I know, the meeting is still on.",
+        "As far as the eye can see, there are fields of flowers."
+      ],
+      "synonyms": ["to the extent that", "insofar as"],
+      "topic_tags": ["general", "extent"]
+    },
+    {
+      "word_id": "b271ceeb-9c24-453f-8af0-025d8f6e39e2",
+      "english": "as proof of",
+      "translation": "כהוכחה ל",
+      "hebrew": "כהוכחה ל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He showed the receipt as proof of purchase.",
+        "The certificate serves as proof of completion."
+      ],
+      "synonyms": ["as evidence of", "as confirmation of"],
+      "topic_tags": ["general", "evidence"]
+    },
+    {
+      "word_id": "e3e3085f-06d5-4069-8624-52647c4cd4be",
+      "english": "ask",
+      "translation": "לשאול",
+      "hebrew": "לשאול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She asked him a question.",
+        "I will ask for directions."
+      ],
+      "synonyms": ["inquire", "request"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "c067686b-8585-4b91-94fd-4050d4b11f6b",
+      "english": "asked for",
+      "translation": "ביקש",
+      "hebrew": "ביקש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He asked for a glass of water.",
+        "She asked for help with her homework."
+      ],
+      "synonyms": ["requested", "sought"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "c47b950d-ea3c-472b-9c2b-02c98c10674e",
+      "english": "associate",
+      "translation": "לקשר",
+      "hebrew": "לקשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "People often associate chocolate with happiness.",
+        "He is associated with the new project."
+      ],
+      "synonyms": ["connect", "link"],
+      "topic_tags": ["general", "relationships"]
+    },
+    {
+      "word_id": "e95c687f-df81-4faf-bb51-199e4a9b37d9",
+      "english": "association",
+      "translation": "אגודה",
+      "hebrew": "אגודה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She joined the local art association.",
+        "The association held a meeting last week."
+      ],
+      "synonyms": ["organization", "society"],
+      "topic_tags": ["general", "community"]
+    },
+    {
+      "word_id": "a5b8a294-aa27-4191-93a0-d60d6cc45891",
+      "english": "association",
+      "translation": "קשר",
+      "hebrew": "קשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a strong association between diet and health.",
+        "The association of ideas is important in learning."
+      ],
+      "synonyms": ["connection", "link"],
+      "topic_tags": ["general", "relationships"]
+    },
+    {
+      "word_id": "c4f1f697-1280-4f2f-9136-f86066d8ca64",
+      "english": "assume",
+      "translation": "להניח",
+      "hebrew": "להניח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I assume you have finished your work.",
+        "He assumed the role of leader."
+      ],
+      "synonyms": ["presume", "suppose"],
+      "topic_tags": ["general", "thinking"]
+    },
+    {
+      "word_id": "ee85edcc-f6be-4805-b1da-713eb4d5efb8",
+      "english": "assumption",
+      "translation": "הנחה",
+      "hebrew": "הנחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plan is based on the assumption that it will rain.",
+        "Her assumption was incorrect."
+      ],
+      "synonyms": ["presumption", "belief"],
+      "topic_tags": ["general", "thinking"]
+    },
+    {
+      "word_id": "f7e8bdc1-1ed4-4c00-82a0-3b18c40afcac",
+      "english": "at least",
+      "translation": "לפחות",
+      "hebrew": "לפחות",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "You should sleep at least eight hours a night.",
+        "At least we finished the project on time."
+      ],
+      "synonyms": ["minimum", "no less than"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "f0cdb9cb-dace-4932-ba27-f580912cd827",
+      "english": "athlete",
+      "translation": "ספורטאי",
+      "hebrew": "ספורטאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a professional athlete.",
+        "The athlete won a gold medal."
+      ],
+      "synonyms": ["sportsman", "competitor"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "2253a2d2-ffe2-4c16-97df-f41c0805f680",
+      "english": "attach",
+      "translation": "לצרף",
+      "hebrew": "לצרף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please attach the document to the email.",
+        "He attached a note to the package."
+      ],
+      "synonyms": ["fasten", "connect"],
+      "topic_tags": ["general", "connection"]
+    },
+    {
+      "word_id": "a3264104-d8c4-4f96-8580-ef3a28f00955",
+      "english": "attack",
+      "translation": "לתקוף",
+      "hebrew": "לתקוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army attacked the enemy at dawn.",
+        "He was attacked by a dog."
+      ],
+      "synonyms": ["assault", "strike"],
+      "topic_tags": ["general", "conflict"]
+    },
+    {
+      "word_id": "3a149659-9b28-4961-8393-001476a2c581",
+      "english": "attempt",
+      "translation": "לנסות",
+      "hebrew": "לנסות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He attempted to climb the mountain.",
+        "She made an attempt to solve the puzzle."
+      ],
+      "synonyms": ["try", "endeavor"],
+      "topic_tags": ["general", "effort"]
+    },
+    {
+      "word_id": "72b5b6be-5a6e-498e-9084-68451a2ccbb3",
+      "english": "attitude",
+      "translation": "גישה",
+      "hebrew": "גישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a positive attitude towards life.",
+        "His attitude changed after the meeting."
+      ],
+      "synonyms": ["outlook", "stance"],
+      "topic_tags": ["general", "psychology"]
+    },
+    {
+      "word_id": "1ed0d038-41e4-40ad-b0a2-7cfa00a72e49",
+      "english": "attract",
+      "translation": "למשוך",
+      "hebrew": "למשוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum attracts many visitors.",
+        "He attracted attention with his speech."
+      ],
+      "synonyms": ["draw", "entice"],
+      "topic_tags": ["general", "interest"]
+    },
+    {
+      "word_id": "9929d21c-80ea-434b-a97b-de8b0cd8c7c2",
+      "english": "attraction",
+      "translation": "משיכה",
+      "hebrew": "משיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The main attraction of the park is the waterfall.",
+        "There is a strong attraction between them."
+      ],
+      "synonyms": ["appeal", "charm"],
+      "topic_tags": ["general", "interest"]
+    },
+    {
+      "word_id": "7cb55c01-af0a-4d8b-bfdc-a6b3a464f46f",
+      "english": "attractive",
+      "translation": "מושך",
+      "hebrew": "מושך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is an attractive person.",
+        "The offer was very attractive."
+      ],
+      "synonyms": ["appealing", "charming"],
+      "topic_tags": ["general", "interest"]
+    },
+    {
+      "word_id": "f47ac5bb-95e8-4ca5-bd62-d48c2e8fb4fe",
+      "english": "audience",
+      "translation": "קהל",
+      "hebrew": "קהל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The audience applauded the performance.",
+        "He spoke to a large audience."
+      ],
+      "synonyms": ["spectators", "viewers"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "e5d3e895-2772-4071-aeda-5484db8e0daa",
+      "english": "authentic",
+      "translation": "אותנטי",
+      "hebrew": "אותנטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The restaurant serves authentic Italian food.",
+        "He gave an authentic account of the events."
+      ],
+      "synonyms": ["genuine", "real"],
+      "topic_tags": ["general", "quality"]
+    },
+    {
+      "word_id": "b3415d66-0a0d-4a56-8feb-328b72c97b2b",
+      "english": "availability",
+      "translation": "זמינות",
+      "hebrew": "זמינות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The availability of resources is limited.",
+        "Please check the availability of the product."
+      ],
+      "synonyms": ["accessibility", "presence"],
+      "topic_tags": ["general", "supply"]
+    },
+    {
+      "word_id": "2977216b-3192-4a8b-bf40-86f995486330",
+      "english": "available",
+      "translation": "זמין",
+      "hebrew": "זמין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is available in the library.",
+        "He is available for a meeting tomorrow."
+      ],
+      "synonyms": ["accessible", "ready"],
+      "topic_tags": ["general", "supply"]
+    }
+  ]
+}

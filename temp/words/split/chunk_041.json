@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "chunk_number": 41,
+    "words_range": "aside-case",
+    "word_count": 30,
+    "start_index": 1200,
+    "end_index": 1229
+  },
+  "words": [
+    {
+      "word_id": "a7f8bd2e-77c2-48d7-96fb-86d058baf0fa",
+      "english": "aside",
+      "translation": null,
+      "hebrew": "בצד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He pulled the chair aside to make room.",
+        "She stepped aside to let them pass."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "579b6a56-6dc5-4734-85a0-0fbdf265eb44",
+      "english": "aside",
+      "translation": null,
+      "hebrew": "לְצַד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He took me aside to tell me the news.",
+        "In his speech, he mentioned that as an aside."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "09598912-c4be-471d-b38b-54bdf177529f",
+      "english": "assess",
+      "translation": null,
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher will assess our progress.",
+        "The company needs to assess the risks."
+      ],
+      "synonyms": [
+        "evaluate",
+        "judge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fcb698b3-c11d-464f-905b-c55e1caa4f63",
+      "english": "asset",
+      "translation": null,
+      "hebrew": "נכס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her knowledge is a great asset to the company.",
+        "The company's assets include buildings and equipment."
+      ],
+      "synonyms": [
+        "resource",
+        "property"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f3a98f47-a096-4c8a-8e5b-3c54b86e246b",
+      "english": "assign",
+      "translation": null,
+      "hebrew": "להקצות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher will assign homework.",
+        "They assigned him to a new project."
+      ],
+      "synonyms": [
+        "allocate",
+        "designate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "abf1737e-1839-41d1-9ab5-1e25d4c78dc7",
+      "english": "assignment",
+      "translation": null,
+      "hebrew": "משימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We have a lot of assignments this week.",
+        "The assignment is due on Friday."
+      ],
+      "synonyms": [
+        "task",
+        "job"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "9705b610-a326-4512-b223-1600e4fb616a",
+      "english": "attain",
+      "translation": null,
+      "hebrew": "להשיג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He worked hard to attain his goals.",
+        "They attained a high level of success."
+      ],
+      "synonyms": [
+        "achieve",
+        "reach"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c20eb9a-23eb-4c19-b9e9-a8dd2275e953",
+      "english": "attend",
+      "translation": null,
+      "hebrew": "להשתתף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will attend the meeting tomorrow.",
+        "She attends school regularly."
+      ],
+      "synonyms": [
+        "go to",
+        "be present"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "26f495a3-a3f6-4480-9a11-16561cd6dcdc",
+      "english": "attendant",
+      "translation": null,
+      "hebrew": "משתתף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The flight attendant helped the passengers.",
+        "The parking attendant gave us a ticket."
+      ],
+      "synonyms": [
+        "helper",
+        "server"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "a5a6749a-7d2b-4935-b5a5-b5930353f4d3",
+      "english": "authority",
+      "translation": null,
+      "hebrew": "סמכות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police have the authority to arrest criminals.",
+        "She is an authority on ancient history."
+      ],
+      "synonyms": [
+        "power",
+        "expert"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "62decdfb-946c-42a6-9b76-f8d5bb94a92b",
+      "english": "authorize",
+      "translation": null,
+      "hebrew": "לאשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The manager must authorize the payment.",
+        "The government authorized the new project."
+      ],
+      "synonyms": [
+        "approve",
+        "permit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "45c38cb6-0d83-4931-a2e3-d9b8916ac054",
+      "english": "autumn",
+      "translation": null,
+      "hebrew": "סתיו",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The leaves change color in autumn.",
+        "Autumn is my favorite season."
+      ],
+      "synonyms": [
+        "fall"
+      ],
+      "topic_tags": [
+        "general",
+        "seasons"
+      ]
+    },
+    {
+      "word_id": "39eefda7-432b-432b-aae6-d2c0bcf9c7d9",
+      "english": "await",
+      "translation": null,
+      "hebrew": "לחכות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We await your decision.",
+        "They await the arrival of the guests."
+      ],
+      "synonyms": [
+        "wait for",
+        "expect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "125101da-514d-41fd-8028-732d7795b0f2",
+      "english": "awareness",
+      "translation": null,
+      "hebrew": "מודעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to raise awareness about climate change.",
+        "He has a strong awareness of social issues."
+      ],
+      "synonyms": [
+        "knowledge",
+        "consciousness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7bc912d1-acca-4ebc-9a60-2a85b175a212",
+      "english": "bare",
+      "translation": null,
+      "hebrew": "חשוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He walked barefoot on the bare floor.",
+        "The tree has bare branches in winter."
+      ],
+      "synonyms": [
+        "naked",
+        "uncovered"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5cddb7a6-305a-436c-8a19-60b7087db908",
+      "english": "behave",
+      "translation": null,
+      "hebrew": "להתנהג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The children behaved well at the party.",
+        "You should behave respectfully."
+      ],
+      "synonyms": [
+        "act",
+        "conduct oneself"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1907a119-084f-4b55-ab23-c0eeedb5c993",
+      "english": "behavior",
+      "translation": null,
+      "hebrew": "התנהגות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior was unacceptable.",
+        "We are studying animal behavior."
+      ],
+      "synonyms": [
+        "conduct",
+        "manner"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f81ed937-f11b-4c6a-aa95-457653ec75b9",
+      "english": "bounce",
+      "translation": null,
+      "hebrew": "לקפוץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The ball bounced on the floor.",
+        "She bounced the baby on her knee."
+      ],
+      "synonyms": [
+        "rebound",
+        "spring"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fe17c7bd-b3b5-42c1-8f19-d6f2d7125dd4",
+      "english": "brilliant",
+      "translation": null,
+      "hebrew": "מבריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a brilliant student.",
+        "That was a brilliant idea."
+      ],
+      "synonyms": [
+        "bright",
+        "intelligent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "035032d8-aed2-4cfb-9b76-973d885f9c2b",
+      "english": "burden",
+      "translation": null,
+      "hebrew": "נטל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The debt was a heavy burden.",
+        "He carried the burden of responsibility."
+      ],
+      "synonyms": [
+        "load",
+        "weight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "363ef48e-2688-45ef-8bc6-653316c7aa75",
+      "english": "bush",
+      "translation": null,
+      "hebrew": "שיח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird hid in the bush.",
+        "We planted a rose bush in the garden."
+      ],
+      "synonyms": [
+        "shrub"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "a2358e5b-ae58-49c4-9181-71d5d2b0eb50",
+      "english": "bush",
+      "translation": null,
+      "hebrew": "סבך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hunter got lost in the bush.",
+        "The soldiers had to hack their way through the bush."
+      ],
+      "synonyms": [
+        "wilderness",
+        "backcountry"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "571300cf-3c84-4914-ad95-b344f4749a9d",
+      "english": "cable",
+      "translation": null,
+      "hebrew": "כבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The TV is connected with a cable.",
+        "The bridge is supported by cables."
+      ],
+      "synonyms": [
+        "wire",
+        "rope"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "52e432f4-a839-4867-bccd-6617da6d6345",
+      "english": "calculate",
+      "translation": null,
+      "hebrew": "לחשב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to calculate the cost.",
+        "The computer can calculate complex equations."
+      ],
+      "synonyms": [
+        "compute",
+        "figure out"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "2922ff25-d187-4759-b8e2-f68092a2826e",
+      "english": "calculator",
+      "translation": null,
+      "hebrew": "מחשבון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I used a calculator to do the math.",
+        "You can use a calculator on your phone."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "72a5f05d-763f-48dc-b58e-18ce87a5feee",
+      "english": "campaign",
+      "translation": null,
+      "hebrew": "קמפיין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The political campaign is in full swing.",
+        "The company launched a marketing campaign."
+      ],
+      "synonyms": [
+        "drive",
+        "effort"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "225207d8-1858-4fe0-ad7d-8f54d9ff1946",
+      "english": "candid",
+      "translation": null,
+      "hebrew": "גלוי לב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave a candid interview.",
+        "She was candid about her feelings."
+      ],
+      "synonyms": [
+        "frank",
+        "honest"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7f73324d-ec43-457a-84b4-8879a542c823",
+      "english": "candidate",
+      "translation": null,
+      "hebrew": "מועמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a candidate for president.",
+        "There are three candidates for the job."
+      ],
+      "synonyms": [
+        "applicant",
+        "contender"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "70f77ab4-5dd0-4eaa-a508-8cddbabcad2e",
+      "english": "case",
+      "translation": null,
+      "hebrew": "מקרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "In this case, we need more information.",
+        "The police are investigating the case."
+      ],
+      "synonyms": [
+        "instance",
+        "situation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0392bd4f-13e2-41bf-b021-d66be78a533f",
+      "english": "case",
+      "translation": null,
+      "hebrew": "תיק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He brought a case of wine to the party.",
+        "She has a case for her glasses."
+      ],
+      "synonyms": [
+        "box",
+        "container"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

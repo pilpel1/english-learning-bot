@@ -1,0 +1,649 @@
+{
+  "_meta": {
+    "chunk_number": 49,
+    "words_range": "participate-profession",
+    "word_count": 30,
+    "start_index": 1440,
+    "end_index": 1469
+  },
+  "words": [
+    {
+      "word_id": "0255c246-ac46-4793-a28c-5cd97692b7de",
+      "english": "participate",
+      "translation": null,
+      "hebrew": "להשתתף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Everyone is encouraged to participate in the event.",
+        "She didn't participate in the discussion.",
+        "We need more people to participate in the survey."
+      ],
+      "synonyms": [
+        "join",
+        "take part"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f9a5e91f-d634-4279-b74f-c84820a00f7c",
+      "english": "particular",
+      "translation": null,
+      "hebrew": "מסוים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Is there a particular restaurant you'd like to go to?",
+        "He has a particular interest in history.",
+        "She is very particular about her clothes."
+      ],
+      "synonyms": [
+        "specific",
+        "certain"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2aaa579e-8785-4295-964e-9b8e061f3a59",
+      "english": "particulars",
+      "translation": null,
+      "hebrew": "פרטים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to know the particulars of the case.",
+        "Please provide your personal particulars.",
+        "The police asked for the particulars of the accident."
+      ],
+      "synonyms": [
+        "details",
+        "facts"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de282578-f9cf-4eec-ad9a-62e7070a52fc",
+      "english": "pause",
+      "translation": null,
+      "hebrew": "הפסקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a long pause in the conversation.",
+        "Let's take a pause for a few minutes.",
+        "The music had a dramatic pause."
+      ],
+      "synonyms": [
+        "break",
+        "interruption"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "630c981d-3ded-40b1-80eb-edee68487f3d",
+      "english": "persist",
+      "translation": null,
+      "hebrew": "להתמיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "If you persist, you will succeed.",
+        "The symptoms persisted for several days.",
+        "She persisted in her efforts to get the job."
+      ],
+      "synonyms": [
+        "continue",
+        "insist"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ed31bd2e-9bd4-4dcc-9a09-8a78e4be6ef2",
+      "english": "person",
+      "translation": null,
+      "hebrew": "אדם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a nice person.",
+        "Who is that person?",
+        "Every person has the right to freedom."
+      ],
+      "synonyms": [
+        "individual",
+        "human"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "afc7b6ff-c8d1-435d-bde7-01198fb9728d",
+      "english": "personal",
+      "translation": null,
+      "hebrew": "אישי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is my personal opinion.",
+        "Please keep this information personal.",
+        "He has a personal assistant."
+      ],
+      "synonyms": [
+        "private",
+        "individual"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e3748618-d15c-44bc-a883-8f563939ee26",
+      "english": "personality",
+      "translation": null,
+      "hebrew": "אישיות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a strong personality.",
+        "His personality is very outgoing.",
+        "The job requires a friendly personality."
+      ],
+      "synonyms": [
+        "character",
+        "nature"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5f1e65f2-f8be-4455-8d0a-66f5bb6a7b96",
+      "english": "phase",
+      "translation": null,
+      "hebrew": "שלב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is in its final phase.",
+        "He is going through a difficult phase.",
+        "Every relationship goes through different phases."
+      ],
+      "synonyms": [
+        "stage",
+        "period"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bd49ef20-78ff-44d1-83eb-dce644f9babe",
+      "english": "phenomenon",
+      "translation": null,
+      "hebrew": "תופעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Global warming is a serious phenomenon.",
+        "The phenomenon is difficult to explain.",
+        "It's a common phenomenon."
+      ],
+      "synonyms": [
+        "occurrence",
+        "event"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "17f0bc08-70d0-4a6a-b71c-e45da9b38c10",
+      "english": "pioneer",
+      "translation": null,
+      "hebrew": "חלוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a pioneer in the field of medicine.",
+        "The pioneers settled the West.",
+        "She is a pioneer in the fight for women's rights."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "46b72bda-ce19-4e04-9281-5a34b6201479",
+      "english": "position",
+      "translation": null,
+      "hebrew": "עמדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your position on this issue?",
+        "He has a strong position in the company.",
+        "The army took up a defensive position."
+      ],
+      "synonyms": [
+        "stance",
+        "view"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f5a3d875-9675-41c2-8f4c-c05dd294cc46",
+      "english": "position",
+      "translation": null,
+      "hebrew": "מיקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the position of the sun?",
+        "The city has a good position on the coast.",
+        "The position of the stars changes every night."
+      ],
+      "synonyms": [
+        "location",
+        "place"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d3586c28-a640-403b-be15-a7c7a89a13cc",
+      "english": "position",
+      "translation": null,
+      "hebrew": "למקם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please position the chair near the window.",
+        "The company is positioning itself in the market.",
+        "He positioned the camera to take the picture."
+      ],
+      "synonyms": [
+        "place",
+        "locate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "94949494-9494-9494-9494-949494949494",
+      "english": "positive",
+      "translation": null,
+      "hebrew": "חיובי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a positive attitude.",
+        "The test results were positive.",
+        "We need to be positive about the future."
+      ],
+      "synonyms": [
+        "optimistic",
+        "hopeful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a5a5a5a5-a5a5-a5a5-a5a5-a5a5a5a5a5a5",
+      "english": "possess",
+      "translation": null,
+      "hebrew": "להחזיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He possesses a lot of knowledge.",
+        "She possesses a beautiful voice.",
+        "The company possesses valuable assets."
+      ],
+      "synonyms": [
+        "own",
+        "have"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b6b6b6b6-b6b6-b6b6-b6b6-b6b6b6b6b6b6",
+      "english": "possibility",
+      "translation": null,
+      "hebrew": "אפשרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a possibility that it will rain.",
+        "We need to consider all the possibilities.",
+        "The project has a high possibility of success."
+      ],
+      "synonyms": [
+        "chance",
+        "option"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c7c7c7c7-c7c7-c7c7-c7c7-c7c7c7c7c7c7",
+      "english": "potential",
+      "translation": null,
+      "hebrew": "פוטנציאל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a lot of potential.",
+        "The company has a lot of potential for growth.",
+        "We need to realize our potential."
+      ],
+      "synonyms": [
+        "possibility",
+        "capacity"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d8d8d8d8-d8d8-d8d8-d8d8-d8d8d8d8d8d8",
+      "english": "poverty-stricken",
+      "translation": null,
+      "hebrew": "מוכה עוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The poverty-stricken families need help.",
+        "The area is poverty-stricken.",
+        "We need to help the poverty-stricken people."
+      ],
+      "synonyms": [
+        "poor",
+        "impoverished"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "ec374857-6769-413e-90f2-e3a312029fa5",
+      "english": "precedent",
+      "translation": null,
+      "hebrew": "תקדים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This decision sets a new precedent.",
+        "We need to follow the precedent.",
+        "The case has no precedent."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "d332644a-a6cc-4c27-8e2b-bbc2b66c5357",
+      "english": "preceding",
+      "translation": null,
+      "hebrew": "קודם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The preceding chapter was very interesting.",
+        "In the preceding years, the company grew rapidly.",
+        "Please refer to the preceding page."
+      ],
+      "synonyms": [
+        "previous",
+        "prior"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e0ce46c0-e754-4cdb-8a44-3edf930e4f7e",
+      "english": "predecessors",
+      "translation": null,
+      "hebrew": "קודמים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is following in the footsteps of his predecessors.",
+        "The new CEO is different from his predecessors.",
+        "We need to learn from our predecessors."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ae6e920d-d4bb-49d6-9b5a-d32a00c340d3",
+      "english": "predestined",
+      "translation": null,
+      "hebrew": "נגזר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Was it predestined that they would meet?",
+        "He believes that everything is predestined.",
+        "The outcome was predestined."
+      ],
+      "synonyms": [
+        "fated",
+        "destined"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f5668af4-9341-4f4b-baa1-b9dd4601dbaf",
+      "english": "predict",
+      "translation": null,
+      "hebrew": "לנבא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It is difficult to predict the future.",
+        "The weather forecast predicts rain.",
+        "Can you predict what will happen next?"
+      ],
+      "synonyms": [
+        "forecast",
+        "foretell"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eaa698e3-26c9-4e64-8a64-711becbcdebc",
+      "english": "prediction",
+      "translation": null,
+      "hebrew": "ניבוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His prediction came true.",
+        "What is your prediction for the game?",
+        "The prediction was based on scientific data."
+      ],
+      "synonyms": [
+        "forecast",
+        "prognosis"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "66def9d9-5484-4439-951d-b889d39441a2",
+      "english": "predictive",
+      "translation": null,
+      "hebrew": "חיזוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The model has predictive power.",
+        "Predictive analytics can help businesses.",
+        "We need a predictive algorithm."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "20a99676-dc3c-415c-bd3b-01bf4b0c28d8",
+      "english": "premature",
+      "translation": null,
+      "hebrew": "מוקדם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a premature decision.",
+        "The baby was born premature.",
+        "The announcement was premature."
+      ],
+      "synonyms": [
+        "early",
+        "untimely"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "63b9b81c-848a-4afd-8754-65311e200b6e",
+      "english": "private",
+      "translation": null,
+      "hebrew": "פרטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is private property.",
+        "Please keep this information private.",
+        "He has a private office."
+      ],
+      "synonyms": [
+        "personal",
+        "confidential"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c69d0de5-5524-4c4b-8ca0-db60772089e0",
+      "english": "produce",
+      "translation": null,
+      "hebrew": "לייצר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The factory produces cars.",
+        "The company produces a lot of waste.",
+        "We need to produce more food."
+      ],
+      "synonyms": [
+        "create",
+        "manufacture"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "ca8d28e1-2360-45ac-8a3c-0ac9d55700e1",
+      "english": "produce",
+      "translation": null,
+      "hebrew": "תוצרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The store sells fresh produce.",
+        "The farm produces a lot of crops.",
+        "We need to support local produce."
+      ],
+      "synonyms": [
+        "crops",
+        "goods"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f53234bd-3bb4-417d-b141-8e171902c4e9",
+      "english": "product",
+      "translation": null,
+      "hebrew": "מוצר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a high-quality product.",
+        "The company sells a variety of products.",
+        "We need to improve our products."
+      ],
+      "synonyms": [
+        "item",
+        "goods"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "88412ebb-0cd2-4580-90aa-bd753059a7a3",
+      "english": "profession",
+      "translation": null,
+      "hebrew": "מקצוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your profession?",
+        "He is a doctor by profession.",
+        "She is a professional in her profession."
+      ],
+      "synonyms": [
+        "occupation",
+        "career"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    }
+  ]
+}

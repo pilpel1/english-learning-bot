@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 35,
+    "words_range": "present-recommend",
+    "word_count": 30,
+    "start_index": 1020,
+    "end_index": 1049
+  },
+  "words": [
+    {
+      "word_id": "319655a3-8ba1-4884-bc03-1e38f5c685f1",
+      "english": "present",
+      "translation": "נוכח",
+      "hebrew": "נוכח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was present at the meeting.",
+        "All members were present for the vote."
+      ],
+      "synonyms": ["attending", "here", "available"],
+      "topic_tags": ["general", "attendance"]
+    },
+    {
+      "word_id": "f665fcec-40f3-4d4c-b939-4cbc2d76743e",
+      "english": "present",
+      "translation": "להציג",
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She will present her findings tomorrow.",
+        "He presented the award to the winner."
+      ],
+      "synonyms": ["show", "display", "introduce"],
+      "topic_tags": ["general", "presentation"]
+    },
+    {
+      "word_id": "4bf1a471-a835-4680-8bf3-65160a275d0c",
+      "english": "present",
+      "translation": "מתנה",
+      "hebrew": "מתנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She received a present for her birthday.",
+        "The present was beautifully wrapped."
+      ],
+      "synonyms": ["gift", "offering", "token"],
+      "topic_tags": ["general", "gift"]
+    },
+    {
+      "word_id": "5a86e24a-3cc7-4e67-b8c8-14f061f64a2e",
+      "english": "prime",
+      "translation": "ראשי",
+      "hebrew": "ראשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a prime example of good design.",
+        "He is in the prime of his life."
+      ],
+      "synonyms": ["main", "chief", "primary"],
+      "topic_tags": ["general", "importance"]
+    },
+    {
+      "word_id": "40dd5c24-4ea5-4a55-9d90-f5c3a036cd86",
+      "english": "primitive",
+      "translation": "פרימיטיבי",
+      "hebrew": "פרימיטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The tools they used were quite primitive.",
+        "Primitive art often has a raw beauty."
+      ],
+      "synonyms": ["basic", "rudimentary", "ancient"],
+      "topic_tags": ["general", "development"]
+    },
+    {
+      "word_id": "d9b8aa2a-5924-4439-a088-6b5b26db404c",
+      "english": "prior",
+      "translation": "קודם",
+      "hebrew": "קודם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He had no prior experience in the field.",
+        "Please give us prior notice of your visit."
+      ],
+      "synonyms": ["previous", "earlier", "preceding"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "33ef40cf-2e53-4f3f-aaac-18a371c38686",
+      "english": "priority",
+      "translation": "עדיפות",
+      "hebrew": "עדיפות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Safety is our top priority.",
+        "She has her priorities straight."
+      ],
+      "synonyms": ["precedence", "preference", "importance"],
+      "topic_tags": ["general", "importance"]
+    },
+    {
+      "word_id": "ff925ab7-ed4e-4bab-9423-c6d2d37692a7",
+      "english": "progress",
+      "translation": "התקדמות",
+      "hebrew": "התקדמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is making good progress in her studies.",
+        "The project is in progress."
+      ],
+      "synonyms": ["advancement", "development", "growth"],
+      "topic_tags": ["general", "development"]
+    },
+    {
+      "word_id": "8973828c-4be0-40ec-926e-ce9c47b96a9f",
+      "english": "progressive",
+      "translation": "מתקדם",
+      "hebrew": "מתקדם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The school has a progressive approach to education.",
+        "He is known for his progressive views."
+      ],
+      "synonyms": ["forward-thinking", "innovative", "modern"],
+      "topic_tags": ["general", "development"]
+    },
+    {
+      "word_id": "6d6e1e7f-ec34-4129-939f-bb85a8e871c9",
+      "english": "proper",
+      "translation": "נכון",
+      "hebrew": "נכון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Make sure you have the proper tools for the job.",
+        "He gave her a proper introduction."
+      ],
+      "synonyms": ["appropriate", "suitable", "correct"],
+      "topic_tags": ["general", "correctness"]
+    },
+    {
+      "word_id": "89899a0d-0720-4b5e-8f04-e795e46dae8b",
+      "english": "properly",
+      "translation": "כראוי",
+      "hebrew": "כראוי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The machine is not working properly.",
+        "Please dress properly for the occasion."
+      ],
+      "synonyms": ["correctly", "appropriately", "suitably"],
+      "topic_tags": ["general", "correctness"]
+    },
+    {
+      "word_id": "90029b33-18aa-46d2-b824-35f041729ba6",
+      "english": "protect",
+      "translation": "להגן",
+      "hebrew": "להגן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He wore a helmet to protect his head.",
+        "The law protects the rights of citizens."
+      ],
+      "synonyms": ["defend", "safeguard", "shield"],
+      "topic_tags": ["general", "safety"]
+    },
+    {
+      "word_id": "21243d62-b496-4acc-999d-25df3e208fb0",
+      "english": "provide",
+      "translation": "לספק",
+      "hebrew": "לספק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company provides health insurance for its employees.",
+        "He provided the information we needed."
+      ],
+      "synonyms": ["supply", "furnish", "offer"],
+      "topic_tags": ["general", "supply"]
+    },
+    {
+      "word_id": "6e04bbe3-bff2-4364-b716-83d2adb42240",
+      "english": "provide",
+      "translation": "לפרנס",
+      "hebrew": "לפרנס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He works hard to provide for his family.",
+        "She provides for her children on her own."
+      ],
+      "synonyms": ["support", "sustain", "maintain"],
+      "topic_tags": ["general", "support"]
+    },
+    {
+      "word_id": "63334cee-1377-4139-a12b-da0cecb30db2",
+      "english": "purpose",
+      "translation": "מטרה",
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The purpose of the meeting is to discuss the budget.",
+        "He has a clear sense of purpose."
+      ],
+      "synonyms": ["goal", "aim", "objective"],
+      "topic_tags": ["general", "goal"]
+    },
+    {
+      "word_id": "e5453c46-56e5-4e49-aa0a-174ffa0c958c",
+      "english": "purposely",
+      "translation": "בכוונה",
+      "hebrew": "בכוונה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He purposely ignored her calls.",
+        "She purposely left the door open."
+      ],
+      "synonyms": ["intentionally", "deliberately", "knowingly"],
+      "topic_tags": ["general", "intention"]
+    },
+    {
+      "word_id": "661cf932-4ee9-4e65-a4bb-34a5cc490b1a",
+      "english": "quiet",
+      "translation": "שקט",
+      "hebrew": "שקט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The library is a quiet place to study.",
+        "She enjoys the quiet of the countryside."
+      ],
+      "synonyms": ["silent", "calm", "peaceful"],
+      "topic_tags": ["general", "sound"]
+    },
+    {
+      "word_id": "74cdec9e-f240-4828-bed9-5ee196534da6",
+      "english": "quite",
+      "translation": "די",
+      "hebrew": "די",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was quite interesting.",
+        "She is quite talented."
+      ],
+      "synonyms": ["fairly", "rather", "somewhat"],
+      "topic_tags": ["general", "degree"]
+    },
+    {
+      "word_id": "9e164df1-874b-4ad9-a67b-31d90b27b7c8",
+      "english": "quote",
+      "translation": "לצטט",
+      "hebrew": "לצטט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes to quote famous authors.",
+        "She quoted a line from the movie."
+      ],
+      "synonyms": ["cite", "repeat", "recite"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "09135bb5-2f68-463e-8496-0f8c7d6f6ae7",
+      "english": "raise",
+      "translation": "להרים",
+      "hebrew": "להרים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please raise your hand if you have a question.",
+        "They raised the flag at dawn."
+      ],
+      "synonyms": ["lift", "elevate", "hoist"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "54d34d47-aa5d-41c5-95cb-1ab540804d02",
+      "english": "range",
+      "translation": "טווח",
+      "hebrew": "טווח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The price range is between $10 and $50.",
+        "The mountains are visible in the range."
+      ],
+      "synonyms": ["scope", "extent", "span"],
+      "topic_tags": ["general", "measurement"]
+    },
+    {
+      "word_id": "359dc7f3-1790-476d-9a63-89a5685ae6cc",
+      "english": "range",
+      "translation": "להתפרס",
+      "hebrew": "להתפרס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The topics range from history to science.",
+        "The discussion ranged over many subjects."
+      ],
+      "synonyms": ["extend", "spread", "cover"],
+      "topic_tags": ["general", "extent"]
+    },
+    {
+      "word_id": "6b16427d-90e8-445f-9936-ed2f3b71d7e4",
+      "english": "range",
+      "translation": "רכס",
+      "hebrew": "רכס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mountain range is breathtaking.",
+        "They hiked across the range."
+      ],
+      "synonyms": ["ridge", "chain", "line"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "6563ff91-9d17-440a-bf67-ace71f67fcfb",
+      "english": "rational",
+      "translation": "רציונלי",
+      "hebrew": "רציונלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a rational decision.",
+        "Her argument was rational and well-structured."
+      ],
+      "synonyms": ["logical", "reasonable", "sensible"],
+      "topic_tags": ["general", "logic"]
+    },
+    {
+      "word_id": "a75196c8-0931-48c2-9c36-789d2ac5690a",
+      "english": "rationalize",
+      "translation": "לנמק",
+      "hebrew": "לנמק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to rationalize his behavior.",
+        "She rationalized the decision to her friends."
+      ],
+      "synonyms": ["justify", "explain", "account for"],
+      "topic_tags": ["general", "logic"]
+    },
+    {
+      "word_id": "687b9e55-7a51-4594-9c24-82039714d2ca",
+      "english": "reality",
+      "translation": "מציאות",
+      "hebrew": "מציאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The reality of the situation is harsh.",
+        "He needs to face reality."
+      ],
+      "synonyms": ["actuality", "truth", "existence"],
+      "topic_tags": ["general", "existence"]
+    },
+    {
+      "word_id": "f5c29f6b-4e2c-4db9-aa8e-7188b634800c",
+      "english": "reason",
+      "translation": "סיבה",
+      "hebrew": "סיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The reason for the delay is unknown.",
+        "He had a good reason for his actions."
+      ],
+      "synonyms": ["cause", "motive", "justification"],
+      "topic_tags": ["general", "cause"]
+    },
+    {
+      "word_id": "5e581804-a6be-428c-a9d0-90986eeab6b8",
+      "english": "reason",
+      "translation": "להסיק",
+      "hebrew": "להסיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He reasoned that it was too late to go out.",
+        "She reasoned with him to change his mind."
+      ],
+      "synonyms": ["conclude", "deduce", "infer"],
+      "topic_tags": ["general", "logic"]
+    },
+    {
+      "word_id": "393fbaea-d82f-4391-80b4-53f97f1b5602",
+      "english": "recession",
+      "translation": "מיתון",
+      "hebrew": "מיתון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is facing a recession.",
+        "Recession can lead to high unemployment."
+      ],
+      "synonyms": ["downturn", "decline", "slump"],
+      "topic_tags": ["general", "economy"]
+    },
+    {
+      "word_id": "2ecfc029-8045-4f08-923e-fe24c9c27d0f",
+      "english": "recommend",
+      "translation": "להמליץ",
+      "hebrew": "להמליץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I recommend this book to everyone.",
+        "She recommended a good restaurant."
+      ],
+      "synonyms": ["suggest", "advise", "endorse"],
+      "topic_tags": ["general", "advice"]
+    }
+  ]
+}

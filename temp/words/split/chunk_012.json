@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 12,
+    "words_range": "alternate-arrest",
+    "word_count": 30,
+    "start_index": 330,
+    "end_index": 359
+  },
+  "words": [
+    {
+      "word_id": "5629591e-d017-4f88-b819-8b78e25f7646",
+      "english": "alternate",
+      "translation": "לסירוגין",
+      "hebrew": "לסירוגין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They alternate between working and resting.",
+        "The lights alternate between red and green."
+      ],
+      "synonyms": ["rotate", "switch"],
+      "topic_tags": ["general", "patterns"]
+    },
+    {
+      "word_id": "2efe5b48-f17b-4bc0-8107-f2c595ca7c42",
+      "english": "altogether",
+      "translation": "לגמרי",
+      "hebrew": "לגמרי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book was altogether fascinating.",
+        "He stopped smoking altogether."
+      ],
+      "synonyms": ["completely", "entirely"],
+      "topic_tags": ["general", "intensity"]
+    },
+    {
+      "word_id": "d6af0d6c-2c74-43e6-900e-a0a4da21d124",
+      "english": "ambassador",
+      "translation": "שגריר",
+      "hebrew": "שגריר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ambassador attended the meeting.",
+        "She was appointed as the ambassador to France."
+      ],
+      "synonyms": ["envoy", "diplomat"],
+      "topic_tags": ["general", "diplomacy"]
+    },
+    {
+      "word_id": "68317db9-ff0f-4b5a-bba9-7e16b86d5695",
+      "english": "ambiguous",
+      "translation": "מעורפל",
+      "hebrew": "מעורפל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were ambiguous.",
+        "His response was ambiguous and unclear."
+      ],
+      "synonyms": ["vague", "unclear"],
+      "topic_tags": ["general", "clarity"]
+    },
+    {
+      "word_id": "a63c9dc6-4f37-44ae-8115-58e0518e7c9e",
+      "english": "amount",
+      "translation": "כמות",
+      "hebrew": "כמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The amount of sugar in the recipe is too high.",
+        "He donated a large amount of money."
+      ],
+      "synonyms": ["quantity", "sum"],
+      "topic_tags": ["general", "measurement"]
+    },
+    {
+      "word_id": "14798088-f112-4808-b53a-881b23eb91eb",
+      "english": "anger",
+      "translation": "כעס",
+      "hebrew": "כעס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His anger was evident in his voice.",
+        "She couldn't hide her anger."
+      ],
+      "synonyms": ["rage", "fury"],
+      "topic_tags": ["general", "emotions"]
+    },
+    {
+      "word_id": "a7b7adb5-adc7-4a8c-9adc-490efddcaab6",
+      "english": "angry",
+      "translation": "כועס",
+      "hebrew": "כועס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was angry about the delay.",
+        "She looked angry when she heard the news."
+      ],
+      "synonyms": ["mad", "irate"],
+      "topic_tags": ["general", "emotions"]
+    },
+    {
+      "word_id": "0930bbc7-51b9-426b-bd80-f3258e76ab2c",
+      "english": "animal",
+      "translation": "חיה",
+      "hebrew": "חיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The zoo has a wide variety of animals.",
+        "She loves studying animal behavior."
+      ],
+      "synonyms": ["creature", "beast"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "2d36095c-9078-48ac-99f5-883b8b21dfa7",
+      "english": "another",
+      "translation": "אחר",
+      "hebrew": "אחר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Would you like another cup of coffee?",
+        "He found another way to solve the problem."
+      ],
+      "synonyms": ["additional", "different"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "d480e9e8-edb8-4b51-bac9-b04e0809586a",
+      "english": "another",
+      "translation": "נוסף",
+      "hebrew": "נוסף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She asked for another piece of cake.",
+        "They need another volunteer for the event."
+      ],
+      "synonyms": ["extra", "more"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "27f9257f-2fc7-4c4e-804a-75c8e105927d",
+      "english": "answer",
+      "translation": "תשובה",
+      "hebrew": "תשובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She gave the correct answer to the question.",
+        "He is waiting for an answer to his email."
+      ],
+      "synonyms": ["response", "reply"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "cc02107a-8aa8-48c5-b1a4-a2606f754792",
+      "english": "apart",
+      "translation": "בנפרד",
+      "hebrew": "בנפרד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "They live apart from each other.",
+        "The pieces came apart in his hands."
+      ],
+      "synonyms": ["separately", "individually"],
+      "topic_tags": ["general", "separation"]
+    },
+    {
+      "word_id": "5b423ddc-7dbd-412c-8720-92958f9592a2",
+      "english": "apology",
+      "translation": "התנצלות",
+      "hebrew": "התנצלות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He offered an apology for his mistake.",
+        "She accepted his apology."
+      ],
+      "synonyms": ["regret", "sorry"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "5e0170ed-3b7f-4d70-9006-e94ca439b355",
+      "english": "appear",
+      "translation": "להופיע",
+      "hebrew": "להופיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "A new star appeared in the sky.",
+        "He appeared on television last night."
+      ],
+      "synonyms": ["emerge", "show"],
+      "topic_tags": ["general", "visibility"]
+    },
+    {
+      "word_id": "a0046a6b-ed44-4824-a38c-05ad900f2682",
+      "english": "appear",
+      "translation": "נראה",
+      "hebrew": "נראה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She appears to be happy.",
+        "It appears that he has left."
+      ],
+      "synonyms": ["seem", "look"],
+      "topic_tags": ["general", "perception"]
+    },
+    {
+      "word_id": "a11d62af-8b47-4f18-b587-d5dab6e0559c",
+      "english": "appearance",
+      "translation": "מראה",
+      "hebrew": "מראה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her appearance has changed over the years.",
+        "The appearance of the building is impressive."
+      ],
+      "synonyms": ["look", "aspect"],
+      "topic_tags": ["general", "perception"]
+    },
+    {
+      "word_id": "e890b248-4934-41db-bb0a-2e9b05f45be6",
+      "english": "appropriate",
+      "translation": "מתאים",
+      "hebrew": "מתאים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This dress is appropriate for the occasion.",
+        "He made an appropriate comment."
+      ],
+      "synonyms": ["suitable", "proper"],
+      "topic_tags": ["general", "suitability"]
+    },
+    {
+      "word_id": "c19d340e-eaa2-4466-b9e5-1438a159e2dd",
+      "english": "approve",
+      "translation": "לאשר",
+      "hebrew": "לאשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The manager approved the budget.",
+        "She does not approve of his behavior."
+      ],
+      "synonyms": ["authorize", "endorse"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "bcc63f8f-3ce5-49c5-b87f-bf116de0c58b",
+      "english": "architect",
+      "translation": "אדריכל",
+      "hebrew": "אדריכל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The architect designed the new building.",
+        "She is a renowned architect."
+      ],
+      "synonyms": ["designer", "planner"],
+      "topic_tags": ["general", "profession"]
+    },
+    {
+      "word_id": "d7eb8204-694d-49b8-834a-5ea53e66b812",
+      "english": "architecture",
+      "translation": "אדריכלות",
+      "hebrew": "אדריכלות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The architecture of the city is stunning.",
+        "He studied architecture in college."
+      ],
+      "synonyms": ["design", "structure"],
+      "topic_tags": ["general", "profession"]
+    },
+    {
+      "word_id": "2f4d63bb-2f27-4bdc-be84-d68c2de4e656",
+      "english": "area",
+      "translation": "אזור",
+      "hebrew": "אזור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This area is known for its beautiful scenery.",
+        "The area of the park is quite large."
+      ],
+      "synonyms": ["region", "zone"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "43a02e3a-e8b9-437a-8d9f-d799eaf99c22",
+      "english": "argue",
+      "translation": "לריב",
+      "hebrew": "לריב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They often argue about politics.",
+        "He argued with his friend over the decision."
+      ],
+      "synonyms": ["dispute", "debate"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "fbc82170-423f-4cd3-b84e-762e5ab6385d",
+      "english": "argument",
+      "translation": "ויכוח",
+      "hebrew": "ויכוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They had an argument about the project.",
+        "The argument lasted for hours."
+      ],
+      "synonyms": ["dispute", "debate"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "e34d84ba-214e-44e7-b3ca-ea69540321db",
+      "english": "aristocrat",
+      "translation": "אציל",
+      "hebrew": "אציל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The aristocrat lived in a grand mansion.",
+        "She was born into an aristocratic family."
+      ],
+      "synonyms": ["noble", "patrician"],
+      "topic_tags": ["general", "society"]
+    },
+    {
+      "word_id": "4020ec17-4a66-4a67-b8e9-d5e1f01ad50b",
+      "english": "arm",
+      "translation": "זרוע",
+      "hebrew": "זרוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He broke his arm while playing football.",
+        "She has a tattoo on her arm."
+      ],
+      "synonyms": ["limb", "appendage"],
+      "topic_tags": ["general", "anatomy"]
+    },
+    {
+      "word_id": "97d4a991-d21a-4e10-ae15-570d4cee6de2",
+      "english": "arm",
+      "translation": "לחמש",
+      "hebrew": "לחמש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldiers were armed with rifles.",
+        "He armed himself with knowledge."
+      ],
+      "synonyms": ["equip", "supply"],
+      "topic_tags": ["general", "military"]
+    },
+    {
+      "word_id": "f43ca246-fef3-4722-b62d-0218ad581ee4",
+      "english": "army",
+      "translation": "צבא",
+      "hebrew": "צבא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He joined the army after high school.",
+        "The army was deployed to the border."
+      ],
+      "synonyms": ["military", "troops"],
+      "topic_tags": ["general", "military"]
+    },
+    {
+      "word_id": "0359588f-d1d4-463f-a0c7-0886236e4a42",
+      "english": "around",
+      "translation": "מסביב",
+      "hebrew": "מסביב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "They walked around the park.",
+        "He looked around the room."
+      ],
+      "synonyms": ["about", "near"],
+      "topic_tags": ["general", "direction"]
+    },
+    {
+      "word_id": "b6351d56-39e1-4bcb-8790-92ebca768757",
+      "english": "arrange",
+      "translation": "לסדר",
+      "hebrew": "לסדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She arranged the flowers in a vase.",
+        "He arranged a meeting with the manager."
+      ],
+      "synonyms": ["organize", "plan"],
+      "topic_tags": ["general", "organization"]
+    },
+    {
+      "word_id": "036f0233-8e16-4a0e-85bc-f58c3aee5ef8",
+      "english": "arrest",
+      "translation": "לעצור",
+      "hebrew": "לעצור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police arrested the suspect.",
+        "He was arrested for theft."
+      ],
+      "synonyms": ["detain", "apprehend"],
+      "topic_tags": ["general", "law"]
+    }
+  ]
+}

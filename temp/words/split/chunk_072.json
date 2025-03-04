@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "chunk_number": 72,
+    "words_range": "deceive-effect",
+    "word_count": 30,
+    "start_index": 2130,
+    "end_index": 2159
+  },
+  "words": [
+    {
+      "word_id": "dac6fef6-e58a-4928-af12-437724369ea7",
+      "english": "deceive",
+      "translation": null,
+      "hebrew": "לרמות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to deceive me, but I knew the truth.",
+        "Don't deceive yourself; you need to study harder."
+      ],
+      "synonyms": [
+        "trick",
+        "fool"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ebc2e2f-331a-47d4-b2fa-a68fdafc0214",
+      "english": "deliberate",
+      "translation": null,
+      "hebrew": "מכוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a deliberate attempt to mislead us.",
+        "The action was deliberate and planned."
+      ],
+      "synonyms": [
+        "intentional",
+        "planned"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "714cd00d-a858-4e96-a2da-6d2c72de0192",
+      "english": "deliberate",
+      "translation": null,
+      "hebrew": "לשקול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The jury will deliberate the verdict.",
+        "We need to deliberate before making a decision."
+      ],
+      "synonyms": [
+        "consider",
+        "think about"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d85c20f6-eead-4967-9481-e10a93e7fb31",
+      "english": "deliberation",
+      "translation": null,
+      "hebrew": "דיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "After much deliberation, they made a decision.",
+        "The deliberation took several hours."
+      ],
+      "synonyms": [
+        "discussion",
+        "consideration"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9d8c8d4e-ad77-406f-9015-55f194282948",
+      "english": "delusions",
+      "translation": null,
+      "hebrew": "אשליות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He suffers from delusions of grandeur.",
+        "She has delusions about her own importance."
+      ],
+      "synonyms": [
+        "illusions",
+        "fantasies"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "2fbe46cc-1fdd-45ea-87bb-f28c33c9a826",
+      "english": "denial",
+      "translation": null,
+      "hebrew": "הכחשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in denial about his problems.",
+        "Her denial of the facts is frustrating."
+      ],
+      "synonyms": [
+        "rejection",
+        "refusal"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "442eec7d-2e1b-4732-91c9-e5e4810af779",
+      "english": "depend on",
+      "translation": null,
+      "hebrew": "תלוי ב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I depend on my parents for support.",
+        "The success of the project depends on your help."
+      ],
+      "synonyms": [
+        "rely on",
+        "count on"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1d5a20f3-58df-4778-bfb4-1e4715f28b61",
+      "english": "describe",
+      "translation": null,
+      "hebrew": "לתאר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you describe the person you saw?",
+        "He described the scene in vivid detail."
+      ],
+      "synonyms": [
+        "explain",
+        "illustrate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "00edc4ba-3c1d-46c2-8c27-b52f976acd07",
+      "english": "desolate",
+      "translation": null,
+      "hebrew": "שומם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The island was desolate and uninhabited.",
+        "She felt desolate after he left."
+      ],
+      "synonyms": [
+        "barren",
+        "empty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5ce21271-9913-41dc-b0a5-55b738c9f913",
+      "english": "desolate",
+      "translation": null,
+      "hebrew": "לבודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The tragedy desolated the family.",
+        "He was desolated by the news."
+      ],
+      "synonyms": [
+        "devastate",
+        "depress"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "035d40fb-ff5b-4b02-bb7f-a7b968f1c14a",
+      "english": "destroy",
+      "translation": null,
+      "hebrew": "להרוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire destroyed the building.",
+        "The storm destroyed many homes."
+      ],
+      "synonyms": [
+        "ruin",
+        "demolish"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d902f117-2ee1-4834-baf9-350be88b251d",
+      "english": "destructive",
+      "translation": null,
+      "hebrew": "הרסני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The destructive power of the hurricane was immense.",
+        "His behavior is destructive to the team."
+      ],
+      "synonyms": [
+        "damaging",
+        "harmful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "224e28d9-dc86-4a2b-ab95-f1cb186071a3",
+      "english": "detract",
+      "translation": null,
+      "hebrew": "לגרוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The stain detracts from the beauty of the dress.",
+        "His bad habits detract from his performance."
+      ],
+      "synonyms": [
+        "diminish",
+        "reduce"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7394c9b5-9ffc-4bbf-9ad2-324cfba2b742",
+      "english": "deviant",
+      "translation": null,
+      "hebrew": "סוטה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Deviant behavior is not tolerated.",
+        "He was considered a deviant by society."
+      ],
+      "synonyms": [
+        "abnormal",
+        "unconventional"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "44bdb597-c139-47a6-9b07-b7ff4e45e417",
+      "english": "device",
+      "translation": null,
+      "hebrew": "מכשיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A smartphone is a useful device.",
+        "The device is used for measuring temperature."
+      ],
+      "synonyms": [
+        "tool",
+        "gadget"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "ef680b09-038f-4a7b-bc56-e3ca2b19db34",
+      "english": "devise",
+      "translation": null,
+      "hebrew": "לתכנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They devised a plan to escape.",
+        "We need to devise a better strategy."
+      ],
+      "synonyms": [
+        "create",
+        "design"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1f6528ec-b16c-4bc6-bec4-c16402db9ead",
+      "english": "dictate",
+      "translation": null,
+      "hebrew": "להכתיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher will dictate the sentences.",
+        "The rules dictate how we should behave."
+      ],
+      "synonyms": [
+        "prescribe",
+        "order"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3f73460-2abb-463a-9a63-3549db96b5ec",
+      "english": "disorder",
+      "translation": null,
+      "hebrew": "הפרעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was in a state of disorder.",
+        "He suffers from a mental disorder."
+      ],
+      "synonyms": [
+        "chaos",
+        "confusion"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "451b3818-f784-474a-9a1e-85f32102d597",
+      "english": "display",
+      "translation": null,
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum displays ancient artifacts.",
+        "He displayed his skills at the competition."
+      ],
+      "synonyms": [
+        "show",
+        "exhibit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "aa41e8f3-cc5a-4adf-9ab7-e4082af9e613",
+      "english": "disregard",
+      "translation": null,
+      "hebrew": "להתעלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You should not disregard safety rules.",
+        "He disregarded my advice."
+      ],
+      "synonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27a7eac7-f981-4926-b690-09dd8054c4b6",
+      "english": "dissolve",
+      "translation": null,
+      "hebrew": "להתמוסס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Sugar dissolves in water.",
+        "The company was dissolved after the scandal."
+      ],
+      "synonyms": [
+        "melt",
+        "disintegrate"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "4bc0bb26-ff0a-43f1-86df-04d49aeb909a",
+      "english": "distract",
+      "translation": null,
+      "hebrew": "להסיח את הדעת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't distract me when I'm working.",
+        "The noise distracted her from her studies."
+      ],
+      "synonyms": [
+        "divert",
+        "sidetrack"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d1dc1d3c-2c01-4df7-b41a-98eb51d42bb9",
+      "english": "district",
+      "translation": null,
+      "hebrew": "מחוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is divided into several districts.",
+        "This is a commercial district."
+      ],
+      "synonyms": [
+        "area",
+        "region"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "909236f9-90f6-4fc4-a12f-33b5195fb3b4",
+      "english": "divine",
+      "translation": null,
+      "hebrew": "אלוהי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Divine intervention saved them.",
+        "The divine power is beyond our understanding."
+      ],
+      "synonyms": [
+        "holy",
+        "sacred"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "7cdfdadb-7c1f-4869-bd2f-1c4c6d41c6f5",
+      "english": "divinity",
+      "translation": null,
+      "hebrew": "אלוהות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They worshiped the divinity.",
+        "The concept of divinity is central to many religions."
+      ],
+      "synonyms": [
+        "godhood",
+        "deity"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "0683e4ff-fbf4-468a-ab47-2c6803bef393",
+      "english": "downhill",
+      "translation": null,
+      "hebrew": "במורד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The cyclist rode downhill very fast.",
+        "After the accident, his life went downhill."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8929f473-1c66-492a-b42c-4866d4655b3d",
+      "english": "ease",
+      "translation": null,
+      "hebrew": "להקל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The medicine will ease the pain.",
+        "He tried to ease her worries."
+      ],
+      "synonyms": [
+        "alleviate",
+        "relieve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "75666fcb-b541-4a57-ad59-6ea8fc97eb8a",
+      "english": "easily",
+      "translation": null,
+      "hebrew": "בקלות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He can easily solve the problem.",
+        "She easily passed the test."
+      ],
+      "synonyms": [
+        "readily",
+        "effortlessly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "98faf9da-83d9-47fc-aa51-7d6fbb70f1af",
+      "english": "effect",
+      "translation": null,
+      "hebrew": "השפעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The effect of the drug was immediate.",
+        "The new policy had a positive effect."
+      ],
+      "synonyms": [
+        "impact",
+        "result"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1a96b562-f8cd-4c0f-9273-88a1e9e6e951",
+      "english": "effect",
+      "translation": null,
+      "hebrew": "לגרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new rules will effect change.",
+        "He hopes to effect a positive outcome."
+      ],
+      "synonyms": [
+        "cause",
+        "produce"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

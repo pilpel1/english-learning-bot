@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 11,
+    "words_range": "yet-alternate",
+    "word_count": 30,
+    "start_index": 300,
+    "end_index": 329
+  },
+  "words": [
+    {
+      "word_id": "b8d44851-68ce-485d-8451-ca9ed6ee8417",
+      "english": "yet",
+      "translation": "עדיין",
+      "hebrew": "עדיין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I haven't finished my homework yet.",
+        "The movie hasn't started yet."
+      ],
+      "synonyms": ["still", "nevertheless"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "a8640436-d2ee-4933-92cf-b0474599de26",
+      "english": "yet",
+      "translation": "אבל",
+      "hebrew": "אבל",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "He is smart, yet he makes careless mistakes.",
+        "She is young, yet very responsible."
+      ],
+      "synonyms": ["but", "however"],
+      "topic_tags": ["general", "contrast"]
+    },
+    {
+      "word_id": "904a7a8f-85f6-4b06-a504-7470b5674d2c",
+      "english": "ability",
+      "translation": "יכולת",
+      "hebrew": "יכולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has the ability to solve complex problems.",
+        "His ability to speak multiple languages is impressive."
+      ],
+      "synonyms": ["capability", "skill"],
+      "topic_tags": ["general", "skills"]
+    },
+    {
+      "word_id": "cf3aa185-5fd1-474b-838f-42eedc5d179c",
+      "english": "able",
+      "translation": "מסוגל",
+      "hebrew": "מסוגל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is able to lift heavy weights.",
+        "She is able to finish the project on time."
+      ],
+      "synonyms": ["capable", "competent"],
+      "topic_tags": ["general", "skills"]
+    },
+    {
+      "word_id": "5dcca964-6d77-41ce-a72a-dbfe2612a9b5",
+      "english": "accept",
+      "translation": "לקבל",
+      "hebrew": "לקבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She accepted the job offer.",
+        "He accepted the invitation to the party."
+      ],
+      "synonyms": ["receive", "agree"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "45c75534-2b75-4f2c-b3d6-68ac7344af77",
+      "english": "acceptable",
+      "translation": "מקובל",
+      "hebrew": "מקובל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The proposal is acceptable to all parties.",
+        "Her behavior was not acceptable."
+      ],
+      "synonyms": ["satisfactory", "adequate"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "e9051346-6b4a-47d6-8515-32fe56bbb82e",
+      "english": "acceptance",
+      "translation": "קבלה",
+      "hebrew": "קבלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her acceptance into the program was a great achievement.",
+        "He received acceptance from his peers."
+      ],
+      "synonyms": ["approval", "consent"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "81561428-9d85-47e1-99be-3f6b635179b2",
+      "english": "accident",
+      "translation": "תאונה",
+      "hebrew": "תאונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was involved in a car accident.",
+        "The accident happened on the highway."
+      ],
+      "synonyms": ["mishap", "incident"],
+      "topic_tags": ["general", "events"]
+    },
+    {
+      "word_id": "e64a462c-0038-40c8-8383-0fd5648e114e",
+      "english": "achieve",
+      "translation": "להשיג",
+      "hebrew": "להשיג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She achieved her goal of becoming a doctor.",
+        "He worked hard to achieve success."
+      ],
+      "synonyms": ["accomplish", "attain"],
+      "topic_tags": ["general", "goals"]
+    },
+    {
+      "word_id": "d42f3d88-58e6-418d-b8df-446364805b1d",
+      "english": "activate",
+      "translation": "להפעיל",
+      "hebrew": "להפעיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please activate the alarm system.",
+        "He activated the new software on his computer."
+      ],
+      "synonyms": ["initiate", "trigger"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "bec5002e-4a93-4ad8-aa2e-42855312a490",
+      "english": "active",
+      "translation": "פעיל",
+      "hebrew": "פעיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is very active in the community.",
+        "He leads an active lifestyle."
+      ],
+      "synonyms": ["energetic", "lively"],
+      "topic_tags": ["general", "lifestyle"]
+    },
+    {
+      "word_id": "cc77edf7-d508-4a06-95ca-50f56d90a258",
+      "english": "actor",
+      "translation": "שחקן",
+      "hebrew": "שחקן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous actor in Hollywood.",
+        "The actor received an award for his performance."
+      ],
+      "synonyms": ["performer", "thespian"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "0f6521cc-080d-4f8f-8351-b4092e0ab28c",
+      "english": "actual",
+      "translation": "אמיתי",
+      "hebrew": "אמיתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The actual cost was higher than expected.",
+        "He is the actual owner of the company."
+      ],
+      "synonyms": ["real", "genuine"],
+      "topic_tags": ["general", "reality"]
+    },
+    {
+      "word_id": "747d6ce9-973a-459e-a50c-40ab37b62048",
+      "english": "actually",
+      "translation": "למעשה",
+      "hebrew": "למעשה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I thought it was difficult, but it was actually easy.",
+        "He actually finished the project ahead of schedule."
+      ],
+      "synonyms": ["in fact", "really"],
+      "topic_tags": ["general", "reality"]
+    },
+    {
+      "word_id": "97c60029-b0e2-4c0c-a238-5de63bcd9aa7",
+      "english": "addition",
+      "translation": "תוספת",
+      "hebrew": "תוספת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The addition of new members improved the team.",
+        "They built an addition to the house."
+      ],
+      "synonyms": ["supplement", "increase"],
+      "topic_tags": ["general", "mathematics"]
+    },
+    {
+      "word_id": "9a203e30-6461-47da-ae31-bd605bb943a8",
+      "english": "address",
+      "translation": "כתובת",
+      "hebrew": "כתובת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please send the package to this address.",
+        "He changed his address after moving."
+      ],
+      "synonyms": ["location", "place"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "a1719131-81ad-4522-a5db-203ee0dd357b",
+      "english": "address",
+      "translation": "לנאום",
+      "hebrew": "לנאום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The president will address the nation tonight.",
+        "She addressed the issue during the meeting."
+      ],
+      "synonyms": ["speak", "talk"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "05079d20-959e-42f9-a543-6ffa9e1a5d10",
+      "english": "adjust",
+      "translation": "להתאים",
+      "hebrew": "להתאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He adjusted the seat to his height.",
+        "She adjusted the settings on her phone."
+      ],
+      "synonyms": ["modify", "adapt"],
+      "topic_tags": ["general", "adaptation"]
+    },
+    {
+      "word_id": "ab1e1261-45ad-4abd-862c-c0ad2a414731",
+      "english": "adjust",
+      "translation": "להסתגל",
+      "hebrew": "להסתגל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He adjusted to the new environment quickly.",
+        "She is adjusting well to her new job."
+      ],
+      "synonyms": ["adapt", "acclimate"],
+      "topic_tags": ["general", "adaptation"]
+    },
+    {
+      "word_id": "db6616fe-0b09-4488-9e51-4691903e392d",
+      "english": "afford",
+      "translation": "להרשות לעצמו",
+      "hebrew": "להרשות לעצמו",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't afford to buy a new car.",
+        "She can afford to travel abroad."
+      ],
+      "synonyms": ["manage", "bear"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "be8d9b68-b552-4e90-b63a-91cdaccedd86",
+      "english": "afraid",
+      "translation": "מפחד",
+      "hebrew": "מפחד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is afraid of heights.",
+        "She was afraid to speak in public."
+      ],
+      "synonyms": ["scared", "fearful"],
+      "topic_tags": ["general", "emotions"]
+    },
+    {
+      "word_id": "1a5bb22b-9bc2-4766-b217-3b7dd702831f",
+      "english": "agree",
+      "translation": "להסכים",
+      "hebrew": "להסכים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I agree with your opinion.",
+        "They agreed to meet at noon."
+      ],
+      "synonyms": ["consent", "concur"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "9ad56c39-51ab-41f4-8384-5a10f6d3de43",
+      "english": "agreement",
+      "translation": "הסכם",
+      "hebrew": "הסכם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They signed an agreement to cooperate.",
+        "The agreement was reached after long negotiations."
+      ],
+      "synonyms": ["contract", "deal"],
+      "topic_tags": ["general", "agreement"]
+    },
+    {
+      "word_id": "9f58f828-25fa-4693-b364-a61555d19a95",
+      "english": "aim",
+      "translation": "מטרה",
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His aim is to become a doctor.",
+        "The aim of the project is to improve efficiency."
+      ],
+      "synonyms": ["goal", "objective"],
+      "topic_tags": ["general", "goals"]
+    },
+    {
+      "word_id": "53e56269-f407-4a16-bbe2-25ba099c305f",
+      "english": "alarm",
+      "translation": "אזעקה",
+      "hebrew": "אזעקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The alarm went off in the middle of the night.",
+        "He set the alarm for 6 AM."
+      ],
+      "synonyms": ["alert", "warning"],
+      "topic_tags": ["general", "safety"]
+    },
+    {
+      "word_id": "84100e7b-059f-433b-9280-a84f6ea18b14",
+      "english": "alarm",
+      "translation": "להבהיל",
+      "hebrew": "להבהיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The loud noise alarmed the residents.",
+        "He was alarmed by the sudden change in weather."
+      ],
+      "synonyms": ["frighten", "startle"],
+      "topic_tags": ["general", "emotions"]
+    },
+    {
+      "word_id": "3bc1317b-6e00-4272-a083-6038296b4af3",
+      "english": "alive",
+      "translation": "חי",
+      "hebrew": "חי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is grateful to be alive after the accident.",
+        "The forest is alive with the sound of birds."
+      ],
+      "synonyms": ["living", "breathing"],
+      "topic_tags": ["general", "life"]
+    },
+    {
+      "word_id": "e285bfe4-e623-4504-8463-cb2c50d2719a",
+      "english": "almost",
+      "translation": "כמעט",
+      "hebrew": "כמעט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I almost missed the bus.",
+        "She almost finished the entire book in one day."
+      ],
+      "synonyms": ["nearly", "practically"],
+      "topic_tags": ["general", "approximation"]
+    },
+    {
+      "word_id": "5a2f2966-994e-4766-a41d-f6c8813cae8f",
+      "english": "alone",
+      "translation": "לבד",
+      "hebrew": "לבד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He prefers to work alone.",
+        "She was alone in the house."
+      ],
+      "synonyms": ["solitary", "by oneself"],
+      "topic_tags": ["general", "isolation"]
+    },
+    {
+      "word_id": "c18d680c-6373-4fe9-886d-7ca53bdba092",
+      "english": "alternate",
+      "translation": "לסירוגין",
+      "hebrew": "לסירוגין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They alternate between working and resting.",
+        "The lights alternate between red and green."
+      ],
+      "synonyms": ["rotate", "switch"],
+      "topic_tags": ["general", "patterns"]
+    }
+  ]
+}

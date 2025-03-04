@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 5,
+    "words_range": "from-in general",
+    "word_count": 30,
+    "start_index": 120,
+    "end_index": 149
+  },
+  "words": [
+    {
+      "word_id": "b2a97887-73dc-4601-b4f1-dfddca27f919",
+      "english": "from",
+      "translation": "מ",
+      "hebrew": "מ",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She is from Canada.",
+        "I received a letter from him."
+      ],
+      "synonyms": ["out of", "originating in"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9887d2cd-03c8-49e6-b613-f81620445e8c",
+      "english": "from time to time",
+      "translation": "מדי פעם",
+      "hebrew": "מדי פעם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I visit my grandparents from time to time.",
+        "From time to time, I like to read a good book."
+      ],
+      "synonyms": ["occasionally", "every now and then"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a0e81b48-1a92-4e40-b3e5-9edc7700909b",
+      "english": "further",
+      "translation": "נוסף",
+      "hebrew": "נוסף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need further information.",
+        "Further studies are required."
+      ],
+      "synonyms": ["additional", "more"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c49629f4-3ffc-4cd6-83f9-549516a15cc9",
+      "english": "further",
+      "translation": "רחוק יותר",
+      "hebrew": "רחוק יותר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He walked further than anyone else.",
+        "The store is further down the road."
+      ],
+      "synonyms": ["farther", "more distant"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b566650-445b-4733-9ab7-54029a03c13a",
+      "english": "furthermore",
+      "translation": "בנוסף",
+      "hebrew": "בנוסף",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is interesting; furthermore, it is educational.",
+        "He is smart and, furthermore, very kind."
+      ],
+      "synonyms": ["moreover", "in addition"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ba265ce-3cf4-400f-ade6-d07d8c10e602",
+      "english": "given that",
+      "translation": "בהינתן ש",
+      "hebrew": "בהינתן ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Given that it's raining, we should stay inside.",
+        "He was late, given that he missed the bus."
+      ],
+      "synonyms": ["considering", "since"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a5afa568-6f84-4bdb-a687-3e22c922ccea",
+      "english": "granted (that)",
+      "translation": "בהנחה ש",
+      "hebrew": "בהנחה ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Granted that he is young, he is very responsible.",
+        "Granted, it was a difficult task, but he succeeded."
+      ],
+      "synonyms": ["assuming", "provided that"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c5ab8e19-c0a5-4720-889e-72f8007f0693",
+      "english": "hardly ever",
+      "translation": "כמעט אף פעם",
+      "hebrew": "כמעט אף פעם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He hardly ever goes to the gym.",
+        "I hardly ever eat fast food."
+      ],
+      "synonyms": ["rarely", "seldom"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2ae8e359-ae63-4ba6-aa71-6853c9ba4979",
+      "english": "hence",
+      "translation": "לכן",
+      "hebrew": "לכן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was tired, hence he went to bed early.",
+        "The weather was bad, hence the cancellation."
+      ],
+      "synonyms": ["therefore", "thus"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f8405e55-ea6e-40fc-ba2f-ab017de05095",
+      "english": "here",
+      "translation": "כאן",
+      "hebrew": "כאן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I live here.",
+        "Please sit here."
+      ],
+      "synonyms": ["in this place", "at this location"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e93ff56d-27b5-4b55-8fe1-1ed25a2953af",
+      "english": "how",
+      "translation": "איך",
+      "hebrew": "איך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "How do you do this?",
+        "I wonder how he did it."
+      ],
+      "synonyms": ["in what way", "by what means"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c4658233-e54a-4214-bd0c-524a5b5d3ea1",
+      "english": "however",
+      "translation": "אולם",
+      "hebrew": "אולם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is rich; however, he is not happy.",
+        "The task is difficult; however, it is not impossible."
+      ],
+      "synonyms": ["nevertheless", "but"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f965be8c-065a-4d99-ab2d-1beb056aa724",
+      "english": "however",
+      "translation": "בכל דרך",
+      "hebrew": "בכל דרך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can do it however you like.",
+        "However you decide, I will support you."
+      ],
+      "synonyms": ["in any way", "whichever way"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "abf45cae-8c81-48a8-be65-ad7a6b24a017",
+      "english": "i.e.",
+      "translation": "כלומר",
+      "hebrew": "כלומר",
+      "part_of_speech": "abbreviation",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a polyglot, i.e., he speaks several languages.",
+        "The project is due soon, i.e., by the end of the week."
+      ],
+      "synonyms": ["that is", "in other words"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "92be2f34-dabe-4f1c-83c4-c2086f6396e2",
+      "english": "identically",
+      "translation": "באופן זהה",
+      "hebrew": "באופן זהה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The twins dressed identically.",
+        "Both solutions work identically."
+      ],
+      "synonyms": ["similarly", "alike"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "543614ad-7d55-4bbf-963f-8a4887d60c0a",
+      "english": "If",
+      "translation": "אם",
+      "hebrew": "אם",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "If it rains, we will stay inside.",
+        "Call me if you need help."
+      ],
+      "synonyms": ["provided that", "in case"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5a1a53cb-05bc-4668-9645-7d41590a4c37",
+      "english": "immediately",
+      "translation": "מיד",
+      "hebrew": "מיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He responded immediately.",
+        "Please call me immediately."
+      ],
+      "synonyms": ["instantly", "at once"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "650c51df-8212-41ed-a94d-26e3f78d284a",
+      "english": "in",
+      "translation": "ב",
+      "hebrew": "ב",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She is in the room.",
+        "The book is in the bag."
+      ],
+      "synonyms": ["inside", "within"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7b510a4e-57cf-4614-8798-69685176cfb9",
+      "english": "in a moment",
+      "translation": "בעוד רגע",
+      "hebrew": "בעוד רגע",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll be with you in a moment.",
+        "The show will start in a moment."
+      ],
+      "synonyms": ["shortly", "soon"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "181a5616-ab03-4be8-9ccc-c71651d8b44e",
+      "english": "in a word",
+      "translation": "בקיצור",
+      "hebrew": "בקיצור",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In a word, the project was a success.",
+        "He is, in a word, brilliant."
+      ],
+      "synonyms": ["briefly", "in short"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "733aa6d8-4084-4528-9cb0-65b084636305",
+      "english": "in addition",
+      "translation": "בנוסף",
+      "hebrew": "בנוסף",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In addition to his job, he volunteers.",
+        "She is smart and, in addition, very kind."
+      ],
+      "synonyms": ["furthermore", "also"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cb4c47ad-1d92-48fa-b89c-7ef6fb28967b",
+      "english": "in case",
+      "translation": "למקרה ש",
+      "hebrew": "למקרה ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Take an umbrella in case it rains.",
+        "Call me in case you need help."
+      ],
+      "synonyms": ["if", "should"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "49a20009-21aa-4c6b-ab8b-4ff53f996fdf",
+      "english": "in comparison",
+      "translation": "בהשוואה",
+      "hebrew": "בהשוואה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In comparison to last year, sales have increased.",
+        "The new model is cheaper in comparison."
+      ],
+      "synonyms": ["compared to", "relative to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5a260cd1-2b4e-4f47-971f-39352266eaca",
+      "english": "in conclusion",
+      "translation": "לסיכום",
+      "hebrew": "לסיכום",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In conclusion, the project was a success.",
+        "In conclusion, we should proceed with caution."
+      ],
+      "synonyms": ["to sum up", "finally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6b18ca05-4bbf-41de-b764-a61438c57474",
+      "english": "in contrast to",
+      "translation": "בניגוד ל",
+      "hebrew": "בניגוד ל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In contrast to his brother, he is very quiet.",
+        "The weather today is warm, in contrast to yesterday."
+      ],
+      "synonyms": ["unlike", "as opposed to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "11dc238d-1da2-4795-b0c3-85c7b7acc74d",
+      "english": "in due time",
+      "translation": "בזמן המתאים",
+      "hebrew": "בזמן המתאים",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "All will be revealed in due time.",
+        "In due time, you will understand."
+      ],
+      "synonyms": ["eventually", "in time"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5efce494-4a59-445b-b034-c20c36776c5b",
+      "english": "in fact",
+      "translation": "למעשה",
+      "hebrew": "למעשה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He is, in fact, the best candidate.",
+        "In fact, I have already completed the task."
+      ],
+      "synonyms": ["actually", "indeed"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "72e0e9af-d019-4100-b627-89db320163f0",
+      "english": "in fact",
+      "translation": "למעשה",
+      "hebrew": "למעשה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In fact, he was the one who suggested it.",
+        "She is, in fact, very talented."
+      ],
+      "synonyms": ["actually", "indeed"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3d8ffc59-bd85-45ff-9910-8397b0214de7",
+      "english": "in front of",
+      "translation": "לפני",
+      "hebrew": "לפני",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The car is parked in front of the house.",
+        "He stood in front of the mirror."
+      ],
+      "synonyms": ["before", "ahead of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b19545b9-2c78-49cf-b7b7-93d936f35d7e",
+      "english": "in general",
+      "translation": "באופן כללי",
+      "hebrew": "באופן כללי",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In general, the weather is nice here.",
+        "He is, in general, a good student."
+      ],
+      "synonyms": ["overall", "generally"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

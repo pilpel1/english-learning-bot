@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 121,
+    "words_range": "petty-raid",
+    "word_count": 30,
+    "start_index": 3600,
+    "end_index": 3629
+  },
+  "words": [
+    {
+      "word_id": "8466338d-a5ea-4a2d-adaa-9fd5c2094ab1",
+      "english": "petty",
+      "translation": null,
+      "hebrew": "קטנוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't be so petty.",
+        "It was a petty argument."
+      ],
+      "synonyms": ["trivial", "minor", "insignificant"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4f24ad61-000c-4030-9f70-8241f7e0e0c4",
+      "english": "petty",
+      "translation": null,
+      "hebrew": "זעיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Petty crime is on the rise.",
+        "He committed a petty theft."
+      ],
+      "synonyms": ["small-scale"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ec7df55d-5519-41a9-aec8-38d72f105b9e",
+      "english": "phobia",
+      "translation": null,
+      "hebrew": "פוביה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a phobia of spiders.",
+        "He has a phobia of heights."
+      ],
+      "synonyms": ["fear"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "df72e5c2-cad4-42ee-8a4d-7aab19ef1ea0",
+      "english": "pivot",
+      "translation": null,
+      "hebrew": "ציר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The door swings on a pivot.",
+        "The company made a strategic pivot."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9f05d0bc-0cab-4df9-968f-02f954ff7ded",
+      "english": "plate",
+      "translation": null,
+      "hebrew": "צלחת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She put the food on a plate.",
+        "Wash the plates after dinner."
+      ],
+      "synonyms": ["dish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9feea5be-fcb3-4e34-8d63-5a7fa74b6fe6",
+      "english": "plead",
+      "translation": null,
+      "hebrew": "להתחנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He pleaded for mercy.",
+        "She pleaded with him to stay."
+      ],
+      "synonyms": ["beg", "implore"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fcab5b2f-20d4-4036-a3e2-0fd2513dda84",
+      "english": "pleasure",
+      "translation": null,
+      "hebrew": "הנאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a pleasure to meet you.",
+        "She takes pleasure in reading."
+      ],
+      "synonyms": ["enjoyment", "delight"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e76c95d1-160a-4494-8bf1-31393a4827ae",
+      "english": "pledge",
+      "translation": null,
+      "hebrew": "להתחייב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He pledged to support the cause.",
+        "She pledged her loyalty."
+      ],
+      "synonyms": ["promise", "vow"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9411933a-a0db-43d7-b9fe-73899c7bb725",
+      "english": "plight",
+      "translation": null,
+      "hebrew": "מצוקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plight of the refugees is dire.",
+        "The country is in a terrible plight."
+      ],
+      "synonyms": ["predicament", "hardship"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4db1297b-9346-4042-a4aa-1d9cb4a87b5e",
+      "english": "plunge",
+      "translation": null,
+      "hebrew": "לצלול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He plunged into the pool.",
+        "The stock market plunged."
+      ],
+      "synonyms": ["dive", "drop"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1aa7eb4f-968d-4169-b074-768bdf80daaa",
+      "english": "poignant",
+      "translation": null,
+      "hebrew": "נוגע ללב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a poignant moment.",
+        "The story was very poignant."
+      ],
+      "synonyms": ["touching", "moving"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1002c640-167c-4f5e-886a-df68b8bc9d9f",
+      "english": "poisonous",
+      "translation": null,
+      "hebrew": "רעיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The snake is poisonous.",
+        "The berries are poisonous."
+      ],
+      "synonyms": ["toxic", "venomous"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ac5d9d07-14cd-44d0-8bbd-77f6ddf2b9ab",
+      "english": "polish",
+      "translation": null,
+      "hebrew": "לצחצח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Polish your shoes.",
+        "She polished the silver."
+      ],
+      "synonyms": ["shine", "buff"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c301f929-c9f9-4cc4-8be4-335620893573",
+      "english": "polish",
+      "translation": null,
+      "hebrew": "פולני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She speaks Polish.",
+        "He has Polish roots."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b765be53-0f43-47db-8fa0-b571eb104bb3",
+      "english": "polite",
+      "translation": null,
+      "hebrew": "מנומס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It's polite to say thank you.",
+        "He is a very polite young man."
+      ],
+      "synonyms": ["courteous", "civil"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4e96127a-1d1c-4bfb-891f-37402e243065",
+      "english": "portray",
+      "translation": null,
+      "hebrew": "לגלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie portrays the life of a famous artist.",
+        "The actor portrayed the character very well."
+      ],
+      "synonyms": ["depict", "represent"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8d9a9e3f-710d-48bf-8664-b8f076e4df35",
+      "english": "precious",
+      "translation": null,
+      "hebrew": "יקר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Time is precious.",
+        "She wore a precious diamond ring."
+      ],
+      "synonyms": ["valuable", "priceless"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4bd3d763-0f10-4336-a8f6-bc52d4cecdd3",
+      "english": "predominantly",
+      "translation": null,
+      "hebrew": "בעיקר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The population is predominantly young.",
+        "The music is predominantly rock."
+      ],
+      "synonyms": ["mainly", "mostly"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "91ed6539-2429-4e44-874b-355b12daf0ef",
+      "english": "prey",
+      "translation": null,
+      "hebrew": "טרף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lion hunted its prey.",
+        "The bird of prey swooped down."
+      ],
+      "synonyms": ["victim"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5693e655-3a18-411e-b295-668893ea9e38",
+      "english": "prize",
+      "translation": null,
+      "hebrew": "פרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She won first prize.",
+        "The prize is a trip to Hawaii."
+      ],
+      "synonyms": ["award"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d26303e4-0c13-49c7-8ddf-9e64821559f3",
+      "english": "probe",
+      "translation": null,
+      "hebrew": "לחקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police are probing the incident.",
+        "The doctor probed the wound."
+      ],
+      "synonyms": ["investigate", "examine"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eba7f8cb-c4f9-4fe3-8b6c-682d529a87e4",
+      "english": "proverb",
+      "translation": null,
+      "hebrew": "פתגם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "\"Early to bed and early to rise makes a man healthy, wealthy, and wise\" is a proverb.",
+        "There is a proverb that says 'honesty is the best policy.'"
+      ],
+      "synonyms": ["saying", "adage"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b6e1662a-a32b-4541-b214-b55ea642894b",
+      "english": "pupil",
+      "translation": null,
+      "hebrew": "תלמיד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a good pupil.",
+        "The teacher helped the pupil."
+      ],
+      "synonyms": ["student"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "dbdc175c-922c-4372-8769-0e4de6dc03cc",
+      "english": "purchase",
+      "translation": null,
+      "hebrew": "לרכוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He purchased a new car.",
+        "She purchased a house."
+      ],
+      "synonyms": ["buy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4c8414ef-2f3d-4301-bda7-10b67ac8c213",
+      "english": "puzzle",
+      "translation": null,
+      "hebrew": "חידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes to solve puzzles.",
+        "The situation is a puzzle."
+      ],
+      "synonyms": ["enigma"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e73e6fcd-6186-4c19-b5a4-5727b9365468",
+      "english": "puzzled",
+      "translation": null,
+      "hebrew": "נבוך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She looked puzzled.",
+        "He was puzzled by the question."
+      ],
+      "synonyms": ["confused", "perplexed"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52a6b272-c166-475b-bdf2-7a4d8f0b3acc",
+      "english": "quake",
+      "translation": null,
+      "hebrew": "רעידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The earth quaked.",
+        "His voice quaked with fear."
+      ],
+      "synonyms": ["tremor", "shake"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8eb080b9-2ee5-44c7-8527-e0de59329de8",
+      "english": "quench",
+      "translation": null,
+      "hebrew": "להרוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Quench your thirst with water.",
+        "Nothing could quench his desire for revenge."
+      ],
+      "synonyms": ["satisfy", "extinguish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1d58d1ab-67c6-4b8e-84b0-7c93e6772130",
+      "english": "rage",
+      "translation": null,
+      "hebrew": "זעם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was filled with rage.",
+        "The storm raged all night."
+      ],
+      "synonyms": ["fury", "anger"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7349c274-4731-4140-984c-79475cd31a63",
+      "english": "raid",
+      "translation": null,
+      "hebrew": "פשיטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police conducted a raid on the house.",
+        "They launched a raid on the enemy camp."
+      ],
+      "synonyms": ["attack", "assault"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

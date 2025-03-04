@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "chunk_number": 73,
+    "words_range": "emblem-factor",
+    "word_count": 30,
+    "start_index": 2160,
+    "end_index": 2189
+  },
+  "words": [
+    {
+      "word_id": "2cbd07f4-f6ec-4935-9f58-5402a162d179",
+      "english": "emblem",
+      "translation": null,
+      "hebrew": "סמל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dove is an emblem of peace.",
+        "The company's emblem is recognized worldwide."
+      ],
+      "synonyms": [
+        "symbol",
+        "logo"
+      ],
+      "topic_tags": [
+        "general",
+        "symbols"
+      ]
+    },
+    {
+      "word_id": "f7996ef7-77cc-43b9-9182-399bb22241ce",
+      "english": "encourage",
+      "translation": null,
+      "hebrew": "לעודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We should encourage children to read.",
+        "The coach encouraged the team to keep trying."
+      ],
+      "synonyms": [
+        "support",
+        "motivate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "44fff923-bc02-49d4-8768-d94379a2ca56",
+      "english": "engrave",
+      "translation": null,
+      "hebrew": "לחרוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The jeweler can engrave your initials on the ring.",
+        "The names of the fallen soldiers are engraved on the monument."
+      ],
+      "synonyms": [
+        "etch",
+        "carve"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "725a4558-ca58-4638-923c-9b01a88869cc",
+      "english": "enhance",
+      "translation": null,
+      "hebrew": "לשפר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Good lighting can enhance the beauty of a room.",
+        "Exercise can enhance your overall health."
+      ],
+      "synonyms": [
+        "improve",
+        "boost"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "432bc919-3f4f-4938-be30-778cd9cc9a61",
+      "english": "entirely",
+      "translation": null,
+      "hebrew": "לחלוטין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I am entirely sure that I locked the door.",
+        "The project is entirely dependent on funding."
+      ],
+      "synonyms": [
+        "completely",
+        "totally"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "07439410-1e79-4ddb-8de5-7bbb36e660cf",
+      "english": "enzyme",
+      "translation": null,
+      "hebrew": "אנזים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Enzymes are essential for digestion.",
+        "The enzyme breaks down complex molecules."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "c72e7e41-2cec-4d1e-855d-9d8e97a79e3e",
+      "english": "equality",
+      "translation": null,
+      "hebrew": "שוויון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Equality is a fundamental right.",
+        "We strive for equality in the workplace."
+      ],
+      "synonyms": [
+        "fairness",
+        "justice"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "bae59635-12d7-47be-95c9-1a505c3b81e5",
+      "english": "equates",
+      "translation": null,
+      "hebrew": "משווה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The study equates happiness with wealth.",
+        "The formula equates energy with mass and the speed of light."
+      ],
+      "synonyms": [
+        "equals",
+        "correlates"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "c1b4d148-0487-401c-82fd-0ad470768f92",
+      "english": "evoke",
+      "translation": null,
+      "hebrew": "לעורר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The music evokes memories of the past.",
+        "The painting evokes a feeling of sadness."
+      ],
+      "synonyms": [
+        "arouse",
+        "stimulate"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "6f42b722-0fc3-4453-bc77-79c6f8af672f",
+      "english": "evolutionary",
+      "translation": null,
+      "hebrew": "אבולוציוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Evolutionary biology explains the diversity of life.",
+        "The change was an evolutionary process."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "9ed99f09-55f1-454e-bfec-e173ac6a7275",
+      "english": "evolved",
+      "translation": null,
+      "hebrew": "התפתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Humans evolved from apes.",
+        "The company has evolved over the years."
+      ],
+      "synonyms": [
+        "developed",
+        "progressed"
+      ],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "d3d0668c-2f23-4ad5-b14b-03bee6e264bf",
+      "english": "excessively",
+      "translation": null,
+      "hebrew": "מוגזם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He eats excessively when he is stressed.",
+        "The price is excessively high."
+      ],
+      "synonyms": [
+        "overly",
+        "extremely"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c5f891f-87a5-475a-a207-32355469b6cc",
+      "english": "exchange",
+      "translation": null,
+      "hebrew": "להחליף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They exchanged gifts at Christmas.",
+        "You can exchange the item if it doesn't fit."
+      ],
+      "synonyms": [
+        "trade",
+        "swap"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "abd5e769-7aa7-48e0-80ce-a20f7e28300a",
+      "english": "exclude",
+      "translation": null,
+      "hebrew": "להוציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The club excludes members who don't pay dues.",
+        "The law excludes certain types of income."
+      ],
+      "synonyms": [
+        "omit",
+        "leave out"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "835b222a-d2c7-4c0f-95a7-9496367c825f",
+      "english": "exclusive",
+      "translation": null,
+      "hebrew": "בלעדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is an exclusive offer for our members.",
+        "The hotel is very exclusive and expensive."
+      ],
+      "synonyms": [
+        "private",
+        "restricted"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "423238c7-e453-41ea-8e77-5f0378b8b71c",
+      "english": "exclusively",
+      "translation": null,
+      "hebrew": "באופן בלעדי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The product is sold exclusively online.",
+        "The article focuses exclusively on the topic."
+      ],
+      "synonyms": [
+        "solely",
+        "only"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "363d967e-e1c6-452b-a59a-b003360a625b",
+      "english": "excuse",
+      "translation": null,
+      "hebrew": "תירוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made up an excuse for being late.",
+        "That's not a valid excuse."
+      ],
+      "synonyms": [
+        "reason",
+        "pretext"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4e4e7bef-b2f0-4ab8-bcb3-8d138ec6bfb2",
+      "english": "excuse",
+      "translation": null,
+      "hebrew": "לסלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please excuse my interruption.",
+        "I hope you can excuse my mistake."
+      ],
+      "synonyms": [
+        "forgive",
+        "pardon"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2c355c99-7087-4d8d-96c9-8fe18192d204",
+      "english": "explicit",
+      "translation": null,
+      "hebrew": "מפורש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were very explicit.",
+        "The contract had explicit terms."
+      ],
+      "synonyms": [
+        "clear",
+        "precise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4b1e6034-c9b8-4a2a-82d7-97b5a7dd3c0e",
+      "english": "explore",
+      "translation": null,
+      "hebrew": "לחקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They want to explore the Amazon rainforest.",
+        "The scientists are exploring new treatments for the disease."
+      ],
+      "synonyms": [
+        "investigate",
+        "discover"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "72b492b5-d3be-4589-8955-1e6caf055fb1",
+      "english": "exposure",
+      "translation": null,
+      "hebrew": "חשיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Prolonged exposure to the sun can cause skin damage.",
+        "The company gained exposure through the advertising campaign."
+      ],
+      "synonyms": [
+        "vulnerability",
+        "publicity"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1e260882-e85a-4136-b0f2-3e4e7c9d3f64",
+      "english": "exquisite",
+      "translation": null,
+      "hebrew": "מעודן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was exquisite.",
+        "She has exquisite taste in art."
+      ],
+      "synonyms": [
+        "delicate",
+        "refined"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "68519e20-ce85-4e3c-b408-900d742d5614",
+      "english": "exquisite",
+      "translation": null,
+      "hebrew": "יוצא מן הכלל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The craftsmanship is exquisite.",
+        "The view from the top of the mountain is exquisite."
+      ],
+      "synonyms": [
+        "exceptional",
+        "superb"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e576e5b0-83e8-426b-8a34-ef862f65426d",
+      "english": "extend",
+      "translation": null,
+      "hebrew": "להאריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to extend the deadline.",
+        "The road extends for miles."
+      ],
+      "synonyms": [
+        "lengthen",
+        "prolong"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5f821436-fa49-4443-8b7c-3c4923835e04",
+      "english": "extension",
+      "translation": null,
+      "hebrew": "הרחבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The library is planning an extension.",
+        "The phone number has a new extension."
+      ],
+      "synonyms": [
+        "addition",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "47f2ad0a-befe-489d-b953-fd53c3bf8f75",
+      "english": "exterior",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The exterior of the building needs painting.",
+        "The car has an exterior mirror."
+      ],
+      "synonyms": [
+        "outer",
+        "outside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e6fe4713-a258-4fa9-a8c2-ff359eddb7b9",
+      "english": "external",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to hire an external consultant.",
+        "The company faces external pressures."
+      ],
+      "synonyms": [
+        "outside",
+        "foreign"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3f8f8fd1-bf61-435a-96bd-fd791355cf55",
+      "english": "extinction",
+      "translation": null,
+      "hebrew": "הכחדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Many species are facing extinction.",
+        "The extinction of the dinosaurs is a mystery."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "d0d43aaa-fdeb-4067-bc0f-fa4940e12059",
+      "english": "extract",
+      "translation": null,
+      "hebrew": "לִגְזוֹר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dentist had to extract a tooth.",
+        "The company extracts oil from the ground."
+      ],
+      "synonyms": [
+        "remove",
+        "withdraw"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5b0a4fdb-1461-4b45-abdd-099bee647d8e",
+      "english": "factor",
+      "translation": null,
+      "hebrew": "גורם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Price is an important factor when making a purchase.",
+        "There are many factors that contribute to success."
+      ],
+      "synonyms": [
+        "element",
+        "component"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

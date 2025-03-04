@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "chunk_number": 43,
+    "words_range": "consumers-demographic",
+    "word_count": 30,
+    "start_index": 1260,
+    "end_index": 1289
+  },
+  "words": [
+    {
+      "word_id": "cfe46392-b47e-4a54-a5f3-e164936e39b7",
+      "english": "consumers",
+      "translation": null,
+      "hebrew": "צרכנים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Consumers are demanding better products.",
+        "The company needs to understand its consumers."
+      ],
+      "synonyms": [
+        "customers",
+        "buyers"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "31978430-f717-47a6-a66a-1910345cce7f",
+      "english": "contain",
+      "translation": null,
+      "hebrew": "להכיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The box contains books.",
+        "The bottle contains water."
+      ],
+      "synonyms": [
+        "include",
+        "hold"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d54971c-cb82-42fd-b158-a233bc154c10",
+      "english": "contemporary",
+      "translation": null,
+      "hebrew": "עכשווי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Contemporary art is very diverse.",
+        "He is a contemporary writer."
+      ],
+      "synonyms": [
+        "modern",
+        "current"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "b150740c-cdb2-4e1d-b2fd-2f7cc10d0e52",
+      "english": "convenient",
+      "translation": null,
+      "hebrew": "נוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The location is very convenient.",
+        "It's convenient to have a store nearby."
+      ],
+      "synonyms": [
+        "easy",
+        "handy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ec6e4efb-c8ff-4b76-8afb-bbc8f7eb54b8",
+      "english": "conveniently",
+      "translation": null,
+      "hebrew": "בנוחות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The store is conveniently located.",
+        "The app conveniently saves your data."
+      ],
+      "synonyms": [
+        "easily",
+        "handily"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4177f623-ce58-4af6-a36f-36d6ec16d4ae",
+      "english": "convention",
+      "translation": null,
+      "hebrew": "מוסכמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is a convention to shake hands when you meet someone.",
+        "Breaking social conventions can be seen as rude."
+      ],
+      "synonyms": [
+        "custom",
+        "norm"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "49b46c0f-4e14-49d2-8569-ec446365387e",
+      "english": "convention",
+      "translation": null,
+      "hebrew": "כנס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The political convention will be held next month.",
+        "Many people attend the comic book convention."
+      ],
+      "synonyms": [
+        "conference",
+        "meeting"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "61a06482-6429-48f9-ac93-ac307656de79",
+      "english": "conventional",
+      "translation": null,
+      "hebrew": "קונבנציונלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a conventional way of thinking.",
+        "The design is very conventional."
+      ],
+      "synonyms": [
+        "traditional",
+        "standard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "081d9574-39dd-4b34-90a0-3d5009194e6f",
+      "english": "convert",
+      "translation": null,
+      "hebrew": "להמיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can convert dollars to euros.",
+        "The sofa converts into a bed."
+      ],
+      "synonyms": [
+        "transform",
+        "change"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de5e36c5-6c80-468a-9964-57eae833c3ce",
+      "english": "convert",
+      "translation": null,
+      "hebrew": "להתגייר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to convert to Judaism.",
+        "She converted to Islam."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "890805a3-08d3-49dd-8a00-29f869403f71",
+      "english": "convey",
+      "translation": null,
+      "hebrew": "להעביר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting conveys a sense of sadness.",
+        "The message was conveyed clearly."
+      ],
+      "synonyms": [
+        "communicate",
+        "express"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "124f3f6a-3bd2-468c-8589-47754c74a01d",
+      "english": "courageous",
+      "translation": null,
+      "hebrew": "אמיץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The firefighter was very courageous.",
+        "It was courageous of her to speak out."
+      ],
+      "synonyms": [
+        "brave",
+        "fearless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fe918699-ecdb-449b-8099-14f1bf7a141b",
+      "english": "create",
+      "translation": null,
+      "hebrew": "ליצור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist creates beautiful paintings.",
+        "We need to create a new system."
+      ],
+      "synonyms": [
+        "make",
+        "design"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd3c6caa-fdef-49eb-a706-ffd2c136ede4",
+      "english": "creator",
+      "translation": null,
+      "hebrew": "יוצר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the creator of the software.",
+        "The creator of the universe is unknown."
+      ],
+      "synonyms": [
+        "maker",
+        "designer"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "472baf26-9044-4dd3-bafb-f1de92e4a11e",
+      "english": "creature",
+      "translation": null,
+      "hebrew": "יצור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A dog is a friendly creature.",
+        "The sea is full of strange creatures."
+      ],
+      "synonyms": [
+        "animal",
+        "being"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "0ca051fc-d48d-44db-be61-3b7892bcf252",
+      "english": "currency",
+      "translation": null,
+      "hebrew": "מטבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The currency of Japan is the yen.",
+        "What is the currency exchange rate?"
+      ],
+      "synonyms": [
+        "money",
+        "cash"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "19f8643d-628e-40cb-84e1-ed6246a55264",
+      "english": "custom",
+      "translation": null,
+      "hebrew": "מנהג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is a custom to give gifts on birthdays.",
+        "The custom is dying out."
+      ],
+      "synonyms": [
+        "tradition",
+        "practice"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "9332095f-847c-4e72-b331-188e131255cb",
+      "english": "custom",
+      "translation": null,
+      "hebrew": "מותאם אישית",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We offer custom designs.",
+        "The car has custom paint."
+      ],
+      "synonyms": [
+        "personalized",
+        "bespoke"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "de2557bf-c5da-46d2-86da-5d2d72778962",
+      "english": "customer",
+      "translation": null,
+      "hebrew": "לקוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The customer is always right.",
+        "We value our customers."
+      ],
+      "synonyms": [
+        "client",
+        "buyer"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "ceedc473-1a9a-446e-8904-2c875cc32e71",
+      "english": "customize",
+      "translation": null,
+      "hebrew": "להתאים אישית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can customize the settings.",
+        "We can customize the product to your needs."
+      ],
+      "synonyms": [
+        "personalize",
+        "tailor"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "ca6465d8-b0e6-4b5f-a16f-92d02e718adf",
+      "english": "damage",
+      "translation": null,
+      "hebrew": "נזק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The storm caused a lot of damage.",
+        "The car has some damage."
+      ],
+      "synonyms": [
+        "harm",
+        "injury"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3371fc54-286f-40e7-bc6a-36e36038206c",
+      "english": "decade",
+      "translation": null,
+      "hebrew": "עשור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The 1980s was a great decade for music.",
+        "A decade is 10 years."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "14d7395b-fd7a-42ae-bc6c-d3c7c079ac97",
+      "english": "defeat",
+      "translation": null,
+      "hebrew": "להביס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Our team defeated the other team.",
+        "He was defeated in the election."
+      ],
+      "synonyms": [
+        "beat",
+        "overcome"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b0393f3-5ac5-4bc4-9037-07f3865abfbf",
+      "english": "defeated",
+      "translation": null,
+      "hebrew": "מובס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The defeated army retreated.",
+        "He looked defeated after the loss."
+      ],
+      "synonyms": [
+        "beaten",
+        "vanquished"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e8179b03-bf17-44e5-bd9f-c9d4ca5b5a0d",
+      "english": "defend",
+      "translation": null,
+      "hebrew": "להגן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to defend our country.",
+        "He defended his friend's actions."
+      ],
+      "synonyms": [
+        "protect",
+        "guard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "75791190-70d1-4450-b091-197ebf12b9de",
+      "english": "defense",
+      "translation": null,
+      "hebrew": "הגנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country needs a strong defense.",
+        "He played defense in the game."
+      ],
+      "synonyms": [
+        "protection",
+        "security"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7e47681-0ce3-4ae0-a1c8-2d8d14240585",
+      "english": "deficiency",
+      "translation": null,
+      "hebrew": "מחסור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a deficiency of vitamin D in his blood.",
+        "The system has some deficiencies."
+      ],
+      "synonyms": [
+        "lack",
+        "shortage"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "01350f4c-196f-47bf-8dde-b0c1b84f64be",
+      "english": "deliver",
+      "translation": null,
+      "hebrew": "לספק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company delivers packages.",
+        "He delivered a great speech."
+      ],
+      "synonyms": [
+        "provide",
+        "supply"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a031b45e-5d06-4d4a-9efb-d7ac6cd0117f",
+      "english": "delivery",
+      "translation": null,
+      "hebrew": "משלוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The delivery is expected tomorrow.",
+        "We offer free delivery."
+      ],
+      "synonyms": [
+        "shipment",
+        "transport"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "777fb48d-e81a-4de0-bbb1-c003b35e3870",
+      "english": "demographic",
+      "translation": null,
+      "hebrew": "דמוגרפי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The demographic data is very important.",
+        "We need to understand the demographic trends."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "statistics"
+      ]
+    }
+  ]
+}

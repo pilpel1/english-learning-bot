@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 23,
+    "words_range": "rates-slow",
+    "word_count": 30,
+    "start_index": 660,
+    "end_index": 689
+  },
+  "words": [
+    {
+      "word_id": "bc547261-6e73-483d-8fce-b80f245aec4f",
+      "english": "rates",
+      "translation": "שיעורים",
+      "hebrew": "שיעורים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The interest rates have increased.",
+        "They offer competitive rates for their services."
+      ],
+      "synonyms": ["prices", "charges", "fees"],
+      "topic_tags": ["general", "finance", "economy"]
+    },
+    {
+      "word_id": "279905da-28e7-4714-a417-3a1d9d4e311a",
+      "english": "rather",
+      "translation": "למעשה",
+      "hebrew": "למעשה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I would rather stay home tonight.",
+        "It's rather cold outside."
+      ],
+      "synonyms": ["preferably", "somewhat", "quite"],
+      "topic_tags": ["general", "preference", "degree"]
+    },
+    {
+      "word_id": "8efedd58-2fff-4a3b-b1e4-bb2d9fe9f3b6",
+      "english": "react",
+      "translation": "להגיב",
+      "hebrew": "להגיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He didn't react well to the news.",
+        "How did she react to the surprise?"
+      ],
+      "synonyms": ["respond", "reply", "answer"],
+      "topic_tags": ["general", "action", "emotion"]
+    },
+    {
+      "word_id": "f9c3a271-2124-4c52-a40c-8e8c3023cb66",
+      "english": "region",
+      "translation": "אזור",
+      "hebrew": "אזור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This region is known for its wine.",
+        "The weather in the region is mild."
+      ],
+      "synonyms": ["area", "zone", "district"],
+      "topic_tags": ["general", "geography", "location"]
+    },
+    {
+      "word_id": "010dd05c-b504-4827-a33d-2cdf9e3173b9",
+      "english": "register",
+      "translation": "להירשם",
+      "hebrew": "להירשם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to register for the course.",
+        "He registered his car last week."
+      ],
+      "synonyms": ["enroll", "sign up", "record"],
+      "topic_tags": ["general", "action", "administration"]
+    },
+    {
+      "word_id": "2cd9f2e0-abec-4108-b816-efce814c5c5f",
+      "english": "registration",
+      "translation": "רישום",
+      "hebrew": "רישום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The registration process is simple.",
+        "She completed the registration online."
+      ],
+      "synonyms": ["enrollment", "sign-up", "entry"],
+      "topic_tags": ["general", "administration", "process"]
+    },
+    {
+      "word_id": "d484a4a0-dc8c-4f62-a782-e902b129cc16",
+      "english": "reject",
+      "translation": "לדחות",
+      "hebrew": "לדחות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They rejected the proposal.",
+        "She was rejected by the university."
+      ],
+      "synonyms": ["decline", "refuse", "dismiss"],
+      "topic_tags": ["general", "decision", "action"]
+    },
+    {
+      "word_id": "1054ef3d-c9cd-40ff-976d-34222c258415",
+      "english": "rest",
+      "translation": "מנוחה",
+      "hebrew": "מנוחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He needs some rest after the long journey.",
+        "Take a rest before you continue working."
+      ],
+      "synonyms": ["break", "pause", "repose"],
+      "topic_tags": ["general", "health", "relaxation"]
+    },
+    {
+      "word_id": "c098d4e5-8941-43d4-a80d-953428b3f444",
+      "english": "rest",
+      "translation": "לנוח",
+      "hebrew": "לנוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to rest for a while.",
+        "She rested her head on the pillow."
+      ],
+      "synonyms": ["relax", "repose", "unwind"],
+      "topic_tags": ["general", "health", "relaxation"]
+    },
+    {
+      "word_id": "5a3dc5d9-31c8-4c9a-967a-535db38aae73",
+      "english": "rich",
+      "translation": "עשיר",
+      "hebrew": "עשיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a rich businessman.",
+        "The cake is rich in flavor."
+      ],
+      "synonyms": ["wealthy", "affluent", "prosperous"],
+      "topic_tags": ["general", "finance", "quality"]
+    },
+    {
+      "word_id": "de6bc090-293d-4e3d-b29a-4d53d6a905f5",
+      "english": "right",
+      "translation": "נכון",
+      "hebrew": "נכון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "You are right about the answer.",
+        "He made the right decision."
+      ],
+      "synonyms": ["correct", "accurate", "true"],
+      "topic_tags": ["general", "judgment", "accuracy"]
+    },
+    {
+      "word_id": "dca721e3-ca87-4043-9209-c6e92a82fb07",
+      "english": "risk",
+      "translation": "סיכון",
+      "hebrew": "סיכון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a risk of rain tomorrow.",
+        "He took a big risk by investing in the company."
+      ],
+      "synonyms": ["danger", "hazard", "peril"],
+      "topic_tags": ["general", "safety", "finance"]
+    },
+    {
+      "word_id": "06879c4b-4e32-4645-943a-a1eeef6d4633",
+      "english": "river",
+      "translation": "נהר",
+      "hebrew": "נהר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The river flows through the valley.",
+        "They went fishing in the river."
+      ],
+      "synonyms": ["stream", "waterway", "creek"],
+      "topic_tags": ["general", "geography", "nature"]
+    },
+    {
+      "word_id": "66d55a33-1afc-44a8-b861-670b8dd63462",
+      "english": "road",
+      "translation": "כביש",
+      "hebrew": "כביש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The road is closed for repairs.",
+        "They live on a quiet road."
+      ],
+      "synonyms": ["street", "highway", "path"],
+      "topic_tags": ["general", "transportation", "infrastructure"]
+    },
+    {
+      "word_id": "83359cf1-97cf-42ab-99e5-1680e5f68daa",
+      "english": "safe",
+      "translation": "בטוח",
+      "hebrew": "בטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The children are safe at home.",
+        "It's safe to cross the street now."
+      ],
+      "synonyms": ["secure", "protected", "unharmed"],
+      "topic_tags": ["general", "safety", "security"]
+    },
+    {
+      "word_id": "1c5ed27c-42bf-4996-a602-940962a1eb0b",
+      "english": "safety",
+      "translation": "בטיחות",
+      "hebrew": "בטיחות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Safety is our top priority.",
+        "They follow strict safety regulations."
+      ],
+      "synonyms": ["security", "protection", "safeguard"],
+      "topic_tags": ["general", "security", "protection"]
+    },
+    {
+      "word_id": "342e1709-1c8e-4575-b48b-4e53ff3ef593",
+      "english": "save",
+      "translation": "להציל",
+      "hebrew": "להציל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He saved the child from drowning.",
+        "She saved money for a new car."
+      ],
+      "synonyms": ["rescue", "preserve", "conserve"],
+      "topic_tags": ["general", "action", "finance"]
+    },
+    {
+      "word_id": "f8b06534-290f-45b1-b53c-c7625d6c6f19",
+      "english": "scare",
+      "translation": "להפחיד",
+      "hebrew": "להפחיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The loud noise scared the cat.",
+        "He tried to scare his friends with a ghost story."
+      ],
+      "synonyms": ["frighten", "terrify", "startle"],
+      "topic_tags": ["general", "emotion", "action"]
+    },
+    {
+      "word_id": "2da26fa3-559f-4d6c-9675-8ebf938ef6bb",
+      "english": "school",
+      "translation": "בית ספר",
+      "hebrew": "בית ספר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children go to school every day.",
+        "She teaches at a local school."
+      ],
+      "synonyms": ["academy", "institution", "educational facility"],
+      "topic_tags": ["general", "education", "learning"]
+    },
+    {
+      "word_id": "4633a271-c83c-402f-aeb3-942af345ee38",
+      "english": "search",
+      "translation": "לחפש",
+      "hebrew": "לחפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He searched for his keys everywhere.",
+        "They are searching for a new job."
+      ],
+      "synonyms": ["look for", "seek", "explore"],
+      "topic_tags": ["general", "action", "discovery"]
+    },
+    {
+      "word_id": "31e972bb-c240-4db4-848a-601ec18fc808",
+      "english": "select",
+      "translation": "לבחור",
+      "hebrew": "לבחור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please select a book from the shelf.",
+        "She was selected for the team."
+      ],
+      "synonyms": ["choose", "pick", "elect"],
+      "topic_tags": ["general", "decision", "choice"]
+    },
+    {
+      "word_id": "33da0cd4-9e1b-4b5c-9017-3c0b19a2a6a7",
+      "english": "sell",
+      "translation": "למכור",
+      "hebrew": "למכור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sells cars for a living.",
+        "They decided to sell their house."
+      ],
+      "synonyms": ["trade", "vend", "market"],
+      "topic_tags": ["general", "commerce", "transaction"]
+    },
+    {
+      "word_id": "72475048-1967-4f5a-82da-8df354fdf128",
+      "english": "send",
+      "translation": "לשלוח",
+      "hebrew": "לשלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please send me the document by email.",
+        "He sent a letter to his friend."
+      ],
+      "synonyms": ["dispatch", "transmit", "forward"],
+      "topic_tags": ["general", "communication", "action"]
+    },
+    {
+      "word_id": "44b65a0d-d427-4344-b232-c903a5cef884",
+      "english": "several",
+      "translation": "כמה",
+      "hebrew": "כמה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Several people attended the meeting.",
+        "She has several books on the subject."
+      ],
+      "synonyms": ["a few", "some", "various"],
+      "topic_tags": ["general", "quantity", "number"]
+    },
+    {
+      "word_id": "35b495fd-f62b-40b4-8b01-a889bbd73848",
+      "english": "short",
+      "translation": "קצר",
+      "hebrew": "קצר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting was short and to the point.",
+        "He has short hair."
+      ],
+      "synonyms": ["brief", "concise", "compact"],
+      "topic_tags": ["general", "length", "time"]
+    },
+    {
+      "word_id": "276008a1-1db0-434f-8090-f2fe287be9a5",
+      "english": "shortage",
+      "translation": "מחסור",
+      "hebrew": "מחסור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a shortage of water in the area.",
+        "The company is facing a shortage of skilled workers."
+      ],
+      "synonyms": ["deficiency", "lack", "scarcity"],
+      "topic_tags": ["general", "supply", "economy"]
+    },
+    {
+      "word_id": "6e5da9be-8f36-469d-8acd-de7b0a89af97",
+      "english": "side",
+      "translation": "צד",
+      "hebrew": "צד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He stood by her side.",
+        "The side of the building needs painting."
+      ],
+      "synonyms": ["flank", "aspect", "facet"],
+      "topic_tags": ["general", "position", "geometry"]
+    },
+    {
+      "word_id": "c3e157d7-7cde-4ab5-9d26-5cbe1ef58903",
+      "english": "sleep",
+      "translation": "שינה",
+      "hebrew": "שינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He needs more sleep to feel rested.",
+        "The baby is finally asleep."
+      ],
+      "synonyms": ["rest", "slumber", "nap"],
+      "topic_tags": ["general", "health", "relaxation"]
+    },
+    {
+      "word_id": "e250c44e-6a04-4210-bc17-001b0b187b1a",
+      "english": "sleep",
+      "translation": "לישון",
+      "hebrew": "לישון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sleeps for eight hours every night.",
+        "She slept through the entire flight."
+      ],
+      "synonyms": ["rest", "slumber", "doze"],
+      "topic_tags": ["general", "health", "relaxation"]
+    },
+    {
+      "word_id": "6a716011-7f24-4b0a-85ee-5b6ab6d9f8ea",
+      "english": "slow",
+      "translation": "איטי",
+      "hebrew": "איטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The traffic is moving very slow today.",
+        "He is a slow reader."
+      ],
+      "synonyms": ["lethargic", "sluggish", "unhurried"],
+      "topic_tags": ["general", "speed", "efficiency"]
+    }
+  ]
+}

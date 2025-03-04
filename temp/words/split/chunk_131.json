@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 131,
+    "words_range": "jog-marble",
+    "word_count": 30,
+    "start_index": 3900,
+    "end_index": 3929
+  },
+  "words": [
+    {
+      "word_id": "4e640b8d-54fe-4056-bc5a-58f3e79ebc11",
+      "english": "jog",
+      "translation": null,
+      "hebrew": "לרוץ קל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He jogs every morning.",
+        "They went for a jog in the park."
+      ],
+      "synonyms": ["run slowly"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "3ea64e2f-6402-4440-8c7b-252847736ff1",
+      "english": "joke",
+      "translation": null,
+      "hebrew": "בדיחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He told a joke.",
+        "The joke was funny."
+      ],
+      "synonyms": ["gag", "pun"],
+      "topic_tags": ["general", "humor"]
+    },
+    {
+      "word_id": "c4cc982b-f310-42fa-99c6-75b47788357a",
+      "english": "jug",
+      "translation": null,
+      "hebrew": "כד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The jug is full of water.",
+        "Pour water from the jug."
+      ],
+      "synonyms": ["pitcher"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "2bdcd829-3417-43cc-ad38-85dc1303ac11",
+      "english": "juice",
+      "translation": null,
+      "hebrew": "מיץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She drank orange juice.",
+        "What kind of juice do you want?"
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "18e51927-01a1-425a-95ab-40554ff8179a",
+      "english": "jungle",
+      "translation": null,
+      "hebrew": "ג'ונגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The jungle is dense and green.",
+        "The explorer ventured into the jungle."
+      ],
+      "synonyms": ["rainforest"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "d85d558f-bfc3-4828-97b6-fa5ed46a5ede",
+      "english": "junkyard",
+      "translation": null,
+      "hebrew": "מגרש גרוטאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He found the part in a junkyard.",
+        "They took the old car to the junkyard."
+      ],
+      "synonyms": ["scrapyard"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b8e928cd-bb4f-44a7-91a2-f453a7318845",
+      "english": "kettle",
+      "translation": null,
+      "hebrew": "קומקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The kettle is boiling.",
+        "He filled the kettle with water."
+      ],
+      "synonyms": ["teapot"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "4090f3ae-78dd-4b85-8aca-8df70ce151ad",
+      "english": "kite",
+      "translation": null,
+      "hebrew": "עפיפון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The kite flew high in the sky.",
+        "He built a kite."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "deb0fd92-2a24-40db-8e01-cd480ae00fd3",
+      "english": "lake",
+      "translation": null,
+      "hebrew": "אגם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lake is beautiful.",
+        "They swam in the lake."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "5e891a11-feb3-4cf7-a94f-34eb9e820f1e",
+      "english": "lame",
+      "translation": null,
+      "hebrew": "צולע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The horse is lame.",
+        "That's a lame excuse."
+      ],
+      "synonyms": ["disabled", "weak"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5ee503e3-0100-4c51-8bfe-58b3b1e75791",
+      "english": "launder",
+      "translation": null,
+      "hebrew": "לכבס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She laundered the clothes.",
+        "He laundered money."
+      ],
+      "synonyms": ["wash", "clean"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e0cbb27b-d78a-4e56-a614-85a7ec6267e5",
+      "english": "leaf (leaves)",
+      "translation": null,
+      "hebrew": "עלה (עלים)",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The leaf is green.",
+        "The leaves fell from the tree."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "8e22a804-d69b-425c-acf4-808c9c929d11",
+      "english": "league",
+      "translation": null,
+      "hebrew": "ליגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He plays in the major league.",
+        "They won the league championship."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "fc21d089-916c-48ca-93fe-594c29359724",
+      "english": "league",
+      "translation": null,
+      "hebrew": "ברית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They formed a league of nations.",
+        "The countries formed a league."
+      ],
+      "synonyms": ["alliance", "federation"],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "cecb533f-d3bf-4a48-81f7-fc01d46b1c20",
+      "english": "leniency",
+      "translation": null,
+      "hebrew": "רחמנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge showed leniency.",
+        "He begged for leniency."
+      ],
+      "synonyms": ["mercy", "compassion"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7555301e-9d82-4f95-8a09-a04370e24085",
+      "english": "leopard",
+      "translation": null,
+      "hebrew": "נמר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The leopard has spots.",
+        "The leopard is a fast runner."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "30d12751-6462-48ec-a7e7-408b5a26762f",
+      "english": "lifestyle",
+      "translation": null,
+      "hebrew": "סגנון חיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a healthy lifestyle.",
+        "She changed her lifestyle."
+      ],
+      "synonyms": ["way of life"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "336cede2-61a4-4846-b126-e7fca4be7e6b",
+      "english": "lip",
+      "translation": null,
+      "hebrew": "שפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has red lipstick on her lips.",
+        "Bite your lip."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "09773582-12b6-4fb8-a3c5-f889e11fe38f",
+      "english": "liver",
+      "translation": null,
+      "hebrew": "כבד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The liver filters blood.",
+        "He has a liver problem."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical", "body"]
+    },
+    {
+      "word_id": "e2ed1253-1b3b-46c9-831c-031693efa6bf",
+      "english": "loan",
+      "translation": null,
+      "hebrew": "הלוואה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He took out a loan.",
+        "Pay back the loan."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "b55cb917-232e-45a9-937e-b2745f523132",
+      "english": "loathe",
+      "translation": null,
+      "hebrew": "לסלוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I loathe him.",
+        "She loathes violence."
+      ],
+      "synonyms": ["hate", "detest", "abhor"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e2ed828c-5fd3-489a-9497-3cdb3760fcf5",
+      "english": "loyalty",
+      "translation": null,
+      "hebrew": "נאמנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He showed loyalty to his friends.",
+        "Loyalty is important."
+      ],
+      "synonyms": ["faithfulness", "devotion"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "35d86dc1-caaa-4602-8865-b6697cf889d1",
+      "english": "luck",
+      "translation": null,
+      "hebrew": "מזל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Good luck!",
+        "He had good luck."
+      ],
+      "synonyms": ["fortune"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2cbbed3c-0119-402e-9190-bcf9c6370426",
+      "english": "lunch",
+      "translation": null,
+      "hebrew": "ארוחת צהריים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They had lunch together.",
+        "What did you have for lunch?"
+      ],
+      "synonyms": ["midday meal"],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "4a380f9a-bb01-41b7-90fc-e35321fd8444",
+      "english": "made",
+      "translation": null,
+      "hebrew": "עשוי",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is made of wood.",
+        "She made a cake."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5035ea85-8500-439a-86e0-cca04b23c848",
+      "english": "magical",
+      "translation": null,
+      "hebrew": "קסום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The place had a magical atmosphere.",
+        "She has magical powers."
+      ],
+      "synonyms": ["enchanting", "spellbinding"],
+      "topic_tags": ["general", "fantasy"]
+    },
+    {
+      "word_id": "536ec141-32ac-4c51-9e12-c2485decfe1f",
+      "english": "magnificent",
+      "translation": null,
+      "hebrew": "מדהים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The view is magnificent.",
+        "It was a magnificent performance."
+      ],
+      "synonyms": ["splendid", "grand", "impressive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f6d7b990-3819-4e60-a80b-77da9026877a",
+      "english": "make sure",
+      "translation": null,
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Make sure you lock the door.",
+        "Make sure to call me."
+      ],
+      "synonyms": ["ensure", "verify"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1e283566-086f-4f28-8330-361fc2d10b77",
+      "english": "makeup",
+      "translation": null,
+      "hebrew": "איפור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore makeup.",
+        "She put on makeup."
+      ],
+      "synonyms": ["cosmetics"],
+      "topic_tags": ["general", "fashion"]
+    },
+    {
+      "word_id": "37b04c88-0c5d-489d-85ac-fae2ec78c955",
+      "english": "marble",
+      "translation": null,
+      "hebrew": "שיש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The statue is made of marble.",
+        "The floor is marble."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "material"]
+    }
+  ]
+}

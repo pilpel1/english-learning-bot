@@ -1,0 +1,564 @@
+{
+  "_meta": {
+    "chunk_number": 102,
+    "words_range": "fluid-height",
+    "word_count": 30,
+    "start_index": 3030,
+    "end_index": 3059
+  },
+  "words": [
+    {
+      "word_id": "4c5769f3-ade4-4ddf-820b-b3439c102877",
+      "english": "fluid",
+      "translation": null,
+      "hebrew": "נוזל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is a fluid.",
+        "The doctor told him to drink plenty of fluids."
+      ],
+      "synonyms": [
+        "liquid"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "703bfba3-dd9f-4a9e-bcd4-07174bc638a1",
+      "english": "footprints",
+      "translation": null,
+      "hebrew": "טביעות רגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We followed the footprints in the snow.",
+        "The dog left footprints on the clean floor."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "17619e08-e354-4f93-951d-87150dbffb33",
+      "english": "foresee",
+      "translation": null,
+      "hebrew": "לחזות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We cannot foresee the future.",
+        "I foresee some difficulties with this plan."
+      ],
+      "synonyms": [
+        "predict",
+        "anticipate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8cf92507-23b6-46c9-8be6-a2cbe8d237fd",
+      "english": "fort",
+      "translation": null,
+      "hebrew": "מבצר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The old fort is a popular tourist attraction.",
+        "They built a fort out of blankets and pillows."
+      ],
+      "synonyms": [
+        "castle"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "447afa08-5104-440e-9a41-c529e9ce8499",
+      "english": "fortify",
+      "translation": null,
+      "hebrew": "לבצר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They fortified the city walls.",
+        "He drank some tea to fortify himself against the cold."
+      ],
+      "synonyms": [
+        "strengthen"
+      ],
+      "topic_tags": [
+        "general",
+        "war"
+      ]
+    },
+    {
+      "word_id": "d5a55b81-f7f3-4fc2-b4a2-99b3c5a77b41",
+      "english": "fragrance",
+      "translation": null,
+      "hebrew": "ניחוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fragrance of the flowers filled the room.",
+        "She wore a light fragrance."
+      ],
+      "synonyms": [
+        "scent",
+        "aroma"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5cb2e65a-7553-476a-ab00-ee2422141070",
+      "english": "freeze, froze",
+      "translation": null,
+      "hebrew": "לקפוא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The water will freeze if the temperature drops below 0.",
+        "I froze when I heard the bad news."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "weather"
+      ]
+    },
+    {
+      "word_id": "7b953751-408d-4b1d-9d7d-951273be7c2a",
+      "english": "fruit",
+      "translation": null,
+      "hebrew": "פרי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Apples and bananas are fruits.",
+        "This tree bears delicious fruit."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "4574e95c-4776-47b7-8aed-81896990a885",
+      "english": "fulfill",
+      "translation": null,
+      "hebrew": "למלא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He fulfilled his promise.",
+        "The job didn't fulfill her expectations."
+      ],
+      "synonyms": [
+        "achieve",
+        "satisfy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "33afd383-dba3-4992-86fa-1839d48440a9",
+      "english": "garment",
+      "translation": null,
+      "hebrew": "בגד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a beautiful garment.",
+        "The store sells all kinds of garments."
+      ],
+      "synonyms": [
+        "clothing"
+      ],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "3e02dd50-efa3-49f9-a6eb-15863ca6a340",
+      "english": "gasoline",
+      "translation": null,
+      "hebrew": "דלק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car runs on gasoline.",
+        "We need to buy gasoline for the lawnmower."
+      ],
+      "synonyms": [
+        "petrol"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "907e4742-1c07-409e-a024-cccde3582a12",
+      "english": "genre",
+      "translation": null,
+      "hebrew": "ז'אנר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What genre of music do you like?",
+        "The movie belongs to the comedy genre."
+      ],
+      "synonyms": [
+        "type",
+        "category"
+      ],
+      "topic_tags": [
+        "general",
+        "arts"
+      ]
+    },
+    {
+      "word_id": "a049f646-ff97-4c63-98ed-62359df22b1e",
+      "english": "genus",
+      "translation": null,
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The genus of this plant is unknown.",
+        "Biologists classify organisms by genus and species."
+      ],
+      "synonyms": [
+        "kind"
+      ],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "9b8a7273-1ca3-4334-b009-96590d89e14a",
+      "english": "giant",
+      "translation": null,
+      "hebrew": "ענק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The giant was very tall.",
+        "The company is a giant in the industry."
+      ],
+      "synonyms": [
+        "colossus"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a8b8e555-57cb-4bdd-8f03-0eec70fdd0e2",
+      "english": "goblet",
+      "translation": null,
+      "hebrew": "גביע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He raised his goblet in a toast.",
+        "The king drank from a golden goblet."
+      ],
+      "synonyms": [
+        "cup"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4c19a0b1-9988-4301-adc6-c36a459d43b6",
+      "english": "greet",
+      "translation": null,
+      "hebrew": "לברך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He greeted me with a smile.",
+        "The president was greeted by a crowd of supporters."
+      ],
+      "synonyms": [
+        "welcome"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "137e2e5a-0940-4644-9ad1-42ece7706656",
+      "english": "grief",
+      "translation": null,
+      "hebrew": "צער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt a deep grief after her loss.",
+        "Time can heal grief."
+      ],
+      "synonyms": [
+        "sorrow",
+        "sadness"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "e0cf18c1-6632-48c1-bf48-a372aa499181",
+      "english": "grievance",
+      "translation": null,
+      "hebrew": "תלונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He filed a grievance against his employer.",
+        "The workers have many grievances."
+      ],
+      "synonyms": [
+        "complaint"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "88f58b4d-2dce-49ef-b9c3-49eb3bb055a8",
+      "english": "growled",
+      "translation": null,
+      "hebrew": "נהם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog growled at the stranger.",
+        "He growled a warning."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "e8317b0c-7a2e-43ec-b2ce-c1defabb63b3",
+      "english": "guarantee",
+      "translation": null,
+      "hebrew": "להבטיח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I guarantee you'll love this movie.",
+        "The product comes with a guarantee."
+      ],
+      "synonyms": [
+        "promise",
+        "assure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fb7a23af-d188-4360-88db-063174a5c9a1",
+      "english": "halve",
+      "translation": null,
+      "hebrew": "לחצות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We halved the apple.",
+        "The company's profits were halved."
+      ],
+      "synonyms": [
+        "bisect"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "9ca86be9-61af-4b81-8459-774b69476b81",
+      "english": "harass",
+      "translation": null,
+      "hebrew": "להטריד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was accused of harassing his colleagues.",
+        "The media harassed the celebrity."
+      ],
+      "synonyms": [
+        "annoy",
+        "bother"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "470b7f66-fa5a-4fc5-966c-c477841783af",
+      "english": "hasten",
+      "translation": null,
+      "hebrew": "להחיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to hasten our efforts.",
+        "The rain hastened the growth of the plants."
+      ],
+      "synonyms": [
+        "accelerate",
+        "expedite"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3322a4bf-058c-4a37-9ff1-50fa84e70421",
+      "english": "hasty",
+      "translation": null,
+      "hebrew": "נחפז",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a hasty decision.",
+        "Don't be so hasty."
+      ],
+      "synonyms": [
+        "rushed",
+        "quick"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1ab2808a-fd16-41d9-aa87-c0776057dbb8",
+      "english": "hatch",
+      "translation": null,
+      "hebrew": "לבקוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The eggs will hatch in a few days.",
+        "They hatched a plan to escape."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "45f4e452-3870-4e58-8250-ea6dea1b79b9",
+      "english": "hatch",
+      "translation": null,
+      "hebrew": "פתח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hatch on the submarine was open.",
+        "They closed the hatch to prevent flooding."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9a0a8faa-dde1-4aa0-b4f4-48c9420f171e",
+      "english": "haul",
+      "translation": null,
+      "hebrew": "לגרור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They hauled the boat out of the water.",
+        "He hauled the heavy bag up the stairs."
+      ],
+      "synonyms": [
+        "drag",
+        "pull"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78ef101c-377a-470f-871f-37e5b994430f",
+      "english": "heed",
+      "translation": null,
+      "hebrew": "להקשיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You should heed his advice.",
+        "He didn't heed the warning signs."
+      ],
+      "synonyms": [
+        "listen",
+        "obey"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "339c127c-1105-4c83-b9ac-a1e586098a70",
+      "english": "hegemony",
+      "translation": null,
+      "hebrew": "הגמוניה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has hegemony over the region.",
+        "They are trying to establish their hegemony."
+      ],
+      "synonyms": [
+        "dominance"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "709442ca-48a1-426d-90af-e706a2ab2b0f",
+      "english": "height",
+      "translation": null,
+      "hebrew": "גובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the height of the building?",
+        "She is of average height."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

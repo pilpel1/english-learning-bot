@@ -1,0 +1,671 @@
+{
+  "_meta": {
+    "chunk_number": 56,
+    "words_range": "confront-design",
+    "word_count": 30,
+    "start_index": 1650,
+    "end_index": 1679
+  },
+  "words": [
+    {
+      "word_id": "ca711290-2689-40bf-96da-2d5dc7de05a9",
+      "english": "confront",
+      "translation": null,
+      "hebrew": "להתעמת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I had to confront him about his behavior.",
+        "She confronted her fears and went skydiving."
+      ],
+      "synonyms": [
+        "face",
+        "challenge"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "26cab024-596f-4440-a7cd-3ba41f3bc81e",
+      "english": "confrontation",
+      "translation": null,
+      "hebrew": "עימות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The confrontation escalated into a fight.",
+        "She tried to avoid a confrontation."
+      ],
+      "synonyms": [
+        "conflict",
+        "clash"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "8c84d52d-154d-42d2-919f-83e06f3b3f98",
+      "english": "consideration",
+      "translation": null,
+      "hebrew": "שיקול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Safety is an important consideration.",
+        "He showed no consideration for others."
+      ],
+      "synonyms": [
+        "thought",
+        "factor"
+      ],
+      "topic_tags": [
+        "general",
+        "decisionmaking"
+      ]
+    },
+    {
+      "word_id": "60d62cc7-0b1f-443c-9b46-bbfe90bd26b4",
+      "english": "considering",
+      "translation": null,
+      "hebrew": "בהתחשב ב",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Considering the circumstances, he did well.",
+        "Considering her age, she is very active."
+      ],
+      "synonyms": [
+        "given",
+        "taking into account"
+      ],
+      "topic_tags": [
+        "general",
+        "circumstances"
+      ]
+    },
+    {
+      "word_id": "5f7edc2e-92ba-450b-bd1e-7bbded317a55",
+      "english": "consistent",
+      "translation": null,
+      "hebrew": "עקבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior is consistent with his beliefs.",
+        "We need to be consistent in our approach."
+      ],
+      "synonyms": [
+        "steady",
+        "uniform"
+      ],
+      "topic_tags": [
+        "general",
+        "behavior"
+      ]
+    },
+    {
+      "word_id": "31b7d858-f15e-4c86-be6a-7d0bb1c2e1f0",
+      "english": "constant",
+      "translation": null,
+      "hebrew": "קבוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The constant noise was driving me crazy.",
+        "She is in constant pain."
+      ],
+      "synonyms": [
+        "continuous",
+        "steady"
+      ],
+      "topic_tags": [
+        "general",
+        "conditions"
+      ]
+    },
+    {
+      "word_id": "f778a1b2-493a-4926-8630-f715d60d0bb7",
+      "english": "constitute",
+      "translation": null,
+      "hebrew": "להוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Twelve months constitute a year.",
+        "These changes constitute a major improvement."
+      ],
+      "synonyms": [
+        "form",
+        "make up"
+      ],
+      "topic_tags": [
+        "general",
+        "composition"
+      ]
+    },
+    {
+      "word_id": "e6380b84-6607-41da-a233-fcd138102f47",
+      "english": "constitute",
+      "translation": null,
+      "hebrew": "להקים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new rules constitute a problem for us.",
+        "The parts constitute the machine"
+      ],
+      "synonyms": [
+        "establish",
+        "create"
+      ],
+      "topic_tags": [
+        "general",
+        "creation"
+      ]
+    },
+    {
+      "word_id": "8b88ca1f-90ba-4d93-a717-883407232537",
+      "english": "construct",
+      "translation": null,
+      "hebrew": "לבנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They plan to construct a new bridge.",
+        "We need to construct a solid foundation."
+      ],
+      "synonyms": [
+        "build",
+        "erect"
+      ],
+      "topic_tags": [
+        "general",
+        "construction"
+      ]
+    },
+    {
+      "word_id": "9c20c6c3-2557-4594-a0fd-985b9c535d97",
+      "english": "consult",
+      "translation": null,
+      "hebrew": "להתייעץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You should consult a doctor.",
+        "I need to consult with my lawyer."
+      ],
+      "synonyms": [
+        "seek advice",
+        "confer"
+      ],
+      "topic_tags": [
+        "general",
+        "advice"
+      ]
+    },
+    {
+      "word_id": "b03ac815-eba4-4fb8-a037-235516fd396c",
+      "english": "context",
+      "translation": null,
+      "hebrew": "הקשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to understand the context.",
+        "The word's meaning depends on the context."
+      ],
+      "synonyms": [
+        "setting",
+        "background"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "c0b69d41-edf6-4b6e-8f79-802e5a0ab97d",
+      "english": "contract",
+      "translation": null,
+      "hebrew": "חוזה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We signed a contract.",
+        "The contract is legally binding."
+      ],
+      "synonyms": [
+        "agreement",
+        "deal"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2cdd7791-9c50-4767-a1f7-2f98a52c3b93",
+      "english": "contract",
+      "translation": null,
+      "hebrew": "להתכווץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Metal expands and contracts with temperature changes.",
+        "The muscles contract when you exercise."
+      ],
+      "synonyms": [
+        "shrink",
+        "compress"
+      ],
+      "topic_tags": [
+        "general",
+        "physics"
+      ]
+    },
+    {
+      "word_id": "a5286f5c-96e4-4214-afb1-a791360df237",
+      "english": "contract",
+      "translation": null,
+      "hebrew": "להדבק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He contracted a disease.",
+        "She contracted the flu."
+      ],
+      "synonyms": [
+        "catch",
+        "acquire"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "146fae4e-aaf1-472e-b878-dfdcc5260a97",
+      "english": "contradiction",
+      "translation": null,
+      "hebrew": "סתירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a contradiction in his statement.",
+        "His actions are a contradiction of his words."
+      ],
+      "synonyms": [
+        "inconsistency",
+        "discrepancy"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "99927118-99a1-4943-891a-85e541199699",
+      "english": "contrary",
+      "translation": null,
+      "hebrew": "אחר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Contrary to popular belief, cats are not nocturnal.",
+        "The evidence suggests the contrary."
+      ],
+      "synonyms": [
+        "opposite",
+        "different"
+      ],
+      "topic_tags": [
+        "general",
+        "beliefs"
+      ]
+    },
+    {
+      "word_id": "69169696-599a-4999-857a-999ca9989599",
+      "english": "contribute",
+      "translation": null,
+      "hebrew": "לתרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to contribute to the project.",
+        "He contributed a lot of time and effort."
+      ],
+      "synonyms": [
+        "donate",
+        "give"
+      ],
+      "topic_tags": [
+        "general",
+        "charity"
+      ]
+    },
+    {
+      "word_id": "9591217d-959c-499a-8999-999c99c99999",
+      "english": "controversial",
+      "translation": null,
+      "hebrew": "שנוי במחלוקת",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The issue is very controversial.",
+        "He made a controversial statement."
+      ],
+      "synonyms": [
+        "disputable",
+        "debatable"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "aafe66e7-d4c9-44b4-b682-84d2d10961d0",
+      "english": "convoy",
+      "translation": null,
+      "hebrew": "שיירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The trucks traveled in a convoy.",
+        "The military convoy was heavily armed."
+      ],
+      "synonyms": [
+        "procession",
+        "flotilla"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "6533d83d-36c7-4431-ad39-e4fc9dea54fb",
+      "english": "criteria",
+      "translation": null,
+      "hebrew": "קריטריונים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What are the criteria for success?",
+        "The criteria are very strict."
+      ],
+      "synonyms": [
+        "standards",
+        "measures"
+      ],
+      "topic_tags": [
+        "general",
+        "evaluation"
+      ]
+    },
+    {
+      "word_id": "1e825298-fda3-408e-8482-58aa60b5bbdf",
+      "english": "critic",
+      "translation": null,
+      "hebrew": "מבקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a film critic.",
+        "The critic gave the play a bad review."
+      ],
+      "synonyms": [
+        "reviewer",
+        "commentator"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "436c67bc-1ae1-44c3-9a31-e11f569e6e9b",
+      "english": "criticize",
+      "translation": null,
+      "hebrew": "לבקר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't criticize me!",
+        "He criticized the government's policies."
+      ],
+      "synonyms": [
+        "condemn",
+        "reproach"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "3e3ad755-336f-4df1-bb2d-e8382bf9c1fb",
+      "english": "declaration",
+      "translation": null,
+      "hebrew": "הצהרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a declaration of love.",
+        "The declaration was signed by all parties."
+      ],
+      "synonyms": [
+        "statement",
+        "announcement"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "de47c6e1-3db5-44f4-a60a-745ed280d06f",
+      "english": "declare",
+      "translation": null,
+      "hebrew": "להצהיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I declare that I am innocent.",
+        "He declared his love for her."
+      ],
+      "synonyms": [
+        "announce",
+        "state"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "fc5fc015-45b8-4f0e-80bd-8076d934a337",
+      "english": "dedicate",
+      "translation": null,
+      "hebrew": "להקדיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He dedicated his life to helping others.",
+        "This book is dedicated to my parents."
+      ],
+      "synonyms": [
+        "devote",
+        "consecrate"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "4372f081-aa8b-4cce-813d-a4c1bd1ebe37",
+      "english": "dedicated",
+      "translation": null,
+      "hebrew": "מסור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a dedicated teacher.",
+        "She is a dedicated volunteer."
+      ],
+      "synonyms": [
+        "devoted",
+        "committed"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "f3bdb43e-5dbf-4ef7-889b-a23b80a193fd",
+      "english": "dedicated",
+      "translation": null,
+      "hebrew": "ייעודי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a dedicated server.",
+        "The park has a dedicated bike path."
+      ],
+      "synonyms": [
+        "specialized",
+        "exclusive"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "c077f0b4-48c4-4ea6-9ac1-815e219e61e6",
+      "english": "degenerate",
+      "translation": null,
+      "hebrew": "להתנוון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The city began to degenerate.",
+        "His health degenerated rapidly."
+      ],
+      "synonyms": [
+        "deteriorate",
+        "decline"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "c5a86ec6-69d6-4932-bbf2-b3a7b15f200c",
+      "english": "degree",
+      "translation": null,
+      "hebrew": "תואר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a degree in biology.",
+        "He earned a master's degree."
+      ],
+      "synonyms": [
+        "diploma",
+        "qualification"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "058160db-05dd-40a7-ab42-0776dd1466d2",
+      "english": "degree",
+      "translation": null,
+      "hebrew": "מעלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The temperature is 20 degrees Celsius.",
+        "He has a high degree of skill."
+      ],
+      "synonyms": [
+        "level",
+        "extent"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "8df9e2b2-ac59-4ca4-ac42-540d24bf95f9",
+      "english": "delay",
+      "translation": null,
+      "hebrew": "עיכוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a delay in the flight.",
+        "We apologize for the delay."
+      ],
+      "synonyms": [
+        "postponement",
+        "hold-up"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "4df08d6f-283f-416f-9f7a-b8cae9663410",
+      "english": "delight",
+      "translation": null,
+      "hebrew": "תענוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a great delight to see you.",
+        "She took great delight in her work."
+      ],
+      "synonyms": [
+        "pleasure",
+        "joy"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "5eeacf00-98ff-4390-a15f-e07bc5c910b9",
+      "english": "design",
+      "translation": null,
+      "hebrew": "עיצוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The design is very modern.",
+        "He is a talented designer."
+      ],
+      "synonyms": [
+        "plan",
+        "pattern"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    }
+  ]
+}

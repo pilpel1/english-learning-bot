@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 20,
+    "words_range": "feeling-hot",
+    "word_count": 30,
+    "start_index": 570,
+    "end_index": 599
+  },
+  "words": [
+    {
+      "word_id": "308a53fc-3d9b-42c5-876c-d40a359797ef",
+      "english": "feeling",
+      "translation": "תחושה",
+      "hebrew": "תחושה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a good feeling about this.",
+        "She expressed her feelings openly."
+      ],
+      "synonyms": ["emotion", "sensation"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "68233e63-62c6-49b1-af8c-536bd7de28b6",
+      "english": "few",
+      "translation": "מעט",
+      "hebrew": "מעט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "There are few people in the park.",
+        "I have a few questions to ask."
+      ],
+      "synonyms": ["some", "several"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "ca229d16-ecdd-40ee-8ab6-aba464588beb",
+      "english": "field",
+      "translation": "שדה",
+      "hebrew": "שדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The field is full of flowers.",
+        "He works in the field of medicine."
+      ],
+      "synonyms": ["meadow", "domain"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "49f917fd-369c-41e1-8766-f9cb01fccd08",
+      "english": "find",
+      "translation": "למצוא",
+      "hebrew": "למצוא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't find my keys.",
+        "She found a new job."
+      ],
+      "synonyms": ["discover", "locate"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "6e611499-d475-476a-af90-966a5876920e",
+      "english": "findings",
+      "translation": "ממצאים",
+      "hebrew": "ממצאים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The findings of the study were surprising.",
+        "He presented his findings to the committee."
+      ],
+      "synonyms": ["results", "conclusions"],
+      "topic_tags": ["general", "research"]
+    },
+    {
+      "word_id": "e20f4f4e-71ad-4a68-9290-e9bff6448fd7",
+      "english": "finger",
+      "translation": "אצבע",
+      "hebrew": "אצבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She cut her finger while cooking.",
+        "He pointed with his finger."
+      ],
+      "synonyms": ["digit", "appendage"],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "125f76ec-db4e-440b-90a3-165e28785de4",
+      "english": "fire",
+      "translation": "אש",
+      "hebrew": "אש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire kept us warm.",
+        "They built a fire in the fireplace."
+      ],
+      "synonyms": ["flame", "blaze"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "93315fc9-253f-4679-8d05-727fe9041529",
+      "english": "fire",
+      "translation": "לפטר",
+      "hebrew": "לפטר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company decided to fire several employees.",
+        "He was fired for misconduct."
+      ],
+      "synonyms": ["dismiss", "sack"],
+      "topic_tags": ["general", "employment"]
+    },
+    {
+      "word_id": "515c3cb2-3820-4e1d-a270-1a4e3b54f737",
+      "english": "fire",
+      "translation": "לירות",
+      "hebrew": "לירות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldier was ordered to fire.",
+        "He fired the gun into the air."
+      ],
+      "synonyms": ["shoot", "discharge"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "61c86cab-318b-49f7-bff7-f16b452a846d",
+      "english": "fix",
+      "translation": "לתקן",
+      "hebrew": "לתקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He fixed the broken chair.",
+        "Can you fix this problem?"
+      ],
+      "synonyms": ["repair", "mend"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "66578724-bfb6-4516-a0d7-bc0f6bc0beae",
+      "english": "flower",
+      "translation": "פרח",
+      "hebrew": "פרח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The garden is full of beautiful flowers.",
+        "She picked a flower from the garden."
+      ],
+      "synonyms": ["blossom", "bloom"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "82a019ed-e5dd-4dbd-b6c5-50e3b47319da",
+      "english": "forget",
+      "translation": "לשכוח",
+      "hebrew": "לשכוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't forget to lock the door.",
+        "She forgot her umbrella at home."
+      ],
+      "synonyms": ["overlook", "neglect"],
+      "topic_tags": ["general", "memory"]
+    },
+    {
+      "word_id": "229a3dbd-ae95-4c7a-9d28-098f378d846f",
+      "english": "friend",
+      "translation": "חבר",
+      "hebrew": "חבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is my best friend.",
+        "They have been friends for years."
+      ],
+      "synonyms": ["companion", "ally"],
+      "topic_tags": ["general", "relationship"]
+    },
+    {
+      "word_id": "45984447-f952-40d1-bcf3-c30facd453a3",
+      "english": "friendly",
+      "translation": "ידידותי",
+      "hebrew": "ידידותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The staff was very friendly.",
+        "She has a friendly smile."
+      ],
+      "synonyms": ["amiable", "cordial"],
+      "topic_tags": ["general", "personality"]
+    },
+    {
+      "word_id": "f90330d7-920a-434f-be9a-cf4f8c22df3c",
+      "english": "friendship",
+      "translation": "חברות",
+      "hebrew": "חברות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Their friendship has lasted for decades.",
+        "Friendship is important for mental health."
+      ],
+      "synonyms": ["companionship", "fellowship"],
+      "topic_tags": ["general", "relationship"]
+    },
+    {
+      "word_id": "ab54f1d7-925b-4141-ab7c-1651afc8e1ad",
+      "english": "front",
+      "translation": "קדמי",
+      "hebrew": "קדמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The front door is open.",
+        "He sat in the front row."
+      ],
+      "synonyms": ["foremost", "leading"],
+      "topic_tags": ["general", "position"]
+    },
+    {
+      "word_id": "cc3128a8-059f-442b-9cd1-40d58a9bdd77",
+      "english": "full",
+      "translation": "מלא",
+      "hebrew": "מלא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The glass is full of water.",
+        "He has a full schedule today."
+      ],
+      "synonyms": ["complete", "entire"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "a79f1f6c-2201-4776-8dec-fd036dac2589",
+      "english": "gain",
+      "translation": "להשיג",
+      "hebrew": "להשיג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He gained a lot of experience from the job.",
+        "She gained weight over the holidays."
+      ],
+      "synonyms": ["acquire", "obtain"],
+      "topic_tags": ["general", "achievement"]
+    },
+    {
+      "word_id": "7f16891a-225d-4d90-b34c-e18cc40d7e4f",
+      "english": "glad",
+      "translation": "שמח",
+      "hebrew": "שמח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm glad to see you.",
+        "She was glad about the news."
+      ],
+      "synonyms": ["happy", "pleased"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "79477da6-610d-4d8a-b31a-c54d4c8c040c",
+      "english": "gradual",
+      "translation": "הדרגתי",
+      "hebrew": "הדרגתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The change was gradual.",
+        "He noticed a gradual improvement."
+      ],
+      "synonyms": ["progressive", "incremental"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "55285f93-8f29-4e7a-9c4c-d25e20a369c0",
+      "english": "great",
+      "translation": "גדול",
+      "hebrew": "גדול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He did a great job.",
+        "The view from the top is great."
+      ],
+      "synonyms": ["excellent", "wonderful"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "e54dba02-92ef-4141-ad4d-3a56520ff040",
+      "english": "half",
+      "translation": "חצי",
+      "hebrew": "חצי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She ate half of the cake.",
+        "The glass is half full."
+      ],
+      "synonyms": ["part", "portion"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "2f851486-eb7c-4a55-947e-9a3f19ceef46",
+      "english": "hand",
+      "translation": "יד",
+      "hebrew": "יד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He raised his hand to ask a question.",
+        "She held the book in her hand."
+      ],
+      "synonyms": ["palm", "grip"],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "ad8d369b-3765-4653-a225-d9a7ff300b54",
+      "english": "hand",
+      "translation": "להעביר",
+      "hebrew": "להעביר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please hand me the pen.",
+        "He handed the letter to her."
+      ],
+      "synonyms": ["pass", "give"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "66a77b53-c45f-4dd0-9d37-297fd57c6f85",
+      "english": "hear",
+      "translation": "לשמוע",
+      "hebrew": "לשמוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you hear me?",
+        "She heard a strange noise."
+      ],
+      "synonyms": ["listen", "perceive"],
+      "topic_tags": ["general", "sense"]
+    },
+    {
+      "word_id": "9c566962-172d-4b58-899c-b2902f1573a3",
+      "english": "hearsay",
+      "translation": "שמועה",
+      "hebrew": "שמועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The information is just hearsay.",
+        "He was convicted based on hearsay evidence."
+      ],
+      "synonyms": ["rumor", "gossip"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "739e8e04-0eac-42f4-b107-742f4ffbfcce",
+      "english": "heat",
+      "translation": "חום",
+      "hebrew": "חום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The heat was unbearable.",
+        "He turned up the heat in the room."
+      ],
+      "synonyms": ["warmth", "temperature"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "b565fa0c-2c09-467d-a905-b90e42d5534e",
+      "english": "hero",
+      "translation": "גיבור",
+      "hebrew": "גיבור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a national hero.",
+        "The hero saved the day."
+      ],
+      "synonyms": ["champion", "savior"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "009269d7-127d-4d18-ad1c-b801308aaedb",
+      "english": "horse",
+      "translation": "סוס",
+      "hebrew": "סוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She rode a horse for the first time.",
+        "The horse galloped across the field."
+      ],
+      "synonyms": ["steed", "stallion"],
+      "topic_tags": ["general", "animal"]
+    },
+    {
+      "word_id": "4ebe584e-356b-4607-b9c2-f430b968fef8",
+      "english": "hot",
+      "translation": "חם",
+      "hebrew": "חם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The soup is too hot to eat.",
+        "It's a hot day today."
+      ],
+      "synonyms": ["warm", "scorching"],
+      "topic_tags": ["general", "description"]
+    }
+  ]
+}

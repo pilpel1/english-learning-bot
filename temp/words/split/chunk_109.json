@@ -1,0 +1,536 @@
+{
+  "_meta": {
+    "chunk_number": 109,
+    "words_range": "seeds-special",
+    "word_count": 30,
+    "start_index": 3240,
+    "end_index": 3269
+  },
+  "words": [
+    {
+      "word_id": "3fe1ad06-ba63-455d-8e51-03c46cca2266",
+      "english": "seeds",
+      "translation": null,
+      "hebrew": "זרעים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The farmer planted the seeds in the spring.",
+        "Sunflower seeds are a healthy snack."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature",
+        "agriculture"
+      ]
+    },
+    {
+      "word_id": "eacb06e9-9fd9-4983-b31d-4b0d9cb2859b",
+      "english": "segment",
+      "translation": null,
+      "hebrew": "קטע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The orange is divided into segments.",
+        "This segment of the road is under construction."
+      ],
+      "synonyms": [
+        "section",
+        "part"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dd598d6e-596a-4be2-9d69-7ea638ff870a",
+      "english": "self-confidence",
+      "translation": null,
+      "hebrew": "ביטחון עצמי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of self-confidence.",
+        "Self-confidence is important for success."
+      ],
+      "synonyms": [
+        "assurance"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "65bed9f9-82df-48ae-aba1-bc60c7049529",
+      "english": "self-indulgence",
+      "translation": null,
+      "hebrew": "התפנקות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A little self-indulgence is good sometimes.",
+        "He is known for his self-indulgence."
+      ],
+      "synonyms": [
+        "hedonism"
+      ],
+      "topic_tags": [
+        "general",
+        "lifestyle"
+      ]
+    },
+    {
+      "word_id": "07cd1ae5-2f9e-4e27-acfc-240a4894d38b",
+      "english": "sequel",
+      "translation": null,
+      "hebrew": "סרט המשך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sequel to the movie was not as good.",
+        "They are planning a sequel."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "entertainment",
+        "movies"
+      ]
+    },
+    {
+      "word_id": "44fd9f15-67e6-4a8b-9c44-e1ae135f5819",
+      "english": "sequence",
+      "translation": null,
+      "hebrew": "רצף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The events happened in a specific sequence.",
+        "He explained the sequence of events."
+      ],
+      "synonyms": [
+        "order",
+        "series"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fee50d68-3a1f-4df3-9e10-5b18475498e0",
+      "english": "shatter",
+      "translation": null,
+      "hebrew": "לרסק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The glass shattered into pieces.",
+        "The news shattered her dreams."
+      ],
+      "synonyms": [
+        "break",
+        "smash"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "823e5841-4ae2-45d9-b418-84400ed5a790",
+      "english": "shell",
+      "translation": null,
+      "hebrew": "קליפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The egg has a hard shell.",
+        "She found a beautiful shell on the beach."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "85a99ea5-c20c-4e3f-a648-d223d65ee0e7",
+      "english": "shell",
+      "translation": null,
+      "hebrew": "פגז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldiers fired shells at the enemy.",
+        "The shell exploded near the building."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "72586efe-f483-4a5f-ae8d-da25b8b80f45",
+      "english": "shelter",
+      "translation": null,
+      "hebrew": "מחסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They took shelter from the rain.",
+        "The building provides shelter for the homeless."
+      ],
+      "synonyms": [
+        "refuge",
+        "protection"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "078d60c2-0382-45dc-beb6-2872a10366be",
+      "english": "shield",
+      "translation": null,
+      "hebrew": "מגן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The knight carried a shield.",
+        "The police used a riot shield."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "265e5f21-b72c-42c8-bf2c-e1c85d566dd5",
+      "english": "signature",
+      "translation": null,
+      "hebrew": "חתימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need your signature on this document.",
+        "The painting has the artist's signature."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1f379688-bcdc-49bd-b4f8-36aeb9ebcc0e",
+      "english": "silent",
+      "translation": null,
+      "hebrew": "שקט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The library is a silent place.",
+        "The forest was silent at night."
+      ],
+      "synonyms": [
+        "quiet",
+        "still"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd76e1e3-fb6c-4b3f-ad9e-28195bf46371",
+      "english": "silently",
+      "translation": null,
+      "hebrew": "בשקט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She walked silently into the room.",
+        "He sat silently and listened."
+      ],
+      "synonyms": [
+        "quietly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9981879b-0f1c-4999-899a-0155309efd98",
+      "english": "silly",
+      "translation": null,
+      "hebrew": "טיפשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's a silly question.",
+        "He made a silly mistake."
+      ],
+      "synonyms": [
+        "foolish",
+        "stupid"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ed9e126d-2e60-48d9-a65a-7f9719dd0385",
+      "english": "slate",
+      "translation": null,
+      "hebrew": "לוח צפחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The roof is made of slate.",
+        "Children used to write on slates."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "materials"
+      ]
+    },
+    {
+      "word_id": "78b1b9ce-3354-49b0-80bd-119b3f2b8240",
+      "english": "slaughter",
+      "translation": null,
+      "hebrew": "טבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The slaughter of innocent people is a tragedy.",
+        "The animals were sent to slaughter."
+      ],
+      "synonyms": [
+        "massacre"
+      ],
+      "topic_tags": [
+        "general",
+        "war",
+        "violence"
+      ]
+    },
+    {
+      "word_id": "346d4848-0707-42bd-8f8d-4802765c51bf",
+      "english": "slave",
+      "translation": null,
+      "hebrew": "עבד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was sold as a slave.",
+        "Slaves were forced to work without pay."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "135c27de-cea5-45fa-b761-918e96729023",
+      "english": "slavery",
+      "translation": null,
+      "hebrew": "עבדות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Slavery was abolished in the 19th century.",
+        "Slavery is a violation of human rights."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history",
+        "ethics"
+      ]
+    },
+    {
+      "word_id": "7f366a97-80c6-4dc2-a901-bf2d57f9ca0a",
+      "english": "slender",
+      "translation": null,
+      "hebrew": "דק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a slender figure.",
+        "The tree has a slender trunk."
+      ],
+      "synonyms": [
+        "slim",
+        "thin"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e085b693-23f2-4fb4-ac12-496ba7084889",
+      "english": "slope",
+      "translation": null,
+      "hebrew": "מדרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is built on a slope.",
+        "The ski slope is very steep."
+      ],
+      "synonyms": [
+        "incline",
+        "gradient"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "e001f1a5-6e28-41e9-9b9a-f213793d970e",
+      "english": "snicker",
+      "translation": null,
+      "hebrew": "צחקוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to suppress a snicker.",
+        "Her comment caused a few snickers."
+      ],
+      "synonyms": [
+        "giggle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "85e84db6-c931-4434-baeb-f329233acb68",
+      "english": "soldier",
+      "translation": null,
+      "hebrew": "חייל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a soldier in the army.",
+        "The soldiers fought bravely."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "2b654e9a-0d02-48c5-8ee2-2eea07bc497d",
+      "english": "solitary",
+      "translation": null,
+      "hebrew": "בודד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He lives a solitary life.",
+        "The island is a solitary place."
+      ],
+      "synonyms": [
+        "lonely",
+        "isolated"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6e780143-2d46-4b14-899a-3eab9b6e581a",
+      "english": "solve",
+      "translation": null,
+      "hebrew": "לפתור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to solve the problem.",
+        "He is good at solving puzzles."
+      ],
+      "synonyms": [
+        "resolve",
+        "figure out"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bf5f9107-8910-4c9d-908b-24a0dc5e9d9b",
+      "english": "soul",
+      "translation": null,
+      "hebrew": "נשמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a kind soul.",
+        "The music touched her soul."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "philosophy"
+      ]
+    },
+    {
+      "word_id": "4ba14e80-a32d-460d-9461-0539871e0f4c",
+      "english": "sound",
+      "translation": null,
+      "hebrew": "צליל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I heard a strange sound.",
+        "The sound of music filled the air."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "579a24be-46f5-4622-b43b-2e3e72ec11e2",
+      "english": "sound",
+      "translation": null,
+      "hebrew": "נשמע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "That sounds like a good idea.",
+        "He sounds tired."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1529dcfa-cd22-494a-abf3-9127ee7a180c",
+      "english": "special",
+      "translation": null,
+      "hebrew": "מיוחד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a special occasion.",
+        "He is a special person."
+      ],
+      "synonyms": [
+        "unique",
+        "distinctive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

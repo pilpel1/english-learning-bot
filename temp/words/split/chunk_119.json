@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 119,
+    "words_range": "limb-miss",
+    "word_count": 30,
+    "start_index": 3540,
+    "end_index": 3569
+  },
+  "words": [
+    {
+      "word_id": "b21836dc-e5fc-45b0-8f2c-4f31db8f8628",
+      "english": "limb",
+      "translation": null,
+      "hebrew": "גפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He lost a limb in the accident.",
+        "The bird landed on a limb of the tree."
+      ],
+      "synonyms": ["appendage", "branch"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e5dc3af8-4cac-4c45-88b1-978e289ab70e",
+      "english": "limb",
+      "translation": null,
+      "hebrew": "ענף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The wind broke a limb off the tree.",
+        "Birds perched on the tree limbs."
+      ],
+      "synonyms": ["branch"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fc176e5b-60fc-481e-b190-e51a988adf43",
+      "english": "limber",
+      "translation": null,
+      "hebrew": "גמיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is very limber and can do yoga easily.",
+        "The gymnast's limber movements were impressive."
+      ],
+      "synonyms": ["flexible", "agile"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "43d7a485-7f25-4156-9988-d31e0b85f8a0",
+      "english": "lineage",
+      "translation": null,
+      "hebrew": "שושלת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The family has a long and noble lineage.",
+        "The dog's lineage can be traced back several generations."
+      ],
+      "synonyms": ["ancestry", "descent", "heritage"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f379bda8-40c7-49e2-a07d-cb2d4006647f",
+      "english": "linger",
+      "translation": null,
+      "hebrew": "להתמהמה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The smell of smoke lingered in the air.",
+        "They lingered after the meeting."
+      ],
+      "synonyms": ["remain", "stay", "dawdle"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3f9220b4-6fb2-4944-aee2-1b1620a9a34f",
+      "english": "link",
+      "translation": null,
+      "hebrew": "לקשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two events are linked.",
+        "Link your social media accounts."
+      ],
+      "synonyms": ["connect", "join"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d54bb966-00db-4d22-aae3-31762b2f1e03",
+      "english": "lodge",
+      "translation": null,
+      "hebrew": "ללון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They lodged at a small hotel.",
+        "The campers lodged in tents."
+      ],
+      "synonyms": ["stay", "reside"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0c83a3ea-05c7-48a8-984a-a6299651958c",
+      "english": "log",
+      "translation": null,
+      "hebrew": "יומן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The captain kept a log of the voyage.",
+        "Keep a log of your expenses."
+      ],
+      "synonyms": ["record", "diary"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e5ff17d6-1263-4f9e-8c6e-a12967705e58",
+      "english": "log",
+      "translation": null,
+      "hebrew": "גזע עץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lumberjack chopped down the log.",
+        "They sat on a log by the fire."
+      ],
+      "synonyms": ["timber", "wood"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "db3d2d95-0d89-4419-9cb0-d1550f04747f",
+      "english": "lone",
+      "translation": null,
+      "hebrew": "בודד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was a lone wolf.",
+        "The lone house stood on the hill."
+      ],
+      "synonyms": ["solitary", "isolated"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d13b63a6-e9be-4f53-a4ac-bea1ad0c552f",
+      "english": "loneliness",
+      "translation": null,
+      "hebrew": "בדידות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt a deep sense of loneliness.",
+        "Loneliness can be harmful to your health."
+      ],
+      "synonyms": ["isolation", "solitude"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9e146b10-bc45-45a1-9db9-b47a239cf1d5",
+      "english": "lumber",
+      "translation": null,
+      "hebrew": "קורות עץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They used lumber to build the house.",
+        "The price of lumber has increased."
+      ],
+      "synonyms": ["timber", "wood"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "01856ba4-3db9-43bf-a267-01f837a00084",
+      "english": "maximize",
+      "translation": null,
+      "hebrew": "למקסם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to maximize profits.",
+        "Maximize your potential."
+      ],
+      "synonyms": ["optimize", "increase"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fc3bf3c6-5a30-4d86-8c80-bcfcf0c958c2",
+      "english": "maze",
+      "translation": null,
+      "hebrew": "מבוך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They got lost in the maze.",
+        "The city streets were a confusing maze."
+      ],
+      "synonyms": ["labyrinth"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7bf211fc-b16e-4c74-b83d-d642985b91ec",
+      "english": "mechanize",
+      "translation": null,
+      "hebrew": "למכן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The factory has been fully mechanized.",
+        "Mechanizing agriculture increased productivity."
+      ],
+      "synonyms": ["automate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7cfe8c83-f734-4ba6-bd4e-5cc53bcc8b9a",
+      "english": "media",
+      "translation": null,
+      "hebrew": "תקשורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The media reported the news.",
+        "Social media is very popular."
+      ],
+      "synonyms": ["press", "news"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "19cf5ac0-3b39-47a6-b3ca-961a0767fbac",
+      "english": "Mediterranean",
+      "translation": null,
+      "hebrew": "ים תיכוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The Mediterranean climate is warm and sunny.",
+        "Mediterranean cuisine is very healthy."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1c001d21-d5c4-4993-9115-70a3961f9d75",
+      "english": "memorial",
+      "translation": null,
+      "hebrew": "זיכרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The memorial commemorates the soldiers who died in the war.",
+        "They built a memorial to honor the victims."
+      ],
+      "synonyms": ["monument", "tribute"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "13fee028-59f4-463b-884a-16abb56b23ba",
+      "english": "memorize",
+      "translation": null,
+      "hebrew": "לשנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to memorize these words for the test.",
+        "She tried to memorize the poem."
+      ],
+      "synonyms": ["learn", "commit to memory"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eb08a6bc-0600-49fd-b8b4-b8fe6285500e",
+      "english": "memory",
+      "translation": null,
+      "hebrew": "זיכרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a good memory for faces.",
+        "She lost her memory after the accident."
+      ],
+      "synonyms": ["recollection"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "beb93694-1901-481f-a09e-b9accfd18f4a",
+      "english": "mental",
+      "translation": null,
+      "hebrew": "מנטלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Mental health is important.",
+        "He has a mental illness."
+      ],
+      "synonyms": ["intellectual"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "41b6e6a0-f0ea-4fae-ba2b-109266a7b924",
+      "english": "mention",
+      "translation": null,
+      "hebrew": "להזכיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Did she mention my name?",
+        "Please don't mention it to anyone."
+      ],
+      "synonyms": ["refer to", "allude to"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f259e152-4a1d-4ecb-a042-292bce31a4af",
+      "english": "mentor",
+      "translation": null,
+      "hebrew": "מנטור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a mentor to many young entrepreneurs.",
+        "She sought advice from her mentor."
+      ],
+      "synonyms": ["advisor", "guide"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d1869f39-bdc0-47b8-97fa-1c4567405d58",
+      "english": "mercy",
+      "translation": null,
+      "hebrew": "רחמים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He begged for mercy.",
+        "They showed no mercy to the enemy."
+      ],
+      "synonyms": ["compassion", "pity"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a50df1b6-926e-4e10-a55e-6dba166ea9c3",
+      "english": "midair",
+      "translation": null,
+      "hebrew": "באוויר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane exploded in midair.",
+        "The acrobat performed a flip in midair."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "755ac3c6-414c-4ae1-a783-4bcdca8211c2",
+      "english": "minimize",
+      "translation": null,
+      "hebrew": "למזער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to minimize the risk.",
+        "Minimize the amount of sugar you eat."
+      ],
+      "synonyms": ["reduce", "decrease"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "443eecb4-0005-4193-ab54-cf18fbdfa8ab",
+      "english": "mirror",
+      "translation": null,
+      "hebrew": "מראה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She looked at herself in the mirror.",
+        "The lake was a perfect mirror of the sky."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ffc9a1cc-834b-475c-ab8c-afe61ef7cb5d",
+      "english": "misbehave",
+      "translation": null,
+      "hebrew": "להתנהג לא יפה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The children misbehaved during the lesson.",
+        "Don't misbehave!"
+      ],
+      "synonyms": ["act up"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "85c2e645-88b4-4c85-806c-9ab1ce0e79c2",
+      "english": "mischief",
+      "translation": null,
+      "hebrew": "שובבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children were full of mischief.",
+        "They got into a lot of mischief."
+      ],
+      "synonyms": ["naughtiness", "trouble"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ed79d4f1-6886-48c7-b27a-919358c19570",
+      "english": "miss",
+      "translation": null,
+      "hebrew": "לפספס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I missed the bus.",
+        "She missed the opportunity."
+      ],
+      "synonyms": ["fail to hit", "overlook"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

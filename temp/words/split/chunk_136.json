@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 135,
+    "words_range": "snarl-stuff",
+    "word_count": 30,
+    "start_index": 4020,
+    "end_index": 4049
+  },
+  "words": [
+    {
+      "word_id": "56bf2586-3ae4-4df8-a9a7-2e6262845aea",
+      "english": "snarl",
+      "translation": null,
+      "hebrew": "לנהום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog snarled at him.",
+        "He snarled at the suggestion."
+      ],
+      "synonyms": ["growl"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "cda94358-57d6-4a14-a215-0ccd9e3af4d9",
+      "english": "sneeze",
+      "translation": null,
+      "hebrew": "להתעטש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sneezed loudly.",
+        "She sneezed because of the pollen."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "health"]
+    },
+    {
+      "word_id": "ec82431a-a6fa-4617-b7f1-49c8627a7029",
+      "english": "snow",
+      "translation": null,
+      "hebrew": "שלג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is snowing.",
+        "The ground is covered in snow."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "9829c7e4-6a28-4f06-a26a-521b782781a1",
+      "english": "soccer",
+      "translation": null,
+      "hebrew": "כדורגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He plays soccer.",
+        "They watched a soccer game."
+      ],
+      "synonyms": ["football"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "7dac751d-7dd8-46b0-855d-5fcb1b202a8a",
+      "english": "sold",
+      "translation": null,
+      "hebrew": "נמכר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sold his car.",
+        "The tickets were sold out."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9bc0260a-a64e-4d6d-9662-4870f7ed5dd0",
+      "english": "South",
+      "translation": null,
+      "hebrew": "דרום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The South is warmer than the North.",
+        "They traveled South."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "4219cf0d-e51c-4126-bfee-cf9198d79bc2",
+      "english": "southern",
+      "translation": null,
+      "hebrew": "דרומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a southern accent.",
+        "Southern hospitality."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "4847e874-efcc-425c-a0bd-9468c14b3cfd",
+      "english": "speck",
+      "translation": null,
+      "hebrew": "גרגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a speck of dust.",
+        "He found a speck of dirt on the floor."
+      ],
+      "synonyms": ["particle", "bit"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2c56d4f2-212b-4f6b-8530-336a744055fc",
+      "english": "spider",
+      "translation": null,
+      "hebrew": "עכביש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is afraid of spiders.",
+        "The spider spun a web."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "39134c24-17b6-4304-ad21-a9fcd57cf794",
+      "english": "spinach",
+      "translation": null,
+      "hebrew": "תרד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He ate spinach.",
+        "Spinach is a healthy vegetable."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "88b70bd1-180c-4575-acaa-12021743bbd9",
+      "english": "sponsor",
+      "translation": null,
+      "hebrew": "לתת חסות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company sponsored the event.",
+        "He sponsored the team."
+      ],
+      "synonyms": ["support", "fund"],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "f78cfda9-221b-432c-80d9-5cd2ce41fb65",
+      "english": "spontaneous",
+      "translation": null,
+      "hebrew": "ספונטני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a spontaneous person.",
+        "They made a spontaneous decision."
+      ],
+      "synonyms": ["impromptu", "unplanned"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "28dc7ed7-46b0-4500-92bc-0fef2cd49ef2",
+      "english": "spread",
+      "translation": null,
+      "hebrew": "למרוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Spread butter on the bread.",
+        "Spread the jam."
+      ],
+      "synonyms": ["distribute"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5580bf7d-e8ad-4a10-b101-086631288b89",
+      "english": "spread",
+      "translation": null,
+      "hebrew": "להתפשט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire spread quickly.",
+        "The news spread fast."
+      ],
+      "synonyms": ["extend"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0e6d1994-a6f4-4655-a4d7-92c28c7b49c4",
+      "english": "spy",
+      "translation": null,
+      "hebrew": "מרגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a spy.",
+        "The spy gathered information."
+      ],
+      "synonyms": ["agent"],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "b016d6ae-b1ba-48ac-8995-daf4199d1736",
+      "english": "staircase",
+      "translation": null,
+      "hebrew": "גרם מדרגות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She climbed the staircase.",
+        "The staircase is made of wood."
+      ],
+      "synonyms": ["stairs"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "d6da9360-13ed-40d7-92be-3c40b6293167",
+      "english": "stalk",
+      "translation": null,
+      "hebrew": "גבעול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The stalk of the plant is green.",
+        "He has stalk of the plants."
+      ],
+      "synonyms": ["stem"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "51daa361-1573-4595-8947-24252eaac773",
+      "english": "star",
+      "translation": null,
+      "hebrew": "כוכב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The stars shine at night.",
+        "She is a movie star."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "astronomy", "entertainment"]
+    },
+    {
+      "word_id": "70f53c9f-69f7-4876-826d-0ddb5ff21f78",
+      "english": "staunch",
+      "translation": null,
+      "hebrew": "נאמן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a staunch supporter.",
+        "She is a staunch believer."
+      ],
+      "synonyms": ["loyal", "steadfast"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fdb0a47b-2ffb-4c37-b5dd-aee217a1c261",
+      "english": "staunch",
+      "translation": null,
+      "hebrew": "לעצור דימום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Staunch the bleeding.",
+        "He tried to staunch the flow of blood."
+      ],
+      "synonyms": ["stop", "stem"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "aeb12e6e-861e-4c75-9c81-346c5e7d5827",
+      "english": "steal",
+      "translation": null,
+      "hebrew": "לגנוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He stole the money.",
+        "Don't steal."
+      ],
+      "synonyms": ["pilfer", "thieve"],
+      "topic_tags": ["general", "crime"]
+    },
+    {
+      "word_id": "4137d98c-979f-4434-bfd1-dd02429f900a",
+      "english": "stereotype",
+      "translation": null,
+      "hebrew": "סטריאוטיפ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She breaks the stereotype.",
+        "He perpetuates the stereotype."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "48bd7995-8d2d-4f3a-b415-1a8b8b0a7229",
+      "english": "sticky",
+      "translation": null,
+      "hebrew": "דביק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The candy is sticky.",
+        "The glue is sticky."
+      ],
+      "synonyms": ["tacky", "adhesive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5b3d3c2e-1c43-4afc-8f23-211a42c60c34",
+      "english": "stove",
+      "translation": null,
+      "hebrew": "תנור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She cooked on the stove.",
+        "The stove is hot."
+      ],
+      "synonyms": ["cooker"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "bdcc38c9-9b4c-47ce-8f38-c23f10e178e5",
+      "english": "stroke",
+      "translation": null,
+      "hebrew": "שבץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He had a stroke.",
+        "She suffered a stroke."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "13c05380-27e1-4d99-a006-d7752ed64826",
+      "english": "stroke",
+      "translation": null,
+      "hebrew": "משיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He painted with broad strokes.",
+        "The swimmer took long strokes."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "art"]
+    },
+    {
+      "word_id": "e57b2621-2ea7-489e-ae94-ff39377c4cb8",
+      "english": "stroke",
+      "translation": null,
+      "hebrew": "ללטף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She stroked the cat.",
+        "He stroked her hair."
+      ],
+      "synonyms": ["caress"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a8f6d91e-012b-4c68-a36c-17c7684734b4",
+      "english": "studio",
+      "translation": null,
+      "hebrew": "סטודיו",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist works in a studio.",
+        "The film was shot in a studio."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "arts"]
+    },
+    {
+      "word_id": "7eb8479a-8c10-456c-9a55-7aa39523ed3a",
+      "english": "stuff",
+      "translation": null,
+      "hebrew": "דברים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He packed his stuff.",
+        "She has a lot of stuff."
+      ],
+      "synonyms": ["things", "items"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2bf5cc2a-8fbe-4e66-8391-d3175d3c1c18",
+      "english": "stuff",
+      "translation": null,
+      "hebrew": "למלא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They stuffed the turkey.",
+        "Stuff the bag with clothes."
+      ],
+      "synonyms": ["fill", "pack"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "chunk_number": 61,
+    "words_range": "male-modify",
+    "word_count": 30,
+    "start_index": 1800,
+    "end_index": 1829
+  },
+  "words": [
+    {
+      "word_id": "04cfd096-70df-4cdd-9511-b152e2640126",
+      "english": "male",
+      "translation": null,
+      "hebrew": "זכר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The male lion has a mane.",
+        "Only male employees are required to wear ties."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "63547986-d201-43b0-baa1-4146d5745ffd",
+      "english": "manage",
+      "translation": null,
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She manages a team of 10 people.",
+        "Can you manage the project on your own?"
+      ],
+      "synonyms": [
+        "control",
+        "handle"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7c2df25e-3662-4d65-8601-45f8b572fa87",
+      "english": "management",
+      "translation": null,
+      "hebrew": "ניהול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company needs better management.",
+        "She is studying business management."
+      ],
+      "synonyms": [
+        "administration",
+        "leadership"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "584a75dc-ab0d-4a5c-b30a-5847ce7d294d",
+      "english": "manuscript",
+      "translation": null,
+      "hebrew": "כתב יד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The author submitted the manuscript to the publisher.",
+        "The library has a collection of ancient manuscripts."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "f61070d7-aceb-4d78-ba1f-a52d0cbc1807",
+      "english": "marine",
+      "translation": null,
+      "hebrew": "ימי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Marine life is affected by pollution.",
+        "The marine industry is important to the economy."
+      ],
+      "synonyms": [
+        "oceanic",
+        "sea"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "239fc18b-7e7e-4eb5-83e9-43ceb5a70b42",
+      "english": "maritime",
+      "translation": null,
+      "hebrew": "ימי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city has a rich maritime history.",
+        "Maritime law governs activities at sea."
+      ],
+      "synonyms": [
+        "nautical",
+        "naval"
+      ],
+      "topic_tags": [
+        "general",
+        "transport"
+      ]
+    },
+    {
+      "word_id": "9f6488e1-1941-4107-8728-9e6575ad2de2",
+      "english": "market",
+      "translation": null,
+      "hebrew": "שוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The farmers sell their produce at the market.",
+        "The stock market is volatile."
+      ],
+      "synonyms": [
+        "marketplace",
+        "bazaar"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "722aacf2-32cf-4beb-88f8-7c2323278cac",
+      "english": "marketing",
+      "translation": null,
+      "hebrew": "שיווק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has a strong marketing strategy.",
+        "She works in the marketing department."
+      ],
+      "synonyms": [
+        "advertising",
+        "promotion"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "553713eb-147a-47d7-8cd4-c3e4521c1ea3",
+      "english": "mass",
+      "translation": null,
+      "hebrew": "מסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mass of the object is 10 kilograms.",
+        "The black hole has a huge mass."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "physics"
+      ]
+    },
+    {
+      "word_id": "541d67bb-064e-48b6-b3e8-d0b62d3350aa",
+      "english": "mass",
+      "translation": null,
+      "hebrew": "המוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The event attracted a mass audience.",
+        "There was a mass protest in the city."
+      ],
+      "synonyms": [
+        "bulk",
+        "large-scale"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bec8c1ea-f9c0-4850-a558-d776e8f2bc2b",
+      "english": "material",
+      "translation": null,
+      "hebrew": "חומר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dress is made of cotton material.",
+        "What material is the table made of?"
+      ],
+      "synonyms": [
+        "fabric",
+        "stuff"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bfe5197d-3cd4-421b-a183-657e79242926",
+      "english": "measure",
+      "translation": null,
+      "hebrew": "למדוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Measure the length of the room.",
+        "The doctor will measure your blood pressure."
+      ],
+      "synonyms": [
+        "gauge",
+        "assess"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db5ac465-e489-43a5-8a15-29c638285287",
+      "english": "measure",
+      "translation": null,
+      "hebrew": "אמצעי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is taking measures to reduce pollution.",
+        "What measures should we take to improve safety?"
+      ],
+      "synonyms": [
+        "action",
+        "step"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ac574c1-a96b-45cd-b360-cdba5d072610",
+      "english": "merge",
+      "translation": null,
+      "hebrew": "למזג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two companies decided to merge.",
+        "The rivers merge into one."
+      ],
+      "synonyms": [
+        "combine",
+        "unite"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "1a5829cf-69ea-46ef-b4fa-3c92dada4b29",
+      "english": "merger",
+      "translation": null,
+      "hebrew": "מיזוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The merger created a large corporation.",
+        "The merger will benefit both companies."
+      ],
+      "synonyms": [
+        "consolidation",
+        "union"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "a3512ab2-ea9c-4b52-badc-14e6790be49d",
+      "english": "message",
+      "translation": null,
+      "hebrew": "הודעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I left a message on his answering machine.",
+        "What is the message of the movie?"
+      ],
+      "synonyms": [
+        "communication",
+        "note"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c481ec7e-16b0-477d-a727-e6cc20973987",
+      "english": "method",
+      "translation": null,
+      "hebrew": "שיטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the best method for learning a new language?",
+        "The scientific method is used to conduct experiments."
+      ],
+      "synonyms": [
+        "approach",
+        "technique"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6b711757-aede-4058-8457-bbf441cc099f",
+      "english": "mild",
+      "translation": null,
+      "hebrew": "מתון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is mild today.",
+        "He has a mild case of the flu."
+      ],
+      "synonyms": [
+        "gentle",
+        "moderate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d3fc73ed-dcd5-4c69-b7dd-c36046d99924",
+      "english": "military",
+      "translation": null,
+      "hebrew": "צבאי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The military is responsible for national defense.",
+        "He served in the military for 10 years."
+      ],
+      "synonyms": [
+        "army",
+        "armed forces"
+      ],
+      "topic_tags": [
+        "general",
+        "government"
+      ]
+    },
+    {
+      "word_id": "baa568f1-7280-4a0d-8950-1e65f6e127f4",
+      "english": "minor",
+      "translation": null,
+      "hebrew": "קטין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is illegal to sell alcohol to minors.",
+        "The law protects the rights of minors."
+      ],
+      "synonyms": [
+        "child",
+        "juvenile"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "32f97721-8714-44d2-b26c-ed77da0925ed",
+      "english": "minor",
+      "translation": null,
+      "hebrew": "משני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He had a minor role in the play.",
+        "The injury is minor and will heal quickly."
+      ],
+      "synonyms": [
+        "secondary",
+        "small"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9a57f7e3-071b-4b5a-8e46-7c525fb833f0",
+      "english": "minor",
+      "translation": null,
+      "hebrew": "מגמה משנית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a minor in art history.",
+        "He decided to minor in computer science."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "11c92826-89f5-4a46-a1e1-99166535d689",
+      "english": "minority",
+      "translation": null,
+      "hebrew": "מיעוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The minority group faces discrimination.",
+        "Only a small minority of people disagree."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "c41fefb0-e1e0-4bdd-bef3-66b54a96b23f",
+      "english": "misconception",
+      "translation": null,
+      "hebrew": "תפיסה מוטעית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It's a common misconception that the Earth is flat.",
+        "He cleared up some misconceptions about the project."
+      ],
+      "synonyms": [
+        "misunderstanding",
+        "delusion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "afbb46ff-bdcd-403c-9752-534683c643a5",
+      "english": "mission",
+      "translation": null,
+      "hebrew": "משימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company's mission is to provide quality products.",
+        "The astronaut went on a mission to the moon."
+      ],
+      "synonyms": [
+        "task",
+        "assignment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "41c02f76-aeb1-4b7d-b1a8-7d9ab6f24959",
+      "english": "mode",
+      "translation": null,
+      "hebrew": "מצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The camera has different shooting modes.",
+        "The phone is in silent mode."
+      ],
+      "synonyms": [
+        "setting",
+        "state"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "29253d52-725b-416c-b630-2cc6f913593f",
+      "english": "mode",
+      "translation": null,
+      "hebrew": "אופן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the best mode of transportation?",
+        "The new law will change the mode of operation."
+      ],
+      "synonyms": [
+        "manner",
+        "way"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ed31e936-b316-4e0b-9c43-3b6524234fad",
+      "english": "model",
+      "translation": null,
+      "hebrew": "דגם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a fashion model.",
+        "The company released a new car model."
+      ],
+      "synonyms": [
+        "prototype",
+        "design"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e3d2ed01-9a54-411a-bc1a-d33436d2589f",
+      "english": "modest",
+      "translation": null,
+      "hebrew": "צנוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a modest and humble person.",
+        "She lives in a modest house."
+      ],
+      "synonyms": [
+        "humble",
+        "unassuming"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6726594a-39cb-4e50-9b49-0b890edde010",
+      "english": "modify",
+      "translation": null,
+      "hebrew": "לשנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can modify the settings to suit your needs.",
+        "The software allows you to modify the image."
+      ],
+      "synonyms": [
+        "alter",
+        "adjust"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 18,
+    "words_range": "count-due",
+    "word_count": 30,
+    "start_index": 510,
+    "end_index": 539
+  },
+  "words": [
+    {
+      "word_id": "97ef025b-bd4d-409d-8f3d-86e40491b1a1",
+      "english": "count",
+      "translation": "לספור",
+      "hebrew": "לספור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She can count to ten.",
+        "He counted the number of chairs in the room."
+      ],
+      "synonyms": ["enumerate", "tally"],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "c9e1579a-09e4-4e6b-b0dc-e3a8b0b96ff8",
+      "english": "count",
+      "translation": "ספירה",
+      "hebrew": "ספירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The final count was 100 votes.",
+        "He lost count of the number of times he tried."
+      ],
+      "synonyms": ["tally", "total"],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "4f9af3b3-3fca-4c1e-a10e-111006448c3c",
+      "english": "country",
+      "translation": "מדינה",
+      "hebrew": "מדינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "France is a beautiful country.",
+        "He traveled to a foreign country."
+      ],
+      "synonyms": ["nation", "state"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "d3c52640-f9a1-4a3d-814b-668c11ace645",
+      "english": "country",
+      "translation": "כפרי",
+      "hebrew": "כפרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She enjoys country music.",
+        "They live in a country house."
+      ],
+      "synonyms": ["rural", "pastoral"],
+      "topic_tags": ["general", "lifestyle"]
+    },
+    {
+      "word_id": "c89db0c2-258e-48a7-ae07-8ec8567f5e33",
+      "english": "cover",
+      "translation": "לכסות",
+      "hebrew": "לכסות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please cover the pot with a lid.",
+        "He covered the table with a cloth."
+      ],
+      "synonyms": ["conceal", "shield"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "abc44529-509a-4479-bdfd-fe14168788da",
+      "english": "cow",
+      "translation": "פרה",
+      "hebrew": "פרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cow is grazing in the field.",
+        "They have a dairy cow on their farm."
+      ],
+      "synonyms": ["bovine", "cattle"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "6c23208c-86cf-4396-91e6-474565823fea",
+      "english": "culture",
+      "translation": "תרבות",
+      "hebrew": "תרבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They are studying the culture of Japan.",
+        "Culture plays a significant role in society."
+      ],
+      "synonyms": ["civilization", "society"],
+      "topic_tags": ["general", "society"]
+    },
+    {
+      "word_id": "1eca4521-f642-4b43-ab8d-ba0c5e5cd364",
+      "english": "dance",
+      "translation": "לרקוד",
+      "hebrew": "לרקוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They love to dance at parties.",
+        "She danced gracefully across the stage."
+      ],
+      "synonyms": ["move", "sway"],
+      "topic_tags": ["general", "art"]
+    },
+    {
+      "word_id": "556ba28a-4e4a-4615-abfe-0f7bf9e41d6f",
+      "english": "danger",
+      "translation": "סכנה",
+      "hebrew": "סכנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sign warns of danger ahead.",
+        "He was in great danger during the storm."
+      ],
+      "synonyms": ["risk", "peril"],
+      "topic_tags": ["general", "safety"]
+    },
+    {
+      "word_id": "749a9497-63ee-426c-a860-b8af2f0c9d11",
+      "english": "dangerous",
+      "translation": "מסוכן",
+      "hebrew": "מסוכן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The road is dangerous at night.",
+        "It's dangerous to swim in the river."
+      ],
+      "synonyms": ["hazardous", "risky"],
+      "topic_tags": ["general", "safety"]
+    },
+    {
+      "word_id": "29af604b-91ba-40cf-b6d9-5d0b8f02a573",
+      "english": "daughter",
+      "translation": "בת",
+      "hebrew": "בת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Their daughter is in college.",
+        "She has a daughter and a son."
+      ],
+      "synonyms": ["girl", "offspring"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "c0caf72e-644b-4df6-9a1a-af382fec5eb7",
+      "english": "death",
+      "translation": "מוות",
+      "hebrew": "מוות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The death of the king was a great loss.",
+        "She feared death more than anything."
+      ],
+      "synonyms": ["demise", "passing"],
+      "topic_tags": ["general", "life"]
+    },
+    {
+      "word_id": "37990b94-bca1-487a-867a-3861e23228fa",
+      "english": "deep",
+      "translation": "עמוק",
+      "hebrew": "עמוק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The water is very deep here.",
+        "He took a deep breath before speaking."
+      ],
+      "synonyms": ["profound", "intense"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "f135c180-a1e4-4e71-af8d-6705473e810a",
+      "english": "deeply",
+      "translation": "בעומק",
+      "hebrew": "בעומק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She was deeply moved by the story.",
+        "He is deeply involved in the project."
+      ],
+      "synonyms": ["profoundly", "intensely"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "dfa425b4-2ee9-40ad-b55c-7183210b07df",
+      "english": "define",
+      "translation": "להגדיר",
+      "hebrew": "להגדיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please define the term 'democracy'.",
+        "He defined the rules clearly."
+      ],
+      "synonyms": ["explain", "describe"],
+      "topic_tags": ["general", "language"]
+    },
+    {
+      "word_id": "f97110dd-5e8d-4790-a384-221a59150924",
+      "english": "definite",
+      "translation": "מוחלט",
+      "hebrew": "מוחלט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need a definite answer by tomorrow.",
+        "There is a definite improvement in his work."
+      ],
+      "synonyms": ["certain", "clear"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "1c8410b9-4819-4847-abc1-ae0125e9670b",
+      "english": "delete",
+      "translation": "למחוק",
+      "hebrew": "למחוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please delete the unnecessary files.",
+        "He accidentally deleted the email."
+      ],
+      "synonyms": ["remove", "erase"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "60c17c30-3084-4bdb-91e6-d699d97e1098",
+      "english": "desert",
+      "translation": "מדבר",
+      "hebrew": "מדבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Sahara is the largest hot desert.",
+        "They traveled across the desert."
+      ],
+      "synonyms": ["wasteland", "dune"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "8605b3bc-9d82-4908-853e-dcbb81a55e83",
+      "english": "desert",
+      "translation": "לנטוש",
+      "hebrew": "לנטוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He deserted his post during the battle.",
+        "She felt deserted by her friends."
+      ],
+      "synonyms": ["abandon", "leave"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "78b6d9a1-5487-430c-8089-acdefc7ce1a0",
+      "english": "devastate",
+      "translation": "להרוס",
+      "hebrew": "להרוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The hurricane devastated the city.",
+        "She was devastated by the news."
+      ],
+      "synonyms": ["destroy", "ruin"],
+      "topic_tags": ["general", "disaster"]
+    },
+    {
+      "word_id": "64496619-f888-4e78-8aee-acb5a71430ee",
+      "english": "die",
+      "translation": "למות",
+      "hebrew": "למות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Many plants die in the winter.",
+        "He died peacefully in his sleep."
+      ],
+      "synonyms": ["pass away", "perish"],
+      "topic_tags": ["general", "life"]
+    },
+    {
+      "word_id": "5758557c-7356-4b90-8bc8-009690a02559",
+      "english": "die (dice)",
+      "translation": "קובייה",
+      "hebrew": "קובייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Roll the die to see who goes first.",
+        "The game requires two dice."
+      ],
+      "synonyms": ["cube", "dice"],
+      "topic_tags": ["general", "games"]
+    },
+    {
+      "word_id": "7ea08dbc-eaf9-441f-99ae-391200a7cfe6",
+      "english": "difficult",
+      "translation": "קשה",
+      "hebrew": "קשה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The exam was very difficult.",
+        "It's difficult to find a good job."
+      ],
+      "synonyms": ["hard", "challenging"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "b8a0ac7c-e1f7-4169-ae3d-16803d910125",
+      "english": "dirty",
+      "translation": "מלוכלך",
+      "hebrew": "מלוכלך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The floor is dirty and needs cleaning.",
+        "He wore a dirty shirt."
+      ],
+      "synonyms": ["filthy", "unclean"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "5073b1ba-e90c-4cfd-81c4-441cf3fabd8c",
+      "english": "diverse",
+      "translation": "מגוון",
+      "hebrew": "מגוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is known for its diverse culture.",
+        "They have a diverse range of products."
+      ],
+      "synonyms": ["varied", "different"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "3709ad7a-c76c-42bc-aa25-f89312ee66c7",
+      "english": "done",
+      "translation": "בוצע",
+      "hebrew": "בוצע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The work is done for today.",
+        "She is done with her homework."
+      ],
+      "synonyms": ["completed", "finished"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "02a55ea0-1c03-4bf6-bf0c-8f8850ce1efd",
+      "english": "dream",
+      "translation": "חלום",
+      "hebrew": "חלום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She had a strange dream last night.",
+        "His dream is to become a doctor."
+      ],
+      "synonyms": ["vision", "fantasy"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "84b472a9-8a27-40aa-ac3e-ba0dec5d05d6",
+      "english": "drink",
+      "translation": "לשתות",
+      "hebrew": "לשתות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes to drink coffee in the morning.",
+        "She drank a glass of water."
+      ],
+      "synonyms": ["sip", "gulp"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "27c93e80-7931-46f7-8288-692b768ea0e9",
+      "english": "drug",
+      "translation": "סם",
+      "hebrew": "סם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor prescribed a new drug.",
+        "He was arrested for selling drugs."
+      ],
+      "synonyms": ["medication", "narcotic"],
+      "topic_tags": ["general", "health"]
+    },
+    {
+      "word_id": "c8fe86c8-c05d-41e4-899b-c707e41c5198",
+      "english": "due",
+      "translation": "בגלל",
+      "hebrew": "בגלל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The delay was due to traffic.",
+        "The payment is due next week."
+      ],
+      "synonyms": ["because of", "owing to"],
+      "topic_tags": ["general", "reason"]
+    }
+  ]
+}

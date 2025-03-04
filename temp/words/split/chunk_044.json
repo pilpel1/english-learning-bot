@@ -1,0 +1,528 @@
+{
+  "_meta": {
+    "chunk_number": 44,
+    "words_range": "demonstrate-epidemic",
+    "word_count": 30,
+    "start_index": 1290,
+    "end_index": 1319
+  },
+  "words": [
+    {
+      "word_id": "64d86c74-aed2-4892-a331-ede54c7ee4ef",
+      "english": "demonstrate",
+      "translation": null,
+      "hebrew": "להדגים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher will demonstrate how to solve the problem.",
+        "The company demonstrated its new product at the trade show."
+      ],
+      "synonyms": [
+        "show",
+        "illustrate"
+      ],
+      "topic_tags": [
+        "general",
+        "education",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7b41cd54-0de6-4c03-93ad-ac99dafbb315",
+      "english": "demonstrate",
+      "translation": null,
+      "hebrew": "להפגין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The students demonstrated against the new policy.",
+        "Thousands of people demonstrated in the streets."
+      ],
+      "synonyms": [
+        "protest",
+        "march"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "685809db-6bca-4d8b-b98d-35ac074f8e47",
+      "english": "destination",
+      "translation": null,
+      "hebrew": "יעד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Our destination is Paris.",
+        "The package arrived at its destination."
+      ],
+      "synonyms": [
+        "goal",
+        "end"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "07e5f6c4-84f1-461b-aa59-020f4395730b",
+      "english": "detach",
+      "translation": null,
+      "hebrew": "לנתק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Detach the cable from the computer.",
+        "You can detach the hood from the jacket."
+      ],
+      "synonyms": [
+        "separate",
+        "disconnect"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "db539fe7-e8b7-4b14-81a5-9d47e9c69faa",
+      "english": "deteriorate",
+      "translation": null,
+      "hebrew": "להתדרדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "His health is deteriorating.",
+        "The relationship between them deteriorated over time."
+      ],
+      "synonyms": [
+        "worsen",
+        "decline"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "c92d204c-ad4c-4c13-b78e-889da0aebd94",
+      "english": "diagnose",
+      "translation": null,
+      "hebrew": "לאבחן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor diagnosed him with the flu.",
+        "It's important to diagnose the problem early."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "0ea55b69-772d-4d52-87bb-7dadd73e08c2",
+      "english": "director",
+      "translation": null,
+      "hebrew": "במאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous movie director.",
+        "The director gave instructions to the actors."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "film"
+      ]
+    },
+    {
+      "word_id": "4cf62e63-64b4-4775-a3af-ba440bb76cd8",
+      "english": "director",
+      "translation": null,
+      "hebrew": "מנהל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the director of the company.",
+        "The director is responsible for the project's success."
+      ],
+      "synonyms": [
+        "manager",
+        "leader"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "067022d7-a5aa-40e4-b210-a9b15c16a809",
+      "english": "discriminate",
+      "translation": null,
+      "hebrew": "להפלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It is illegal to discriminate against someone because of their race.",
+        "The company was accused of discriminating against women."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law",
+        "society"
+      ]
+    },
+    {
+      "word_id": "1f5af21b-53b6-41e7-a8fe-a2f9d666686a",
+      "english": "dismiss",
+      "translation": null,
+      "hebrew": "לפטר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company dismissed several employees.",
+        "He was dismissed from his job for misconduct."
+      ],
+      "synonyms": [
+        "fire",
+        "sack"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "5219166e-1755-4fc8-b176-0b4e3036c422",
+      "english": "disposable",
+      "translation": null,
+      "hebrew": "חד פעמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We use disposable cups at the office.",
+        "Disposable diapers are very convenient."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "22054778-2482-4201-aaef-d7cfd73f7d01",
+      "english": "disrupt",
+      "translation": null,
+      "hebrew": "להפריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The protesters disrupted the meeting.",
+        "Don't disrupt the class."
+      ],
+      "synonyms": [
+        "interrupt",
+        "disturb"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78ccc638-ed45-4876-a8ba-17f529916f55",
+      "english": "distribute",
+      "translation": null,
+      "hebrew": "להפיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company distributes its products worldwide.",
+        "We need to distribute the flyers."
+      ],
+      "synonyms": [
+        "spread",
+        "circulate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "5187b28b-b716-40ed-9750-e3ca16f889f5",
+      "english": "diverse",
+      "translation": null,
+      "hebrew": "מגוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city has a diverse population.",
+        "The company has a diverse range of products."
+      ],
+      "synonyms": [
+        "varied",
+        "assorted"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "3d6ada92-8286-4f30-a08a-e20b9b6c7f13",
+      "english": "earn",
+      "translation": null,
+      "hebrew": "להרוויח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He earns a lot of money.",
+        "You need to earn their respect."
+      ],
+      "synonyms": [
+        "gain",
+        "obtain"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "739b9685-3db0-44b3-a44e-e0d8923345d9",
+      "english": "economy",
+      "translation": null,
+      "hebrew": "כלכלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The economy is growing.",
+        "The government is trying to improve the economy."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "064db21d-489f-4786-b401-352b1d9ade20",
+      "english": "edge",
+      "translation": null,
+      "hebrew": "קצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Be careful near the edge of the cliff.",
+        "The knife has a sharp edge."
+      ],
+      "synonyms": [
+        "border",
+        "rim"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "11271cf1-a073-4346-a737-d498b8b1f23b",
+      "english": "elaborate",
+      "translation": null,
+      "hebrew": "לפרט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you elaborate on that point?",
+        "He elaborated on his plans for the future."
+      ],
+      "synonyms": [
+        "explain",
+        "detail"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7aff546-b884-484f-bd87-1ece6271b66d",
+      "english": "elect",
+      "translation": null,
+      "hebrew": "לבחור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will elect a new president next year.",
+        "The people elected him to office."
+      ],
+      "synonyms": [
+        "vote for",
+        "choose"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "e54f6752-d1aa-4a11-ad0b-2e508f49bbb0",
+      "english": "emerge",
+      "translation": null,
+      "hebrew": "להופיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun emerged from behind the clouds.",
+        "New technologies are emerging all the time."
+      ],
+      "synonyms": [
+        "appear",
+        "arise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a162b18d-daf5-4203-a3d5-f3c281b24309",
+      "english": "emigrate",
+      "translation": null,
+      "hebrew": "להגר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Many people emigrate to find better opportunities.",
+        "His family emigrated from Russia."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "travel",
+        "society"
+      ]
+    },
+    {
+      "word_id": "ff08713c-4f9c-456c-aae4-4b82a2dfba50",
+      "english": "eminent",
+      "translation": null,
+      "hebrew": "מכובד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an eminent scientist.",
+        "She is an eminent member of the community."
+      ],
+      "synonyms": [
+        "distinguished",
+        "renowned"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "43336c53-c232-48ee-b0d5-be0249049245",
+      "english": "enclose",
+      "translation": null,
+      "hebrew": "לצרף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please enclose a copy of your resume.",
+        "The garden is enclosed by a fence."
+      ],
+      "synonyms": [
+        "include",
+        "surround"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1702b57b-4010-4eff-992b-52a1ab355817",
+      "english": "enlarge",
+      "translation": null,
+      "hebrew": "להגדיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can enlarge the picture on your computer.",
+        "The company plans to enlarge its operations."
+      ],
+      "synonyms": [
+        "expand",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "40e6ef05-39f4-4ccf-a4ef-2266c93a3755",
+      "english": "ensure",
+      "translation": null,
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please ensure that you have all the necessary documents.",
+        "We need to ensure the safety of our employees."
+      ],
+      "synonyms": [
+        "guarantee",
+        "make sure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1880caa5-41bf-416f-9e93-8de95a4a5013",
+      "english": "environment",
+      "translation": null,
+      "hebrew": "סביבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to protect the environment.",
+        "The company is committed to reducing its impact on the environment."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature",
+        "science"
+      ]
+    },
+    {
+      "word_id": "ed7b3416-4413-468d-b6cb-826e4972b126",
+      "english": "epidemic",
+      "translation": null,
+      "hebrew": "מגפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is facing an epidemic of the flu.",
+        "The epidemic spread quickly through the population."
+      ],
+      "synonyms": [
+        "outbreak",
+        "plague"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

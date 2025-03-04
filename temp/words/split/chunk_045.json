@@ -1,0 +1,758 @@
+{
+  "_meta": {
+    "chunk_number": 45,
+    "words_range": "equivalent-future",
+    "word_count": 30,
+    "start_index": 1320,
+    "end_index": 1349
+  },
+  "words": [
+    {
+      "word_id": "9fcadef1-ee5a-48ad-95c4-e121eb7474e8",
+      "english": "equivalent",
+      "translation": null,
+      "hebrew": "שווה ערך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "One dollar is equivalent to about 3.5 shekels.",
+        "The two amounts are equivalent.",
+        "This qualification is equivalent to a university degree."
+      ],
+      "synonyms": [
+        "equal",
+        "identical"
+      ],
+      "topic_tags": [
+        "general",
+        "math",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "18b16f43-a863-4651-bc32-0e1972b4083b",
+      "english": "erase",
+      "translation": null,
+      "hebrew": "למחוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can erase the mistake with an eraser.",
+        "The program will erase all the data on the disk.",
+        "Time cannot erase the memories we share."
+      ],
+      "synonyms": [
+        "delete",
+        "remove"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "2076f04c-8b32-4916-aea6-2f45b23c14d6",
+      "english": "eraser",
+      "translation": null,
+      "hebrew": "מחק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need an eraser to correct my mistake.",
+        "The eraser is on the desk.",
+        "She used an eraser to clean the whiteboard."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "11b09e89-8e6d-4f6b-b810-4b75da8e39e3",
+      "english": "establish",
+      "translation": null,
+      "hebrew": "להקים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company was established in 1990.",
+        "We need to establish a good relationship with our customers.",
+        "The research established a link between smoking and cancer."
+      ],
+      "synonyms": [
+        "found",
+        "create"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7e2d8e88-305d-4c29-8f2e-1ca42e8241b9",
+      "english": "estimate",
+      "translation": null,
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We estimate that the project will take three months.",
+        "Can you estimate the cost of the repairs?",
+        "The police estimate the crowd size at 10,000."
+      ],
+      "synonyms": [
+        "calculate",
+        "guess"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d9fd2185-b930-4417-af6c-4771ae44ec7c",
+      "english": "ethical",
+      "translation": null,
+      "hebrew": "מוסרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is not ethical to lie.",
+        "The company has an ethical code of conduct.",
+        "He made an ethical decision to return the money."
+      ],
+      "synonyms": [
+        "moral",
+        "righteous"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "ae6a5a1c-1925-4144-925f-b9817acfa96b",
+      "english": "evade",
+      "translation": null,
+      "hebrew": "להתחמק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to evade the police.",
+        "The company is trying to evade paying taxes.",
+        "She evaded answering the question directly."
+      ],
+      "synonyms": [
+        "avoid",
+        "escape"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "093235b2-c550-4d5f-9b49-b136d38729b4",
+      "english": "evidence",
+      "translation": null,
+      "hebrew": "הוכחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police have no evidence to prove his guilt.",
+        "There is a lot of evidence that smoking is harmful.",
+        "The scientist presented evidence to support his theory."
+      ],
+      "synonyms": [
+        "proof",
+        "testimony"
+      ],
+      "topic_tags": [
+        "general",
+        "law",
+        "science"
+      ]
+    },
+    {
+      "word_id": "230b7eaf-dbae-41af-ae7b-95f184185446",
+      "english": "exception",
+      "translation": null,
+      "hebrew": "יוצא מן הכלל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is an exception to every rule.",
+        "He is an exception to the stereotype.",
+        "With the exception of John, everyone agreed."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "801121cb-f1b7-4429-8b83-48c7f847faa1",
+      "english": "execute",
+      "translation": null,
+      "hebrew": "לבצע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company executed the plan perfectly.",
+        "The program will execute the commands.",
+        "The artist executed the painting with great skill."
+      ],
+      "synonyms": [
+        "perform",
+        "implement"
+      ],
+      "topic_tags": [
+        "general",
+        "business",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "9991ef5a-0493-4571-a9a9-e99474499331",
+      "english": "exhibit",
+      "translation": null,
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum will exhibit the artist's latest works.",
+        "He exhibited great courage during the crisis.",
+        "The dog exhibited signs of aggression."
+      ],
+      "synonyms": [
+        "display",
+        "show"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "95595811-e211-4111-8389-195e999abc59",
+      "english": "exist",
+      "translation": null,
+      "hebrew": "להתקיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you believe that ghosts exist?",
+        "Poverty still exists in many parts of the world.",
+        "The universe has existed for billions of years."
+      ],
+      "synonyms": [
+        "be",
+        "live"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "69a1131a-0796-4999-85a1-9a9938c92a7a",
+      "english": "expand",
+      "translation": null,
+      "hebrew": "להתרחב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company plans to expand its operations.",
+        "The balloon will expand when you blow air into it.",
+        "The city is expanding rapidly."
+      ],
+      "synonyms": [
+        "grow",
+        "increase"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "6459199a-7919-4951-a95f-ca0894098971",
+      "english": "expect",
+      "translation": null,
+      "hebrew": "לצפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I expect you to be on time.",
+        "We are expecting a baby in July.",
+        "The company expects to make a profit this year."
+      ],
+      "synonyms": [
+        "anticipate",
+        "await"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6974149a-6751-4661-8101-99691499a963",
+      "english": "expense",
+      "translation": null,
+      "hebrew": "הוצאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will cover your travel expenses.",
+        "Buying a car is a big expense.",
+        "We need to cut down on our expenses."
+      ],
+      "synonyms": [
+        "cost",
+        "expenditure"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "660ce06c-9991-493a-8a5c-9191814956f6",
+      "english": "expertise",
+      "translation": null,
+      "hebrew": "מומחיות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of expertise in marketing.",
+        "We need someone with expertise in computer programming.",
+        "His expertise in the field is highly valued."
+      ],
+      "synonyms": [
+        "skill",
+        "knowledge"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "99999a7a-ca99-4999-9999-ca999a9a99a9",
+      "english": "explicit",
+      "translation": null,
+      "hebrew": "מפורש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were very explicit.",
+        "He gave explicit orders not to touch anything.",
+        "The contract contains explicit details about the payment terms."
+      ],
+      "synonyms": [
+        "clear",
+        "definite"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7a7a7a7-a7a7-4f4f-a7a7-f7a7a7a7a7a7",
+      "english": "expose",
+      "translation": null,
+      "hebrew": "לחשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun can expose your skin to harmful radiation.",
+        "The journalist exposed the corruption scandal.",
+        "The painting was exposed to the elements."
+      ],
+      "synonyms": [
+        "reveal",
+        "uncover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4b4b4b4b-4b4b-4b4b-4b4b-4b4b4b4b4b4b",
+      "english": "extend",
+      "translation": null,
+      "hebrew": "להאריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to extend the deadline.",
+        "The company plans to extend its product line.",
+        "The road extends for miles."
+      ],
+      "synonyms": [
+        "lengthen",
+        "expand"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3c3c3c3-c3c3-4c4c-c3c3-c3c3c3c3c3c3",
+      "english": "extent",
+      "translation": null,
+      "hebrew": "מידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "To what extent did he influence the decision?",
+        "The damage was greater than we thought at first.",
+        "I agree with you to some extent."
+      ],
+      "synonyms": [
+        "degree",
+        "scope"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "abababab-abab-4c4c-abab-abababababab",
+      "english": "external",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company hired an external consultant.",
+        "The building has external security cameras.",
+        "We need to consider external factors."
+      ],
+      "synonyms": [
+        "outer",
+        "outside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dadadada-dada-4d4d-dada-dadadadadada",
+      "english": "facility",
+      "translation": null,
+      "hebrew": "מתקן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The factory has modern facilities.",
+        "The hotel has a swimming pool and other facilities.",
+        "The sports facility is open to the public."
+      ],
+      "synonyms": [
+        "amenity",
+        "resource"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fbfbfbfb-fbfb-4f4f-fbfb-fbfbfbfbfbfb",
+      "english": "factor",
+      "translation": null,
+      "hebrew": "גורם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Price is an important factor when buying a car.",
+        "There are many factors that contribute to success.",
+        "The weather was a major factor in the delay."
+      ],
+      "synonyms": [
+        "element",
+        "influence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fc675677-c45e-4760-b08b-bb0f3139f611",
+      "english": "failure",
+      "translation": null,
+      "hebrew": "כישלון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The project was a failure.",
+        "He learned from his failures.",
+        "The company's failure was due to poor management."
+      ],
+      "synonyms": [
+        "defeat",
+        "disaster"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c1d02a0-c8da-4021-9523-c69084499567",
+      "english": "feature",
+      "translation": null,
+      "hebrew": "מאפיין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car has many new features.",
+        "The main feature of the phone is its camera.",
+        "The software has a user-friendly feature."
+      ],
+      "synonyms": [
+        "characteristic",
+        "attribute"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "ae0b9689-8422-4ee9-a4ea-f0b18b864b0b",
+      "english": "feature",
+      "translation": null,
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie features a famous actor.",
+        "The magazine will feature an article about the artist.",
+        "The website features the company's products."
+      ],
+      "synonyms": [
+        "present",
+        "showcase"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "108b7ecd-f0e7-4c55-9bfb-cc773c3c09e5",
+      "english": "flourish",
+      "translation": null,
+      "hebrew": "לשגשג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The business is flourishing.",
+        "The plants flourish in the sun.",
+        "The arts flourished during the Renaissance."
+      ],
+      "synonyms": [
+        "thrive",
+        "prosper"
+      ],
+      "topic_tags": [
+        "general",
+        "business",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "06cd7977-5b7c-490b-b2ac-3dbffb82009a",
+      "english": "follow",
+      "translation": null,
+      "hebrew": "לעקוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Follow me.",
+        "Follow the instructions.",
+        "The police are following the suspect."
+      ],
+      "synonyms": [
+        "obey",
+        "track"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f8bb091b-5823-450f-875f-f7abcd902f59",
+      "english": "for the sake of",
+      "translation": null,
+      "hebrew": "למען",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "For the sake of peace, we need to compromise.",
+        "He did it for the sake of his family.",
+        "Let's be honest for the sake of clarity."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a909c195-9d1f-44bf-8fd2-6cef5f08928c",
+      "english": "force",
+      "translation": null,
+      "hebrew": "כוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The force of the wind was strong.",
+        "The police used force to control the crowd.",
+        "Gravity is a force that attracts objects to each other."
+      ],
+      "synonyms": [
+        "power",
+        "strength"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c165380f-8738-4a42-b46b-e00e8b0b8fa0",
+      "english": "force",
+      "translation": null,
+      "hebrew": "לאלץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can't force me to do that.",
+        "The company forced its employees to work overtime.",
+        "The storm forced us to change our plans."
+      ],
+      "synonyms": [
+        "compel",
+        "oblige"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dad63946-0f08-4a20-a6be-d63968d94c47",
+      "english": "forsake",
+      "translation": null,
+      "hebrew": "לנטוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He forsook his family to pursue his dreams.",
+        "Don't forsake your principles.",
+        "She would never forsake her friends."
+      ],
+      "synonyms": [
+        "abandon",
+        "desert"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8851cd15-34ee-41f2-9cee-72e26b157db9",
+      "english": "found",
+      "translation": null,
+      "hebrew": "למצוא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't find my keys.",
+        "She found a new job.",
+        "They found evidence of ancient civilizations."
+      ],
+      "synonyms": [
+        "discover",
+        "locate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "857bfa0e-cf4c-44ed-9461-af16876cdd45",
+      "english": "found",
+      "translation": null,
+      "hebrew": "ייסד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The city was founded in 1900.",
+        "He founded a new company.",
+        "The university was founded by a group of scholars."
+      ],
+      "synonyms": [
+        "establish",
+        "create"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f84f779e-4cfe-44c4-98f7-f42887688b44",
+      "english": "foundation",
+      "translation": null,
+      "hebrew": "יסוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has a strong foundation.",
+        "Education is the foundation of a good society.",
+        "The company is built on a foundation of trust."
+      ],
+      "synonyms": [
+        "base",
+        "basis"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a43b814a-f448-453b-84a6-37ec337706f2",
+      "english": "function",
+      "translation": null,
+      "hebrew": "תפקיד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The function of the heart is to pump blood.",
+        "What is the function of this button?",
+        "He has an important function in the company."
+      ],
+      "synonyms": [
+        "role",
+        "purpose"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a43b814a-f448-453b-84a6-37ec337706f3",
+      "english": "future",
+      "translation": null,
+      "hebrew": "עתיד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What do you want to do in the future?",
+        "The future is uncertain.",
+        "We need to plan for the future."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

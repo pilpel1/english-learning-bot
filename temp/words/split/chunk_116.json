@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 116,
+    "words_range": "extraordinary-frugal",
+    "word_count": 30,
+    "start_index": 3450,
+    "end_index": 3479
+  },
+  "words": [
+    {
+      "word_id": "294726ab-12f4-4c16-a0a1-5a7901f73842",
+      "english": "extraordinary",
+      "translation": null,
+      "hebrew": "יוצא דופן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The concert was an extraordinary experience.",
+        "She has extraordinary talent in music."
+      ],
+      "synonyms": ["remarkable", "exceptional", "unusual"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ce4513ca-182a-4bd7-aee9-0bc7c27f7a4f",
+      "english": "extrapolate",
+      "translation": null,
+      "hebrew": "להסיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We can extrapolate future trends based on current data.",
+        "The scientist extrapolated the results of the experiment to a larger population."
+      ],
+      "synonyms": ["deduce", "infer", "project"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ea6652e1-d2e7-4538-b6d1-6703aa9f9382",
+      "english": "faint",
+      "translation": null,
+      "hebrew": "חלש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I heard a faint noise in the distance.",
+        "There was a faint smell of smoke in the air."
+      ],
+      "synonyms": ["weak", "indistinct", "subtle"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cd5b3141-68d5-4dd3-85b9-2837b980de71",
+      "english": "faint",
+      "translation": null,
+      "hebrew": "להתעלף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt dizzy and was about to faint.",
+        "He fainted from the heat."
+      ],
+      "synonyms": ["pass out", "black out"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "53c9c314-0db9-46b8-b504-02fdf16b8d58",
+      "english": "famine",
+      "translation": null,
+      "hebrew": "רעב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The famine caused widespread suffering.",
+        "Millions of people are at risk of famine."
+      ],
+      "synonyms": ["starvation", "scarcity"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2d4ced50-9c85-4079-920b-dc8a035b1fdd",
+      "english": "famous",
+      "translation": null,
+      "hebrew": "מפורסם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous actor.",
+        "Paris is famous for its landmarks."
+      ],
+      "synonyms": ["well-known", "renowned", "celebrated"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e0cfd68e-ddaa-4c32-b774-afbbe1f8ffc9",
+      "english": "fatigue",
+      "translation": null,
+      "hebrew": "עייפות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I felt a wave of fatigue after the long journey.",
+        "The medication can cause fatigue as a side effect."
+      ],
+      "synonyms": ["tiredness", "exhaustion", "weariness"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7b4aba13-b882-4591-b2f5-edf4e4d94243",
+      "english": "fatigue",
+      "translation": null,
+      "hebrew": "להתיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The long hike fatigued us.",
+        "The constant noise fatigued her."
+      ],
+      "synonyms": ["tire", "exhaust", "wear out"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8567c34e-9474-4a32-b99e-8500f9478ce7",
+      "english": "fault",
+      "translation": null,
+      "hebrew": "אשמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It's not my fault that the project failed.",
+        "He admitted his fault in the matter."
+      ],
+      "synonyms": ["blame", "responsibility", "error"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fa588205-780a-4b55-be58-5d5c5ac84ea8",
+      "english": "fault",
+      "translation": null,
+      "hebrew": "פגם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a fault in the design.",
+        "The mechanic found several faults with the car."
+      ],
+      "synonyms": ["defect", "flaw", "imperfection"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8a558b2a-0bd3-4321-93c9-8f783e69295a",
+      "english": "faulty",
+      "translation": null,
+      "hebrew": "פגום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The appliance was faulty and needed to be repaired.",
+        "The bridge had faulty construction."
+      ],
+      "synonyms": ["defective", "flawed", "imperfect"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7ba4970d-c621-4890-bb56-c42e11d511ee",
+      "english": "fever",
+      "translation": null,
+      "hebrew": "חום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a high fever.",
+        "The fever is a symptom of the flu."
+      ],
+      "synonyms": ["temperature", "pyrexia"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8ef00df4-52ea-4dfe-b9bd-f50002d23530",
+      "english": "flavor",
+      "translation": null,
+      "hebrew": "טעם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I love the flavor of chocolate.",
+        "What flavor of ice cream do you want?"
+      ],
+      "synonyms": ["taste", "savor"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eb3bd786-d074-4280-9db4-9aa5bdbf9c34",
+      "english": "flavor",
+      "translation": null,
+      "hebrew": "לתבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Flavor the soup with herbs and spices.",
+        "She flavored the coffee with vanilla."
+      ],
+      "synonyms": ["season", "spice"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "933197a9-ae65-44f6-b7e1-fe3b85fbaf20",
+      "english": "flee, fled",
+      "translation": null,
+      "hebrew": "לברוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They had to flee their homes because of the war.",
+        "He fled the country to avoid arrest."
+      ],
+      "synonyms": ["escape", "run away", "evacuate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "09fea512-4f6f-41f3-91fb-febcb72b7ff2",
+      "english": "flip",
+      "translation": null,
+      "hebrew": "להפוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Flip the pancake over to cook the other side.",
+        "He flipped through the pages of the book."
+      ],
+      "synonyms": ["turn", "invert"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a8b56a87-04c1-454f-bd8f-a1572782da96",
+      "english": "flip",
+      "translation": null,
+      "hebrew": "קליל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a flip attitude towards his responsibilities.",
+        "Don't be so flip about this serious issue."
+      ],
+      "synonyms": ["flippant", "frivolous"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "34e71ba2-173d-46dc-a0b4-6519d17e490a",
+      "english": "flip",
+      "translation": null,
+      "hebrew": "היפוך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The acrobat did a flip in the air.",
+        "The coin flip decided the winner."
+      ],
+      "synonyms": ["somersault", "toss"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fdf636bf-50c6-4095-a587-173ba351a533",
+      "english": "flow",
+      "translation": null,
+      "hebrew": "לזרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The river flows into the sea.",
+        "Information flows freely on the internet."
+      ],
+      "synonyms": ["stream", "run"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ccc87d76-30c6-4958-9740-e80571978228",
+      "english": "focus",
+      "translation": null,
+      "hebrew": "להתמקד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to focus on my studies.",
+        "The photographer focused the camera on the subject."
+      ],
+      "synonyms": ["concentrate", "center"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "506e8856-7a7d-4e69-b18e-295503fea961",
+      "english": "forgettable",
+      "translation": null,
+      "hebrew": "נשכח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was forgettable.",
+        "It was a forgettable experience."
+      ],
+      "synonyms": ["unmemorable", "ordinary"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3e225d74-6e39-4b7d-96c7-5f8611c72f69",
+      "english": "foster",
+      "translation": null,
+      "hebrew": "לטפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We want to foster creativity in children.",
+        "The program helps foster a sense of community."
+      ],
+      "synonyms": ["encourage", "promote", "nurture"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a02c8051-863d-461b-8572-93c108ab10b7",
+      "english": "fraction",
+      "translation": null,
+      "hebrew": "שבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "One half is a fraction.",
+        "Only a small fraction of the population voted."
+      ],
+      "synonyms": ["portion", "part", "percentage"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7fdc9be1-3780-4e95-8f4c-dbf438d3f4e5",
+      "english": "fracture",
+      "translation": null,
+      "hebrew": "שבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She suffered a fracture in her leg.",
+        "The earthquake caused fractures in the ground."
+      ],
+      "synonyms": ["break", "crack"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "67f4575b-0886-460d-8d41-6ea1f80acbb5",
+      "english": "fraud",
+      "translation": null,
+      "hebrew": "הונאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was accused of fraud.",
+        "The company committed financial fraud."
+      ],
+      "synonyms": ["deception", "scam", "trickery"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "811d33dd-340e-4c39-b4cd-dc27f94973b6",
+      "english": "frequency",
+      "translation": null,
+      "hebrew": "תדירות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The frequency of the meetings is twice a week.",
+        "The radio station broadcasts on a certain frequency."
+      ],
+      "synonyms": ["rate", "recurrence"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "589335a5-0376-4ee1-821c-952e2a1fedac",
+      "english": "frequent",
+      "translation": null,
+      "hebrew": "תדיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a frequent visitor to the library.",
+        "The bus service is more frequent during rush hour."
+      ],
+      "synonyms": ["regular", "common"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fad032d2-116c-4571-87af-c0a14a64bded",
+      "english": "frightening",
+      "translation": null,
+      "hebrew": "מפחיד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was very frightening.",
+        "It was a frightening experience."
+      ],
+      "synonyms": ["scary", "terrifying", "alarming"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ae805a19-c1e5-4b2b-8255-b14e1b098bd1",
+      "english": "fringes",
+      "translation": null,
+      "hebrew": "שוליים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They live on the fringes of society.",
+        "The fringes of the forest are often explored first."
+      ],
+      "synonyms": ["edge", "border", "periphery"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "38d840d9-c2b9-48a4-a56e-6bc87015242f",
+      "english": "frugal",
+      "translation": null,
+      "hebrew": "חסכן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a frugal person and saves her money.",
+        "It's good to be frugal during times of economic hardship."
+      ],
+      "synonyms": ["thrifty", "economical", "sparing"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

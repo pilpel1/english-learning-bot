@@ -1,0 +1,579 @@
+{
+  "_meta": {
+    "chunk_number": 87,
+    "words_range": "distract-exposure",
+    "word_count": 30,
+    "start_index": 2580,
+    "end_index": 2609
+  },
+  "words": [
+    {
+      "word_id": "f476d184-43c4-4818-9f8e-eb74795d3d29",
+      "english": "distract",
+      "translation": "להסיח את הדעת",
+      "hebrew": "להסיח את הדעת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The noise distracted me from my work.",
+        "Don't distract the driver."
+      ],
+      "synonyms": [
+        "divert",
+        "sidetrack"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "373a9b26-67cd-4de9-866d-a2bdf714150f",
+      "english": "district",
+      "translation": "מחוז",
+      "hebrew": "מחוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is divided into several districts.",
+        "This is a residential district."
+      ],
+      "synonyms": [
+        "area",
+        "region"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "81ff4b33-ff0d-4378-b5a1-dd658ad75a3c",
+      "english": "divine",
+      "translation": "אלוהי",
+      "hebrew": "אלוהי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The divine power of God.",
+        "She has a divine voice."
+      ],
+      "synonyms": [
+        "holy",
+        "sacred"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "8d6b6aae-0564-484e-afed-a5a42f93f482",
+      "english": "divinity",
+      "translation": "אלוהות",
+      "hebrew": "אלוהות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The study of divinity.",
+        "Many cultures have different concepts of divinity."
+      ],
+      "synonyms": [
+        "godhood",
+        "theology"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "7b7e2087-c00b-421f-a484-c8d1dc1c09d0",
+      "english": "downhill",
+      "translation": "במורד",
+      "hebrew": "במורד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The car rolled downhill.",
+        "Things started to go downhill after the accident."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0f6a48f8-615e-4726-bea0-bb590bfbe844",
+      "english": "ease",
+      "translation": "להקל",
+      "hebrew": "להקל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The medicine will ease the pain.",
+        "He tried to ease her worries."
+      ],
+      "synonyms": [
+        "alleviate",
+        "relieve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ad5f90e6-221c-4ef4-85f8-bab6f75d573c",
+      "english": "easily",
+      "translation": "בקלות",
+      "hebrew": "בקלות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He can easily solve the problem.",
+        "She easily passed the test."
+      ],
+      "synonyms": [
+        "readily",
+        "effortlessly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4942c778-379e-406d-8730-1f62afa0b91a",
+      "english": "effect",
+      "translation": "השפעה",
+      "hebrew": "השפעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The drug has a strong effect.",
+        "What is the effect of pollution on the environment?"
+      ],
+      "synonyms": [
+        "impact",
+        "result"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f4a8c3ea-d874-491d-b678-d91a248e6d26",
+      "english": "effect",
+      "translation": "לגרום",
+      "hebrew": "לגרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new policy will effect positive change.",
+        "The changes effected by the new law are significant."
+      ],
+      "synonyms": [
+        "cause",
+        "bring about"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b65c34b-cbb3-45d7-ac17-c0b7deb7f48c",
+      "english": "emblem",
+      "translation": "סמל",
+      "hebrew": "סמל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dove is an emblem of peace.",
+        "The company's emblem is a lion."
+      ],
+      "synonyms": [
+        "symbol",
+        "logo"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b8e4d3e6-fd76-4fd9-909d-50da861e1ca2",
+      "english": "encourage",
+      "translation": "לעודד",
+      "hebrew": "לעודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We encourage you to apply for the job.",
+        "The teacher encouraged her students to work hard."
+      ],
+      "synonyms": [
+        "promote",
+        "support"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "90c56cb3-427d-4f79-82ed-35880ec6cc42",
+      "english": "engrave",
+      "translation": "לחרוט",
+      "hebrew": "לחרוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The jeweler engraved the ring with her initials.",
+        "The names of the fallen soldiers are engraved on the monument."
+      ],
+      "synonyms": [
+        "carve",
+        "etch"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "40e5ec79-7edd-4304-a879-a530275f4590",
+      "english": "enhance",
+      "translation": "לשפר",
+      "hebrew": "לשפר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new software will enhance productivity.",
+        "The lighting enhances the beauty of the painting."
+      ],
+      "synonyms": [
+        "improve",
+        "augment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "35b85aeb-8c9e-4ab1-bc59-1753731a53e4",
+      "english": "entirely",
+      "translation": "לחלוטין",
+      "hebrew": "לחלוטין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I am entirely satisfied with the service.",
+        "The project is entirely dependent on funding."
+      ],
+      "synonyms": [
+        "completely",
+        "fully"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7999359d-9951-4698-899a-099ca786595a",
+      "english": "envision",
+      "translation": "לדמיין",
+      "hebrew": "לדמיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I envision a future where everyone has access to clean water.",
+        "Can you envision yourself living here?"
+      ],
+      "synonyms": [
+        "imagine",
+        "visualize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "95992563-997a-4691-9999-4b9817895999",
+      "english": "equation",
+      "translation": "משוואה",
+      "hebrew": "משוואה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Solve the equation.",
+        "The equation has two variables."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "mathematics"
+      ]
+    },
+    {
+      "word_id": "c7ecaf55-3cc1-462a-a5d6-5d360740c27b",
+      "english": "equates",
+      "translation": "משווה",
+      "hebrew": "משווה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Success equates to hard work.",
+        "This equates to a significant increase in profits."
+      ],
+      "synonyms": [
+        "equals",
+        "corresponds"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "63939e41-b76c-4314-bc96-c2b444d18c89",
+      "english": "evoke",
+      "translation": "לעורר",
+      "hebrew": "לעורר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The music evoked memories of her childhood.",
+        "The painting evokes a feeling of sadness."
+      ],
+      "synonyms": [
+        "arouse",
+        "stimulate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f6112aca-23bd-48d3-8c07-35c0bc7be92b",
+      "english": "evolutionary",
+      "translation": "אבולוציוני",
+      "hebrew": "אבולוציוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Evolutionary biology.",
+        "The evolutionary process is slow."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "82a7f151-077d-4825-b391-537da6432668",
+      "english": "evolved",
+      "translation": "התפתח",
+      "hebrew": "התפתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Humans evolved from apes.",
+        "The company has evolved over time."
+      ],
+      "synonyms": [
+        "developed",
+        "progressed"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "185f7425-99b0-409a-bda2-d3d326e0bccd",
+      "english": "excessively",
+      "translation": "מוגזם",
+      "hebrew": "מוגזם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is excessively critical.",
+        "The food was excessively salty."
+      ],
+      "synonyms": [
+        "overly",
+        "extremely"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f8065724-33d8-4726-be41-75a5d80b6f12",
+      "english": "exchange",
+      "translation": "להחליף",
+      "hebrew": "להחליף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We exchanged gifts.",
+        "I want to exchange this shirt for a larger size."
+      ],
+      "synonyms": [
+        "swap",
+        "trade"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e69bc217-2e01-44f4-9817-b654545d60b8",
+      "english": "exclude",
+      "translation": "להוציא",
+      "hebrew": "להוציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The club excludes members who don't pay their dues.",
+        "The list excludes certain items."
+      ],
+      "synonyms": [
+        "omit",
+        "reject"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "306e6748-9150-4044-8610-6d141c875a38",
+      "english": "exclusive",
+      "translation": "בלעדי",
+      "hebrew": "בלעדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is an exclusive offer.",
+        "The hotel is very exclusive."
+      ],
+      "synonyms": [
+        "private",
+        "restricted"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a5adbb3f-849d-4d84-a6eb-b7e23c55f5c0",
+      "english": "exclusively",
+      "translation": "באופן בלעדי",
+      "hebrew": "באופן בלעדי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The product is sold exclusively online.",
+        "The article focuses exclusively on this topic."
+      ],
+      "synonyms": [
+        "solely",
+        "uniquely"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2878493d-ba9b-46ca-b904-3abe564d407c",
+      "english": "excuse",
+      "translation": "תירוץ",
+      "hebrew": "תירוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made up an excuse for being late.",
+        "That's a poor excuse."
+      ],
+      "synonyms": [
+        "reason",
+        "pretext"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "184e996f-9d19-4183-b795-edde6d0b9754",
+      "english": "excuse",
+      "translation": "לסלוח",
+      "hebrew": "לסלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please excuse my lateness.",
+        "I can't excuse his behavior."
+      ],
+      "synonyms": [
+        "forgive",
+        "pardon"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "90bd8627-331b-4605-a54d-ecaae44eecc5",
+      "english": "explicit",
+      "translation": "מפורש",
+      "hebrew": "מפורש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were very explicit.",
+        "He gave explicit consent."
+      ],
+      "synonyms": [
+        "clear",
+        "definite"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c4626a7a-8f6d-4a39-b93a-84a78fef58c3",
+      "english": "explore",
+      "translation": "לחקור",
+      "hebrew": "לחקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We explored the forest.",
+        "The scientists are exploring new treatments for cancer."
+      ],
+      "synonyms": [
+        "investigate",
+        "examine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "181bdc93-367d-4f6a-a1ff-2243b84040ab",
+      "english": "exposure",
+      "translation": "חשיפה",
+      "hebrew": "חשיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Prolonged exposure to the sun can cause skin damage.",
+        "The company received a lot of exposure in the media."
+      ],
+      "synonyms": [
+        "vulnerability",
+        "publicity"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "_meta": {
+    "chunk_number": 98,
+    "words_range": "baggage-convict",
+    "word_count": 30,
+    "start_index": 2910,
+    "end_index": 2939
+  },
+  "words": [
+    {
+      "word_id": "b08e26c1-f0c5-4bfc-bd9d-d9bd82764ac5",
+      "english": "baggage",
+      "translation": null,
+      "hebrew": "מטען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "How much baggage are you taking?",
+        "The baggage claim is on the first floor."
+      ],
+      "synonyms": [
+        "luggage"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "30f02e17-d1d7-4a36-a235-a1103acc9eef",
+      "english": "bandage",
+      "translation": null,
+      "hebrew": "תחבושת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He put a bandage on his knee.",
+        "She wrapped a bandage around her wrist."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "af851904-467f-4113-8de8-fcbc106ff11a",
+      "english": "barrier",
+      "translation": null,
+      "hebrew": "מחסום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The wall is a barrier against the sea.",
+        "Language can be a barrier to communication."
+      ],
+      "synonyms": [
+        "obstacle",
+        "hurdle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "48d614c7-7004-410d-8a90-0ef86d1dc0a5",
+      "english": "bashful",
+      "translation": null,
+      "hebrew": "ביישן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was too bashful to ask her to dance.",
+        "She gave him a bashful smile."
+      ],
+      "synonyms": [
+        "shy",
+        "timid"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2010c429-68cd-40ef-8574-eaee50028aff",
+      "english": "bent",
+      "translation": null,
+      "hebrew": "כפוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The metal rod was bent.",
+        "He has a bent for music."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3274f026-684e-465c-a1ae-fbc29ff6769b",
+      "english": "blend",
+      "translation": null,
+      "hebrew": "לערבב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Blend the ingredients together.",
+        "The colors blend well."
+      ],
+      "synonyms": [
+        "mix",
+        "combine"
+      ],
+      "topic_tags": [
+        "general",
+        "cooking"
+      ]
+    },
+    {
+      "word_id": "a3d03cde-86a1-4731-95ee-3897631e07ee",
+      "english": "blur",
+      "translation": null,
+      "hebrew": "לטשטש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Tears blurred her vision.",
+        "The city lights blurred together."
+      ],
+      "synonyms": [
+        "obscure",
+        "fade"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "64113776-375f-46df-a413-a4b3d253b0e2",
+      "english": "boil",
+      "translation": null,
+      "hebrew": "להרתיח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Boil the water before adding the pasta.",
+        "The kettle is boiling."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "cooking"
+      ]
+    },
+    {
+      "word_id": "afed1b7b-3a14-4889-adf3-1dc657214f0e",
+      "english": "bolster",
+      "translation": null,
+      "hebrew": "לתמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new policy will bolster the economy.",
+        "He needs to bolster his confidence."
+      ],
+      "synonyms": [
+        "support",
+        "strengthen"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e737c1ad-9477-4af0-be79-6acf0b4186c8",
+      "english": "boot",
+      "translation": null,
+      "hebrew": "מגף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore her new boots.",
+        "He kicked the ball with his boot."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "d5823e04-4064-4879-a15e-bbe5f77853cb",
+      "english": "bore",
+      "translation": null,
+      "hebrew": "לשעמם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie bored me.",
+        "He bores me with his stories."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7f265b86-84e4-4139-a2d6-b748cd636a81",
+      "english": "bore",
+      "translation": null,
+      "hebrew": "קדח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The diameter of the bore is 5mm.",
+        "The bore of the rifle was cleaned."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "23450832-14f1-4707-ae39-9b25fe5eed0b",
+      "english": "bury",
+      "translation": null,
+      "hebrew": "לקבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They buried the treasure in the sand.",
+        "He buried his face in his hands."
+      ],
+      "synonyms": [
+        "inter",
+        "entomb"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3b01e4b9-add1-4c5b-82d8-72144de4fa0d",
+      "english": "cabin",
+      "translation": null,
+      "hebrew": "תא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cabin on the ship was small.",
+        "They stayed in a log cabin in the woods."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "94999f71-984f-4949-8945-574496299643",
+      "english": "calculate",
+      "translation": null,
+      "hebrew": "לחשב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Calculate the area of the triangle.",
+        "We need to calculate the cost."
+      ],
+      "synonyms": [
+        "compute",
+        "estimate"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "11dc789b-89b7-4fbf-b30b-390f86c0eb9f",
+      "english": "command",
+      "translation": null,
+      "hebrew": "לפקד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The general commanded the troops.",
+        "He has a good command of English."
+      ],
+      "synonyms": [
+        "order",
+        "direct"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "ad82a464-d62e-4cd9-b583-5bb860b21259",
+      "english": "commute",
+      "translation": null,
+      "hebrew": "לנסוע לעבודה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I commute to work by train.",
+        "She commutes from the suburbs."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "b424506e-8b20-43d4-b6e3-e7b75a104303",
+      "english": "commute",
+      "translation": null,
+      "hebrew": "נסיעה יומית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The commute takes an hour.",
+        "The traffic makes the commute difficult."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "dd518a40-5ec1-4dae-b7cc-93da50b7ff3e",
+      "english": "commute",
+      "translation": null,
+      "hebrew": "להמיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sentence was commuted to life imprisonment.",
+        "The payment was commuted to a lump sum."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "d37e758d-f67e-4df6-aea4-4ce1f60cfb5b",
+      "english": "composed",
+      "translation": null,
+      "hebrew": "רגוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She remained composed despite the stress.",
+        "He is a composed and confident speaker."
+      ],
+      "synonyms": [
+        "calm",
+        "collected"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88cc6a8b-7f4a-4419-8465-bfcd8a1c1c98",
+      "english": "condense",
+      "translation": null,
+      "hebrew": "לדחוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Condense the milk before adding it.",
+        "The steam condenses into water."
+      ],
+      "synonyms": [
+        "compress",
+        "shorten"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a795a0c2-6d13-445f-9948-25a15f561b92",
+      "english": "condone",
+      "translation": null,
+      "hebrew": "למחול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I cannot condone such behavior.",
+        "The company does not condone violence."
+      ],
+      "synonyms": [
+        "excuse",
+        "forgive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6f4c3810-7c29-4481-a688-7bbbe64ef50a",
+      "english": "congenial",
+      "translation": null,
+      "hebrew": "נעים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a congenial host.",
+        "The atmosphere was congenial."
+      ],
+      "synonyms": [
+        "friendly",
+        "pleasant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9272c692-18f8-4854-9a6e-fe8f5ff95b7a",
+      "english": "congenital",
+      "translation": null,
+      "hebrew": "מולד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a congenital heart defect.",
+        "The disease is congenital."
+      ],
+      "synonyms": [
+        "inborn",
+        "innate"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "3e0e6216-71ad-4a71-879a-5353a26e6ff3",
+      "english": "consolidate",
+      "translation": null,
+      "hebrew": "לאחד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Consolidate the two companies.",
+        "Consolidate your debts."
+      ],
+      "synonyms": [
+        "merge",
+        "unite"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f0d4a894-7f27-4dd1-9505-d8de0c867c47",
+      "english": "container",
+      "translation": null,
+      "hebrew": "מיכל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The container is full of water.",
+        "The shipping container was damaged."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ba256e7b-1a05-406a-81dc-644c936f92ae",
+      "english": "contest",
+      "translation": null,
+      "hebrew": "תחרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He won the contest.",
+        "She entered the contest."
+      ],
+      "synonyms": [
+        "competition",
+        "game"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "574ddc62-795d-4545-a1e9-544da3d4f757",
+      "english": "contest",
+      "translation": null,
+      "hebrew": "לערער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to contest the decision.",
+        "They will contest the election results."
+      ],
+      "synonyms": [
+        "dispute",
+        "challenge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19bb8aeb-cf2d-4586-87c2-d0751062289b",
+      "english": "convict",
+      "translation": null,
+      "hebrew": "להרשיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The jury convicted him of the crime.",
+        "He was convicted of fraud."
+      ],
+      "synonyms": [
+        "sentence",
+        "imprison"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    }
+  ]
+}

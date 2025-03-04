@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 133,
+    "words_range": "printer-run, ran",
+    "word_count": 30,
+    "start_index": 3990,
+    "end_index": 4019
+  },
+  "words": [
+    {
+      "word_id": "d90224e7-1f7f-4d05-a88f-21fb4ea17819",
+      "english": "printer",
+      "translation": null,
+      "hebrew": "מדפסת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The printer is out of ink.",
+        "Connect the printer to the computer."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "353125ab-11cc-462d-81b9-86a6f77fc917",
+      "english": "propaganda",
+      "translation": null,
+      "hebrew": "תעמולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government used propaganda to influence public opinion.",
+        "Propaganda is often biased."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "3a1ebc85-c405-4378-96c0-ce3be31bda9c",
+      "english": "prowess",
+      "translation": null,
+      "hebrew": "גבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He demonstrated his prowess in battle.",
+        "She is known for her intellectual prowess."
+      ],
+      "synonyms": ["skill", "expertise", "ability"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9939569b-c6ae-4246-8c23-c9e07dae44dc",
+      "english": "purse",
+      "translation": null,
+      "hebrew": "ארנק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She took her purse.",
+        "The purse contained money."
+      ],
+      "synonyms": ["handbag"],
+      "topic_tags": ["general", "fashion"]
+    },
+    {
+      "word_id": "bd804404-6dc4-49eb-88bc-a59d8687e4d3",
+      "english": "quarrelsome",
+      "translation": null,
+      "hebrew": "רבָּתִי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a quarrelsome person.",
+        "They had a quarrelsome argument."
+      ],
+      "synonyms": ["argumentative", "contentious"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "91baab48-588f-4205-8a41-f23815ee6656",
+      "english": "rain",
+      "translation": null,
+      "hebrew": "גשם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is raining.",
+        "The rain is heavy."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "8cabff97-414b-4579-bd2d-2565bc8c08bd",
+      "english": "rainbow",
+      "translation": null,
+      "hebrew": "קשת בענן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They saw a rainbow after the rain.",
+        "The rainbow was colorful."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "708fc2ad-0a5f-4be1-8db1-5d2cc1ea8ab7",
+      "english": "rainfall",
+      "translation": null,
+      "hebrew": "כמות גשם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rainfall was heavy this year.",
+        "The area has high rainfall."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "4f83e9ab-4b62-4bb1-b477-68758d5caa75",
+      "english": "rainstorm",
+      "translation": null,
+      "hebrew": "סופת גשם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rainstorm flooded the streets.",
+        "They were caught in a rainstorm."
+      ],
+      "synonyms": ["downpour"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "2d854831-c04f-4878-a46d-367969021bb6",
+      "english": "rat",
+      "translation": null,
+      "hebrew": "חולדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a rat in the house.",
+        "Rats are rodents."
+      ],
+      "synonyms": ["rodent"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "c56e4340-321d-4b78-a679-c0fe4bdf4e00",
+      "english": "redhead",
+      "translation": null,
+      "hebrew": "ג'ינג'י",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a redhead.",
+        "He is a redhead."
+      ],
+      "synonyms": ["ginger"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "18ed56c3-eb2c-40f5-ba2d-d032484cae8a",
+      "english": "rehearsal",
+      "translation": null,
+      "hebrew": "חזרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They had a rehearsal for the play.",
+        "The rehearsal went well."
+      ],
+      "synonyms": ["practice"],
+      "topic_tags": ["general", "arts"]
+    },
+    {
+      "word_id": "f4ad19ff-df72-4b19-b2f9-8c91381c3d1f",
+      "english": "rehearse",
+      "translation": null,
+      "hebrew": "לחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They rehearsed the song.",
+        "The actors rehearsed their lines."
+      ],
+      "synonyms": ["practice"],
+      "topic_tags": ["general", "arts"]
+    },
+    {
+      "word_id": "e04475e6-3c74-4429-b499-199c2f71d89c",
+      "english": "reincarnation",
+      "translation": null,
+      "hebrew": "גלגול נשמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He believes in reincarnation.",
+        "The story involves reincarnation."
+      ],
+      "synonyms": ["rebirth"],
+      "topic_tags": ["general", "religion"]
+    },
+    {
+      "word_id": "5e51c43b-9463-44e9-aafb-6583cf12e4eb",
+      "english": "restaurant",
+      "translation": null,
+      "hebrew": "מסעדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to a restaurant.",
+        "The restaurant is expensive."
+      ],
+      "synonyms": ["eatery"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "68a7ea3c-443c-4bcf-8e51-15e5ba0c853c",
+      "english": "resurgence",
+      "translation": null,
+      "hebrew": "התעוררות מחדש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There has been a resurgence of interest in folk music.",
+        "The economy is experiencing a resurgence."
+      ],
+      "synonyms": ["revival", "renewal"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3797cc87-104e-43f4-a3ba-690d9e36aa06",
+      "english": "retroactive",
+      "translation": null,
+      "hebrew": "רטרואקטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The law is retroactive.",
+        "He received a retroactive pay increase."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "law"]
+    },
+    {
+      "word_id": "7b55d8cf-f8b3-485a-b17c-da1c4e05d010",
+      "english": "rhyme",
+      "translation": null,
+      "hebrew": "חרוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The poem has a good rhyme scheme.",
+        "The words rhyme."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "language", "literature"]
+    },
+    {
+      "word_id": "cdb75d48-44ed-48e8-83ef-30d2d531b28a",
+      "english": "rice",
+      "translation": null,
+      "hebrew": "אורז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She cooked rice.",
+        "They ate rice with vegetables."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "dc040bab-88dc-4ba9-b3ab-8ffed2abd1fa",
+      "english": "ride",
+      "translation": null,
+      "hebrew": "לרכב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He rides a bike.",
+        "She rides horses."
+      ],
+      "synonyms": ["drive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "00b46ab0-923e-43bf-aafd-8da18f96db34",
+      "english": "ring",
+      "translation": null,
+      "hebrew": "טבעת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a ring on her finger.",
+        "The ring is made of gold."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "jewellery"]
+    },
+    {
+      "word_id": "93404893-23aa-418c-aaf2-1141f3cb4dcd",
+      "english": "ring",
+      "translation": null,
+      "hebrew": "צלצול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The phone is ringing.",
+        "She heard a ring at the door."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0b3f5873-c8c7-4f79-8e4e-7543ecb7034f",
+      "english": "ring, rang",
+      "translation": null,
+      "hebrew": "צלצל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The phone rang.",
+        "Ring the bell."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ca549e17-35d4-4aa6-90a2-49b6c060260d",
+      "english": "roast",
+      "translation": null,
+      "hebrew": "צלייה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They roasted the chicken.",
+        "Roast vegetables in the oven."
+      ],
+      "synonyms": ["bake"],
+      "topic_tags": ["general", "cooking"]
+    },
+    {
+      "word_id": "3e5bce3e-83e3-46c5-ae15-c0925a75c5dd",
+      "english": "robbery",
+      "translation": null,
+      "hebrew": "שוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a robbery at the bank.",
+        "The police investigated the robbery."
+      ],
+      "synonyms": ["theft"],
+      "topic_tags": ["general", "crime"]
+    },
+    {
+      "word_id": "1d25b598-57ff-4419-884a-bb35f3c66d62",
+      "english": "robe",
+      "translation": null,
+      "hebrew": "חלוק רחצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a robe.",
+        "He put on his robe."
+      ],
+      "synonyms": ["gown"],
+      "topic_tags": ["general", "fashion"]
+    },
+    {
+      "word_id": "1f65f443-27db-49e6-9ca7-4cfc02cf201d",
+      "english": "roof",
+      "translation": null,
+      "hebrew": "גג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The roof protects the house.",
+        "They climbed on the roof."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "e382cf87-7210-4285-bec6-9f2ef1b066c4",
+      "english": "rubbish",
+      "translation": null,
+      "hebrew": "זבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Take out the rubbish.",
+        "The rubbish is smelly."
+      ],
+      "synonyms": ["trash", "garbage"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4cc020c4-ffcc-46f7-b3dd-195bf2b902f9",
+      "english": "rubbish",
+      "translation": null,
+      "hebrew": "שטויות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "That's rubbish!",
+        "Don't talk rubbish."
+      ],
+      "synonyms": ["nonsense"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6c50e0dd-5ebf-4719-89ed-c435dd8334d4",
+      "english": "run, ran",
+      "translation": null,
+      "hebrew": "לרוץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He runs every morning.",
+        "They ran to the store."
+      ],
+      "synonyms": ["sprint", "dash"],
+      "topic_tags": ["general", "sports"]
+    }
+  ]
+}

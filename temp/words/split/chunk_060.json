@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "chunk_number": 60,
+    "words_range": "include-majority",
+    "word_count": 30,
+    "start_index": 1770,
+    "end_index": 1799
+  },
+  "words": [
+    {
+      "word_id": "d805d641-7f13-4c04-9291-7963b486be90",
+      "english": "include",
+      "translation": null,
+      "hebrew": "לכלול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The price includes breakfast.",
+        "Please include your name and address."
+      ],
+      "synonyms": [
+        "contain",
+        "comprise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c7335f2a-8cc0-46bf-8e14-1e02cb1417a1",
+      "english": "inclusive",
+      "translation": null,
+      "hebrew": "כוללני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The school aims to be inclusive for all students.",
+        "We need to create a more inclusive society."
+      ],
+      "synonyms": [
+        "comprehensive",
+        "all-inclusive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "89db6eb2-ddf9-4628-a7e1-246c49d89074",
+      "english": "industrious",
+      "translation": null,
+      "hebrew": "חרוץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is an industrious student.",
+        "The industrious workers completed the project on time."
+      ],
+      "synonyms": [
+        "diligent",
+        "hardworking"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "bbb6afc4-71e1-45bf-8b53-af04cb3f7769",
+      "english": "infected",
+      "translation": null,
+      "hebrew": "נגוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The wound became infected.",
+        "He was infected with the virus."
+      ],
+      "synonyms": [
+        "contaminated",
+        "diseased"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "cf7edead-a159-4dc1-a891-f9b213642086",
+      "english": "infection",
+      "translation": null,
+      "hebrew": "זיהום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The infection spread quickly.",
+        "He has a bad throat infection."
+      ],
+      "synonyms": [
+        "disease",
+        "illness"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "638b82fa-9f48-4dbf-9070-91a9c49e9a53",
+      "english": "innocent",
+      "translation": null,
+      "hebrew": "חף מפשע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The court declared him innocent.",
+        "She is an innocent child."
+      ],
+      "synonyms": [
+        "blameless",
+        "guiltless"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "49fa76b5-8f60-4a3e-bfdf-7ccb76076589",
+      "english": "innocent",
+      "translation": null,
+      "hebrew": "תמים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has an innocent look on his face.",
+        "She asked an innocent question."
+      ],
+      "synonyms": [
+        "naive",
+        "harmless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "127c0574-fd7c-423e-9b96-d73d9bebb770",
+      "english": "institute",
+      "translation": null,
+      "hebrew": "מכון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She works at a research institute.",
+        "The institute is well-known for its work."
+      ],
+      "synonyms": [
+        "organization",
+        "establishment"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "8afc718e-14cf-4225-b1b4-2f65909fa62c",
+      "english": "institute",
+      "translation": null,
+      "hebrew": "לייסד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They plan to institute new rules.",
+        "The company will institute a training program."
+      ],
+      "synonyms": [
+        "establish",
+        "begin"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fab8ff96-7267-42a3-bb73-0572a5a6a509",
+      "english": "instruction",
+      "translation": null,
+      "hebrew": "הוראה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Follow the instructions carefully.",
+        "He gave clear instructions."
+      ],
+      "synonyms": [
+        "direction",
+        "guidance"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "758d68eb-6818-47b2-ac70-f4c5df8f5a02",
+      "english": "insurance",
+      "translation": null,
+      "hebrew": "ביטוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you have car insurance?",
+        "She bought travel insurance."
+      ],
+      "synonyms": [
+        "coverage",
+        "assurance"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "4aec02a7-1083-4efa-a0c4-3d5c789eb7d5",
+      "english": "insure",
+      "translation": null,
+      "hebrew": "לבטח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will insure your car.",
+        "Make sure to insure your valuables."
+      ],
+      "synonyms": [
+        "cover",
+        "protect"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "c807d88e-75f4-41e3-9495-36c78301ee07",
+      "english": "investing",
+      "translation": null,
+      "hebrew": "השקעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Investing in the stock market can be risky.",
+        "She is interested in investing in real estate."
+      ],
+      "synonyms": [
+        "funding",
+         "financing"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "02e8886d-d47f-439a-a94f-b0e7c5bae3d5",
+      "english": "investment",
+      "translation": null,
+      "hebrew": "השקעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a good investment for the future.",
+        "His investment paid off."
+      ],
+      "synonyms": [
+        "venture",
+        "asset"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "0225392b-3def-4379-87a8-9ca2fa72b9a8",
+      "english": "investor",
+      "translation": null,
+      "hebrew": "משקיע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a wealthy investor.",
+        "The company needs more investors."
+      ],
+      "synonyms": [
+        "backer",
+        "financier"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "2516bd24-a398-4d35-866a-edf05eefdd0e",
+      "english": "irrigation",
+      "translation": null,
+      "hebrew": "השקיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The irrigation system is very efficient.",
+        "Irrigation is important for agriculture."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "agriculture"
+      ]
+    },
+    {
+      "word_id": "5c17a2c4-240b-4a81-b620-bee26bffff24",
+      "english": "lapse",
+      "translation": null,
+      "hebrew": "מעידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a lapse in judgment.",
+        "A lapse of concentration caused the accident."
+      ],
+      "synonyms": [
+        "error",
+        "mistake"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "14f80977-e760-4270-befb-3e8a907f1a7d",
+      "english": "lapse",
+      "translation": null,
+      "hebrew": "לפוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "His membership lapsed last year.",
+        "The contract will lapse in June."
+      ],
+      "synonyms": [
+        "expire",
+        "end"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c398f8a3-113f-4d41-a0b1-01f8813ac361",
+      "english": "leather",
+      "translation": null,
+      "hebrew": "עור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This jacket is made of leather.",
+        "She bought a leather bag."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "4dd91c18-cc86-4c64-ae1d-01f04251075c",
+      "english": "lecture",
+      "translation": null,
+      "hebrew": "הרצאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave a lecture on history.",
+        "The lecture was very interesting."
+      ],
+      "synonyms": [
+        "speech",
+        "presentation"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "034117e9-ea2f-4c1e-8f90-8b26ef9312af",
+      "english": "legislate",
+      "translation": null,
+      "hebrew": "לחוקק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Congress has the power to legislate.",
+        "The government is trying to legislate new laws."
+      ],
+      "synonyms": [
+        "enact",
+        "decree"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "b77a422b-901f-4e02-8928-53c3e311ab95",
+      "english": "legislation",
+      "translation": null,
+      "hebrew": "חקיקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "New legislation was passed.",
+        "The legislation aims to reduce pollution."
+      ],
+      "synonyms": [
+        "laws",
+        "statutes"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "0a759567-0533-427d-b685-406558788851",
+      "english": "length",
+      "translation": null,
+      "hebrew": "אורך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the length of the room?",
+        "The length of the movie is two hours."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "84d7ff65-ae22-4fb2-b6b7-0323b626c682",
+      "english": "lower",
+      "translation": null,
+      "hebrew": "להנמיך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please lower the volume.",
+        "They decided to lower the price."
+      ],
+      "synonyms": [
+        "reduce",
+        "decrease"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "98267bea-2966-4d5b-ac8a-888c98907971",
+      "english": "lung",
+      "translation": null,
+      "hebrew": "ריאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Smoking can damage your lungs.",
+        "He has a lung infection."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "81aae1d6-4c14-47b9-9e06-11af660326e5",
+      "english": "maintain",
+      "translation": null,
+      "hebrew": "לתחזק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It's important to maintain your car.",
+        "The building needs to be maintained."
+      ],
+      "synonyms": [
+        "preserve",
+        "keep"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c58f6d57-50d4-4781-9348-53d7213a95b7",
+      "english": "major",
+      "translation": null,
+      "hebrew": "גדול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a major problem.",
+        "He played a major role in the project."
+      ],
+      "synonyms": [
+        "significant",
+        "important"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bbaf66ae-7ba1-4521-b73c-1c6cfedb6996",
+      "english": "major",
+      "translation": null,
+      "hebrew": "רב סרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a major in the army.",
+        "The major gave the order."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "e37eeb74-fb35-4352-b38b-c18de1f35027",
+      "english": "major",
+      "translation": null,
+      "hebrew": "מגמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your major in college?",
+        "She is majoring in biology."
+      ],
+      "synonyms": [
+        "field of study"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "40817a56-c752-4db9-8296-cbf8961e679c",
+      "english": "majority",
+      "translation": null,
+      "hebrew": "רוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The majority voted in favor of the proposal.",
+        "A large majority of people agree."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

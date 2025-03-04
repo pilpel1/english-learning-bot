@@ -1,0 +1,592 @@
+{
+  "_meta": {
+    "chunk_number": 86,
+    "words_range": "crave-dissolve",
+    "word_count": 30,
+    "start_index": 2550,
+    "end_index": 2579
+  },
+  "words": [
+    {
+      "word_id": "14677577-eb22-4a4e-a750-933c574f7ba2",
+      "english": "crave",
+      "translation": "להשתוקק",
+      "hebrew": "להשתוקק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I crave chocolate.",
+        "She craved attention."
+      ],
+      "synonyms": [
+        "desire",
+        "yearn"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3317fdf9-f92a-48c8-b71e-eafdf66b9850",
+      "english": "crime",
+      "translation": "פשע",
+      "hebrew": "פשע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He committed a crime.",
+        "The crime rate is rising."
+      ],
+      "synonyms": [
+        "offense",
+        "felony"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "ebd41dfb-5fee-4316-aa83-2293e88c6dac",
+      "english": "crude",
+      "translation": "גולמי",
+      "hebrew": "גולמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Crude oil needs to be refined.",
+        "The statue was made of crude materials."
+      ],
+      "synonyms": [
+        "raw",
+        "unrefined"
+      ],
+      "topic_tags": [
+        "general",
+        "industry"
+      ]
+    },
+    {
+      "word_id": "0ceda2d5-182f-4ed9-b37d-c925970ad76d",
+      "english": "crude",
+      "translation": "בוטה",
+      "hebrew": "בוטה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a crude joke.",
+        "His behavior was crude and offensive."
+      ],
+      "synonyms": [
+        "vulgar",
+        "coarse"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "43f604b9-9274-4802-93ca-f319f29abf48",
+      "english": "cuisine",
+      "translation": "מטבח",
+      "hebrew": "מטבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I love Italian cuisine.",
+        "The restaurant offers a variety of cuisines."
+      ],
+      "synonyms": [
+        "cooking",
+        "food"
+      ],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "ace1d802-09b6-4743-8a12-69c64fc3e2af",
+      "english": "curse",
+      "translation": "קללה",
+      "hebrew": "קללה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She put a curse on him.",
+        "He shouted a curse."
+      ],
+      "synonyms": [
+        "hex",
+        "oath"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de2965fa-c10b-4c1d-8cd0-b864502a54d8",
+      "english": "darkness",
+      "translation": "חושך",
+      "hebrew": "חושך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The darkness was complete.",
+        "I'm afraid of the darkness."
+      ],
+      "synonyms": [
+        "blackness",
+        "shadow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "28ce893e-1910-402f-ab1f-16fc948bb7c9",
+      "english": "debate",
+      "translation": "ויכוח",
+      "hebrew": "ויכוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a heated debate about the issue.",
+        "The candidates will have a debate next week."
+      ],
+      "synonyms": [
+        "argument",
+        "discussion"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "5bfc14e1-0f7f-4789-8aaf-30cb492dc0ac",
+      "english": "deceased",
+      "translation": "נפטר",
+      "hebrew": "נפטר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The deceased was a well-respected member of the community.",
+        "We offer our condolences to the family of the deceased."
+      ],
+      "synonyms": [
+        "dead",
+        "departed"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ec17fc81-51ba-43c7-a051-f0aec9fb0ab1",
+      "english": "deceive",
+      "translation": "לרמות",
+      "hebrew": "לרמות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He deceived her about his age.",
+        "Don't deceive yourself."
+      ],
+      "synonyms": [
+        "trick",
+        "cheat"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "304f8611-1da5-4577-a16d-196381f425bd",
+      "english": "deliberate",
+      "translation": "מכוון",
+      "hebrew": "מכוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a deliberate act of vandalism.",
+        "The decision was deliberate and well-thought-out."
+      ],
+      "synonyms": [
+        "intentional",
+        "planned"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7e4989df-c788-4805-b6c2-7045c67ca7c7",
+      "english": "deliberate",
+      "translation": "לשקול",
+      "hebrew": "לשקול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The jury will deliberate the verdict.",
+        "We need to deliberate all the options."
+      ],
+      "synonyms": [
+        "consider",
+        "discuss"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c0599d42-ad70-47f6-a9f8-b487b8c039bb",
+      "english": "deliberation",
+      "translation": "דיון",
+      "hebrew": "דיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The jury is in deliberation.",
+        "The decision was made after careful deliberation."
+      ],
+      "synonyms": [
+        "consideration",
+        "discussion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bf6a9693-6ade-4467-a844-04c3766156d5",
+      "english": "delusions",
+      "translation": "אשליות",
+      "hebrew": "אשליות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He suffers from delusions of grandeur.",
+        "She has delusions that she is famous."
+      ],
+      "synonyms": [
+        "hallucinations",
+        "fantasies"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "a38d03df-f08a-49fc-af83-90698e1b9894",
+      "english": "denial",
+      "translation": "הכחשה",
+      "hebrew": "הכחשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in denial about his addiction.",
+        "She is in denial about the problem."
+      ],
+      "synonyms": [
+        "rejection",
+        "disavowal"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "655b6b4a-5c25-4421-8419-906e3aa30df9",
+      "english": "depend on",
+      "translation": "תלוי ב",
+      "hebrew": "תלוי ב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I depend on my parents for support.",
+        "The success of the project depends on you."
+      ],
+      "synonyms": [
+        "rely on",
+        "count on"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "61acbf24-6f00-4703-8c47-795887096604",
+      "english": "describe",
+      "translation": "לתאר",
+      "hebrew": "לתאר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you describe the suspect?",
+        "He described the scene in detail."
+      ],
+      "synonyms": [
+        "explain",
+        "portray"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "59c378b8-cd48-432d-ad88-7b1bf37fba2c",
+      "english": "desolate",
+      "translation": "שומם",
+      "hebrew": "שומם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The island was desolate and uninhabited.",
+        "The landscape was desolate and barren."
+      ],
+      "synonyms": [
+        "barren",
+        "bleak"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "26a340f6-5336-44ec-8c8a-ebb1e4b5bc0c",
+      "english": "desolate",
+      "translation": "לגרום צער",
+      "hebrew": "לגרום צער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The news desolated her.",
+        "He was desolated by the loss of his wife."
+      ],
+      "synonyms": [
+        "devastate",
+        "sadden"
+      ],
+      "topic_tags": [
+        "general",
+        "emotion"
+      ]
+    },
+    {
+      "word_id": "b8d5c4d4-30f8-459f-8d65-b06891e88740",
+      "english": "destroy",
+      "translation": "להרוס",
+      "hebrew": "להרוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire destroyed the building.",
+        "The storm destroyed the crops."
+      ],
+      "synonyms": [
+        "ruin",
+        "demolish"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ebe3083b-6e8e-4ffd-88bf-22f23ab2cf64",
+      "english": "destructive",
+      "translation": "הרסני",
+      "hebrew": "הרסני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire was very destructive.",
+        "His behavior is destructive to the relationship."
+      ],
+      "synonyms": [
+        "damaging",
+        "harmful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5ed8b3f0-6185-4524-ac10-e2f31b903d40",
+      "english": "detract",
+      "translation": "לגרוע",
+      "hebrew": "לגרוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The scandal will detract from his reputation.",
+        "The noise detracted from my concentration."
+      ],
+      "synonyms": [
+        "diminish",
+        "reduce"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b7ed68ee-f7c5-4cc3-94b7-7186cae7b7c5",
+      "english": "deviant",
+      "translation": "סוטה",
+      "hebrew": "סוטה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Deviant behavior is not tolerated.",
+        "He has deviant tendencies."
+      ],
+      "synonyms": [
+        "abnormal",
+        "perverted"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb7a54cf-d932-4eb8-97fc-aba85d18bdfc",
+      "english": "device",
+      "translation": "מכשיר",
+      "hebrew": "מכשיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A mobile phone is a useful device.",
+        "The bomb was a sophisticated device."
+      ],
+      "synonyms": [
+        "gadget",
+        "tool"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "25fabedd-14de-4406-bf04-898443396849",
+      "english": "devise",
+      "translation": "לתכנן",
+      "hebrew": "לתכנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They devised a plan to escape.",
+        "He devised a new method for solving the problem."
+      ],
+      "synonyms": [
+        "invent",
+        "create"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbe6b812-fdaa-4d50-9457-4ffdaa4e388b",
+      "english": "dictate",
+      "translation": "להכתיב",
+      "hebrew": "להכתיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The rules dictate that you must wear a uniform.",
+        "The doctor dictated a letter to his assistant."
+      ],
+      "synonyms": [
+        "prescribe",
+        "order"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1a450ab1-e114-4ac2-86bb-7d0c3723d557",
+      "english": "disorder",
+      "translation": "הפרעה",
+      "hebrew": "הפרעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country was in a state of disorder.",
+        "He suffers from a mental disorder."
+      ],
+      "synonyms": [
+        "chaos",
+        "confusion"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "81b93646-d1a9-421a-8c80-211be8c032d6",
+      "english": "display",
+      "translation": "להציג",
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum displays ancient artifacts.",
+        "He displayed his skills at the competition."
+      ],
+      "synonyms": [
+        "exhibit",
+        "show"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fb72c6bf-596a-4eeb-93f4-958f7ed17362",
+      "english": "disregard",
+      "translation": "להתעלם",
+      "hebrew": "להתעלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He disregarded the warning signs.",
+        "She disregarded his advice."
+      ],
+      "synonyms": [
+        "ignore",
+        "neglect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b9ab5b41-5b6f-4dc9-8453-e844d4801ba3",
+      "english": "dissolve",
+      "translation": "להתמוסס",
+      "hebrew": "להתמוסס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sugar dissolved in the water.",
+        "The company was dissolved after the scandal."
+      ],
+      "synonyms": [
+        "melt",
+        "disintegrate"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    }
+  ]
+}

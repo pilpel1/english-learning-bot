@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 22,
+    "words_range": "mistaken-quick",
+    "word_count": 30,
+    "start_index": 630,
+    "end_index": 659
+  },
+  "words": [
+    {
+      "word_id": "65061c08-e3a3-4245-a330-6ff96c4cd86f",
+      "english": "mistaken",
+      "translation": "שגוי",
+      "hebrew": "שגוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I was mistaken about the time of the meeting.",
+        "He is often mistaken for his brother."
+      ],
+      "synonyms": ["wrong", "incorrect", "erroneous"],
+      "topic_tags": ["general", "error", "perception"]
+    },
+    {
+      "word_id": "e29888f2-a4a2-444b-b1d3-d4eaa30cdca6",
+      "english": "money",
+      "translation": "כסף",
+      "hebrew": "כסף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She saved a lot of money for her trip.",
+        "Money can't buy happiness."
+      ],
+      "synonyms": ["cash", "currency", "funds"],
+      "topic_tags": ["general", "finance", "economy"]
+    },
+    {
+      "word_id": "55a5dac9-8822-4864-b31c-59e46fb80503",
+      "english": "move",
+      "translation": "לזוז",
+      "hebrew": "לזוז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please move the chair to the other room.",
+        "He moved to a new city last year."
+      ],
+      "synonyms": ["shift", "relocate", "transfer"],
+      "topic_tags": ["general", "action", "movement"]
+    },
+    {
+      "word_id": "14b2bac7-2eed-4b16-b85c-918267fe0ef7",
+      "english": "movement",
+      "translation": "תנועה",
+      "hebrew": "תנועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movement of the car was smooth.",
+        "She is part of a political movement."
+      ],
+      "synonyms": ["motion", "activity", "progress"],
+      "topic_tags": ["general", "action", "society"]
+    },
+    {
+      "word_id": "cf76a96e-4196-4c36-b17e-450aa098eb3f",
+      "english": "must",
+      "translation": "חייב",
+      "hebrew": "חייב",
+      "part_of_speech": "modal verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must finish your homework before playing.",
+        "We must leave now to catch the train."
+      ],
+      "synonyms": ["have to", "need to", "ought to"],
+      "topic_tags": ["general", "necessity", "obligation"]
+    },
+    {
+      "word_id": "45a90763-4162-4b0f-aabe-367e38ce6fac",
+      "english": "number",
+      "translation": "מספר",
+      "hebrew": "מספר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you give me your phone number?",
+        "The number of participants is increasing."
+      ],
+      "synonyms": ["figure", "digit", "numeral"],
+      "topic_tags": ["general", "mathematics", "counting"]
+    },
+    {
+      "word_id": "890000c3-259c-4528-a98f-e0aa2c3e7998",
+      "english": "once",
+      "translation": "פעם",
+      "hebrew": "פעם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I visit my grandparents once a week.",
+        "Once you finish, we can leave."
+      ],
+      "synonyms": ["one time", "formerly", "previously"],
+      "topic_tags": ["general", "time", "frequency"]
+    },
+    {
+      "word_id": "3c58c11e-02a7-430e-92a1-d65b808e9e57",
+      "english": "open",
+      "translation": "לפתוח",
+      "hebrew": "לפתוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please open the window.",
+        "The store opens at 9 AM."
+      ],
+      "synonyms": ["unseal", "unlock", "uncover"],
+      "topic_tags": ["general", "action", "access"]
+    },
+    {
+      "word_id": "e109ad2a-a23c-4a99-b937-aab12d2e2d70",
+      "english": "over",
+      "translation": "מעל",
+      "hebrew": "מעל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane flew over the city.",
+        "He placed the blanket over the bed."
+      ],
+      "synonyms": ["above", "across", "beyond"],
+      "topic_tags": ["general", "position", "direction"]
+    },
+    {
+      "word_id": "7323ade0-9dc0-4027-aa3b-8a66f6f88257",
+      "english": "paragraph",
+      "translation": "פסקה",
+      "hebrew": "פסקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please read the first paragraph.",
+        "The essay consists of five paragraphs."
+      ],
+      "synonyms": ["section", "passage", "text"],
+      "topic_tags": ["general", "writing", "structure"]
+    },
+    {
+      "word_id": "8e50bc8e-593e-4cf0-8e6d-4216734f4fe5",
+      "english": "pay",
+      "translation": "לשלם",
+      "hebrew": "לשלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to pay the bill.",
+        "She paid for the groceries."
+      ],
+      "synonyms": ["compensate", "remunerate", "settle"],
+      "topic_tags": ["general", "finance", "transaction"]
+    },
+    {
+      "word_id": "3c31a005-0f34-4d9f-bf07-bd1aaea82f16",
+      "english": "peace",
+      "translation": "שלום",
+      "hebrew": "שלום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is at peace.",
+        "They signed a peace treaty."
+      ],
+      "synonyms": ["harmony", "tranquility", "calm"],
+      "topic_tags": ["general", "state", "harmony"]
+    },
+    {
+      "word_id": "2e211dcf-cdf2-40e3-b356-0ce1fb89c00c",
+      "english": "peaceful",
+      "translation": "שליו",
+      "hebrew": "שליו",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The park is a peaceful place.",
+        "She enjoys a peaceful life."
+      ],
+      "synonyms": ["calm", "serene", "quiet"],
+      "topic_tags": ["general", "state", "harmony"]
+    },
+    {
+      "word_id": "3cfd73c9-ebf6-474f-a096-7b3fdce6d0e7",
+      "english": "pilot",
+      "translation": "טייס",
+      "hebrew": "טייס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pilot landed the plane safely.",
+        "He is training to become a pilot."
+      ],
+      "synonyms": ["aviator", "captain", "flyer"],
+      "topic_tags": ["general", "aviation", "profession"]
+    },
+    {
+      "word_id": "c91063fb-0928-4c21-af70-e12161b7b657",
+      "english": "place",
+      "translation": "מקום",
+      "hebrew": "מקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a nice place to visit.",
+        "He found a place to park his car."
+      ],
+      "synonyms": ["location", "spot", "site"],
+      "topic_tags": ["general", "location", "space"]
+    },
+    {
+      "word_id": "9231b8e5-6c69-46cd-89e4-2ac99ec614b1",
+      "english": "plan",
+      "translation": "תוכנית",
+      "hebrew": "תוכנית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need a plan for the project.",
+        "She has a plan to improve her skills."
+      ],
+      "synonyms": ["strategy", "scheme", "blueprint"],
+      "topic_tags": ["general", "organization", "strategy"]
+    },
+    {
+      "word_id": "121d58e6-a0bf-402f-9865-01667660d35b",
+      "english": "plan",
+      "translation": "לתכנן",
+      "hebrew": "לתכנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They plan to travel next month.",
+        "He is planning a surprise party."
+      ],
+      "synonyms": ["design", "arrange", "prepare"],
+      "topic_tags": ["general", "organization", "strategy"]
+    },
+    {
+      "word_id": "064b05b6-42b9-432c-85f1-3ef6d90be446",
+      "english": "plane",
+      "translation": "מטוס",
+      "hebrew": "מטוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane took off on time.",
+        "He enjoys watching planes at the airport."
+      ],
+      "synonyms": ["aircraft", "jet", "airliner"],
+      "topic_tags": ["general", "aviation", "transportation"]
+    },
+    {
+      "word_id": "edcdac50-2a6e-490a-a261-08c7c5d1c8d3",
+      "english": "plane",
+      "translation": "מישור",
+      "hebrew": "מישור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The geometric plane is flat.",
+        "He drew a plane on the graph."
+      ],
+      "synonyms": ["level", "flat", "surface"],
+      "topic_tags": ["general", "geometry", "mathematics"]
+    },
+    {
+      "word_id": "380e60d0-34f7-44f2-8aa6-9ed507891762",
+      "english": "president",
+      "translation": "נשיא",
+      "hebrew": "נשיא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The president gave a speech.",
+        "She was elected as the president of the club."
+      ],
+      "synonyms": ["leader", "chief", "executive"],
+      "topic_tags": ["general", "leadership", "politics"]
+    },
+    {
+      "word_id": "dc527014-ee5f-4bc1-89fd-211456a66039",
+      "english": "price",
+      "translation": "מחיר",
+      "hebrew": "מחיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The price of the book is reasonable.",
+        "They increased the price of the tickets."
+      ],
+      "synonyms": ["cost", "value", "rate"],
+      "topic_tags": ["general", "finance", "economy"]
+    },
+    {
+      "word_id": "c6ccdc4f-5d83-47db-b524-88b4ca705960",
+      "english": "primary",
+      "translation": "ראשי",
+      "hebrew": "ראשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The primary goal is to finish the project.",
+        "His primary concern is safety."
+      ],
+      "synonyms": ["main", "chief", "principal"],
+      "topic_tags": ["general", "importance", "priority"]
+    },
+    {
+      "word_id": "95b874b0-4202-4b16-a4af-a97f777e476b",
+      "english": "problem",
+      "translation": "בעיה",
+      "hebrew": "בעיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to solve this problem quickly.",
+        "The problem is more complex than it seems."
+      ],
+      "synonyms": ["issue", "difficulty", "challenge"],
+      "topic_tags": ["general", "difficulty", "solution"]
+    },
+    {
+      "word_id": "5f3b0dd7-3027-401c-91c7-04a80e4d9d73",
+      "english": "program",
+      "translation": "תוכנית",
+      "hebrew": "תוכנית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The program will start at 8 PM.",
+        "She is enrolled in a computer science program."
+      ],
+      "synonyms": ["schedule", "plan", "curriculum"],
+      "topic_tags": ["general", "organization", "education"]
+    },
+    {
+      "word_id": "e8a71b7a-1d95-4ac4-837d-b7d1585ae74f",
+      "english": "program",
+      "translation": "לתכנת",
+      "hebrew": "לתכנת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He learned how to program in Python.",
+        "They are programming a new app."
+      ],
+      "synonyms": ["code", "develop", "write"],
+      "topic_tags": ["general", "technology", "development"]
+    },
+    {
+      "word_id": "44c75ffa-7382-4701-849d-1cdbcc56b748",
+      "english": "program",
+      "translation": "תוכנה",
+      "hebrew": "תוכנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The software program is easy to use.",
+        "He installed a new program on his computer."
+      ],
+      "synonyms": ["application", "software", "system"],
+      "topic_tags": ["general", "technology", "software"]
+    },
+    {
+      "word_id": "35c30409-9874-4d4c-bffa-a33df36f72d1",
+      "english": "queen",
+      "translation": "מלכה",
+      "hebrew": "מלכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The queen visited the city.",
+        "She was crowned queen in a grand ceremony."
+      ],
+      "synonyms": ["monarch", "sovereign", "ruler"],
+      "topic_tags": ["general", "royalty", "leadership"]
+    },
+    {
+      "word_id": "772d6cb7-81c3-4e36-b14f-d170f860cfe2",
+      "english": "question",
+      "translation": "שאלה",
+      "hebrew": "שאלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He asked a difficult question.",
+        "The teacher answered all the questions."
+      ],
+      "synonyms": ["query", "inquiry", "interrogation"],
+      "topic_tags": ["general", "communication", "inquiry"]
+    },
+    {
+      "word_id": "f96625bb-befe-44fd-8ce3-d9ff554b83b0",
+      "english": "question",
+      "translation": "לשאול",
+      "hebrew": "לשאול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She questioned his motives.",
+        "They questioned the validity of the results."
+      ],
+      "synonyms": ["ask", "inquire", "probe"],
+      "topic_tags": ["general", "communication", "inquiry"]
+    },
+    {
+      "word_id": "25ef669e-e46d-4896-8e43-e7868d57e4c3",
+      "english": "quick",
+      "translation": "מהיר",
+      "hebrew": "מהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a quick decision.",
+        "The quick response was appreciated."
+      ],
+      "synonyms": ["fast", "rapid", "swift"],
+      "topic_tags": ["general", "speed", "efficiency"]
+    }
+  ]
+}

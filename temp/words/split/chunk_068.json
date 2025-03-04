@@ -1,0 +1,570 @@
+{
+  "_meta": {
+    "chunk_number": 68,
+    "words_range": "vast-allergic",
+    "word_count": 30,
+    "start_index": 2010,
+    "end_index": 2039
+  },
+  "words": [
+    {
+      "word_id": "dfd0e8a7-45de-4dd8-947d-f6a706f29969",
+      "english": "vast",
+      "translation": null,
+      "hebrew": "עצום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The ocean is vast.",
+        "The desert is vast and empty."
+      ],
+      "synonyms": [
+        "huge",
+        "immense"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8c71a0ae-f8d1-4a5b-85d8-a9bc2fa9014e",
+      "english": "vertical",
+      "translation": null,
+      "hebrew": "אנכי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is vertical.",
+        "Draw a vertical line."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1ceb7680-24bb-4f4a-9915-213220538809",
+      "english": "vigorously",
+      "translation": null,
+      "hebrew": "במרץ",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He shook his head vigorously.",
+        "She exercised vigorously."
+      ],
+      "synonyms": [
+        "energetically",
+        "forcefully"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7feb96e6-d6f1-4039-abba-a8171df6a9ea",
+      "english": "violate",
+      "translation": null,
+      "hebrew": "להפר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He violated the law.",
+        "They violated the agreement."
+      ],
+      "synonyms": [
+        "break",
+        "disobey"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "9981dc47-803d-44c4-a060-36a4d60a0fbc",
+      "english": "violation",
+      "translation": null,
+      "hebrew": "הפרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "That's a violation of the rules.",
+        "He committed a violation."
+      ],
+      "synonyms": [
+        "breach",
+        "infringement"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "3ce3724d-26e3-4936-866e-6c7399f833db",
+      "english": "volunteer",
+      "translation": null,
+      "hebrew": "מתנדב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a volunteer at the hospital.",
+        "He is a volunteer firefighter."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c0bc759-e4c4-4df8-8904-b506d716b200",
+      "english": "vote",
+      "translation": null,
+      "hebrew": "להצביע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm going to vote in the election.",
+        "Everyone has the right to vote."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "a85f0e3e-d4c4-43c2-ae28-06f6c5fe995b",
+      "english": "wage",
+      "translation": null,
+      "hebrew": "שכר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He earns a good wage.",
+        "What's the minimum wage?"
+      ],
+      "synonyms": [
+        "salary",
+        "pay"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "9e4a06e4-1c58-4dde-80cd-56bd4795a9be",
+      "english": "wage",
+      "translation": null,
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They waged war against the enemy.",
+        "The company is waging a marketing campaign."
+      ],
+      "synonyms": [
+        "conduct",
+        "carry on"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9a745485-eb9b-466e-9a17-44847aa19371",
+      "english": "ward",
+      "translation": null,
+      "hebrew": "מחלקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a patient in the hospital ward.",
+        "The hospital has a children's ward."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "0d3a0c0b-68d7-4ebc-aff2-1884611086a2",
+      "english": "wide",
+      "translation": null,
+      "hebrew": "רחב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The road is wide.",
+        "The river is wide and deep."
+      ],
+      "synonyms": [
+        "broad",
+        "spacious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4e767b5b-2d9a-4044-8947-f5346d341794",
+      "english": "willing",
+      "translation": null,
+      "hebrew": "מוכן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm willing to help you.",
+        "She is willing to try new things."
+      ],
+      "synonyms": [
+        "ready",
+        "eager"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2eeaba37-159a-4d51-bd6b-357f6ea7bc8d",
+      "english": "wise",
+      "translation": null,
+      "hebrew": "חכם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a wise man.",
+        "She gave me wise advice."
+      ],
+      "synonyms": [
+        "intelligent",
+        "clever"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1403ee5c-f819-4f34-87de-8f8092f9e3f5",
+      "english": "wish",
+      "translation": null,
+      "hebrew": "משאלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Make a wish.",
+        "What's your wish?"
+      ],
+      "synonyms": [
+        "desire",
+        "hope"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "790a9861-7541-4999-864a-ca5919bb959a",
+      "english": "withdraw",
+      "translation": null,
+      "hebrew": "למשוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to withdraw money from the bank.",
+        "He withdrew from the competition."
+      ],
+      "synonyms": [
+        "remove",
+        "retract"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "4999a99a-9e59-4199-899a-799999999999",
+      "english": "witness",
+      "translation": null,
+      "hebrew": "עד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was a witness to the accident.",
+        "The witness gave testimony in court."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "4ecb87a6-ab03-4509-b490-9bab15b13add",
+      "english": "worse",
+      "translation": null,
+      "hebrew": "גרוע יותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is getting worse.",
+        "His health is worse than before."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3e5a4e16-9633-4b98-bed7-5c1360916723",
+      "english": "worthy",
+      "translation": null,
+      "hebrew": "ראוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a worthy candidate.",
+        "She is worthy of praise."
+      ],
+      "synonyms": [
+        "deserving",
+        "meritorious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "86672d17-b700-4803-a218-ec82ecdd7135",
+      "english": "yield",
+      "translation": null,
+      "hebrew": "לייצר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The farm yields a lot of crops.",
+        "The investment yielded a good return."
+      ],
+      "synonyms": [
+        "produce",
+        "generate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "629268b3-1faf-464c-95d2-da413f29c3c0",
+      "english": "yield",
+      "translation": null,
+      "hebrew": "לוותר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must yield to oncoming traffic.",
+        "He refused to yield to pressure."
+      ],
+      "synonyms": [
+        "surrender",
+        "submit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a303dd29-f2fb-4c4a-81b5-ca3939b78205",
+      "english": "zone",
+      "translation": null,
+      "hebrew": "אזור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a no-parking zone.",
+        "The city is divided into zones."
+      ],
+      "synonyms": [
+        "area",
+        "region"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "00630c22-cff8-42e5-867c-37279f698811",
+      "english": "absurd",
+      "translation": null,
+      "hebrew": "אבסורדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's an absurd idea.",
+        "The situation is absurd."
+      ],
+      "synonyms": [
+        "ridiculous",
+        "silly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "83d605c0-dff9-4853-bf37-17b6124b25a9",
+      "english": "accelerate",
+      "translation": null,
+      "hebrew": "להאיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The car accelerated quickly.",
+        "We need to accelerate the process."
+      ],
+      "synonyms": [
+        "speed up",
+        "hasten"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a517ea61-91cc-4d63-a8ba-842c67118b41",
+      "english": "acclaim",
+      "translation": null,
+      "hebrew": "שבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie received critical acclaim.",
+        "She won acclaim for her performance."
+      ],
+      "synonyms": [
+        "praise",
+        "applause"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e520af6c-f2fa-4e14-8aaa-a99582b2c6f6",
+      "english": "accommodate",
+      "translation": null,
+      "hebrew": "להכיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The hotel can accommodate 200 guests.",
+        "We need to accommodate their needs."
+      ],
+      "synonyms": [
+        "lodge",
+        "house"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2b6cdd76-3ec9-4965-be16-418c6febf2f7",
+      "english": "accompany",
+      "translation": null,
+      "hebrew": "ללוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll accompany you to the store.",
+        "The singer was accompanied by a band."
+      ],
+      "synonyms": [
+        "escort",
+        "attend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cdeeaebb-6db0-4b9c-bed6-b602922f5752",
+      "english": "accustomed",
+      "translation": null,
+      "hebrew": "רגיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm accustomed to waking up early.",
+        "She is accustomed to the cold weather."
+      ],
+      "synonyms": [
+        "used to",
+        "familiar with"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "902cc124-461e-4cda-916a-de8bd5e1cf7c",
+      "english": "aggressive",
+      "translation": null,
+      "hebrew": "תוקפני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an aggressive driver.",
+        "The company has an aggressive marketing strategy."
+      ],
+      "synonyms": [
+        "assertive",
+        "forceful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c99eeafb-3951-4fe7-8aa6-ff6abd573f0c",
+      "english": "agriculture",
+      "translation": null,
+      "hebrew": "חקלאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Agriculture is important to the economy.",
+        "He works in agriculture."
+      ],
+      "synonyms": [
+        "farming",
+        "cultivation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "feaaa1e4-cf6f-4683-b3d0-b1e858c09916",
+      "english": "allergic",
+      "translation": null,
+      "hebrew": "אלרגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm allergic to peanuts.",
+        "She is allergic to cats."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

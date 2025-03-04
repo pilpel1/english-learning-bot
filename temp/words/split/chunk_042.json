@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "chunk_number": 42,
+    "words_range": "categorize-consume",
+    "word_count": 30,
+    "start_index": 1230,
+    "end_index": 1259
+  },
+  "words": [
+    {
+      "word_id": "3343e30e-a940-4abd-8a56-340e8d3c18ad",
+      "english": "categorize",
+      "translation": null,
+      "hebrew": "לסווג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The library categorizes books by genre.",
+        "We need to categorize the data before analyzing it."
+      ],
+      "synonyms": [
+        "classify",
+        "group"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "96945ee8-3c7d-469f-b280-a1db7b7a77dc",
+      "english": "cautious",
+      "translation": null,
+      "hebrew": "זהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Be cautious when crossing the street.",
+        "The company is cautious about investing in new ventures."
+      ],
+      "synonyms": [
+        "careful",
+        "prudent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e63149de-4a19-49b9-b103-ffdbe47b677a",
+      "english": "century",
+      "translation": null,
+      "hebrew": "מאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The 20th century was a time of great change.",
+        "A century is 100 years."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "958bd0da-6cd0-4f6b-9d3b-dc14e26f826a",
+      "english": "charge",
+      "translation": null,
+      "hebrew": "לחייב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The store will charge you for the bag.",
+        "How much do you charge for your services?"
+      ],
+      "synonyms": [
+        "bill",
+        "invoice"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "bc337f6b-6a36-4b3e-947b-0b6ea416fd6d",
+      "english": "charge",
+      "translation": null,
+      "hebrew": "להטעין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to charge my phone.",
+        "The battery is charging."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "8ab39297-39d5-4613-a7a7-817dde2ddebb",
+      "english": "charge",
+      "translation": null,
+      "hebrew": "אחריות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in charge of the project.",
+        "Taking care of the children is her charge."
+      ],
+      "synonyms": [
+        "responsibility",
+        "duty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "31f30ef1-17ad-4d3d-903c-28d761d4c80c",
+      "english": "charge",
+      "translation": null,
+      "hebrew": "האשמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He denied the charges against him.",
+        "The charges were dropped due to lack of evidence."
+      ],
+      "synonyms": [
+        "accusation",
+        "indictment"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "134a808d-5506-431a-b0fb-684c522def50",
+      "english": "charge",
+      "translation": null,
+      "hebrew": "להסתער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldiers charged the enemy.",
+        "The bull charged at the matador."
+      ],
+      "synonyms": [
+        "attack",
+        "rush"
+      ],
+      "topic_tags": [
+        "general",
+        "war"
+      ]
+    },
+    {
+      "word_id": "3fa7084d-193e-42a3-81a6-770093821b37",
+      "english": "chart",
+      "translation": null,
+      "hebrew": "תרשים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The chart shows the company's growth.",
+        "We need to create a chart to visualize the data."
+      ],
+      "synonyms": [
+        "graph",
+        "diagram"
+      ],
+      "topic_tags": [
+        "general",
+        "data"
+      ]
+    },
+    {
+      "word_id": "27aa7aa6-fa30-4f04-b263-ba2f2246fb8c",
+      "english": "claim",
+      "translation": null,
+      "hebrew": "לטעון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He claims that he is innocent.",
+        "The company claims to have the best product."
+      ],
+      "synonyms": [
+        "assert",
+        "allege"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "130a1482-9f7b-4d98-a8b3-1625fe7faeec",
+      "english": "claim",
+      "translation": null,
+      "hebrew": "תביעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She filed a claim for damages.",
+        "The insurance company denied the claim."
+      ],
+      "synonyms": [
+        "demand",
+        "request"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "8f52a273-d55e-400f-9933-17b01d8e2d92",
+      "english": "coincide",
+      "translation": null,
+      "hebrew": "להתרחש בו זמנית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two events coincided.",
+        "The conference coincides with my vacation."
+      ],
+      "synonyms": [
+        "happen together",
+        "occur simultaneously"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4f27262a-b230-4499-b97b-b4e4d41894d6",
+      "english": "colossal",
+      "translation": null,
+      "hebrew": "עצום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The statue is colossal.",
+        "The project required a colossal amount of money."
+      ],
+      "synonyms": [
+        "huge",
+        "enormous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "57ce56ae-1576-4946-989c-7fe406a2db4c",
+      "english": "commence",
+      "translation": null,
+      "hebrew": "להתחיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting will commence at 9 AM.",
+        "Construction will commence next week."
+      ],
+      "synonyms": [
+        "begin",
+        "start"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d3eaac46-a9e7-49eb-9861-829c88e9ccb4",
+      "english": "compress",
+      "translation": null,
+      "hebrew": "לדחוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can compress the file to make it smaller.",
+        "The machine compresses the metal into sheets."
+      ],
+      "synonyms": [
+        "squeeze",
+        "compact"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "b5051e11-9f25-433d-bdc4-891f07f10936",
+      "english": "comprise",
+      "translation": null,
+      "hebrew": "לכלול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The team comprises five members.",
+        "The book comprises ten chapters."
+      ],
+      "synonyms": [
+        "include",
+        "consist of"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b534d450-540d-4396-ac64-e62fe8e48396",
+      "english": "concept",
+      "translation": null,
+      "hebrew": "מושג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The concept of democracy is complex.",
+        "He has a good understanding of the concept."
+      ],
+      "synonyms": [
+        "idea",
+        "notion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4e281d3c-a9a5-475f-a838-fe8e214263e3",
+      "english": "conception",
+      "translation": null,
+      "hebrew": "תפיסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His conception of the world is unique.",
+        "The project is still in the early stages of conception."
+      ],
+      "synonyms": [
+        "idea",
+        "understanding"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27b40f6d-aac5-4382-bb5c-a6a0d9baa40c",
+      "english": "confer",
+      "translation": null,
+      "hebrew": "להיוועץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lawyers need to confer before making a decision.",
+        "I need to confer with my colleagues."
+      ],
+      "synonyms": [
+        "consult",
+        "discuss"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cf270503-5769-4e30-9789-65f1d387db4b",
+      "english": "confer",
+      "translation": null,
+      "hebrew": "להעניק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The university will confer degrees at the ceremony.",
+        "The award confers prestige on the recipient."
+      ],
+      "synonyms": [
+        "grant",
+        "bestow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9b808653-02cb-40ed-9d6c-4fec044da659",
+      "english": "conference",
+      "translation": null,
+      "hebrew": "ועידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conference will be held in New York.",
+        "I am attending a conference next week."
+      ],
+      "synonyms": [
+        "meeting",
+        "convention"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "b870feeb-c3a2-48de-86c1-8d08399c4370",
+      "english": "confide",
+      "translation": null,
+      "hebrew": "לספר סוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She confided in her best friend.",
+        "He confided his fears to his therapist."
+      ],
+      "synonyms": [
+        "reveal",
+        "disclose"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "a84b03c9-66e4-40c3-aa3d-690a100f569a",
+      "english": "confident",
+      "translation": null,
+      "hebrew": "בטוח בעצמו",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is confident in her abilities.",
+        "He is a confident speaker."
+      ],
+      "synonyms": [
+        "assured",
+        "self-assured"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "861e6c53-9a5c-4d40-986d-8d7ce2dba773",
+      "english": "conflict",
+      "translation": null,
+      "hebrew": "קונפליקט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a conflict between the two countries.",
+        "The conflict caused a lot of damage."
+      ],
+      "synonyms": [
+        "disagreement",
+        "dispute"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "2b096609-83b6-45b4-9a89-7577c1232571",
+      "english": "conjecture",
+      "translation": null,
+      "hebrew": "השערה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His statement was pure conjecture.",
+        "The theory is based on conjecture, not facts."
+      ],
+      "synonyms": [
+        "speculation",
+        "guess"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3425d3de-9242-4958-940e-13ff983eb788",
+      "english": "connect",
+      "translation": null,
+      "hebrew": "לחבר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Connect the cable to the TV.",
+        "The two cities are connected by a highway."
+      ],
+      "synonyms": [
+        "join",
+        "link"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "31745f7b-dd2d-43f0-9d2b-9431dc3bb1b3",
+      "english": "consequence",
+      "translation": null,
+      "hebrew": "תוצאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His actions had serious consequences.",
+        "The consequence of the decision was unexpected."
+      ],
+      "synonyms": [
+        "result",
+        "outcome"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "83fe9737-8938-41d3-8d7a-88818effe663",
+      "english": "consider",
+      "translation": null,
+      "hebrew": "לשקול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to consider all the options.",
+        "I am considering buying a new car."
+      ],
+      "synonyms": [
+        "think about",
+        "contemplate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a347ca6a-79c8-4f7e-bea2-0ec2814bc965",
+      "english": "considerable",
+      "translation": null,
+      "hebrew": "ניכר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The project required a considerable amount of time.",
+        "He has considerable experience in the field."
+      ],
+      "synonyms": [
+        "significant",
+        "substantial"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b7ed7fee-5ab9-4aed-8a01-e7de7d852240",
+      "english": "consume",
+      "translation": null,
+      "hebrew": "לצרוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We consume a lot of energy.",
+        "The fire consumed the entire building."
+      ],
+      "synonyms": [
+        "use",
+        "devour"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

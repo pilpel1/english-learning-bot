@@ -1,0 +1,562 @@
+{
+  "_meta": {
+    "chunk_number": 65,
+    "words_range": "revenue-specify",
+    "word_count": 30,
+    "start_index": 1920,
+    "end_index": 1949
+  },
+  "words": [
+    {
+      "word_id": "53b07cda-6d7f-4612-9a4a-7f84280e808e",
+      "english": "revenue",
+      "translation": null,
+      "hebrew": "הכנסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company's revenue increased this year.",
+        "The government collects revenue through taxes."
+      ],
+      "synonyms": [
+        "income",
+        "earnings"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "beabc965-a962-402b-9ece-4af796978e9b",
+      "english": "route",
+      "translation": null,
+      "hebrew": "מסלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the best route to the airport?",
+        "The bus follows a fixed route."
+      ],
+      "synonyms": [
+        "path",
+        "course"
+      ],
+      "topic_tags": [
+        "general",
+        "transport"
+      ]
+    },
+    {
+      "word_id": "51997bb3-1749-46c1-bb4b-a22e05b26159",
+      "english": "ruin",
+      "translation": null,
+      "hebrew": "להרוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The storm ruined our plans.",
+        "The scandal ruined his reputation."
+      ],
+      "synonyms": [
+        "destroy",
+        "spoil"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4980342c-5205-4c0b-9f4f-e33b5543498d",
+      "english": "ruins",
+      "translation": null,
+      "hebrew": "חורבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ancient city is now in ruins.",
+        "We visited the ruins of the castle."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "ac13475a-b28a-4b11-a92c-8a671c7065ad",
+      "english": "sample",
+      "translation": null,
+      "hebrew": "דגימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to take a sample of the water.",
+        "The store offers free samples of the product."
+      ],
+      "synonyms": [
+        "specimen",
+        "test"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "be6301b4-d229-4946-a13d-6534a468edc3",
+      "english": "satisfaction",
+      "translation": null,
+      "hebrew": "סיפוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Customer satisfaction is our top priority.",
+        "He felt a sense of satisfaction after finishing the project."
+      ],
+      "synonyms": [
+        "contentment",
+        "pleasure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3365cdde-1b1a-4811-80d0-390aa2ceec12",
+      "english": "scatter",
+      "translation": null,
+      "hebrew": "לפזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The wind scattered the leaves.",
+        "The crowd scattered when the police arrived."
+      ],
+      "synonyms": [
+        "disperse",
+        "spread"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "389f5777-09a4-4c4c-ad09-671baff2240d",
+      "english": "schedule",
+      "translation": null,
+      "hebrew": "לוח זמנים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the schedule for the meeting?",
+        "The train is running on schedule."
+      ],
+      "synonyms": [
+        "timetable",
+        "program"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "56b62b8b-ecc9-49ea-934a-5b4210b9eeba",
+      "english": "sensitive",
+      "translation": null,
+      "hebrew": "רגיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is very sensitive to criticism.",
+        "The skin is sensitive to sunlight."
+      ],
+      "synonyms": [
+        "delicate",
+        "susceptible"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d1d880dc-6cb7-49c1-94d5-150fd5aaaa12",
+      "english": "sensitivity",
+      "translation": null,
+      "hebrew": "רגישות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to show sensitivity to other cultures.",
+        "The test measures the sensitivity of the instrument."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b488d6c0-7f91-4d17-8876-2bcbc6a00b86",
+      "english": "sentence",
+      "translation": null,
+      "hebrew": "משפט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sentence must have a subject and a verb.",
+        "He wrote a long sentence."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "grammar"
+      ]
+    },
+    {
+      "word_id": "b4cd60a5-39fe-4d2f-8b12-de875746577b",
+      "english": "sentence",
+      "translation": null,
+      "hebrew": "גזר דין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge gave him a long sentence.",
+        "He is serving a sentence in prison."
+      ],
+      "synonyms": [
+        "verdict"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "663b6acf-09be-4f3f-bad9-c3d071f7f6b3",
+      "english": "servant",
+      "translation": null,
+      "hebrew": "משרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The king had many servants.",
+        "She worked as a servant in the house."
+      ],
+      "synonyms": [
+        "employee"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9bb19bda-2442-4c7b-8c50-a88b1228ca2a",
+      "english": "serve",
+      "translation": null,
+      "hebrew": "לשרת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He served in the army.",
+        "The waiter served us our drinks."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "279ce4e4-8948-44b3-9671-7a4da357a85e",
+      "english": "serve",
+      "translation": null,
+      "hebrew": "להגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They serve breakfast at 7 AM.",
+        "The restaurant serves delicious food."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "316ae01c-87af-4e38-b8c8-cece428e192b",
+      "english": "serve",
+      "translation": null,
+      "hebrew": "לשמש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "This box can serve as a table.",
+        "The book serves as a guide."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ba17bf63-9f4e-4eb0-afb3-d57eaceb98e1",
+      "english": "session",
+      "translation": null,
+      "hebrew": "פגישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The therapy session lasted an hour.",
+        "The meeting session was very productive."
+      ],
+      "synonyms": [
+        "meeting"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "62d65db2-2dca-4530-8eca-e8ac8bba6877",
+      "english": "sharp",
+      "translation": null,
+      "hebrew": "חד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Be careful, the knife is very sharp.",
+        "She has a sharp mind."
+      ],
+      "synonyms": [
+        "keen",
+        "acute"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e4b409d1-aa95-4b22-9b79-5546b360e607",
+      "english": "sheer",
+      "translation": null,
+      "hebrew": "תלול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The cliff has a sheer drop.",
+        "It was sheer luck that we found the place."
+      ],
+      "synonyms": [
+        "steep"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eddc9b0b-bae9-44fc-b9bd-ffee867a3be7",
+      "english": "sheer",
+      "translation": null,
+      "hebrew": "שקוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The curtains are made of sheer fabric.",
+        "She wore a sheer dress."
+      ],
+      "synonyms": [
+        "transparent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "621dad03-e563-41be-86d1-6eec0ce11e34",
+      "english": "sheer",
+      "translation": null,
+      "hebrew": "מוחלט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was sheer madness to drive so fast.",
+        "The project was a sheer waste of time."
+      ],
+      "synonyms": [
+        "utter",
+        "pure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "74633a87-ee34-4cd3-a255-408158312217",
+      "english": "single",
+      "translation": null,
+      "hebrew": "יחיד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a single man.",
+        "She has a single room."
+      ],
+      "synonyms": [
+        "unmarried",
+        "individual"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ccc5b1e0-1ab4-42dd-9fdb-e747829604c5",
+      "english": "single",
+      "translation": null,
+      "hebrew": "בודד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "A single tree stood in the field.",
+        "He has a single ticket to the show."
+      ],
+      "synonyms": [
+        "lone",
+        "solitary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "241016b1-4ac3-4336-8f7c-38d468cc9016",
+      "english": "skepticism",
+      "translation": null,
+      "hebrew": "ספקנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a lot of skepticism about the new plan.",
+        "He expressed skepticism about the company's future."
+      ],
+      "synonyms": [
+        "doubt",
+        "disbelief"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0a1bf5ff-bd2a-42dc-8e2b-b8ca72793267",
+      "english": "skill",
+      "translation": null,
+      "hebrew": "מיומנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a lot of skill in playing the piano.",
+        "She needs to improve her communication skills."
+      ],
+      "synonyms": [
+        "ability",
+        "talent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "37f35c77-0a9a-4b9b-b0b5-cbc99bb2f3c4",
+      "english": "sophisticated",
+      "translation": null,
+      "hebrew": "מתוחכם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a sophisticated taste in art.",
+        "The computer system is very sophisticated."
+      ],
+      "synonyms": [
+        "refined",
+        "complex"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1f379f49-beda-4b97-9a75-b415f88e4859",
+      "english": "spare",
+      "translation": null,
+      "hebrew": "לחסוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you spare me a few minutes?",
+        "We need to spare water during the drought."
+      ],
+      "synonyms": [
+        "save",
+        "conserve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c150545a-6a18-4ce3-a0af-ca8da392922c",
+      "english": "specialize",
+      "translation": null,
+      "hebrew": "להתמחות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He specializes in heart surgery.",
+        "The company specializes in software development."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2c04b78c-e662-402a-8950-9673f179323b",
+      "english": "species",
+      "translation": null,
+      "hebrew": "מין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The panda is an endangered species.",
+        "There are many different species of birds."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "b4cbbcc5-f207-4e17-8ae7-6f0ee4c1c36f",
+      "english": "specify",
+      "translation": null,
+      "hebrew": "לציין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please specify your requirements.",
+        "The contract specifies the terms of the agreement."
+      ],
+      "synonyms": [
+        "define",
+        "indicate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

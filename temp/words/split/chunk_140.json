@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "chunk_number": 140,
+    "words_range": "yawn-zealot",
+    "word_count": 2,
+    "start_index": 4170,
+    "end_index": 4171
+  },
+  "words": [
+    {
+      "word_id": "a9937154-5f39-47a9-be25-2a5c75743584",
+      "english": "yawn",
+      "translation": null,
+      "hebrew": "לפהק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He yawned loudly.",
+        "The lecture made her yawn."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "acb563db-bc90-485f-ae47-3d799ef00cf4",
+      "english": "zealot",
+      "translation": null,
+      "hebrew": "קנאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a religious zealot.",
+        "The zealots were willing to die for their beliefs."
+      ],
+      "synonyms": ["fanatic"],
+      "topic_tags": ["general", "politics", "religion"]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 122,
+    "words_range": "reap-scale",
+    "word_count": 30,
+    "start_index": 3630,
+    "end_index": 3659
+  },
+  "words": [
+    {
+      "word_id": "03005b17-c2a4-4615-ad2d-7514b3824f5f",
+      "english": "reap",
+      "translation": null,
+      "hebrew": "לקצור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Farmers reap the harvest in the fall.",
+        "You reap what you sow."
+      ],
+      "synonyms": ["harvest", "gather"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d362d641-f16e-4846-a584-22af39aed5e4",
+      "english": "rebel",
+      "translation": null,
+      "hebrew": "מורד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was a rebel without a cause.",
+        "The rebels fought against the government."
+      ],
+      "synonyms": ["insurgent", "dissenter"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "161748b2-c6a3-4981-b939-7befb31d4bfc",
+      "english": "rebellion",
+      "translation": null,
+      "hebrew": "מרד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rebellion was put down by the army.",
+        "There was a rebellion against the king."
+      ],
+      "synonyms": ["uprising", "insurrection"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d79d9db8-5bdb-41f0-af21-26fd73f1cf06",
+      "english": "rebellious",
+      "translation": null,
+      "hebrew": "מרדני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a rebellious attitude.",
+        "She is a rebellious teenager."
+      ],
+      "synonyms": ["defiant", "insubordinate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1ff65f85-c25a-41ca-bf28-85aea04c7e0d",
+      "english": "recipe",
+      "translation": null,
+      "hebrew": "מתכון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She followed the recipe carefully.",
+        "This is my favorite recipe for chocolate cake."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e91caccc-8302-4e4d-a352-44dc302cd922",
+      "english": "recipient",
+      "translation": null,
+      "hebrew": "נמען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was the recipient of an award.",
+        "She is the recipient of the letter."
+      ],
+      "synonyms": ["receiver"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eedee005-f854-47e6-a458-271719dc943a",
+      "english": "reciprocal",
+      "translation": null,
+      "hebrew": "הדדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They have a reciprocal agreement.",
+        "There was reciprocal respect between them."
+      ],
+      "synonyms": ["mutual"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5aae924e-7e8b-45d8-9cbf-75d7a6ea1a53",
+      "english": "reciprocate",
+      "translation": null,
+      "hebrew": "להשיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I wanted to reciprocate her kindness.",
+        "She didn't reciprocate his feelings."
+      ],
+      "synonyms": ["return", "repay"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6d7055f0-61e2-4939-99f4-779a3bed39da",
+      "english": "recreation",
+      "translation": null,
+      "hebrew": "נופש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His favorite recreation is reading.",
+        "The park offers many opportunities for recreation."
+      ],
+      "synonyms": ["leisure", "entertainment"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ad3b1044-32dc-4d58-b566-2302d27e1661",
+      "english": "refund",
+      "translation": null,
+      "hebrew": "החזר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I received a refund for the damaged goods.",
+        "You can get a full refund if you return the item within 30 days."
+      ],
+      "synonyms": ["repayment", "reimbursement"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "24acb8ec-3625-44d2-8169-a39ccf3376ee",
+      "english": "regret",
+      "translation": null,
+      "hebrew": "להצטער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I regret not studying harder.",
+        "She regrets her decision."
+      ],
+      "synonyms": ["lament", "deplore"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c3d167e2-a1dc-45b2-bc47-0e90cc8886ed",
+      "english": "regulate",
+      "translation": null,
+      "hebrew": "לווסת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government regulates the economy.",
+        "The body regulates its temperature."
+      ],
+      "synonyms": ["control", "govern"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "42646092-50e3-4bb7-9713-ff32cd31b23b",
+      "english": "rehabilitation",
+      "translation": null,
+      "hebrew": "שיקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in rehabilitation after his injury.",
+        "Drug rehabilitation is a long process."
+      ],
+      "synonyms": ["recovery", "therapy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "838b6cdc-338a-4aff-9d5a-1329e83c804c",
+      "english": "relegated",
+      "translation": null,
+      "hebrew": "להוריד בדרגה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The team was relegated to a lower division.",
+        "He was relegated to a less important role."
+      ],
+      "synonyms": ["downgrade", "demote"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d4a98cb2-ce57-4af1-b4d5-de3c9f747b9e",
+      "english": "resort",
+      "translation": null,
+      "hebrew": "אתר נופש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They stayed at a ski resort.",
+        "The beach resort was beautiful."
+      ],
+      "synonyms": ["hotel", "vacation spot"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "956e19bd-a777-4767-9e8e-093bb751dd97",
+      "english": "resort",
+      "translation": null,
+      "hebrew": "להזדקק ל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They had to resort to violence.",
+        "He resorted to lying."
+      ],
+      "synonyms": ["turn to", "use"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "440d1972-d531-4aa5-a0b4-c5db4e1bc86c",
+      "english": "revitalize",
+      "translation": null,
+      "hebrew": "להחיות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is trying to revitalize the downtown area.",
+        "The program will revitalize the economy."
+      ],
+      "synonyms": ["renew", "refresh"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e6200e38-0799-4b7e-aae6-717d6632e9fe",
+      "english": "revived",
+      "translation": null,
+      "hebrew": "התאושש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She revived after drinking some water.",
+        "The economy revived after the recession."
+      ],
+      "synonyms": ["recovered", "reanimated"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ee41fc20-122f-4cb7-92a3-92512ee918a4",
+      "english": "revolt",
+      "translation": null,
+      "hebrew": "למרוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The people revolted against the dictator.",
+        "The students revolted against the dress code."
+      ],
+      "synonyms": ["rebel", "mutiny"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9e8493cd-5c4d-4253-a5cd-7722654745a5",
+      "english": "revolution",
+      "translation": null,
+      "hebrew": "מהפכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The French Revolution changed Europe.",
+        "There has been a revolution in technology."
+      ],
+      "synonyms": ["upheaval", "overthrow"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "21c5cd25-30c6-4180-8f81-fbec339ea463",
+      "english": "rhythm",
+      "translation": null,
+      "hebrew": "קצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The music has a good rhythm.",
+        "She danced to the rhythm of the music."
+      ],
+      "synonyms": ["beat", "tempo"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c6358412-b5d5-4b10-85ed-5ae8cdaa96ab",
+      "english": "root",
+      "translation": null,
+      "hebrew": "שורש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The tree has deep roots.",
+        "What are the root causes of the problem?"
+      ],
+      "synonyms": ["origin", "source"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "297a6d89-a316-44ad-963b-7118ef3f34b5",
+      "english": "rotary",
+      "translation": null,
+      "hebrew": "סיבובי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "A rotary engine.",
+        "Rotary motion."
+      ],
+      "synonyms": ["rotating", "revolving"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "46deedb4-3349-4217-a518-c5a2ab22a50d",
+      "english": "rubber",
+      "translation": null,
+      "hebrew": "גומי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The tires are made of rubber.",
+        "He wore rubber gloves."
+      ],
+      "synonyms": ["elastic"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "994a7a6c-dbc0-43ed-9a2f-0747a1748393",
+      "english": "sailor",
+      "translation": null,
+      "hebrew": "מלח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sailor sailed the ship across the sea.",
+        "He was a skilled sailor."
+      ],
+      "synonyms": ["mariner"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3ed74ce9-66c4-47d0-9498-a9199bab8d00",
+      "english": "salvation",
+      "translation": null,
+      "hebrew": "גאולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He sought salvation from his sins.",
+        "The country was in need of salvation."
+      ],
+      "synonyms": ["redemption", "deliverance"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "24e8788e-583b-48fe-982f-a36d64724388",
+      "english": "saturated",
+      "translation": null,
+      "hebrew": "רווי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The sponge was saturated with water.",
+        "The market is saturated with similar products."
+      ],
+      "synonyms": ["soaked", "drenched"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ccb6eec0-3c0a-44ce-89d8-82dd9c8c815a",
+      "english": "scale",
+      "translation": null,
+      "hebrew": "קנה מידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The map is drawn to a scale of 1:10000.",
+        "The problem is on a large scale."
+      ],
+      "synonyms": ["proportion", "range"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7769744f-ea38-4616-9b49-e48aedcd9d4f",
+      "english": "scale",
+      "translation": null,
+      "hebrew": "משקל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We use a scale to measure the weight.",
+        "Stand on the scale to check your weight."
+      ],
+      "synonyms": ["balance"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "132e75c5-d2c8-4eba-8423-a8f29652da15",
+      "english": "scale",
+      "translation": null,
+      "hebrew": "סולם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Use a scale to reach the top shelf.",
+        "He climbed up the scale."
+      ],
+      "synonyms": ["ladder"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

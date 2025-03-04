@@ -1,0 +1,589 @@
+{
+  "_meta": {
+    "chunk_number": 71,
+    "words_range": "conservation-deceased",
+    "word_count": 30,
+    "start_index": 2100,
+    "end_index": 2129
+  },
+  "words": [
+    {
+      "word_id": "8fcb692a-edb3-4a5a-97a7-9afb91ee23db",
+      "english": "conservation",
+      "translation": null,
+      "hebrew": "שימור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wildlife conservation is very important.",
+        "The conservation of natural resources is essential for our future."
+      ],
+      "synonyms": [
+        "preservation",
+        "protection"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "33e699af-557f-4622-a8ff-a50e5c9bd957",
+      "english": "conservative",
+      "translation": null,
+      "hebrew": "שמרני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a conservative approach to life.",
+        "The conservative party won the election."
+      ],
+      "synonyms": [
+        "traditional",
+        "conventional"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "db02d062-da8d-4ca8-b579-5ca2996169b9",
+      "english": "conserve",
+      "translation": null,
+      "hebrew": "לשמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We should conserve water during the drought.",
+        "It's important to conserve energy at home."
+      ],
+      "synonyms": [
+        "preserve",
+        "save"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "ac3b56ed-e790-4963-846d-7c185e5ff670",
+      "english": "contend",
+      "translation": null,
+      "hebrew": "להתמודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The athletes will contend for the gold medal.",
+        "She had to contend with many difficulties."
+      ],
+      "synonyms": [
+        "compete",
+        "struggle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "62e02153-b2d7-46d0-9aa8-9a4cbd79bca6",
+      "english": "content",
+      "translation": null,
+      "hebrew": "תוכן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The content of the book was very interesting.",
+        "The website has a lot of useful content."
+      ],
+      "synonyms": [
+        "subject matter",
+        "material"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "a96bfed7-78ce-49f7-90d3-6cb31f2c5d63",
+      "english": "content",
+      "translation": null,
+      "hebrew": "מרוצה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am content with my life.",
+        "She seemed content with the decision."
+      ],
+      "synonyms": [
+        "satisfied",
+        "pleased"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "2f89d3c4-df51-4fdc-b031-a7f73bb31559",
+      "english": "continent",
+      "translation": null,
+      "hebrew": "יבשת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Africa is a large continent.",
+        "Europe is a continent with many countries."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "c4f06f9d-3cf8-4736-ac8d-3209136c0a2f",
+      "english": "contrast",
+      "translation": null,
+      "hebrew": "ניגוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a big contrast between the two opinions.",
+        "The contrast in colors makes the picture stand out."
+      ],
+      "synonyms": [
+        "difference",
+        "disparity"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fe4adfb3-babb-4d4a-bf97-f7fe014c23d4",
+      "english": "contrast",
+      "translation": null,
+      "hebrew": "להשוות בניגוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can contrast the two products to see which is better.",
+        "The author contrasts the past with the present."
+      ],
+      "synonyms": [
+        "compare",
+        "differentiate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8cec4aa0-deff-4235-a6a5-0812d825db3b",
+      "english": "contribute",
+      "translation": null,
+      "hebrew": "לתרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to contribute to the charity.",
+        "He contributed a lot of time to the project."
+      ],
+      "synonyms": [
+        "donate",
+        "give"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9b748d84-dba6-4a16-b4ed-4393dd862254",
+      "english": "controversial",
+      "translation": null,
+      "hebrew": "שנוי במחלוקת",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The new law is very controversial.",
+        "The politician made a controversial statement."
+      ],
+      "synonyms": [
+        "disputable",
+        "debatable"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "9041af16-68f5-474c-8997-ed6a96d6ff0d",
+      "english": "controversy",
+      "translation": null,
+      "hebrew": "מחלוקת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a lot of controversy surrounding the issue.",
+        "The controversy caused a big debate."
+      ],
+      "synonyms": [
+        "dispute",
+        "argument"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "a10bd4b8-f167-4843-a238-f5b7c9ff23c3",
+      "english": "convene",
+      "translation": null,
+      "hebrew": "לכנס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The committee will convene next week.",
+        "The meeting was convened to discuss the problem."
+      ],
+      "synonyms": [
+        "assemble",
+        "gather"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "addd1d58-c407-43e8-97db-66aa89da194e",
+      "english": "conversation",
+      "translation": null,
+      "hebrew": "שיחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We had a long conversation about the future.",
+        "The conversation was very interesting."
+      ],
+      "synonyms": [
+        "dialogue",
+        "discussion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbbbf60f-d232-45d4-a60b-b1722364f8f0",
+      "english": "convince",
+      "translation": null,
+      "hebrew": "לשכנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I couldn't convince him to change his mind.",
+        "She tried to convince me to come to the party."
+      ],
+      "synonyms": [
+        "persuade",
+        "influence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f3677a71-a749-4239-ba54-5030316158df",
+      "english": "coordination",
+      "translation": null,
+      "hebrew": "תיאום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Good coordination is essential for the project.",
+        "The coordination between the teams was excellent."
+      ],
+      "synonyms": [
+        "organization",
+        "collaboration"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "98f4e978-5278-4344-ab8d-d0a2ef543118",
+      "english": "coordinator",
+      "translation": null,
+      "hebrew": "רכז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the project coordinator.",
+        "The coordinator is responsible for organizing the event."
+      ],
+      "synonyms": [
+        "organizer",
+        "administrator"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "958d99eb-87c2-4709-b682-9f1f1289d5c3",
+      "english": "correspond",
+      "translation": null,
+      "hebrew": "להתכתב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We correspond by email.",
+        "I correspond with my friend who lives abroad."
+      ],
+      "synonyms": [
+        "communicate",
+        "exchange letters"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e46a2122-8413-4de9-9c7d-0d20b6596b4c",
+      "english": "correspond",
+      "translation": null,
+      "hebrew": "תואם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two accounts do not correspond.",
+        "His actions do not correspond with his words."
+      ],
+      "synonyms": [
+        "match",
+        "agree"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "13aeb557-0b22-4846-9d61-d3a0fb231f01",
+      "english": "correspondence",
+      "translation": null,
+      "hebrew": "התכתבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a lot of correspondence to answer.",
+        "The correspondence between the two leaders was revealed."
+      ],
+      "synonyms": [
+        "letters",
+        "communication"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b8f08b21-41ef-4d42-91d7-246d762e1839",
+      "english": "crack",
+      "translation": null,
+      "hebrew": "סדק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a crack in the wall.",
+        "The ice started to crack under his weight."
+      ],
+      "synonyms": [
+        "fissure",
+        "split"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b1d97c42-7ca9-43bb-a558-dfb8824825af",
+      "english": "crave",
+      "translation": null,
+      "hebrew": "להשתוקק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I crave chocolate.",
+        "She craves attention."
+      ],
+      "synonyms": [
+        "desire",
+        "yearn"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3a6505cd-4f2e-4b26-95ac-cf260975ed29",
+      "english": "crime",
+      "translation": null,
+      "hebrew": "פשע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The crime rate is increasing.",
+        "He committed a serious crime."
+      ],
+      "synonyms": [
+        "offense",
+        "felony"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "2a83e1c0-c29f-4351-abbe-3b80ecee8975",
+      "english": "crude",
+      "translation": null,
+      "hebrew": "גולמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Crude oil needs to be refined.",
+        "The crude drawing was made by a child."
+      ],
+      "synonyms": [
+        "raw",
+        "unrefined"
+      ],
+      "topic_tags": [
+        "general",
+        "industry"
+      ]
+    },
+    {
+      "word_id": "41c8d857-2cf8-46a0-9551-da4b2cdea3de",
+      "english": "crude",
+      "translation": null,
+      "hebrew": "בוטה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His crude jokes offended many people.",
+        "The crude language was inappropriate."
+      ],
+      "synonyms": [
+        "vulgar",
+        "offensive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0daa9a31-3a45-47fa-ae17-3a1f13a92708",
+      "english": "cuisine",
+      "translation": null,
+      "hebrew": "מטבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "French cuisine is famous around the world.",
+        "I love to try different types of cuisine."
+      ],
+      "synonyms": [
+        "cooking",
+        "food"
+      ],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "b534fd05-17d1-4f91-9e07-7a4b6129a0ff",
+      "english": "curse",
+      "translation": null,
+      "hebrew": "קללה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She put a curse on him.",
+        "The curse brought bad luck."
+      ],
+      "synonyms": [
+        "hex",
+        "jinx"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bc234498-0360-45d5-9289-4ce681f8987d",
+      "english": "darkness",
+      "translation": null,
+      "hebrew": "חושך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The darkness made it hard to see.",
+        "He was afraid of the darkness."
+      ],
+      "synonyms": [
+        "blackness",
+        "shadow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b78cf6c8-ca7f-474c-bb0d-1dff58b7319a",
+      "english": "debate",
+      "translation": null,
+      "hebrew": "ויכוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a heated debate about the issue.",
+        "The debate will be held tomorrow."
+      ],
+      "synonyms": [
+        "argument",
+        "discussion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dbe51fac-6827-4cd5-82fc-b858b52305ba",
+      "english": "deceased",
+      "translation": null,
+      "hebrew": "נפטר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The deceased was a well-respected member of the community.",
+        "We honor the memory of the deceased."
+      ],
+      "synonyms": [
+        "dead",
+        "departed"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

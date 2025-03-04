@@ -1,0 +1,567 @@
+{
+  "_meta": {
+    "chunk_number": 106,
+    "words_range": "patients-proliferate",
+    "word_count": 30,
+    "start_index": 3150,
+    "end_index": 3179
+  },
+  "words": [
+    {
+      "word_id": "51e5d740-ce7c-4438-80b8-2561a4f8a20d",
+      "english": "patients",
+      "translation": null,
+      "hebrew": "מטופלים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor has many patients.",
+        "The patients are waiting in the waiting room."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "245816ac-a8cf-460e-8d6b-660ad4203425",
+      "english": "peddler",
+      "translation": null,
+      "hebrew": "רוכל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The peddler was selling goods on the street.",
+        "He is a peddler of gossip."
+      ],
+      "synonyms": [
+        "vendor",
+        "hawker"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "19a34bad-f567-4d77-83bf-dcc71147ca91",
+      "english": "penalty",
+      "translation": null,
+      "hebrew": "עונש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The penalty for the crime is five years in prison.",
+        "He received a penalty in the game."
+      ],
+      "synonyms": [
+        "punishment"
+      ],
+      "topic_tags": [
+        "general",
+        "law",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "f2bc4420-3717-4730-b608-ba336dd18e39",
+      "english": "people",
+      "translation": null,
+      "hebrew": "אנשים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are many people in the world.",
+        "The people are protesting in the streets."
+      ],
+      "synonyms": [
+        "individuals"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "00899fa9-bbbf-42f3-9f54-0b7a5556a8b6",
+      "english": "perpetuate",
+      "translation": null,
+      "hebrew": "להנציח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie perpetuates stereotypes.",
+        "We don't want to perpetuate the problem."
+      ],
+      "synonyms": [
+        "maintain",
+        "continue"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d0156795-5f49-4883-a038-7283f8f2d0fa",
+      "english": "pest",
+      "translation": null,
+      "hebrew": "מזיק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The insects are pests.",
+        "He is a pest."
+      ],
+      "synonyms": [
+        "nuisance"
+      ],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "df1c738d-7e25-411c-a58f-7f998e344f91",
+      "english": "petroleum",
+      "translation": null,
+      "hebrew": "נפט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Petroleum is a fossil fuel.",
+        "The price of petroleum is rising."
+      ],
+      "synonyms": [
+        "oil",
+        "crude oil"
+      ],
+      "topic_tags": [
+        "general",
+        "energy",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "1241ebbb-0f15-4c05-82a2-03a794337128",
+      "english": "plague",
+      "translation": null,
+      "hebrew": "מגפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plague killed many people.",
+        "The country is suffering from a plague of locusts."
+      ],
+      "synonyms": [
+        "epidemic"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "history"
+      ]
+    },
+    {
+      "word_id": "5a46a862-68f8-4b88-84bb-bec03b36502d",
+      "english": "plentiful",
+      "translation": null,
+      "hebrew": "שופע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The harvest was plentiful.",
+        "There is a plentiful supply of water."
+      ],
+      "synonyms": [
+        "abundant",
+        "ample"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "617c6ddd-a282-49c3-a270-10f10838985e",
+      "english": "poet",
+      "translation": null,
+      "hebrew": "משורר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Shakespeare is a famous poet.",
+        "The poet wrote a beautiful poem."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "art",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "f1160e5f-062c-4d4a-9e23-1503c260666e",
+      "english": "polar",
+      "translation": null,
+      "hebrew": "קוטבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The polar regions are very cold.",
+        "They have polar opposite views."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "efaaf0cd-746f-4b84-9fbe-cc0c90cc63de",
+      "english": "pole",
+      "translation": null,
+      "hebrew": "מוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The flag is on a pole.",
+        "He used a pole to reach the fruit."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3984232a-53e7-4f49-b3ea-0879c57f7da5",
+      "english": "pole",
+      "translation": null,
+      "hebrew": "קוטב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The North Pole is very cold.",
+        "The Earth has two poles."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "2542d070-7ff1-4736-84cc-cd8de54e3d93",
+      "english": "poor",
+      "translation": null,
+      "hebrew": "עני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a poor man.",
+        "The poor need help."
+      ],
+      "synonyms": [
+        "impoverished"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "04f28e3e-a7a3-4746-8e97-5e4359030b39",
+      "english": "poorly",
+      "translation": null,
+      "hebrew": "גרוע",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He performed poorly on the test.",
+        "The car is poorly made."
+      ],
+      "synonyms": [
+        "badly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3931a84d-52b9-4ab6-8ac3-2824616ef91e",
+      "english": "portrait",
+      "translation": null,
+      "hebrew": "דיוקן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist painted a portrait of her.",
+        "The portrait hangs in the museum."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "e6d06f30-5c07-4f38-ba67-e315a3d4567b",
+      "english": "posterity",
+      "translation": null,
+      "hebrew": "דורות הבאים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We must preserve the environment for posterity.",
+        "The records are kept for posterity."
+      ],
+      "synonyms": [
+        "future generations"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "595cf6aa-2ac8-4a9b-8044-dddf8652f1ef",
+      "english": "pot",
+      "translation": null,
+      "hebrew": "סיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She cooked the soup in a pot.",
+        "The pot is on the stove."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "cooking"
+      ]
+    },
+    {
+      "word_id": "aacbf6ee-3407-49d7-bee6-e3c2d231bc4b",
+      "english": "potato",
+      "translation": null,
+      "hebrew": "תפוח אדמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Potatoes are a common vegetable.",
+        "She cooked potatoes for dinner."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "b02a76e2-b1f8-410a-a0f0-ceafaf2f8c3b",
+      "english": "potter",
+      "translation": null,
+      "hebrew": "יוצר כלי חרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The potter makes beautiful pots.",
+        "He is a skilled potter."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "b0b8ed63-17ef-4ebe-b6a2-163cdfd00058",
+      "english": "praise",
+      "translation": null,
+      "hebrew": "לשבח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher praised the student.",
+        "We praise God."
+      ],
+      "synonyms": [
+        "commend",
+        "applaud"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9c6386d7-aca3-4d86-8e08-f7bccd692ca8",
+      "english": "prepare",
+      "translation": null,
+      "hebrew": "להכין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to prepare for the test.",
+        "She is preparing dinner."
+      ],
+      "synonyms": [
+        "ready"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1dcdb113-f6b5-4ccd-b1f5-3b4f94e7a856",
+      "english": "preside",
+      "translation": null,
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge presides over the court.",
+        "He will preside over the meeting."
+      ],
+      "synonyms": [
+        "officiate"
+      ],
+      "topic_tags": [
+        "general",
+        "law",
+        "business"
+      ]
+    },
+    {
+      "word_id": "5c51c7bf-c837-442a-b1be-8a8b9dc71255",
+      "english": "prestigious",
+      "translation": null,
+      "hebrew": "יוקרתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Harvard is a prestigious university.",
+        "He received a prestigious award."
+      ],
+      "synonyms": [
+        "reputable",
+        "esteemed"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "0c944e05-e6c8-492d-b05d-fd35ab2e5350",
+      "english": "pretend",
+      "translation": null,
+      "hebrew": "להעמיד פנים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Let's pretend we are pirates.",
+        "He pretended to be sick."
+      ],
+      "synonyms": [
+        "feign",
+        "simulate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8e636aab-ddb0-4d51-817d-38a296bea956",
+      "english": "principal",
+      "translation": null,
+      "hebrew": "עיקרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The principal reason is that...",
+        "The principal amount is $1000."
+      ],
+      "synonyms": [
+        "main",
+        "chief"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d164825-d34e-437a-933f-97cb20329059",
+      "english": "principle",
+      "translation": null,
+      "hebrew": "עיקרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has strong principles.",
+        "It's against my principles."
+      ],
+      "synonyms": [
+        "standard",
+        "belief"
+      ],
+      "topic_tags": [
+        "general",
+        "ethics"
+      ]
+    },
+    {
+      "word_id": "0267a0a8-ad61-4cf3-9167-f2168dd33f85",
+      "english": "principle",
+      "translation": null,
+      "hebrew": "חוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The principle of gravity.",
+        "A basic principle of economics."
+      ],
+      "synonyms": [
+        "rule"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "5d6eccbc-490c-4bc4-b539-608b26db451f",
+      "english": "probation",
+      "translation": null,
+      "hebrew": "תקופת ניסיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is on probation.",
+        "She was sentenced to probation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "cd660c90-86ba-4422-9245-70f962097bf0",
+      "english": "proliferate",
+      "translation": null,
+      "hebrew": "לשגשג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bacteria proliferate quickly.",
+        "The rumors began to proliferate."
+      ],
+      "synonyms": [
+        "multiply",
+        "flourish"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

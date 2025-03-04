@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 124,
+    "words_range": "stunned-unrest",
+    "word_count": 30,
+    "start_index": 3690,
+    "end_index": 3719
+  },
+  "words": [
+    {
+      "word_id": "5b9fbf05-a831-4e1c-85f8-21a9418b155f",
+      "english": "stunned",
+      "translation": null,
+      "hebrew": "המום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She was stunned by the news.",
+        "He was stunned into silence."
+      ],
+      "synonyms": ["shocked", "astonished", "dazed"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a2ea6f5e-97e8-44cd-81ce-34c46d12c74f",
+      "english": "substance",
+      "translation": null,
+      "hebrew": "חומר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is an essential substance for life.",
+        "The chemical substance is dangerous."
+      ],
+      "synonyms": ["material", "matter"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e95fa775-6d80-45d3-91f2-a68e284c507b",
+      "english": "suggest",
+      "translation": null,
+      "hebrew": "להציע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I suggest we go to the beach.",
+        "She suggested a new idea."
+      ],
+      "synonyms": ["propose", "recommend"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8c4c1729-3ebe-477d-ad1c-b04123a9f676",
+      "english": "suicide",
+      "translation": null,
+      "hebrew": "התאבדות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Suicide is a serious problem.",
+        "He committed suicide."
+      ],
+      "synonyms": ["self-destruction"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a43e100e-c217-42d6-bdea-1652c898bb8d",
+      "english": "summits",
+      "translation": null,
+      "hebrew": "פסגות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hikers reached the summits of the mountains.",
+        "They discussed the matter at the summits."
+      ],
+      "synonyms": ["peaks", "top"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5342f101-9383-4c38-a039-de8828b2f5c9",
+      "english": "surgery",
+      "translation": null,
+      "hebrew": "ניתוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He had surgery on his knee.",
+        "The surgery was successful."
+      ],
+      "synonyms": ["operation"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "294e0805-4c7d-4260-9c5f-95d958aa8dac",
+      "english": "surpass",
+      "translation": null,
+      "hebrew": "להתעלות על",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He surpassed all expectations.",
+        "Her achievements surpass his."
+      ],
+      "synonyms": ["exceed", "outdo"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "567d2f8b-95d9-40a1-accc-edc5f00a5017",
+      "english": "surrender",
+      "translation": null,
+      "hebrew": "להיכנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They surrendered to the enemy.",
+        "He surrendered his weapon."
+      ],
+      "synonyms": ["yield", "capitulate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ed49d060-1776-433b-b5f4-ebf00e1e550b",
+      "english": "surveillance",
+      "translation": null,
+      "hebrew": "מעקב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The suspect was under surveillance.",
+        "The police used video surveillance."
+      ],
+      "synonyms": ["observation", "monitoring"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0651830f-817e-4c41-9abb-be6c31356058",
+      "english": "survival",
+      "translation": null,
+      "hebrew": "הישרדות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Survival is the first priority.",
+        "The survival of the species is at risk."
+      ],
+      "synonyms": ["existence", "preservation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4494d160-c3cd-4b11-b8be-433ca316f9ab",
+      "english": "swallow",
+      "translation": null,
+      "hebrew": "לבלוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Swallow the pill with water.",
+        "It was hard to swallow the bad news."
+      ],
+      "synonyms": ["ingest", "consume"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a0bb6697-8928-4774-b60f-9433830ed199",
+      "english": "sweep",
+      "translation": null,
+      "hebrew": "לטאטא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Sweep the floor.",
+        "The wind swept across the plain."
+      ],
+      "synonyms": ["brush", "clean"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4b39ecf2-80ad-4895-8587-3886aa8891f6",
+      "english": "symmetry",
+      "translation": null,
+      "hebrew": "סימטריה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has perfect symmetry.",
+        "Symmetry is common in nature."
+      ],
+      "synonyms": ["balance", "correspondence"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ac50d186-d969-4174-a6f2-7c874a82f330",
+      "english": "taint",
+      "translation": null,
+      "hebrew": "להכתים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The scandal tainted his reputation.",
+        "The water was tainted with pollution."
+      ],
+      "synonyms": ["corrupt", "pollute"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2e4e2abc-836e-4264-bb69-eac8fbe93277",
+      "english": "taint",
+      "translation": null,
+      "hebrew": "כתם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The scandal left a taint on his reputation.",
+        "There was a taint of suspicion."
+      ],
+      "synonyms": ["stigma", "blemish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9db09faf-4c6b-4ab9-b529-8d8b5e49be56",
+      "english": "tainted",
+      "translation": null,
+      "hebrew": "מוכתם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was tainted.",
+        "His reputation was tainted by scandal."
+      ],
+      "synonyms": ["corrupted", "contaminated"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "38596e86-7676-4c93-a61a-283842f44324",
+      "english": "talent",
+      "translation": null,
+      "hebrew": "כישרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a talent for music.",
+        "He is a talented artist."
+      ],
+      "synonyms": ["ability", "skill", "gift"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cfa2efa1-bc71-4da3-9f14-28b4bbb8ab23",
+      "english": "tame",
+      "translation": null,
+      "hebrew": "לאלף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tamed the wild horse.",
+        "She tried to tame her rebellious spirit."
+      ],
+      "synonyms": ["domesticate", "subdue"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e2dbf30b-a852-4351-8e42-a154a68b019b",
+      "english": "tentative",
+      "translation": null,
+      "hebrew": "זמני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The plans are tentative.",
+        "She made a tentative step forward."
+      ],
+      "synonyms": ["provisional", "uncertain"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6bd878d2-fb2f-47df-bca8-23ac829100a4",
+      "english": "thief",
+      "translation": null,
+      "hebrew": "גנב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The thief stole her purse.",
+        "The police caught the thief."
+      ],
+      "synonyms": ["burglar", "robber"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7e109661-41a6-4086-a5e1-5e701d41ba72",
+      "english": "thriller",
+      "translation": null,
+      "hebrew": "מותחן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I like to watch thriller movies.",
+        "The book is a gripping thriller."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "50c97fe5-93ef-46c5-9c1e-ee7472c7e437",
+      "english": "tone",
+      "translation": null,
+      "hebrew": "טון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His tone was sarcastic.",
+        "The painting had a warm tone."
+      ],
+      "synonyms": ["intonation", "quality"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8383ce73-4818-4b0a-b28e-c391f6d4b7e6",
+      "english": "transcript",
+      "translation": null,
+      "hebrew": "תעתיק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The transcript of the interview.",
+        "He submitted a transcript of his grades."
+      ],
+      "synonyms": ["record", "copy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "757e7f0f-c14f-4192-a084-24f36c434e73",
+      "english": "trip",
+      "translation": null,
+      "hebrew": "טיול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We are going on a trip to Europe.",
+        "How was your trip?"
+      ],
+      "synonyms": ["journey", "tour"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1ea007f7-1637-4543-9591-262adb0dbd57",
+      "english": "trip",
+      "translation": null,
+      "hebrew": "למעוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tripped and fell.",
+        "Be careful not to trip."
+      ],
+      "synonyms": ["stumble"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c2bb48ea-7a45-4768-84cd-f853b0ea7414",
+      "english": "unofficial",
+      "translation": null,
+      "hebrew": "לא רשמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is an unofficial event.",
+        "The results are still unofficial."
+      ],
+      "synonyms": ["informal", "unauthorized"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f1e474e5-4237-4087-96dc-ee826a69d3fe",
+      "english": "unorganized",
+      "translation": null,
+      "hebrew": "לא מאורגן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His desk was unorganized.",
+        "The meeting was unorganized."
+      ],
+      "synonyms": ["disorderly", "messy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "065de461-78a0-4039-aa9d-ce17081a0c8a",
+      "english": "unpardonable",
+      "translation": null,
+      "hebrew": "בלתי נסלח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior was unpardonable.",
+        "That was an unpardonable crime."
+      ],
+      "synonyms": ["inexcusable", " unforgivable"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7e1f234b-ad01-4b09-80a7-5f38a60f6c33",
+      "english": "unrealistic",
+      "translation": null,
+      "hebrew": "לא מציאותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His plans were unrealistic.",
+        "It is unrealistic to expect that."
+      ],
+      "synonyms": ["impractical", "utopian"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "66516f36-9d37-423e-99cb-0127c9d9cfe2",
+      "english": "unrest",
+      "translation": null,
+      "hebrew": "אי שקט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is social unrest in the country.",
+        "The economic crisis caused unrest."
+      ],
+      "synonyms": ["turmoil", "disturbance"],
+      "topic_tags": ["general", "politics"]
+    }
+  ]
+}

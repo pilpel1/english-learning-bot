@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 133,
+    "words_range": "pan-prick",
+    "word_count": 30,
+    "start_index": 3960,
+    "end_index": 3989
+  },
+  "words": [
+    {
+      "word_id": "b27834c6-fc86-4b10-afc7-ddf0686f1e89",
+      "english": "pan",
+      "translation": null,
+      "hebrew": "מחבת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She cooked the eggs in a pan.",
+        "The pan is hot."
+      ],
+      "synonyms": ["skillet"],
+      "topic_tags": ["general", "cooking"]
+    },
+    {
+      "word_id": "1f3c2ea6-bce1-44e9-9260-955ee2e6c8ef",
+      "english": "paradox",
+      "translation": null,
+      "hebrew": "פרדוקס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The statement is a paradox.",
+        "He explained the paradox."
+      ],
+      "synonyms": ["contradiction"],
+      "topic_tags": ["general", "philosophy"]
+    },
+    {
+      "word_id": "c1948886-76c0-4352-9417-fc03dcee1ddb",
+      "english": "pathology",
+      "translation": null,
+      "hebrew": "פתולוגיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He studied pathology.",
+        "The pathology report was important."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "00b352ac-132b-43ff-9e33-8428f5a8b874",
+      "english": "peach",
+      "translation": null,
+      "hebrew": "אפרסק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She ate a peach.",
+        "The peach is sweet."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "254d5b04-c21e-478f-857e-4d9ea852df89",
+      "english": "pepper",
+      "translation": null,
+      "hebrew": "פלפל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Add pepper to the soup.",
+        "Black pepper."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "cb0aedca-cfa5-4a8e-b08a-b557ae9e9fbe",
+      "english": "perch",
+      "translation": null,
+      "hebrew": "לשבת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird perched on the branch.",
+        "She perched on the edge of the chair."
+      ],
+      "synonyms": ["rest", "sit"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c7e51156-40b7-4cf7-8675-f0e8d145c028",
+      "english": "perch",
+      "translation": null,
+      "hebrew": "מוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird sat on its perch.",
+        "The cat found a high perch."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4f2784e0-863e-41e6-bf0b-0b25d4348b49",
+      "english": "pet",
+      "translation": null,
+      "hebrew": "חיית מחמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a pet dog.",
+        "What's your favorite pet?"
+      ],
+      "synonyms": ["animal", "companion"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "f949e142-756e-4b7d-844b-3d572c378806",
+      "english": "pharmacy",
+      "translation": null,
+      "hebrew": "בית מרקחת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He went to the pharmacy to buy medicine.",
+        "She worked at the pharmacy."
+      ],
+      "synonyms": ["drugstore"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "8d832d61-ffdd-4c5e-a1b7-3789cdb50c3e",
+      "english": "philosophy",
+      "translation": null,
+      "hebrew": "פילוסופיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He studied philosophy.",
+        "What is your philosophy of life?"
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "df770111-17b1-4637-9643-47cf8ccf0b5a",
+      "english": "photograph",
+      "translation": null,
+      "hebrew": "תמונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She took a photograph.",
+        "The photograph is beautiful."
+      ],
+      "synonyms": ["picture", "photo"],
+      "topic_tags": ["general", "arts"]
+    },
+    {
+      "word_id": "3eceb174-46b2-4816-863b-5c2489139bbd",
+      "english": "physical",
+      "translation": null,
+      "hebrew": "פיזי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has physical strength.",
+        "She needed physical therapy."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "8e5c56f2-5958-4328-a2db-52d79e1cd0f0",
+      "english": "physicist",
+      "translation": null,
+      "hebrew": "פיזיקאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous physicist.",
+        "The physicist studied the laws of nature."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "4659f4b7-31e4-4015-9ef4-3fe7301d6001",
+      "english": "pick",
+      "translation": null,
+      "hebrew": "לבחור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Pick a card.",
+        "Pick the best option."
+      ],
+      "synonyms": ["choose", "select"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "260759bd-6e55-448c-8159-509f80793143",
+      "english": "pick",
+      "translation": null,
+      "hebrew": "לקטוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Pick flowers.",
+        "Pick strawberries."
+      ],
+      "synonyms": ["gather", "harvest"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6cd780f0-f9da-47dd-b77c-ea28d6b6a820",
+      "english": "pigeon",
+      "translation": null,
+      "hebrew": "יונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pigeon flew away.",
+        "Pigeons live in cities."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "ebcc4d5c-ed3e-4afb-a1d0-e28e72d35268",
+      "english": "pinch",
+      "translation": null,
+      "hebrew": "לצבוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She pinched his arm.",
+        "Pinch the dough."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1df15fa0-82b0-4b21-869c-f74e92e37838",
+      "english": "pit",
+      "translation": null,
+      "hebrew": "בור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They dug a pit.",
+        "He fell into a pit."
+      ],
+      "synonyms": ["hole"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5df0449e-2186-459e-a2ea-02670f5b5e79",
+      "english": "plaster",
+      "translation": null,
+      "hebrew": "טיח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The wall was covered with plaster.",
+        "The doctor put a plaster on his arm."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "3e0ccbf6-ded2-4514-8e9b-d9bf65c94f63",
+      "english": "pool",
+      "translation": null,
+      "hebrew": "בריכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They swam in the pool.",
+        "She sat by the pool."
+      ],
+      "synonyms": ["swimming pool"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "9b3e1d22-f03a-47f5-a552-310b3f7a8981",
+      "english": "pothole",
+      "translation": null,
+      "hebrew": "בור בכביש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The road is full of potholes.",
+        "The car hit a pothole."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "401d0e8f-350d-4c46-9101-1d0811e5da79",
+      "english": "pottery",
+      "translation": null,
+      "hebrew": "כלי חרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pottery is beautiful.",
+        "She made pottery."
+      ],
+      "synonyms": ["ceramics"],
+      "topic_tags": ["general", "arts"]
+    },
+    {
+      "word_id": "ba339e80-1a14-4f95-a88d-a1ccfd296597",
+      "english": "poultry",
+      "translation": null,
+      "hebrew": "עוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Chicken and turkey are poultry.",
+        "He raises poultry."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food", "animals"]
+    },
+    {
+      "word_id": "313942b6-5350-4c48-b750-4d40d41686ab",
+      "english": "prank",
+      "translation": null,
+      "hebrew": "תעלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They played a prank on him.",
+        "It was a harmless prank."
+      ],
+      "synonyms": ["trick", "joke", "practical joke"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6de5f80b-ba94-48fb-a33d-522ad3727415",
+      "english": "pregnancy",
+      "translation": null,
+      "hebrew": "הריון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She announced her pregnancy.",
+        "Pregnancy lasts for nine months."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "d7ba6e60-793b-4609-9b35-072fdb81b864",
+      "english": "pregnant",
+      "translation": null,
+      "hebrew": "בהריון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is pregnant.",
+        "The pregnant woman felt tired."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "402d2d55-51f2-42cc-9d17-9db93a31fa35",
+      "english": "prehistoric",
+      "translation": null,
+      "hebrew": "פרהיסטורי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Prehistoric animals.",
+        "The museum has prehistoric artifacts."
+      ],
+      "synonyms": ["ancient"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "54036666-a02b-47b7-8cf0-da70598e3d5f",
+      "english": "preparation for",
+      "translation": null,
+      "hebrew": "הכנה ל...",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They began preparation for the trip.",
+        "The preparation for the exam took weeks."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c6705bf5-0498-4add-9873-d84c3bc031ef",
+      "english": "presentation",
+      "translation": null,
+      "hebrew": "מצגת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave a presentation.",
+        "The presentation was informative."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "92f837d0-ba8d-4257-a1e6-7c8f4a14a85e",
+      "english": "prick",
+      "translation": null,
+      "hebrew": "לדקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She pricked her finger with a needle.",
+        "The thorn pricked his skin."
+      ],
+      "synonyms": ["puncture", "stab"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

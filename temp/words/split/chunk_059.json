@@ -1,0 +1,570 @@
+{
+  "_meta": {
+    "chunk_number": 59,
+    "words_range": "fund-inactivity",
+    "word_count": 30,
+    "start_index": 1740,
+    "end_index": 1769
+  },
+  "words": [
+    {
+      "word_id": "4ffd947c-40bc-46a2-9819-87ecfe610ed2",
+      "english": "fund",
+      "translation": null,
+      "hebrew": "לממן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project was funded by the government.",
+        "We need to fundraise to support the charity."
+      ],
+      "synonyms": [
+        "finance",
+        "sponsor"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "cbdd314c-154e-4ce0-ba32-c22b305a04e6",
+      "english": "fundamental",
+      "translation": null,
+      "hebrew": "בסיסי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Reading is a fundamental skill.",
+        "We need to address the fundamental issues."
+      ],
+      "synonyms": [
+        "basic",
+        "essential"
+      ],
+      "topic_tags": [
+        "general",
+        "knowledge"
+      ]
+    },
+    {
+      "word_id": "6835a37a-71b7-4486-953e-27420461319b",
+      "english": "fundraiser",
+      "translation": null,
+      "hebrew": "מגבית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The school is holding a fundraiser.",
+        "We need to organize a fundraiser to raise money."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "77501172-d9a0-4b74-9b7f-71ce55c0a681",
+      "english": "funds",
+      "translation": null,
+      "hebrew": "כספים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has limited funds.",
+        "We need to manage our funds carefully."
+      ],
+      "synonyms": [
+        "money",
+        "capital"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "4eccf96d-eb41-45c0-b049-4db91c9d9288",
+      "english": "gap",
+      "translation": null,
+      "hebrew": "פער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a gap between rich and poor.",
+        "We need to close the gap in knowledge."
+      ],
+      "synonyms": [
+        "space",
+        "difference"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "473e732a-8405-4876-b401-159e752d3278",
+      "english": "generated",
+      "translation": null,
+      "hebrew": "נוצר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The report was generated automatically.",
+        "The storm generated a lot of damage."
+      ],
+      "synonyms": [
+        "created",
+        "produced"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "19064960-ca9d-429c-bf99-44b929d37d59",
+      "english": "generation",
+      "translation": null,
+      "hebrew": "דור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The younger generation has different values.",
+        "This is a generation of technology."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "330aa1ee-6aef-4e1b-a0cb-b0d47a2b8b1d",
+      "english": "govern",
+      "translation": null,
+      "hebrew": "למשול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is governed by a president.",
+        "We need to govern ourselves responsibly."
+      ],
+      "synonyms": [
+        "rule",
+        "control"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "c9f82223-6f0a-46ca-a601-32e5457dbfb5",
+      "english": "government",
+      "translation": null,
+      "hebrew": "ממשלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is responsible for the economy.",
+        "The government is working on new policies."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "25dc5dbe-0891-4553-968f-9a58aea2f41b",
+      "english": "governor",
+      "translation": null,
+      "hebrew": "מושל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The governor is the head of the state.",
+        "The governor announced a new initiative."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "0a990e0a-a04d-4819-8acb-a1439a90e9bd",
+      "english": "gratify",
+      "translation": null,
+      "hebrew": "לספק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The gift gratified her.",
+        "We aim to gratify our customers."
+      ],
+      "synonyms": [
+        "please",
+        "satisfy"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "c6d5305b-6668-40c3-b233-b0c3b1ff9457",
+      "english": "ground",
+      "translation": null,
+      "hebrew": "קרקע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ground is wet after the rain.",
+        "The plane landed on the ground."
+      ],
+      "synonyms": [
+        "earth",
+        "soil"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "dbaf0e56-fb3f-4c26-a160-303ee9aaafba",
+      "english": "grow",
+      "translation": null,
+      "hebrew": "לגדול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plants grow in the garden.",
+        "The company is growing rapidly."
+      ],
+      "synonyms": [
+        "develop",
+        "increase"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "08d0a877-0b4e-420c-adbf-1ab8c1e878bd",
+      "english": "grow up",
+      "translation": null,
+      "hebrew": "לגדול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I grew up in a small town.",
+        "He wants to be a doctor when he grows up."
+      ],
+      "synonyms": [
+        "mature",
+        "develop"
+      ],
+      "topic_tags": [
+        "general",
+        "life"
+      ]
+    },
+    {
+      "word_id": "48e6df82-7fb2-47c5-9446-d07d6d36a15e",
+      "english": "guilty",
+      "translation": null,
+      "hebrew": "אשם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The jury found him guilty.",
+        "I feel guilty about lying."
+      ],
+      "synonyms": [
+        "culpable",
+        "responsible"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "b6283d3e-8826-4611-9607-50799ef9225f",
+      "english": "hollow",
+      "translation": null,
+      "hebrew": "חלול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The tree trunk is hollow.",
+        "His words sounded hollow."
+      ],
+      "synonyms": [
+        "empty",
+        "vacant"
+      ],
+      "topic_tags": [
+        "general",
+        "objects"
+      ]
+    },
+    {
+      "word_id": "e8d0085b-e644-47ff-a83d-fb61aa9ed3ad",
+      "english": "hundred",
+      "translation": null,
+      "hebrew": "מאה",
+      "part_of_speech": "number",
+      "difficulty_level": 1,
+      "examples": [
+        "There are a hundred students in the class.",
+        "He has a hundred dollars."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "2eb266ee-be50-4dda-95b6-66d26b7836b5",
+      "english": "hunt",
+      "translation": null,
+      "hebrew": "לצוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lion hunts for food.",
+        "They went hunting in the forest."
+      ],
+      "synonyms": [
+        "chase",
+        "pursue"
+      ],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "8ae5bd23-0cbd-48f7-bf08-3a507760df43",
+      "english": "hunter",
+      "translation": null,
+      "hebrew": "צייד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hunter shot a deer.",
+        "He is a skilled hunter."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "de6d01da-e9e3-47dd-bb9e-cd5bca2102f0",
+      "english": "ignorance",
+      "translation": null,
+      "hebrew": "בורות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Ignorance is not an excuse.",
+        "We need to fight ignorance with education."
+      ],
+      "synonyms": [
+        "lack of knowledge",
+        "unawareness"
+      ],
+      "topic_tags": [
+        "general",
+        "knowledge"
+      ]
+    },
+    {
+      "word_id": "b432da55-7e16-4a93-97e8-d443116a172d",
+      "english": "ignorant",
+      "translation": null,
+      "hebrew": "בור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is ignorant of the facts.",
+        "Don't be ignorant."
+      ],
+      "synonyms": [
+        "uninformed",
+        "uneducated"
+      ],
+      "topic_tags": [
+        "general",
+        "knowledge"
+      ]
+    },
+    {
+      "word_id": "d63df278-b916-4702-b8bb-29fed7b06754",
+      "english": "ignore",
+      "translation": null,
+      "hebrew": "להתעלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You should ignore his comments.",
+        "She ignored the warning signs."
+      ],
+      "synonyms": [
+        "disregard",
+        "overlook"
+      ],
+      "topic_tags": [
+        "general",
+        "behavior"
+      ]
+    },
+    {
+      "word_id": "c374940f-be85-48f7-b212-09be48dc20ea",
+      "english": "illiterate",
+      "translation": null,
+      "hebrew": "אנאלפבית",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is illiterate and cannot read or write.",
+        "We need to help illiterate adults learn to read."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "49013f27-ca8c-4504-b2c9-0edab80edac8",
+      "english": "impact",
+      "translation": null,
+      "hebrew": "השפעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The new law will have a big impact.",
+        "The impact of the decision was significant."
+      ],
+      "synonyms": [
+        "effect",
+        "influence"
+      ],
+      "topic_tags": [
+        "general",
+        "events"
+      ]
+    },
+    {
+      "word_id": "0cb68f28-dc4c-445b-b2b5-bc0ff7f06cfd",
+      "english": "impact",
+      "translation": null,
+      "hebrew": "להשפיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The decision will impact many people.",
+        "The new technology will impact the industry."
+      ],
+      "synonyms": [
+        "affect",
+        "influence"
+      ],
+      "topic_tags": [
+        "general",
+        "events"
+      ]
+    },
+    {
+      "word_id": "0f439117-04eb-4903-95d4-80818781cf7d",
+      "english": "impatient",
+      "translation": null,
+      "hebrew": "חסר סבלנות",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is impatient and wants everything now.",
+        "She is impatient with slow learners."
+      ],
+      "synonyms": [
+        "restless",
+        "eager"
+      ],
+      "topic_tags": [
+        "general",
+        "personality"
+      ]
+    },
+    {
+      "word_id": "aec48876-2313-4067-9b7b-e1f8bc242ba6",
+      "english": "impress",
+      "translation": null,
+      "hebrew": "להרשים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to impress her with his knowledge.",
+        "The performance impressed the audience."
+      ],
+      "synonyms": [
+        "amaze",
+        "influence"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "d9978137-4c5a-4f0f-b150-dbafdb26ccf9",
+      "english": "impressive",
+      "translation": null,
+      "hebrew": "מרשים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is very impressive.",
+        "He gave an impressive speech."
+      ],
+      "synonyms": [
+        "striking",
+        "remarkable"
+      ],
+      "topic_tags": [
+        "general",
+        "quality"
+      ]
+    },
+    {
+      "word_id": "6962a7df-52e9-45e3-a7c0-1e476cd45a1f",
+      "english": "inactivity",
+      "translation": null,
+      "hebrew": "חוסר פעילות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Inactivity can lead to health problems.",
+        "The period of inactivity was frustrating."
+      ],
+      "synonyms": [
+        "idleness",
+        "lethargy"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

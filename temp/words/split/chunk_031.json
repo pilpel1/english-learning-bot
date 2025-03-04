@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 31,
+    "words_range": "gross-issue",
+    "word_count": 30,
+    "start_index": 900,
+    "end_index": 929
+  },
+  "words": [
+    {
+      "word_id": "b49fa9d2-baed-4dcc-8039-4806c69bc0ab",
+      "english": "gross",
+      "translation": "ברוטו",
+      "hebrew": "ברוטו",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company's gross income increased this year.",
+        "He earns a gross salary of $50,000."
+      ],
+      "synonyms": ["total", "overall", "aggregate"],
+      "topic_tags": ["general", "finance", "economy"]
+    },
+    {
+      "word_id": "4395ecc5-494c-4afb-a875-4657dc43786c",
+      "english": "gross",
+      "translation": "מגעיל",
+      "hebrew": "מגעיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was gross and inedible.",
+        "He made a gross mistake in his calculations."
+      ],
+      "synonyms": ["disgusting", "nasty", "repulsive"],
+      "topic_tags": ["general", "emotion", "reaction"]
+    },
+    {
+      "word_id": "cbd3ad18-4b19-4aab-a6d9-572aa41c3b52",
+      "english": "growth",
+      "translation": "צמיחה",
+      "hebrew": "צמיחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plant showed significant growth over the summer.",
+        "Economic growth is essential for the country's development."
+      ],
+      "synonyms": ["increase", "expansion", "development"],
+      "topic_tags": ["general", "economy", "biology"]
+    },
+    {
+      "word_id": "08015474-0727-4739-8958-50c8ca9bca3b",
+      "english": "habit",
+      "translation": "הרגל",
+      "hebrew": "הרגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a habit of biting his nails.",
+        "Reading before bed is a good habit."
+      ],
+      "synonyms": ["routine", "practice", "custom"],
+      "topic_tags": ["general", "behavior", "lifestyle"]
+    },
+    {
+      "word_id": "6b2444db-91fd-4174-a7fd-094d49500dd3",
+      "english": "habitat",
+      "translation": "בית גידול",
+      "hebrew": "בית גידול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rainforest is a natural habitat for many species.",
+        "Pollution is threatening the animals' habitat."
+      ],
+      "synonyms": ["environment", "home", "ecosystem"],
+      "topic_tags": ["general", "environment", "biology"]
+    },
+    {
+      "word_id": "0be3f77d-4185-46ea-b849-f93f3eb1ab34",
+      "english": "health",
+      "translation": "בריאות",
+      "hebrew": "בריאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Regular exercise is important for good health.",
+        "She is in excellent health."
+      ],
+      "synonyms": ["wellness", "fitness", "condition"],
+      "topic_tags": ["general", "well-being", "medicine"]
+    },
+    {
+      "word_id": "8b5d8084-5a7e-46c3-accb-b623da8802ec",
+      "english": "heavily",
+      "translation": "בכבדות",
+      "hebrew": "בכבדות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "It rained heavily all night.",
+        "He was breathing heavily after the run."
+      ],
+      "synonyms": ["intensely", "strongly", "severely"],
+      "topic_tags": ["general", "intensity", "weather"]
+    },
+    {
+      "word_id": "4c8deb15-57ae-4756-865b-4754fb0537ea",
+      "english": "heavy",
+      "translation": "כבד",
+      "hebrew": "כבד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The box was too heavy to lift.",
+        "She wore a heavy coat in the winter."
+      ],
+      "synonyms": ["weighty", "burdensome", "massive"],
+      "topic_tags": ["general", "weight", "intensity"]
+    },
+    {
+      "word_id": "cc02e2f9-c046-4942-994e-3ee9fd18362d",
+      "english": "hope",
+      "translation": "תקווה",
+      "hebrew": "תקווה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is hope for a better future.",
+        "She never lost hope during the difficult times."
+      ],
+      "synonyms": ["aspiration", "desire", "expectation"],
+      "topic_tags": ["general", "emotion", "future"]
+    },
+    {
+      "word_id": "11efe692-b38f-4eae-b46a-bd1acb870da3",
+      "english": "human",
+      "translation": "אנושי",
+      "hebrew": "אנושי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Human rights are fundamental to democracy.",
+        "She showed human kindness to strangers."
+      ],
+      "synonyms": ["mortal", "homo sapiens", "person"],
+      "topic_tags": ["general", "society", "biology"]
+    },
+    {
+      "word_id": "4e0d4d42-6413-4cc8-a7cf-d5a9ddde3e8c",
+      "english": "human being",
+      "translation": "בן אדם",
+      "hebrew": "בן אדם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Every human being deserves respect.",
+        "She is a remarkable human being."
+      ],
+      "synonyms": ["person", "individual", "soul"],
+      "topic_tags": ["general", "society", "identity"]
+    },
+    {
+      "word_id": "d8c7a4f0-f7a1-4f88-9a52-8c8da97698ff",
+      "english": "identical",
+      "translation": "זהה",
+      "hebrew": "זהה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The twins are identical in appearance.",
+        "They wore identical outfits to the party."
+      ],
+      "synonyms": ["same", "alike", "duplicate"],
+      "topic_tags": ["general", "comparison", "similarity"]
+    },
+    {
+      "word_id": "fb0caa8b-3af6-432b-9c59-1b06fbf82412",
+      "english": "implicate",
+      "translation": "לסבך",
+      "hebrew": "לסבך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The evidence implicates him in the crime.",
+        "She was implicated in the scandal."
+      ],
+      "synonyms": ["involve", "entangle", "associate"],
+      "topic_tags": ["general", "law", "involvement"]
+    },
+    {
+      "word_id": "5da4676e-b477-4b9d-9f5a-6ace65f628ad",
+      "english": "implications",
+      "translation": "השלכות",
+      "hebrew": "השלכות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The decision has serious implications for the future.",
+        "We need to consider the implications of our actions."
+      ],
+      "synonyms": ["consequences", "effects", "repercussions"],
+      "topic_tags": ["general", "consequences", "analysis"]
+    },
+    {
+      "word_id": "223ea4b9-aa88-4b34-b891-71dc50088557",
+      "english": "importance",
+      "translation": "חשיבות",
+      "hebrew": "חשיבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The importance of education cannot be overstated.",
+        "He stressed the importance of being on time."
+      ],
+      "synonyms": ["significance", "value", "weight"],
+      "topic_tags": ["general", "value", "priority"]
+    },
+    {
+      "word_id": "f1bd8f3a-5f39-49dc-b60f-82afacf61852",
+      "english": "important",
+      "translation": "חשוב",
+      "hebrew": "חשוב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It's important to stay hydrated.",
+        "She has an important meeting tomorrow."
+      ],
+      "synonyms": ["significant", "crucial", "vital"],
+      "topic_tags": ["general", "priority", "value"]
+    },
+    {
+      "word_id": "089bda0c-5537-425a-bc22-238350c03b06",
+      "english": "inadequate",
+      "translation": "בלתי מספיק",
+      "hebrew": "בלתי מספיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The resources provided were inadequate for the project.",
+        "His explanation was inadequate."
+      ],
+      "synonyms": ["insufficient", "lacking", "deficient"],
+      "topic_tags": ["general", "deficiency", "evaluation"]
+    },
+    {
+      "word_id": "cc45e8e3-796d-4d32-afba-2b361cd26ea2",
+      "english": "income",
+      "translation": "הכנסה",
+      "hebrew": "הכנסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her income is sufficient to support her family.",
+        "They have a steady income from their investments."
+      ],
+      "synonyms": ["earnings", "revenue", "salary"],
+      "topic_tags": ["general", "finance", "economy"]
+    },
+    {
+      "word_id": "8102f980-d374-4fce-b350-6d3e53509a68",
+      "english": "incomprehensible",
+      "translation": "בלתי מובן",
+      "hebrew": "בלתי מובן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were incomprehensible.",
+        "His accent made his speech almost incomprehensible."
+      ],
+      "synonyms": ["unintelligible", "unclear", "confusing"],
+      "topic_tags": ["general", "clarity", "understanding"]
+    },
+    {
+      "word_id": "7b09fb7f-fdac-440f-ace6-1b68ba3043fe",
+      "english": "indicate",
+      "translation": "להצביע",
+      "hebrew": "להצביע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The results indicate a need for further research.",
+        "He indicated the direction to the nearest station."
+      ],
+      "synonyms": ["show", "suggest", "point"],
+      "topic_tags": ["general", "communication", "evidence"]
+    },
+    {
+      "word_id": "b0150f99-dfbb-43d1-a631-cabce47c4f34",
+      "english": "indication",
+      "translation": "סימן",
+      "hebrew": "סימן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was no indication of a struggle.",
+        "The smile was an indication of her happiness."
+      ],
+      "synonyms": ["sign", "signal", "hint"],
+      "topic_tags": ["general", "evidence", "communication"]
+    },
+    {
+      "word_id": "3d593c8c-6882-45c7-9c83-a7292839aa43",
+      "english": "inhabit",
+      "translation": "ליישב",
+      "hebrew": "ליישב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Many species inhabit the forest.",
+        "The island is inhabited by a small community."
+      ],
+      "synonyms": ["live", "reside", "dwell"],
+      "topic_tags": ["general", "environment", "residence"]
+    },
+    {
+      "word_id": "59c4b36d-ff09-4698-a3b0-912d37ed9047",
+      "english": "inhabitants",
+      "translation": "תושבים",
+      "hebrew": "תושבים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The inhabitants of the village are friendly.",
+        "The city has over a million inhabitants."
+      ],
+      "synonyms": ["residents", "dwellers", "citizens"],
+      "topic_tags": ["general", "society", "population"]
+    },
+    {
+      "word_id": "d5b10138-24c8-4be9-91da-f2892fae2a90",
+      "english": "initial",
+      "translation": "ראשוני",
+      "hebrew": "ראשוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The initial results are promising.",
+        "She made an initial investment in the company."
+      ],
+      "synonyms": ["first", "primary", "preliminary"],
+      "topic_tags": ["general", "beginning", "priority"]
+    },
+    {
+      "word_id": "a6d22acf-ebb4-4e58-a4d0-0eac06d6eb28",
+      "english": "initial",
+      "translation": "אות ראשונה",
+      "hebrew": "אות ראשונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please write your initials on the form.",
+        "Her initials are engraved on the bracelet."
+      ],
+      "synonyms": ["first letter", "monogram", "abbreviation"],
+      "topic_tags": ["general", "identity", "abbreviation"]
+    },
+    {
+      "word_id": "a8664b7b-4f2f-4f4b-9067-de4ec19570d2",
+      "english": "initiated",
+      "translation": "התחיל",
+      "hebrew": "התחיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He initiated the project last year.",
+        "The ceremony was initiated by the mayor."
+      ],
+      "synonyms": ["started", "began", "launched"],
+      "topic_tags": ["general", "beginning", "action"]
+    },
+    {
+      "word_id": "7369a45e-d6e9-4dc5-b08b-1b0ddc657f26",
+      "english": "international",
+      "translation": "בינלאומי",
+      "hebrew": "בינלאומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She works for an international company.",
+        "The conference attracted international attention."
+      ],
+      "synonyms": ["global", "worldwide", "universal"],
+      "topic_tags": ["general", "global", "relations"]
+    },
+    {
+      "word_id": "abc82c10-57a2-4c09-a756-77c65c14387b",
+      "english": "island",
+      "translation": "אי",
+      "hebrew": "אי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They spent their vacation on a tropical island.",
+        "The island is known for its beautiful beaches."
+      ],
+      "synonyms": ["isle", "atoll", "cay"],
+      "topic_tags": ["general", "geography", "nature"]
+    },
+    {
+      "word_id": "d10993a9-0e9f-4772-bcfc-6f9d54e7dca5",
+      "english": "isle",
+      "translation": "אי קטן",
+      "hebrew": "אי קטן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The isle is located off the coast.",
+        "They explored the small isle by boat."
+      ],
+      "synonyms": ["island", "key", "islet"],
+      "topic_tags": ["general", "geography", "nature"]
+    },
+    {
+      "word_id": "ce0ba81c-0fa4-4974-92d6-dd4ecda6634b",
+      "english": "issue",
+      "translation": "נושא",
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The issue was discussed at the meeting.",
+        "They addressed the issue of climate change."
+      ],
+      "synonyms": ["topic", "matter", "subject"],
+      "topic_tags": ["general", "discussion", "problem"]
+    }
+  ]
+}

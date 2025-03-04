@@ -1,0 +1,581 @@
+{
+  "_meta": {
+    "chunk_number": 64,
+    "words_range": "raw-retrieve",
+    "word_count": 30,
+    "start_index": 1890,
+    "end_index": 1919
+  },
+  "words": [
+    {
+      "word_id": "426e9da0-1e88-4607-9bc4-59ff7c0d284c",
+      "english": "raw",
+      "translation": null,
+      "hebrew": "נא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He ate a raw carrot.",
+        "The sushi contains raw fish."
+      ],
+      "synonyms": [
+        "uncooked",
+        "fresh"
+      ],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "e19fb784-4f0f-4271-a588-f638c4baa2a1",
+      "english": "receive",
+      "translation": null,
+      "hebrew": "לקבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Did you receive my letter?",
+        "She received a gift for her birthday."
+      ],
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cb94f3c9-4b89-4117-bd09-2856dd3ef8b2",
+      "english": "recent",
+      "translation": null,
+      "hebrew": "אחרון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Have you seen any recent movies?",
+        "That's a recent photo of her."
+      ],
+      "synonyms": [
+        "new",
+        "current"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "18bff909-4d51-43f5-8e32-82563480f7b6",
+      "english": "recently",
+      "translation": null,
+      "hebrew": "לאחרונה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I recently visited my family.",
+        "She recently started a new job."
+      ],
+      "synonyms": [
+        "lately",
+        "newly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bd8daabe-4d45-435c-b093-9d3d536479b0",
+      "english": "recognition",
+      "translation": null,
+      "hebrew": "הכרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He received recognition for his hard work.",
+        "The painting gained international recognition."
+      ],
+      "synonyms": [
+        "acknowledgment",
+        "appreciation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a9dcfac6-9037-41f8-9618-8f437ed6a09e",
+      "english": "record",
+      "translation": null,
+      "hebrew": "שיא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The athlete broke the world record.",
+        "The team has a winning record."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "e9d21853-2cda-4191-a766-ef2c82abd656",
+      "english": "record",
+      "translation": null,
+      "hebrew": "לתעד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please record the meeting.",
+        "The camera can record videos."
+      ],
+      "synonyms": [
+        "document",
+        "capture"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "506ae623-842f-471a-b27a-25f554835e60",
+      "english": "record",
+      "translation": null,
+      "hebrew": "תקליט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a large collection of vinyl records.",
+        "The band released a new record."
+      ],
+      "synonyms": [
+        "album"
+      ],
+      "topic_tags": [
+        "general",
+        "music"
+      ]
+    },
+    {
+      "word_id": "f1711b56-1410-4602-bdad-12e828b5241e",
+      "english": "record",
+      "translation": null,
+      "hebrew": "רישום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company keeps a record of all transactions.",
+        "His criminal record is clean."
+      ],
+      "synonyms": [
+        "log",
+        "file"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fb295de2-c8f9-4e09-a800-892e4488c2fa",
+      "english": "recover",
+      "translation": null,
+      "hebrew": "להתאושש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is recovering from surgery.",
+        "The economy is starting to recover."
+      ],
+      "synonyms": [
+        "recuperate",
+        "improve"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "011e39a7-b4cb-4b63-bdbe-6c159c24b64a",
+      "english": "recreate",
+      "translation": null,
+      "hebrew": "לשחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum tried to recreate the ancient city.",
+        "The actors will recreate the famous scene."
+      ],
+      "synonyms": [
+        "reproduce",
+        "re-enact"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "833be591-cdc0-4804-9ce7-e3a0c8e5372c",
+      "english": "relax",
+      "translation": null,
+      "hebrew": "להירגע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Try to relax before the exam.",
+        "We went to the beach to relax."
+      ],
+      "synonyms": [
+        "unwind",
+        "rest"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "b347af00-24fd-4008-b904-0f26855f0d8e",
+      "english": "reliance",
+      "translation": null,
+      "hebrew": "הסתמכות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has a heavy reliance on one customer.",
+        "We need to reduce our reliance on fossil fuels."
+      ],
+      "synonyms": [
+        "dependence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "939778c5-a227-432f-8f95-3d8d3458ddf6",
+      "english": "remains",
+      "translation": null,
+      "hebrew": "שרידים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The remains of the ancient city are still visible.",
+        "The police found human remains at the site."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "6306e298-e361-42c7-b71b-46bbbcdb46e1",
+      "english": "remains",
+      "translation": null,
+      "hebrew": "נותר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Only a few tickets remains for the concert.",
+        "It remains to be seen if the plan will work."
+      ],
+      "synonyms": [
+        "left"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4652b9d4-1876-4a87-ba27-b317cf728e38",
+      "english": "remove",
+      "translation": null,
+      "hebrew": "להסיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please remove your shoes before entering.",
+        "The dentist had to remove a tooth."
+      ],
+      "synonyms": [
+        "take away",
+        "eliminate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1c347613-46f3-4f3f-9fcb-21aa87ba32b4",
+      "english": "renew",
+      "translation": null,
+      "hebrew": "לחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to renew my driver's license.",
+        "The company decided to renew the contract."
+      ],
+      "synonyms": [
+        "restore",
+        "extend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dc0c7cfe-4275-4da1-bc81-b5809a5c050a",
+      "english": "renown",
+      "translation": null,
+      "hebrew": "תהילה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist achieved international renown.",
+        "The city is famous for its historical renown."
+      ],
+      "synonyms": [
+        "fame",
+        "reputation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c931b6ef-d611-41a7-87bc-fa32fa5f704a",
+      "english": "repair",
+      "translation": null,
+      "hebrew": "לתקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you repair my bicycle?",
+        "The road needs to be repaired."
+      ],
+      "synonyms": [
+        "fix",
+        "mend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6dce877a-2ad5-484f-a4cd-8c1efc382230",
+      "english": "replace",
+      "translation": null,
+      "hebrew": "להחליף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to replace the batteries in the remote.",
+        "The company decided to replace the old equipment."
+      ],
+      "synonyms": [
+        "substitute",
+        "exchange"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1c578b52-5cc8-4491-9fd4-ee4c60530954",
+      "english": "replacement",
+      "translation": null,
+      "hebrew": "תחליף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The team is looking for a replacement for the injured player.",
+        "This product is a good replacement for the original."
+      ],
+      "synonyms": [
+        "substitute"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "53bfed28-279f-4515-ab30-b3b1d1a9c02b",
+      "english": "rescue",
+      "translation": null,
+      "hebrew": "להציל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The firefighters rescued the people from the burning building.",
+        "The lifeguard rescued the swimmer from the sea."
+      ],
+      "synonyms": [
+        "save",
+        "recover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5f461b80-a661-4ef9-be06-bca45037e4ed",
+      "english": "resemble",
+      "translation": null,
+      "hebrew": "להזכיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She resembles her mother.",
+        "The painting doesn't resemble the original."
+      ],
+      "synonyms": [
+        "look like",
+        "similar"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c6a67f9c-2de1-483b-a60c-70f1ece0c5cb",
+      "english": "residence",
+      "translation": null,
+      "hebrew": "מגורים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a residence in the city and a house in the country.",
+        "The president's official residence is the White House."
+      ],
+      "synonyms": [
+        "home",
+        "dwelling"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9da83d20-6072-450a-9f95-852e73d13130",
+      "english": "resident",
+      "translation": null,
+      "hebrew": "תושב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a resident of New York City.",
+        "The residents of the building organized a meeting."
+      ],
+      "synonyms": [
+        "inhabitant",
+        "dweller"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "3e4b4236-64ad-4aa2-9ec7-57fd33e69a2e",
+      "english": "resource",
+      "translation": null,
+      "hebrew": "משאב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is a valuable resource.",
+        "The library is a great resource for students."
+      ],
+      "synonyms": [
+        "asset",
+        "supply"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "233621b6-4a3f-4cbe-908c-7cb58bb2ce3f",
+      "english": "resourceful",
+      "translation": null,
+      "hebrew": "בעל תושייה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a very resourceful person.",
+        "We need to be resourceful to solve this problem."
+      ],
+      "synonyms": [
+        "ingenious",
+        "clever"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "49afcff9-087f-4317-baa0-f60ae074ba39",
+      "english": "restrain",
+      "translation": null,
+      "hebrew": "לרסן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to restrain himself from yelling.",
+        "The police had to restrain the suspect."
+      ],
+      "synonyms": [
+        "hold back",
+        "control"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5b690069-4d5c-42c9-881e-51074ee285d3",
+      "english": "retain",
+      "translation": null,
+      "hebrew": "לשמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company wants to retain its customers.",
+        "The soil retains moisture."
+      ],
+      "synonyms": [
+        "keep",
+        "preserve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8a057f65-eff1-49af-9087-7cceefaeb6b9",
+      "english": "retrieve",
+      "translation": null,
+      "hebrew": "לאחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog retrieved the ball.",
+        "The system can retrieve lost data."
+      ],
+      "synonyms": [
+        "recover",
+        "fetch"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    }
+  ]
+}

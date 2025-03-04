@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "chunk_number": 107,
+    "words_range": "prolific-represent",
+    "word_count": 30,
+    "start_index": 3180,
+    "end_index": 3209
+  },
+  "words": [
+    {
+      "word_id": "966afaa6-9fa6-40fb-a79f-e1c85dc9ea9c",
+      "english": "prolific",
+      "translation": null,
+      "hebrew": "פורה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a prolific writer.",
+        "The garden is prolific this year."
+      ],
+      "synonyms": [
+        "productive",
+        "fruitful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9e39e56e-1577-471c-b089-743039ea8cf6",
+      "english": "prolong",
+      "translation": null,
+      "hebrew": "להאריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We wanted to prolong our vacation.",
+        "The treatment prolonged his life."
+      ],
+      "synonyms": [
+        "extend",
+        "lengthen"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "124b4430-a4e1-4146-8749-d0e3e7f4bd02",
+      "english": "prominent",
+      "translation": null,
+      "hebrew": "בולט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a prominent figure in the community.",
+        "The mountain is a prominent landmark."
+      ],
+      "synonyms": [
+        "noticeable",
+        "obvious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d2504035-b69a-40e3-b7c3-6370658eef06",
+      "english": "prone",
+      "translation": null,
+      "hebrew": "נוטה ל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is prone to accidents.",
+        "The area is prone to flooding."
+      ],
+      "synonyms": [
+        "liable",
+        "susceptible"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "46b2dc06-fbc0-4cfc-be66-487b303f623e",
+      "english": "proof",
+      "translation": null,
+      "hebrew": "הוכחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you have any proof?",
+        "The proof is in the pudding."
+      ],
+      "synonyms": [
+        "evidence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "efb2ca61-5806-48f2-951c-fbb1233f1f32",
+      "english": "proof",
+      "translation": null,
+      "hebrew": "חסין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is earthquake proof.",
+        "The system is hacker proof."
+      ],
+      "synonyms": [
+        "resistant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c8ba4d43-1858-49af-9651-6caa2c792f43",
+      "english": "propel",
+      "translation": null,
+      "hebrew": "להניע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The rocket is propelled by fuel.",
+        "The wind propelled the boat."
+      ],
+      "synonyms": [
+        "drive",
+        "push"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c716c88-4646-4c23-b1e8-a90dc17166af",
+      "english": "proposal",
+      "translation": null,
+      "hebrew": "הצעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a proposal to the company.",
+        "The proposal was rejected."
+      ],
+      "synonyms": [
+        "suggestion",
+        "offer"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6c5fb81e-0bdd-40e3-a188-b9aaf9d0e5f2",
+      "english": "propose",
+      "translation": null,
+      "hebrew": "להציע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He proposed a new idea.",
+        "I propose that we leave early."
+      ],
+      "synonyms": [
+        "suggest",
+        "offer"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "916ab4ea-8ca6-4abd-864f-b21ed80bbe26",
+      "english": "propose",
+      "translation": null,
+      "hebrew": "להציע נישואין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He proposed to her on the beach.",
+        "She was surprised when he proposed."
+      ],
+      "synonyms": [
+        "ask in marriage"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "e771bfb6-e76e-4f75-88cb-cea22c1699ba",
+      "english": "proposition",
+      "translation": null,
+      "hebrew": "טענה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His proposition is difficult to prove.",
+        "That's an interesting proposition."
+      ],
+      "synonyms": [
+        "statement",
+        "assertion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "469e2c4c-fc4f-404e-886c-2202d0c75cb3",
+      "english": "prospective",
+      "translation": null,
+      "hebrew": "פוטנציאלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a prospective buyer.",
+        "The company is looking for prospective employees."
+      ],
+      "synonyms": [
+        "potential",
+        "future"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "456af67c-e3ae-45e2-84c8-5f461c78dc35",
+      "english": "punish",
+      "translation": null,
+      "hebrew": "להעניש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge will punish the criminal.",
+        "The child was punished for his behavior."
+      ],
+      "synonyms": [
+        "penalize"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "03410021-49c8-4e38-aba5-660a44cb0e25",
+      "english": "readily",
+      "translation": null,
+      "hebrew": "בקלות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The information is readily available.",
+        "He readily agreed to help."
+      ],
+      "synonyms": [
+        "easily",
+        "willingly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "84fa3439-38a1-41f8-ba89-b0cc859e1ac5",
+      "english": "readiness",
+      "translation": null,
+      "hebrew": "נכונות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We must ensure our military readiness.",
+        "He showed a readiness to learn."
+      ],
+      "synonyms": [
+        "preparedness",
+        "willingness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2b55f730-1298-47a5-a2ae-85092f658d17",
+      "english": "realize",
+      "translation": null,
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I didn't realize how late it was.",
+        "He finally realized his dream."
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7b500c1a-3df0-473a-9279-6cffefa66882",
+      "english": "rearing",
+      "translation": null,
+      "hebrew": "גידול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She had a strict rearing.",
+        "The rearing of children is a difficult task."
+      ],
+      "synonyms": [
+        "upbringing"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "ec8c9031-2f68-4881-ac18-de9e328aca2a",
+      "english": "reassurance",
+      "translation": null,
+      "hebrew": "הרגעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He needed reassurance that he was doing the right thing.",
+        "She gave him a hug as reassurance."
+      ],
+      "synonyms": [
+        "comfort",
+        "support"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "71baa5cc-1959-420e-9198-105322ce39b3",
+      "english": "reborn",
+      "translation": null,
+      "hebrew": "נולד מחדש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt reborn after the experience.",
+        "The city is reborn after the war."
+      ],
+      "synonyms": [
+        "revived",
+        "regenerated"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbf145a4-1b8b-4259-972f-7681c3f7879d",
+      "english": "recall",
+      "translation": null,
+      "hebrew": "לזכור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't recall his name.",
+        "Do you recall what happened?"
+      ],
+      "synonyms": [
+        "remember",
+        "recollect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c44320d2-75ab-4a2e-9cd5-7b2bc3d0db81",
+      "english": "recall",
+      "translation": null,
+      "hebrew": "להחזיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company had to recall the product.",
+        "The ambassador was recalled to his country."
+      ],
+      "synonyms": [
+        "withdraw",
+        "revoke"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c42ad1bc-9752-4e50-a69d-0cf602d133d3",
+      "english": "recruitment",
+      "translation": null,
+      "hebrew": "גיוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is starting a new recruitment campaign.",
+        "Recruitment is a difficult process."
+      ],
+      "synonyms": [
+        "enlistment"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "14412085-f9f1-48a4-8903-aa6f500e8e77",
+      "english": "reliable",
+      "translation": null,
+      "hebrew": "אמין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a reliable friend.",
+        "The car is very reliable."
+      ],
+      "synonyms": [
+        "dependable",
+        "trustworthy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b803c8e5-050e-4443-853f-3b99ac3b4ea9",
+      "english": "relic",
+      "translation": null,
+      "hebrew": "שריד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum has many ancient relics.",
+        "The tradition is a relic of the past."
+      ],
+      "synonyms": [
+        "artifact",
+        "remnant"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "838d949a-9dc8-4b2a-9e03-d42510eb6779",
+      "english": "relieve",
+      "translation": null,
+      "hebrew": "להקל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The medicine will relieve the pain.",
+        "The news relieved his anxiety."
+      ],
+      "synonyms": [
+        "alleviate",
+        "ease"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "ec2db55f-d7af-4552-80c0-476d88818d5e",
+      "english": "remedy",
+      "translation": null,
+      "hebrew": "תרופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is no known remedy for the disease.",
+        "The best remedy is to rest."
+      ],
+      "synonyms": [
+        "cure",
+        "treatment"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "60c88bec-00c3-4bf2-b832-4580fc7cb338",
+      "english": "reorganize",
+      "translation": null,
+      "hebrew": "לארגן מחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company decided to reorganize the department.",
+        "We need to reorganize our priorities."
+      ],
+      "synonyms": [
+        "restructure",
+        "rearrange"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "503e5073-49eb-4def-b47b-57a58909d174",
+      "english": "repelled",
+      "translation": null,
+      "hebrew": "נסער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She was repelled by the sight.",
+        "The army repelled the attack."
+      ],
+      "synonyms": [
+        "disgusted",
+          "ward off"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1b6a8ac1-3104-4557-ba08-560138b572b1",
+      "english": "replica",
+      "translation": null,
+      "hebrew": "העתק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum has a replica of the statue.",
+        "The painting is a replica."
+      ],
+      "synonyms": [
+        "copy",
+        "duplicate"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "c49924f7-1dfb-48ac-b12b-eb446d776ef6",
+      "english": "represent",
+      "translation": null,
+      "hebrew": "לייצג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lawyer will represent the client.",
+        "The statue represents freedom."
+      ],
+      "synonyms": [
+        "symbolize",
+        "stand for"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 129,
+    "words_range": "filmmaker-grammatical",
+    "word_count": 30,
+    "start_index": 3840,
+    "end_index": 3869
+  },
+  "words": [
+    {
+      "word_id": "7190b0a7-d495-476e-8c49-ce0a4d2d1c9e",
+      "english": "filmmaker",
+      "translation": null,
+      "hebrew": "יוצר סרטים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The filmmaker won an award.",
+        "He is a famous filmmaker."
+      ],
+      "synonyms": ["director"],
+      "topic_tags": ["general", "film", "arts"]
+    },
+    {
+      "word_id": "1bee2183-9e08-4d13-87af-b29702e45a87",
+      "english": "filter",
+      "translation": null,
+      "hebrew": "לסנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The water is filtered.",
+        "He filtered out the noise."
+      ],
+      "synonyms": ["strain", "purify"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ef608c70-031c-4834-9979-39039f0f64f2",
+      "english": "fisherman",
+      "translation": null,
+      "hebrew": "דייג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fisherman caught a fish.",
+        "He is a professional fisherman."
+      ],
+      "synonyms": ["angler"],
+      "topic_tags": ["general", "occupation"]
+    },
+    {
+      "word_id": "f1e7e6da-f1ed-4899-ab8e-135911671b6c",
+      "english": "fishing",
+      "translation": null,
+      "hebrew": "דייג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He went fishing.",
+        "Fishing is a popular hobby."
+      ],
+      "synonyms": ["angling"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "bf692def-46ef-4f20-87f0-13cbb2b71e9b",
+      "english": "flimsy",
+      "translation": null,
+      "hebrew": "רופף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is flimsy.",
+        "The excuse was flimsy."
+      ],
+      "synonyms": ["weak", "fragile", "insubstantial"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7e689684-0a91-461a-9c12-21ed997f313e",
+      "english": "folk",
+      "translation": null,
+      "hebrew": "עם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They are simple folk.",
+        "He enjoyed folk music."
+      ],
+      "synonyms": ["people", "nation"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "6d8e4013-3e8d-4f9d-9df1-c1ad5f3fcd7d",
+      "english": "folklore",
+      "translation": null,
+      "hebrew": "פולקלור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The story is based on folklore.",
+        "He studied folklore."
+      ],
+      "synonyms": ["tradition", "legends"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "ea614bcb-0872-4137-9b8c-b13188ef932d",
+      "english": "fool",
+      "translation": null,
+      "hebrew": "שוטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a fool.",
+        "Don't be a fool."
+      ],
+      "synonyms": ["idiot", "moron"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a1842178-1471-4a35-a729-5ac00fae1759",
+      "english": "footage",
+      "translation": null,
+      "hebrew": "צילומים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They showed footage of the event.",
+        "The film contains old footage."
+      ],
+      "synonyms": ["film", "video"],
+      "topic_tags": ["general", "film"]
+    },
+    {
+      "word_id": "87bc7722-a293-4172-b475-6e393acf49c7",
+      "english": "forest",
+      "translation": null,
+      "hebrew": "יער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They walked through the forest.",
+        "The forest is full of trees."
+      ],
+      "synonyms": ["woods", "woodland"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "95abbae8-5b12-4a7a-81a6-325ddd953d6e",
+      "english": "forgive",
+      "translation": null,
+      "hebrew": "לסלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Forgive him for his mistake.",
+        "She forgave him."
+      ],
+      "synonyms": ["pardon", "absolve"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5255dfe1-e4d5-4b7c-86b7-6a68cd06bb3d",
+      "english": "fork",
+      "translation": null,
+      "hebrew": "מזלג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Use a fork to eat the pasta.",
+        "The fork is on the table."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "fb5aae38-3aec-4cac-afd9-276e2bbc9fbe",
+      "english": "formula",
+      "translation": null,
+      "hebrew": "נוסחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He derived the formula.",
+        "Baby formula."
+      ],
+      "synonyms": ["equation", "recipe"],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "03c3085f-c314-4c4d-b8dd-617810b0e584",
+      "english": "formulate",
+      "translation": null,
+      "hebrew": "לגבש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They formulated a plan.",
+        "Formulate a strategy."
+      ],
+      "synonyms": ["devise", "develop", "create"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "caf9b60c-1b53-48a5-bb1a-2da0f16cd78b",
+      "english": "fraternal",
+      "translation": null,
+      "hebrew": "אחווה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Fraternal twins don't look alike.",
+        "They have a fraternal relationship."
+      ],
+      "synonyms": ["brotherly"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a6b05207-ba0f-479c-862e-6e7ca03b1808",
+      "english": "frog",
+      "translation": null,
+      "hebrew": "צפרדע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The frog jumped into the pond.",
+        "The frog croaked."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "6d59641c-e205-4358-88af-a9c761a7e90e",
+      "english": "furnish",
+      "translation": null,
+      "hebrew": "לרהט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They furnished the apartment.",
+        "The room was furnished with antiques."
+      ],
+      "synonyms": ["equip", "decorate"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "2621553f-ce15-4b08-abf5-c8edfd3642cc",
+      "english": "garbage",
+      "translation": null,
+      "hebrew": "זבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Take out the garbage.",
+        "The garbage smells bad."
+      ],
+      "synonyms": ["trash", "rubbish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "731ce811-0694-459f-b057-ae0fca6d34a4",
+      "english": "garden",
+      "translation": null,
+      "hebrew": "גן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She planted flowers in the garden.",
+        "They have a beautiful garden."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "329a2d2e-91a4-4134-b1f2-3717bc858a74",
+      "english": "garlic",
+      "translation": null,
+      "hebrew": "שום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Add garlic to the sauce.",
+        "Garlic has a strong smell."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "69a8a287-a5aa-44f6-8527-57715a298e5d",
+      "english": "gate",
+      "translation": null,
+      "hebrew": "שער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Open the gate.",
+        "The gate is locked."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5da39eae-c2b9-4324-8af0-63e186c62196",
+      "english": "gift",
+      "translation": null,
+      "hebrew": "מתנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave her a gift.",
+        "She received many gifts."
+      ],
+      "synonyms": ["present"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fa2412a4-8e5c-4e55-aaed-a126bfffac98",
+      "english": "glacier",
+      "translation": null,
+      "hebrew": "קרחון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The glacier is melting.",
+        "The glacier is a large mass of ice."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "fa039b06-c6e5-4ed4-b69a-4880c6472f4f",
+      "english": "gland",
+      "translation": null,
+      "hebrew": "בלוטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The thyroid gland.",
+        "The sweat glands."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "cc586465-f958-46b3-860c-d37df4d18c0e",
+      "english": "glass",
+      "translation": null,
+      "hebrew": "זכוכית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The window is made of glass.",
+        "She broke the glass."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "material"]
+    },
+    {
+      "word_id": "b1d8da6f-ec5b-4330-8e1a-899b169024db",
+      "english": "glass",
+      "translation": null,
+      "hebrew": "כוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He drank from a glass.",
+        "She poured a glass of water."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "d460a5a1-55ac-4ebf-97fa-cd8c60249e00",
+      "english": "glaze",
+      "translation": null,
+      "hebrew": "זיגוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The donut has a glaze.",
+        "The pottery has a glaze."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1115ecbe-548c-41e1-b625-a4d3d547e0a4",
+      "english": "glove",
+      "translation": null,
+      "hebrew": "כפפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore gloves to keep her hands warm.",
+        "Put on your gloves."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "fashion"]
+    },
+    {
+      "word_id": "73c15d42-1a55-45fd-8008-293b2625d824",
+      "english": "golden",
+      "translation": null,
+      "hebrew": "זהוב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun is golden.",
+        "She has golden hair."
+      ],
+      "synonyms": ["gold"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d21d110f-bbda-4a63-aa44-93fa0142edcf",
+      "english": "grammatical",
+      "translation": null,
+      "hebrew": "דקדוקי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The sentence is grammatically correct.",
+        "She has grammatical errors."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "language"]
+    }
+  ]
+}

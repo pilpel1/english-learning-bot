@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 29,
+    "words_range": "descendent-essential",
+    "word_count": 30,
+    "start_index": 840,
+    "end_index": 869
+  },
+  "words": [
+    {
+      "word_id": "3f8c7e81-4f63-414e-b820-76b26905ade9",
+      "english": "descendent",
+      "translation": "צאצא",
+      "hebrew": "צאצא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a descendent of the royal family.",
+        "The descendent inherited the family estate."
+      ],
+      "synonyms": ["offspring", "heir", "successor"],
+      "topic_tags": ["general", "family", "heritage"]
+    },
+    {
+      "word_id": "47c1ae55-845c-4c6c-bf41-0b71f57304e0",
+      "english": "deserve",
+      "translation": "לזכות",
+      "hebrew": "לזכות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She deserves a reward for her hard work.",
+        "He deserves to be recognized for his efforts."
+      ],
+      "synonyms": ["merit", "earn", "warrant"],
+      "topic_tags": ["general", "recognition", "achievement"]
+    },
+    {
+      "word_id": "2f34ecb8-af08-47c5-b9d5-f26071347222",
+      "english": "destiny",
+      "translation": "גורל",
+      "hebrew": "גורל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He believes it is his destiny to become a leader.",
+        "Their destiny was to meet and fall in love."
+      ],
+      "synonyms": ["fate", "fortune", "kismet"],
+      "topic_tags": ["general", "fate", "future"]
+    },
+    {
+      "word_id": "78a24a0e-29a4-4fd9-96a0-903077d2c257",
+      "english": "devote",
+      "translation": "להקדיש",
+      "hebrew": "להקדיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She devotes her time to helping others.",
+        "He devoted his life to science."
+      ],
+      "synonyms": ["dedicate", "commit", "allocate"],
+      "topic_tags": ["general", "commitment", "dedication"]
+    },
+    {
+      "word_id": "430a6018-b48b-4fd1-849d-0cb9debc861c",
+      "english": "direct",
+      "translation": "ישיר",
+      "hebrew": "ישיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She gave a direct answer to the question.",
+        "The road provides a direct route to the city."
+      ],
+      "synonyms": ["straight", "unambiguous", "clear"],
+      "topic_tags": ["general", "communication", "clarity"]
+    },
+    {
+      "word_id": "99dfe6a1-39a2-4778-8215-fdf7a361202f",
+      "english": "direct",
+      "translation": "לביים",
+      "hebrew": "לביים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He directed the new movie.",
+        "She directs the play with great skill."
+      ],
+      "synonyms": ["guide", "lead", "manage"],
+      "topic_tags": ["general", "film", "theater"]
+    },
+    {
+      "word_id": "5639db29-8e7b-4f89-b3a5-414cdef5cc79",
+      "english": "direct",
+      "translation": "להנחות",
+      "hebrew": "להנחות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher directed the students to the library.",
+        "He directed the team to focus on the project."
+      ],
+      "synonyms": ["instruct", "command", "order"],
+      "topic_tags": ["general", "instruction", "guidance"]
+    },
+    {
+      "word_id": "97717673-11ab-4695-9cfd-6bd33c18a40d",
+      "english": "direction",
+      "translation": "כיוון",
+      "hebrew": "כיוון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The compass shows the direction of north.",
+        "She asked for directions to the nearest store."
+      ],
+      "synonyms": ["course", "path", "route"],
+      "topic_tags": ["general", "navigation", "orientation"]
+    },
+    {
+      "word_id": "5ae0c219-a1ca-40ad-9bf3-5c975dced619",
+      "english": "disadvantage",
+      "translation": "חיסרון",
+      "hebrew": "חיסרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "One disadvantage of the plan is its cost.",
+        "He faced many disadvantages growing up."
+      ],
+      "synonyms": ["drawback", "limitation", "downside"],
+      "topic_tags": ["general", "comparison", "evaluation"]
+    },
+    {
+      "word_id": "8ba449d8-aaca-49de-bfba-c66e0c149b98",
+      "english": "disclose",
+      "translation": "לחשוף",
+      "hebrew": "לחשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She refused to disclose her sources.",
+        "The company disclosed its financial results."
+      ],
+      "synonyms": ["reveal", "unveil", "expose"],
+      "topic_tags": ["general", "information", "revelation"]
+    },
+    {
+      "word_id": "53924600-bb1a-4726-a69e-82ca2ecbd478",
+      "english": "discover",
+      "translation": "לגלות",
+      "hebrew": "לגלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Scientists discovered a new species.",
+        "He discovered the truth about his past."
+      ],
+      "synonyms": ["find", "uncover", "detect"],
+      "topic_tags": ["general", "exploration", "revelation"]
+    },
+    {
+      "word_id": "d59c1b8b-26d8-4b11-ae04-b91641558cf6",
+      "english": "discoveries",
+      "translation": "תגליות",
+      "hebrew": "תגליות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The discoveries changed our understanding of the universe.",
+        "Her discoveries in the field of medicine are groundbreaking."
+      ],
+      "synonyms": ["findings", "revelations", "breakthroughs"],
+      "topic_tags": ["general", "science", "innovation"]
+    },
+    {
+      "word_id": "41c0d439-54c4-4e70-9522-9828ef98d454",
+      "english": "discuss",
+      "translation": "לדון",
+      "hebrew": "לדון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They discussed the project in detail.",
+        "We need to discuss our plans for the future."
+      ],
+      "synonyms": ["debate", "talk", "converse"],
+      "topic_tags": ["general", "communication", "discussion"]
+    },
+    {
+      "word_id": "5440c45b-9350-499a-a185-12529dae277a",
+      "english": "disprove",
+      "translation": "להפריך",
+      "hebrew": "להפריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientist disproved the theory with new evidence.",
+        "He worked hard to disprove the allegations."
+      ],
+      "synonyms": ["refute", "debunk", "invalidate"],
+      "topic_tags": ["general", "science", "evidence"]
+    },
+    {
+      "word_id": "c45fbdb2-9f87-42cf-aa49-ae1bed5378f9",
+      "english": "distinct",
+      "translation": "מובחן",
+      "hebrew": "מובחן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two species are distinct from each other.",
+        "He has a distinct style of writing."
+      ],
+      "synonyms": ["different", "unique", "separate"],
+      "topic_tags": ["general", "comparison", "characteristics"]
+    },
+    {
+      "word_id": "9304a925-899d-4542-8693-d5b2be40d2f6",
+      "english": "distress",
+      "translation": "מצוקה",
+      "hebrew": "מצוקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She was in distress after the accident.",
+        "The distress signal was sent out immediately."
+      ],
+      "synonyms": ["anguish", "suffering", "trouble"],
+      "topic_tags": ["general", "emotion", "emergency"]
+    },
+    {
+      "word_id": "82231346-4fbc-476e-af62-3ba1412d9d6c",
+      "english": "diverge",
+      "translation": "להתפצל",
+      "hebrew": "להתפצל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The paths diverge at the old oak tree.",
+        "Their opinions began to diverge over time."
+      ],
+      "synonyms": ["separate", "split", "deviate"],
+      "topic_tags": ["general", "movement", "difference"]
+    },
+    {
+      "word_id": "1155562e-b27a-45d8-a828-184420c2a2ba",
+      "english": "diversity",
+      "translation": "גיוון",
+      "hebrew": "גיוון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is known for its cultural diversity.",
+        "Diversity in the workplace is important."
+      ],
+      "synonyms": ["variety", "multiplicity", "heterogeneity"],
+      "topic_tags": ["general", "culture", "variety"]
+    },
+    {
+      "word_id": "ae376fb6-12ce-4cf3-abfe-b4c098c09edb",
+      "english": "divide",
+      "translation": "לחלק",
+      "hebrew": "לחלק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher divided the class into groups.",
+        "They decided to divide the profits equally."
+      ],
+      "synonyms": ["split", "separate", "partition"],
+      "topic_tags": ["general", "mathematics", "organization"]
+    },
+    {
+      "word_id": "4405d946-94bb-45f8-ae8a-28427c18803f",
+      "english": "doubt",
+      "translation": "ספק",
+      "hebrew": "ספק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is no doubt about his honesty.",
+        "She expressed doubt about the plan's success."
+      ],
+      "synonyms": ["uncertainty", "skepticism", "hesitation"],
+      "topic_tags": ["general", "emotion", "uncertainty"]
+    },
+    {
+      "word_id": "a8ff68f6-2766-4365-833b-b2d58ee546b0",
+      "english": "edit",
+      "translation": "לערוך",
+      "hebrew": "לערוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She edits the magazine every month.",
+        "He edited the document for clarity."
+      ],
+      "synonyms": ["revise", "modify", "correct"],
+      "topic_tags": ["general", "writing", "revision"]
+    },
+    {
+      "word_id": "7b2294f6-33bd-4309-838a-693ccecdbde9",
+      "english": "edition",
+      "translation": "מהדורה",
+      "hebrew": "מהדורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The new edition of the book includes additional chapters.",
+        "This is the third edition of the magazine."
+      ],
+      "synonyms": ["version", "issue", "release"],
+      "topic_tags": ["general", "publishing", "version"]
+    },
+    {
+      "word_id": "4f57f660-6663-41a4-bf36-60148e09df78",
+      "english": "editor",
+      "translation": "עורך",
+      "hebrew": "עורך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The editor reviewed the article before publication.",
+        "She is the editor of a popular fashion magazine."
+      ],
+      "synonyms": ["reviewer", "reviser", "redactor"],
+      "topic_tags": ["general", "publishing", "writing"]
+    },
+    {
+      "word_id": "47b29c79-ca20-449e-9fd3-79335ec8dc58",
+      "english": "emperor",
+      "translation": "קיסר",
+      "hebrew": "קיסר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The emperor ruled over a vast empire.",
+        "He was crowned emperor in a grand ceremony."
+      ],
+      "synonyms": ["monarch", "ruler", "sovereign"],
+      "topic_tags": ["general", "history", "leadership"]
+    },
+    {
+      "word_id": "610fcba9-33d8-48ab-ab4b-866182d4324b",
+      "english": "empire",
+      "translation": "אימפריה",
+      "hebrew": "אימפריה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Roman Empire was one of the largest in history.",
+        "She built a business empire from scratch."
+      ],
+      "synonyms": ["kingdom", "realm", "dominion"],
+      "topic_tags": ["general", "history", "power"]
+    },
+    {
+      "word_id": "8f61e6e9-6179-4bac-9fd6-f97840bd8d46",
+      "english": "enable",
+      "translation": "לאפשר",
+      "hebrew": "לאפשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new software enables faster processing.",
+        "Her support enabled him to succeed."
+      ],
+      "synonyms": ["allow", "permit", "facilitate"],
+      "topic_tags": ["general", "technology", "support"]
+    },
+    {
+      "word_id": "b425ab56-e896-4802-aee5-b694d41e36c4",
+      "english": "enormous",
+      "translation": "עצום",
+      "hebrew": "עצום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The elephant is an enormous animal.",
+        "They made an enormous effort to complete the project."
+      ],
+      "synonyms": ["huge", "gigantic", "vast"],
+      "topic_tags": ["general", "size", "magnitude"]
+    },
+    {
+      "word_id": "0f2c5f2f-3b7b-44e1-a379-fd72d22d25c5",
+      "english": "enough",
+      "translation": "מספיק",
+      "hebrew": "מספיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We have enough food for everyone.",
+        "Is there enough time to finish the task?"
+      ],
+      "synonyms": ["sufficient", "adequate", "ample"],
+      "topic_tags": ["general", "quantity", "sufficiency"]
+    },
+    {
+      "word_id": "fe7e0297-0812-4d60-b091-2dc761cc1c17",
+      "english": "era",
+      "translation": "תקופה",
+      "hebrew": "תקופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Victorian era was a time of great change.",
+        "We are living in the digital era."
+      ],
+      "synonyms": ["age", "period", "epoch"],
+      "topic_tags": ["general", "history", "time"]
+    },
+    {
+      "word_id": "6e76c319-a843-4a55-8267-5559967ea2c6",
+      "english": "essential",
+      "translation": "חיוני",
+      "hebrew": "חיוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is essential for life.",
+        "It is essential to follow the instructions carefully."
+      ],
+      "synonyms": ["necessary", "vital", "indispensable"],
+      "topic_tags": ["general", "importance", "necessity"]
+    }
+  ]
+}

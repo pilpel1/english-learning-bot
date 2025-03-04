@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "chunk_number": 80,
+    "words_range": "retire-spark",
+    "word_count": 30,
+    "start_index": 2370,
+    "end_index": 2399
+  },
+  "words": [
+    {
+      "word_id": "cbb42e44-770a-4af2-95d3-0c49ad4d7396",
+      "english": "retire",
+      "translation": null,
+      "hebrew": "לפרוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He plans to retire next year.",
+        "She retired from her job after 30 years."
+      ],
+      "synonyms": [
+        "withdraw",
+        "resign"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2cb5abd8-f04c-4b93-b244-bbc4cc5089bf",
+      "english": "revoke",
+      "translation": null,
+      "hebrew": "לבטל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government can revoke your passport.",
+        "They revoked his driver's license."
+      ],
+      "synonyms": [
+        "cancel",
+        "repeal"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "0c44d137-dd67-483e-9682-80712c8b872a",
+      "english": "reward",
+      "translation": null,
+      "hebrew": "פרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company gave him a reward for his hard work.",
+        "There is a reward for finding the lost dog."
+      ],
+      "synonyms": [
+        "prize",
+        "award"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2e1f034c-d91d-47a6-b5ab-84e7762428c6",
+      "english": "ritual",
+      "translation": null,
+      "hebrew": "טקס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ceremony included ancient rituals.",
+        "They perform the same ritual every morning."
+      ],
+      "synonyms": [
+        "ceremony",
+        "custom"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "9a383996-cda1-49d6-b445-61a19bef5029",
+      "english": "rough",
+      "translation": null,
+      "hebrew": "מחוספס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The road was rough and bumpy.",
+        "He had a rough day at work."
+      ],
+      "synonyms": [
+        "uneven",
+        "difficult"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19f940a7-7321-4326-b4f6-7684f6834bb5",
+      "english": "rudimentary",
+      "translation": null,
+      "hebrew": "בסיסי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a rudimentary knowledge of French.",
+        "The equipment is quite rudimentary."
+      ],
+      "synonyms": [
+        "basic",
+        "elementary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e21a97e0-0fb4-4409-8812-f36837684523",
+      "english": "sacred",
+      "translation": null,
+      "hebrew": "קדוש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a sacred place.",
+        "The book is considered sacred by many."
+      ],
+      "synonyms": [
+        "holy",
+        "divine"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "b5c3653a-5575-428e-9b1c-941406b795cb",
+      "english": "sacrifice",
+      "translation": null,
+      "hebrew": "להקריב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sacrificed his career for his family.",
+        "She sacrificed her time to help others."
+      ],
+      "synonyms": [
+        "give up",
+        "forfeit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "56be0a14-74b5-42ad-88e9-1ab6fd6fecf7",
+      "english": "sake",
+      "translation": null,
+      "hebrew": "למען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He did it for her sake.",
+        "For the sake of argument, let's assume he's right."
+      ],
+      "synonyms": [
+        "purpose",
+        "reason"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e55ee76c-f05c-483b-b7f5-ab40d4232498",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "מסך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie is showing on the big screen.",
+        "She looked at the computer screen."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "878f9785-3749-4b1b-a78d-3c983aa541ed",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "לסנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company screens all applicants carefully.",
+        "We need to screen the water for impurities."
+      ],
+      "synonyms": [
+        "filter",
+        "examine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb002766-ff75-497a-8eea-d5c9908bb209",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "להסתיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He used a screen to hide from the sun.",
+        "The trees screen the house from the road."
+      ],
+      "synonyms": [
+        "shield",
+        "cover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c0bbd66-5f88-4ef8-bdc8-bd808ff8f616",
+      "english": "seek",
+      "translation": null,
+      "hebrew": "לחפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is seeking a new job.",
+        "They are seeking help from the community."
+      ],
+      "synonyms": [
+        "search",
+        "look for"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ef8fdd4-eaed-4868-b76b-7ed76909d71c",
+      "english": "seek, sought",
+      "translation": null,
+      "hebrew": "חיפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sought advice from his mentor.",
+        "She sought refuge from the storm."
+      ],
+      "synonyms": [
+        "searched",
+        "looked for"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "013dd07f-ac72-4350-9322-cf215729b68c",
+      "english": "seismic",
+      "translation": null,
+      "hebrew": "סיסמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The earthquake had a major seismic impact.",
+        "Scientists monitor seismic activity in the region."
+      ],
+      "synonyms": [
+        "geological",
+        "earthquake-related"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "6d1cb99a-be5d-4162-8ed7-4cb7608c25d1",
+      "english": "series",
+      "translation": null,
+      "hebrew": "סדרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm watching a new TV series.",
+        "The company released a series of new products."
+      ],
+      "synonyms": [
+        "sequence",
+        "collection",
+        "chain"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "b6dc1fa4-87b8-446d-80e0-87222c489330",
+      "english": "settle",
+      "translation": null,
+      "hebrew": "להתיישב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They decided to settle in the countryside.",
+        "The birds settled on the branch."
+      ],
+      "synonyms": [
+        "reside",
+        "inhabit"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "8310fac2-af5c-4bdc-b0e6-83b5b8976cb3",
+      "english": "settle",
+      "translation": null,
+      "hebrew": "ליישב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They settled the dispute with a compromise.",
+        "He settled his debts."
+      ],
+      "synonyms": [
+        "resolve",
+        "reconcile"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1d6976b0-74c1-455b-bc50-388276cb4877",
+      "english": "severe",
+      "translation": null,
+      "hebrew": "חמור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The storm caused severe damage.",
+        "He suffered a severe injury."
+      ],
+      "synonyms": [
+        "serious",
+        "critical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "31316c41-df16-4815-87b4-60b518782b14",
+      "english": "shape",
+      "translation": null,
+      "hebrew": "צורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is round in shape.",
+        "The clouds were in the shape of animals."
+      ],
+      "synonyms": [
+        "form",
+        "figure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b171f387-6504-40d6-bdad-63292936abc8",
+      "english": "shift",
+      "translation": null,
+      "hebrew": "משמרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He works the night shift.",
+        "She has a shift at the hospital."
+      ],
+      "synonyms": [
+        "turn",
+        "spell"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "d850bdde-f44e-4e0c-802b-0ae2864b1f36",
+      "english": "shift",
+      "translation": null,
+      "hebrew": "להזיז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you help me shift this table?",
+        "The wind shifted direction."
+      ],
+      "synonyms": [
+        "move",
+        "displace"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c637d195-4bc8-4ee6-87a1-1fdd7c7cc0a6",
+      "english": "shiny",
+      "translation": null,
+      "hebrew": "מבריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The car is shiny and new.",
+        "Her hair is long and shiny."
+      ],
+      "synonyms": [
+        "glossy",
+        "gleaming"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1cc6dcf8-01c7-417e-a878-09a55b6ad4e7",
+      "english": "side effect",
+      "translation": null,
+      "hebrew": "תופעת לוואי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The drug has some unpleasant side effects.",
+        "One side effect of the treatment is hair loss."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "92fff9ea-5b21-44ce-b062-f0343e6e85f3",
+      "english": "simplicity",
+      "translation": null,
+      "hebrew": "פשטות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The design is admired for its simplicity.",
+        "He values simplicity in life."
+      ],
+      "synonyms": [
+        "ease",
+        "clarity"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d482cb3d-8f72-4a8c-8af8-c647c64c2980",
+      "english": "sketch",
+      "translation": null,
+      "hebrew": "סקיצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a quick sketch of the landscape.",
+        "The architect showed us a sketch of the building."
+      ],
+      "synonyms": [
+        "drawing",
+        "outline"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "7d923f0c-359f-41a2-9ac6-364d758bb269",
+      "english": "skyrocket",
+      "translation": null,
+      "hebrew": "להמריא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company's profits skyrocketed this year.",
+        "Prices for houses have skyrocketed."
+      ],
+      "synonyms": [
+        "soar",
+        "surge"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c287cb07-c789-4e80-9669-365dc381adc1",
+      "english": "skyscraper",
+      "translation": null,
+      "hebrew": "גורד שחקים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "New York City is famous for its skyscrapers.",
+        "He works in a skyscraper downtown."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "architecture"
+      ]
+    },
+    {
+      "word_id": "fbc8f5f5-c23b-418a-8abf-ae65ac084e30",
+      "english": "sorrow",
+      "translation": null,
+      "hebrew": "צער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt great sorrow after her loss.",
+        "He expressed his sorrow for what happened."
+      ],
+      "synonyms": [
+        "grief",
+        "sadness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c9669325-2f1f-43e4-ab34-45fc8915ba97",
+      "english": "spark",
+      "translation": null,
+      "hebrew": "ניצוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A spark ignited the fire.",
+        "The idea sparked his imagination."
+      ],
+      "synonyms": [
+        "flicker",
+        "flash"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

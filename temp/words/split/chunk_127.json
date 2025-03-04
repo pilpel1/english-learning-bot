@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 127,
+    "words_range": "caterpillar-Dead Sea",
+    "word_count": 30,
+    "start_index": 3780,
+    "end_index": 3809
+  },
+  "words": [
+    {
+      "word_id": "87d337c7-e4d4-4eba-abfd-ecff3beb1c54",
+      "english": "caterpillar",
+      "translation": null,
+      "hebrew": "זחל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The caterpillar eats leaves.",
+        "The caterpillar will become a butterfly."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals", "nature"]
+    },
+    {
+      "word_id": "4af9fdf8-16fa-44b5-973e-21da3348b16c",
+      "english": "cave",
+      "translation": null,
+      "hebrew": "מערה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They explored the cave.",
+        "Bats live in caves."
+      ],
+      "synonyms": ["cavern"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "12c39aa8-1eab-4abc-b4cc-a2e7e7dc0229",
+      "english": "caviar",
+      "translation": null,
+      "hebrew": "קוויאר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Caviar is a delicacy.",
+        "He ate caviar on toast."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "5e934f7e-e564-4d82-85dd-ded5211c8ead",
+      "english": "cereal",
+      "translation": null,
+      "hebrew": "דגנים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He eats cereal for breakfast.",
+        "What's your favorite cereal?"
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "ff925d7c-8437-4076-94a6-5109c0006297",
+      "english": "cigarette",
+      "translation": null,
+      "hebrew": "סיגריה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He smoked a cigarette.",
+        "Smoking cigarettes is bad for your health."
+      ],
+      "synonyms": ["cig"],
+      "topic_tags": ["general", "health"]
+    },
+    {
+      "word_id": "7eda96e1-4b56-4cbc-8dbd-08c15e3e4e1b",
+      "english": "citrus",
+      "translation": null,
+      "hebrew": "הדרים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Oranges and lemons are citrus fruits.",
+        "Citrus fruits are high in vitamin C."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "8fd52b07-50fa-4069-b813-b00d5411999e",
+      "english": "clay",
+      "translation": null,
+      "hebrew": "חרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pot is made of clay.",
+        "The artist sculpted with clay."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "arts", "material"]
+    },
+    {
+      "word_id": "64ef1e64-8422-409d-9291-f44ee022eac9",
+      "english": "cloud",
+      "translation": null,
+      "hebrew": "ענן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sky is full of clouds.",
+        "The clouds are dark and gray."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "1892f248-1277-4875-91dc-7074ce5fedaf",
+      "english": "club",
+      "translation": null,
+      "hebrew": "מועדון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a member of the club.",
+        "They went to a nightclub."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "0425ef44-2f54-4dfa-868c-acc34d66beb1",
+      "english": "cockroach",
+      "translation": null,
+      "hebrew": "ג'וק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a cockroach in the kitchen.",
+        "Cockroaches are pests."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "e63819b7-4cdc-4438-bdeb-239acb0bbf6b",
+      "english": "coffin",
+      "translation": null,
+      "hebrew": "ארון מתים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They put the body in a coffin.",
+        "The coffin was made of wood."
+      ],
+      "synonyms": ["casket"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2b6f6fcc-b0e4-49a8-85be-8617579e5fd0",
+      "english": "cologne",
+      "translation": null,
+      "hebrew": "קולון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He wore cologne.",
+        "The cologne smelled nice."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "fashion"]
+    },
+    {
+      "word_id": "8ea4b8e7-4309-4e71-ab2d-f477f90fb7c7",
+      "english": "compost",
+      "translation": null,
+      "hebrew": "קומפוסט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They made compost from their garden waste.",
+        "Compost is good for the soil."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "gardening"]
+    },
+    {
+      "word_id": "48b8d725-063c-4aa5-bef8-e81196988d46",
+      "english": "conductor",
+      "translation": null,
+      "hebrew": "מנצח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conductor led the orchestra.",
+        "He is a famous conductor."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "0bdf7051-eab6-420b-a72c-ee988dca39df",
+      "english": "conquistador",
+      "translation": null,
+      "hebrew": "כובש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conquistadors conquered South America.",
+        "He studied the history of the conquistadors."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "5dcab6a5-e599-4b15-a822-bf998d193038",
+      "english": "consonant",
+      "translation": null,
+      "hebrew": "עיצור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "B, C, and D are consonants.",
+        "Consonants and vowels make up words."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "language"]
+    },
+    {
+      "word_id": "223ce5cc-b020-42ea-a9db-03ce895ef8f9",
+      "english": "coop",
+      "translation": null,
+      "hebrew": "לול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The chickens were kept in a coop.",
+        "She built a chicken coop."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals", "farming"]
+    },
+    {
+      "word_id": "dcfb4a6c-9a94-4112-bf71-2765e06b39fa",
+      "english": "coop",
+      "translation": null,
+      "hebrew": "לכלוא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They cooped up the chickens.",
+        "She was cooped up inside all day."
+      ],
+      "synonyms": ["confine", "enclose"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "87243b06-552d-4f79-8056-3d7335905af9",
+      "english": "copper",
+      "translation": null,
+      "hebrew": "נחושת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pipes are made of copper.",
+        "Copper is a good conductor of electricity."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "material"]
+    },
+    {
+      "word_id": "600efbc7-a706-4deb-8b7b-403706dd89b3",
+      "english": "cotton",
+      "translation": null,
+      "hebrew": "כותנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The shirt is made of cotton.",
+        "Cotton is a soft material."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "fashion", "material"]
+    },
+    {
+      "word_id": "98a89503-924e-4d3b-90a2-7a2f0191b6b2",
+      "english": "cougar",
+      "translation": null,
+      "hebrew": "פומה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cougar roams the mountains.",
+        "Be careful of cougars in this area."
+      ],
+      "synonyms": ["mountain lion", "puma"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "fa9ef89f-e27e-4463-85d3-eda0b6047560",
+      "english": "coupon",
+      "translation": null,
+      "hebrew": "קופון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Use this coupon to get a discount.",
+        "She clipped coupons from the newspaper."
+      ],
+      "synonyms": ["voucher"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "e90e6157-810b-4545-9bc1-3dfed2638938",
+      "english": "cucumber",
+      "translation": null,
+      "hebrew": "מלפפון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He sliced the cucumber.",
+        "The salad contains cucumber."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "45345601-a6fc-4b8f-93ea-8053a9e6c91f",
+      "english": "culminate",
+      "translation": null,
+      "hebrew": "להגיע לשיא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project will culminate in a final presentation.",
+        "His efforts culminated in success."
+      ],
+      "synonyms": ["climax", "peak"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f09528f9-c522-4263-829d-b27e9c1fb4d8",
+      "english": "czar",
+      "translation": null,
+      "hebrew": "צאר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The czar ruled Russia.",
+        "He was a powerful czar."
+      ],
+      "synonyms": ["tsar", "emperor"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "bf44b6a2-810c-4a2b-a13e-5d9b819f10fc",
+      "english": "dart",
+      "translation": null,
+      "hebrew": "חץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He threw a dart at the dartboard.",
+        "She darted across the street."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "8f24f597-3298-4fd7-963a-e76773e01992",
+      "english": "date",
+      "translation": null,
+      "hebrew": "תאריך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What's the date today?",
+        "The date of the event is July 15th."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e9e9ae94-623f-475a-b90b-5bb7095f117a",
+      "english": "date",
+      "translation": null,
+      "hebrew": "דייט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went on a date.",
+        "She has a date tonight."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "relationships"]
+    },
+    {
+      "word_id": "9405038d-bc09-45b0-b056-d50b1e48866a",
+      "english": "date",
+      "translation": null,
+      "hebrew": "תמר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Dates grow in the desert.",
+        "He ate a date."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "8c79e5b5-e2c4-46d5-982a-958f2b66aee7",
+      "english": "Dead Sea",
+      "translation": null,
+      "hebrew": "ים המלח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Dead Sea is very salty.",
+        "You can float in the Dead Sea."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "geography", "travel"]
+    }
+  ]
+}

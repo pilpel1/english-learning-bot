@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "chunk_number": 74,
+    "words_range": "favor-heir",
+    "word_count": 30,
+    "start_index": 2190,
+    "end_index": 2219
+  },
+  "words": [
+    {
+      "word_id": "0b202d31-7b0f-4d30-8e28-d5f32699b784",
+      "english": "favor",
+      "translation": null,
+      "hebrew": "טובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you do me a favor and help me move this box?",
+        "She asked him for a favor."
+      ],
+      "synonyms": [
+        "kindness",
+        "good deed"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "368f0c35-2d03-45a9-80fe-508ccfe104a2",
+      "english": "favor",
+      "translation": null,
+      "hebrew": "להעדיף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I favor the blue shirt over the red one.",
+        "The company favors candidates with experience."
+      ],
+      "synonyms": [
+        "prefer",
+        "support"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6f716f1d-9d99-4949-9ad3-af6087b21030",
+      "english": "favored",
+      "translation": null,
+      "hebrew": "מועדף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the favored candidate for the job.",
+        "This is my favored restaurant."
+      ],
+      "synonyms": [
+        "preferred",
+        "popular"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "59e77a16-9497-4a61-9310-ad71c1685e96",
+      "english": "fight, fought",
+      "translation": null,
+      "hebrew": "להילחם, נלחם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They fought for their freedom.",
+        "He fought bravely in the war."
+      ],
+      "synonyms": [
+        "battle",
+        "struggle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6a1a745b-e0ad-4a80-b495-dc478706f967",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "דמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The figure in the painting is very realistic.",
+        "She has a beautiful figure."
+      ],
+      "synonyms": [
+        "shape",
+        "form"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "806ba9e7-87a5-4a8f-88f7-08e9c37c672f",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "מספר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sales figures are very impressive.",
+        "Can you check the figures again?"
+      ],
+      "synonyms": [
+        "number",
+        "statistic"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "f2f1e351-2abf-4ff3-b54c-e1552843a533",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't figure out how to solve this problem.",
+        "Did you figure out what happened?"
+      ],
+      "synonyms": [
+        "understand",
+        "solve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a2842bf4-5562-4bf1-beed-b68b916db9fe",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I figure it will take about two hours.",
+        "We figure that they will arrive soon."
+      ],
+      "synonyms": [
+        "estimate",
+        "calculate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d5916be6-a619-41df-b62b-5f48da9d72cf",
+      "english": "flat",
+      "translation": null,
+      "hebrew": "שטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The Earth is not flat.",
+        "The road is very flat here."
+      ],
+      "synonyms": [
+        "level",
+        "even"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6cc141f1-92dd-41d0-8126-57df49d31cf2",
+      "english": "flat",
+      "translation": null,
+      "hebrew": "פנצ'ר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I got a flat tire on the way to work.",
+        "He needs to fix the flat."
+      ],
+      "synonyms": [
+        "puncture"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4425cbed-b31d-40e0-8fdc-8fa40d9c3559",
+      "english": "flew",
+      "translation": null,
+      "hebrew": "טס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird flew away.",
+        "He flew to Paris last week."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bce74dc1-6cd0-4517-b6ad-30f61440aaca",
+      "english": "fly",
+      "translation": null,
+      "hebrew": "לעוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Birds can fly.",
+        "I want to fly to the moon."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "15e4e4bb-8b66-49a7-9ca9-4b74d2288623",
+      "english": "fly",
+      "translation": null,
+      "hebrew": "זבוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There's a fly in my soup!",
+        "The fly is buzzing around the room."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88a71269-3a29-4075-91d1-4986bb898e78",
+      "english": "foil",
+      "translation": null,
+      "hebrew": "לסכל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police foiled the robbery attempt.",
+        "He foiled her plans."
+      ],
+      "synonyms": [
+        "thwart",
+        "prevent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3a7cc1c2-7378-44d3-8bfb-0cb1341edb0b",
+      "english": "forerunner",
+      "translation": null,
+      "hebrew": "מבשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The iPhone was a forerunner of modern smartphones.",
+        "He is a forerunner in the field of technology."
+      ],
+      "synonyms": [
+        "precursor",
+        "herald"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "70cb983a-0755-42ab-a348-84932b979ff8",
+      "english": "forerunner",
+      "translation": null,
+      "hebrew": "חלוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She was a forerunner in the women's rights movement.",
+        "He is a forerunner in the development of new medicines."
+      ],
+      "synonyms": [
+        "pioneer",
+        "innovator"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b705284f-25ab-4064-9653-cbc6f70db96c",
+      "english": "fossil",
+      "translation": null,
+      "hebrew": "מאובן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum has a collection of dinosaur fossils.",
+        "Fossils provide clues about the past."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "72eeeb88-5385-4ba8-bcc0-0b02bb6c1749",
+      "english": "genius",
+      "translation": null,
+      "hebrew": "גאון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Einstein was a genius.",
+        "She has a genius for music."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "16b9dadf-4f7f-49af-9aa6-f6fcd2084a5f",
+      "english": "gentle",
+      "translation": null,
+      "hebrew": "עדין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Be gentle with the baby.",
+        "He has a gentle voice."
+      ],
+      "synonyms": [
+        "soft",
+        "mild"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4d21bfca-47b1-46e1-8d62-25645b408a4b",
+      "english": "genuine",
+      "translation": null,
+      "hebrew": "אמיתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a genuine leather bag.",
+        "He is a genuine person."
+      ],
+      "synonyms": [
+        "real",
+        "authentic"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fcbd5a4b-5124-4ea8-a097-5f5973ea3039",
+      "english": "grant",
+      "translation": null,
+      "hebrew": "מענק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The university received a grant for research.",
+        "She applied for a grant to study abroad."
+      ],
+      "synonyms": [
+        "subsidy",
+        "scholarship"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d6356ee6-adc8-4d9a-b5ba-e4d432be75d8",
+      "english": "guard",
+      "translation": null,
+      "hebrew": "לשמור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldiers guard the entrance.",
+        "Please guard my bag while I go to the restroom."
+      ],
+      "synonyms": [
+        "protect",
+        "defend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bb959fef-26d3-429c-95ae-ff93d5ee34ef",
+      "english": "halt",
+      "translation": null,
+      "hebrew": "לעצור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police halted the car.",
+        "Production has been halted due to the strike."
+      ],
+      "synonyms": [
+        "stop",
+        "cease"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "17a15c02-2979-4b72-b8d2-da2b44289053",
+      "english": "handle",
+      "translation": null,
+      "hebrew": "ידית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The handle of the door is broken.",
+        "This pot has a long handle."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2b17d591-f1ec-478d-af25-3a8efdc9574c",
+      "english": "harder",
+      "translation": null,
+      "hebrew": "קשה יותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This test is harder than the last one.",
+        "He is working harder to improve his grades."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a31bffef-b175-4e65-9d9b-288b8617c8fc",
+      "english": "harmful",
+      "translation": null,
+      "hebrew": "מזיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Smoking is harmful to your health.",
+        "Pollution is harmful to the environment."
+      ],
+      "synonyms": [
+        "damaging",
+        "detrimental"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8e15d21b-1b67-46b3-a71e-592efa1c9785",
+      "english": "harmless",
+      "translation": null,
+      "hebrew": "לא מזיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The snake is harmless.",
+        "His jokes are harmless."
+      ],
+      "synonyms": [
+        "innocuous",
+        "safe"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e647995f-39f5-45e9-bb9d-f7a8739e2cae",
+      "english": "hazardous",
+      "translation": null,
+      "hebrew": "מסוכן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a hazardous chemical.",
+        "The road is hazardous due to the ice."
+      ],
+      "synonyms": [
+        "dangerous",
+        "risky"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e0ebf57d-6c34-470c-98a3-e0a013b40604",
+      "english": "hectic",
+      "translation": null,
+      "hebrew": "קדחתני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a hectic schedule.",
+        "The city is hectic during rush hour."
+      ],
+      "synonyms": [
+        "busy",
+        "frantic"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "834074af-4579-43f5-a512-71807d2e0459",
+      "english": "heir",
+      "translation": null,
+      "hebrew": "יורש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the heir to the throne.",
+        "She is the heir to a large fortune."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

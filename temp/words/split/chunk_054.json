@@ -1,0 +1,594 @@
+{
+  "_meta": {
+    "chunk_number": 54,
+    "words_range": "admire-casual",
+    "word_count": 30,
+    "start_index": 1590,
+    "end_index": 1619
+  },
+  "words": [
+    {
+      "word_id": "267a3709-6fad-4459-968b-d4440422f2a8",
+      "english": "admire",
+      "translation": null,
+      "hebrew": "להעריץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I admire her courage.",
+        "He admires the work of Picasso."
+      ],
+      "synonyms": [
+        "respect",
+        "esteem"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "31a07fb4-ac3e-451b-a533-937ed2e65c14",
+      "english": "adore",
+      "translation": null,
+      "hebrew": "להעריץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She adores her grandchildren.",
+        "I adore chocolate cake."
+      ],
+      "synonyms": [
+        "love",
+        "worship"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "6c5382fa-8826-4bc6-b753-c2a8d45a71be",
+      "english": "adverse",
+      "translation": null,
+      "hebrew": "שלילי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Adverse weather conditions affected the flight.",
+        "The drug had adverse side effects."
+      ],
+      "synonyms": [
+        "negative",
+        "unfavorable"
+      ],
+      "topic_tags": [
+        "general",
+        "conditions"
+      ]
+    },
+    {
+      "word_id": "452179f6-aa01-47cc-9db8-399851c57688",
+      "english": "analog",
+      "translation": null,
+      "hebrew": "אנלוגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "An analog clock has hands.",
+        "Analog signals are continuous."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "726b343f-0c84-4e5e-b02b-adf47f2efd58",
+      "english": "analogy",
+      "translation": null,
+      "hebrew": "אנלוגיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher used an analogy to explain the concept.",
+        "There is an analogy between the heart and a pump."
+      ],
+      "synonyms": [
+        "comparison",
+        "similarity"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "93a7a4c9-9402-4ed5-b6d6-f60e9ef21450",
+      "english": "ancestor",
+      "translation": null,
+      "hebrew": "אב קדמון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My ancestors came from Ireland.",
+        "He is a direct descendant of a famous ancestor."
+      ],
+      "synonyms": [
+        "forefather",
+        "predecessor"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "42603b16-d47e-4300-b635-0d1dc829f891",
+      "english": "ancestry",
+      "translation": null,
+      "hebrew": "שושלת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is proud of his Italian ancestry.",
+        "She researched her family's ancestry."
+      ],
+      "synonyms": [
+        "lineage",
+        "heritage"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "98ac71c3-e981-4f19-bada-47329d254075",
+      "english": "ancient",
+      "translation": null,
+      "hebrew": "עתיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The ancient ruins are a popular tourist attraction.",
+        "This is an ancient tradition."
+      ],
+      "synonyms": [
+        "old",
+        "historic"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "6bfd8fd9-f0f6-457f-ab38-41e514a46114",
+      "english": "assemble",
+      "translation": null,
+      "hebrew": "להרכיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to assemble the furniture.",
+        "The students assembled in the auditorium."
+      ],
+      "synonyms": [
+        "put together",
+        "gather"
+      ],
+      "topic_tags": [
+        "general",
+        "construction"
+      ]
+    },
+    {
+      "word_id": "5149b0e3-cd46-4fdd-ad89-98199a153ec0",
+      "english": "assist",
+      "translation": null,
+      "hebrew": "לסייע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will assist you with your homework.",
+        "He assisted the elderly woman across the street."
+      ],
+      "synonyms": [
+        "help",
+        "aid"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "444be7a9-3ccb-48d7-ae49-f324b7a9ed68",
+      "english": "astonishment",
+      "translation": null,
+      "hebrew": "תדהמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "To my astonishment, he agreed to help.",
+        "She stared in astonishment at the sight."
+      ],
+      "synonyms": [
+        "amazement",
+        "surprise"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "2de26978-72e6-450e-ab9e-93e55f604451",
+      "english": "astound",
+      "translation": null,
+      "hebrew": "להדהים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician's tricks astounded the audience.",
+        "His generosity astounded everyone."
+      ],
+      "synonyms": [
+        "amaze",
+        "surprise"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "eadcf152-e51c-4c60-aad3-95cba267d60d",
+      "english": "at your disposal",
+      "translation": null,
+      "hebrew": "לרשותך",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I am at your disposal if you need help.",
+        "The car is at your disposal for the weekend."
+      ],
+      "synonyms": [
+        "available",
+        "ready"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "1515dd6e-7453-49e9-afbf-f3d5da01e65f",
+      "english": "author",
+      "translation": null,
+      "hebrew": "מחבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "J.K. Rowling is the author of the Harry Potter books.",
+        "The author signed copies of his new book."
+      ],
+      "synonyms": [
+        "writer",
+        "creator"
+      ],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "7eff4839-5ce5-4734-9e0b-0b2dbc196dc8",
+      "english": "avert",
+      "translation": null,
+      "hebrew": "למנוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He averted his eyes from the accident.",
+        "We need to avert a crisis."
+      ],
+      "synonyms": [
+        "prevent",
+        "avoid"
+      ],
+      "topic_tags": [
+        "general",
+        "safety"
+      ]
+    },
+    {
+      "word_id": "dff8e1c7-dabf-483e-ba63-ffcfecdf16bf",
+      "english": "background",
+      "translation": null,
+      "hebrew": "רקע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a background in science.",
+        "The music played softly in the background."
+      ],
+      "synonyms": [
+        "history",
+        "experience"
+      ],
+      "topic_tags": [
+        "general",
+        "information"
+      ]
+    },
+    {
+      "word_id": "36400d6a-9ed1-4703-a290-49f8b24e59b3",
+      "english": "benefactors",
+      "translation": null,
+      "hebrew": "תורמים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The school thanked its benefactors for their generous donations.",
+        "Benefactors play a vital role in supporting the arts."
+      ],
+      "synonyms": [
+        "donors",
+        "patrons"
+      ],
+      "topic_tags": [
+        "general",
+        "charity"
+      ]
+    },
+    {
+      "word_id": "c5bbdea5-f923-48fe-8c59-e593ed35e712",
+      "english": "beneficial",
+      "translation": null,
+      "hebrew": "מועיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Exercise is beneficial to your health.",
+        "A good night's sleep is beneficial."
+      ],
+      "synonyms": [
+        "helpful",
+        "advantageous"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "722f9c02-812c-467f-b1b9-06799e6c045b",
+      "english": "bold",
+      "translation": null,
+      "hebrew": "אמיץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a bold decision.",
+        "She is a bold and confident leader."
+      ],
+      "synonyms": [
+        "courageous",
+        "daring"
+      ],
+      "topic_tags": [
+        "general",
+        "character"
+      ]
+    },
+    {
+      "word_id": "877eeb15-edb0-48d5-85cb-37f5c44e41e0",
+      "english": "bold",
+      "translation": null,
+      "hebrew": "מודגש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The important words are in bold.",
+        "Use bold text to highlight key points."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "typography"
+      ]
+    },
+    {
+      "word_id": "54a1cd93-1656-4eb4-8308-da762b36e38a",
+      "english": "botanist",
+      "translation": null,
+      "hebrew": "בוטנאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The botanist studies plants.",
+        "She is a famous botanist."
+      ],
+      "synonyms": [
+        "plant scientist"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "74054994-496a-4804-9fe8-ca250cf68727",
+      "english": "boundary",
+      "translation": null,
+      "hebrew": "גבול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fence marks the boundary of the property.",
+        "There is a boundary between the two countries."
+      ],
+      "synonyms": [
+        "border",
+        "limit"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "66765e1e-eeae-49b3-9e8a-b9b10bb1d69d",
+      "english": "branch",
+      "translation": null,
+      "hebrew": "ענף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird sat on a branch of the tree.",
+        "The bank has several branches in the city."
+      ],
+      "synonyms": [
+        "limb",
+        "office"
+      ],
+      "topic_tags": [
+        "general",
+        "nature",
+        "business"
+      ]
+    },
+    {
+      "word_id": "ff609118-67ae-4fe8-927a-70f977aa2420",
+      "english": "broaden",
+      "translation": null,
+      "hebrew": "להרחיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Travel can broaden your horizons.",
+        "We need to broaden our customer base."
+      ],
+      "synonyms": [
+        "expand",
+        "widen"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2088da53-3980-47c1-add7-2c764648a0c8",
+      "english": "canal",
+      "translation": null,
+      "hebrew": "תעלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Suez Canal connects the Red Sea and the Mediterranean Sea.",
+        "Boats travel through the canal."
+      ],
+      "synonyms": [
+        "waterway"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "e6fcaa9c-adbf-40df-a299-131d1b697eb7",
+      "english": "cast",
+      "translation": null,
+      "hebrew": "ללהק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The director cast her in the lead role.",
+        "They are casting for the new play."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "f5720a60-f239-4265-89c0-9f611f0277c5",
+      "english": "cast",
+      "translation": null,
+      "hebrew": "גבס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He broke his arm and had to wear a cast.",
+        "The doctor put a cast on his leg."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "9cd4b4c1-4b1b-468d-a800-69eb714b41ed",
+      "english": "caste",
+      "translation": null,
+      "hebrew": "מעמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The caste system is still present in some societies.",
+        "He belongs to a high caste."
+      ],
+      "synonyms": [
+        "class"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "f1599f39-1c02-4b42-bfb6-19630f536672",
+      "english": "castle",
+      "translation": null,
+      "hebrew": "טירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The castle is located on a hill.",
+        "They visited the castle."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "207d7034-5282-4ce4-9419-6c0921cb9a43",
+      "english": "casual",
+      "translation": null,
+      "hebrew": "יום יומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He wore casual clothes to the party.",
+        "The atmosphere in the restaurant was casual."
+      ],
+      "synonyms": [
+        "informal",
+        "relaxed"
+      ],
+      "topic_tags": [
+        "general",
+        "style"
+      ]
+    }
+  ]
+}

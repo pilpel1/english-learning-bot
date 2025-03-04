@@ -1,0 +1,550 @@
+{
+  "_meta": {
+    "chunk_number": 67,
+    "words_range": "thousand-various",
+    "word_count": 30,
+    "start_index": 1980,
+    "end_index": 2009
+  },
+  "words": [
+    {
+      "word_id": "4391d94e-85eb-411e-8025-899a40078774",
+      "english": "thousand",
+      "translation": null,
+      "hebrew": "אלף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are a thousand stars in the sky.",
+        "A thousand people attended the concert."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "d5f50a9c-d0a6-4418-ae69-295276021221",
+      "english": "tormented",
+      "translation": null,
+      "hebrew": "מיוסר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was tormented by guilt.",
+        "The tormented prisoner cried out in pain."
+      ],
+      "synonyms": [
+        "tortured",
+        "anguished"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c1c7013-0e0d-4737-b82e-c949503d868d",
+      "english": "tour",
+      "translation": null,
+      "hebrew": "סיור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We took a tour of the city.",
+        "The band is on tour."
+      ],
+      "synonyms": [
+        "trip",
+        "journey"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "281aaee3-c560-4987-ace6-cd12fe6aab1d",
+      "english": "tourist",
+      "translation": null,
+      "hebrew": "תייר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is full of tourists.",
+        "She is a tourist in Paris."
+      ],
+      "synonyms": [
+        "visitor"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "de4fab9a-a508-4910-8a71-54d4879db480",
+      "english": "trust",
+      "translation": null,
+      "hebrew": "אמון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have trust in you.",
+        "He broke my trust."
+      ],
+      "synonyms": [
+        "faith",
+        "belief"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "02e749c5-6892-41da-988f-deadbab4a7a5",
+      "english": "type",
+      "translation": null,
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What type of car do you have?",
+        "This is my type of music."
+      ],
+      "synonyms": [
+        "kind",
+        "sort"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "133706df-eb68-4045-ac1b-4c7219f857cc",
+      "english": "type",
+      "translation": null,
+      "hebrew": "להקליד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to type a letter.",
+        "She is typing on the computer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "3717c4f2-11b6-49c9-b164-9ad17420af6b",
+      "english": "typically",
+      "translation": null,
+      "hebrew": "בדרך כלל",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I typically go to bed at 10pm.",
+        "The weather is typically sunny here."
+      ],
+      "synonyms": [
+        "usually",
+        "normally"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d1a8a36f-98a5-472c-8a3f-bb406c094bbb",
+      "english": "unbelievable",
+      "translation": null,
+      "hebrew": "לא יאומן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's an unbelievable story.",
+        "The view is unbelievable."
+      ],
+      "synonyms": [
+        "incredible",
+        "amazing"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "afdbf816-2bfe-4098-90dc-4236e8ae210f",
+      "english": "underlies",
+      "translation": null,
+      "hebrew": "בבסיס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The problem underlies the whole project.",
+        "The theory underlies the research."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "735a313a-db04-48e3-bc23-9f8cf2f43e95",
+      "english": "undertake",
+      "translation": null,
+      "hebrew": "ליטול על עצמו",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will undertake the task.",
+        "She undertook a new project."
+      ],
+      "synonyms": [
+        "take on",
+        "assume"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "014da9b3-1be4-41f5-b835-8ee9264f044e",
+      "english": "unemployed",
+      "translation": null,
+      "hebrew": "מובטל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is unemployed and looking for a job.",
+        "The unemployment rate is high."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "864ce383-a94e-4cf4-8cf8-fd98b154e287",
+      "english": "unexplored",
+      "translation": null,
+      "hebrew": "לא נחקר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The area is unexplored.",
+        "The jungle is unexplored."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "f0c533fa-361e-42c7-af79-95464cfc70f1",
+      "english": "unfamiliar",
+      "translation": null,
+      "hebrew": "לא מוכר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The language is unfamiliar to me.",
+        "The food is unfamiliar."
+      ],
+      "synonyms": [
+        "unknown",
+        "strange"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99999999-9999-9999-9999-999999999999",
+      "english": "uniform",
+      "translation": null,
+      "hebrew": "אחיד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The students wear a uniform.",
+        "The color is uniform."
+      ],
+      "synonyms": [
+        "consistent",
+        "standard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b313b02e-0d0e-45b9-b28c-5aef0e956dc2",
+      "english": "unimaginable",
+      "translation": null,
+      "hebrew": "בלתי נתפס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The suffering was unimaginable.",
+        "The cost is unimaginable."
+      ],
+      "synonyms": [
+        "inconceivable",
+        "unthinkable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bb6bd128-bc1a-4c7d-b0eb-a93dc87c6a7b",
+      "english": "unique",
+      "translation": null,
+      "hebrew": "ייחודי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The design is unique.",
+        "She has a unique style."
+      ],
+      "synonyms": [
+        "distinctive",
+        "special"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ca175192-3280-4f1c-b44f-a578cc76c294",
+      "english": "unite",
+      "translation": null,
+      "hebrew": "לאחד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to unite to solve the problem.",
+        "The countries united to form an alliance."
+      ],
+      "synonyms": [
+        "join",
+        "combine"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "45b99057-64ea-4785-bcaf-05462a4f8233",
+      "english": "unlock",
+      "translation": null,
+      "hebrew": "לפתוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to unlock the door.",
+        "The key will unlock the secret."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3fd2b656-9ebc-474e-ba18-60e0d227fac4",
+      "english": "unnecessary",
+      "translation": null,
+      "hebrew": "מיותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's an unnecessary expense.",
+        "The meeting was unnecessary."
+      ],
+      "synonyms": [
+        "redundant",
+        "excessive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de079805-a7a0-4e97-9c78-0e2187303baa",
+      "english": "uprising",
+      "translation": null,
+      "hebrew": "התקוממות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The uprising was quickly suppressed.",
+        "The people started an uprising."
+      ],
+      "synonyms": [
+        "rebellion",
+        "insurrection"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "92c94f2e-4563-4791-a67b-e4563718ea5c",
+      "english": "urban",
+      "translation": null,
+      "hebrew": "עירוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The urban population is growing.",
+        "The city has an urban feel."
+      ],
+      "synonyms": [
+        "metropolitan",
+        "city"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "2e51a70f-5cc8-47e0-a600-bd6151ee0308",
+      "english": "urge",
+      "translation": null,
+      "hebrew": "דחף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I had an urge to eat chocolate.",
+        "She felt an urge to travel."
+      ],
+      "synonyms": [
+        "impulse",
+        "desire"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "30fffbb2-2e9e-4c59-8d99-96fab1381baf",
+      "english": "urgent",
+      "translation": null,
+      "hebrew": "דחוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's an urgent matter.",
+        "I need an urgent response."
+      ],
+      "synonyms": [
+        "pressing",
+        "critical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ea8c726-b095-494b-aba6-915b41738729",
+      "english": "vaccine",
+      "translation": null,
+      "hebrew": "חיסון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to get a vaccine.",
+        "The vaccine protects against the disease."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "2ca5ba7c-e2c3-4006-9da1-ae63ec5535f1",
+      "english": "variable",
+      "translation": null,
+      "hebrew": "משתנה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is variable.",
+        "The results are variable."
+      ],
+      "synonyms": [
+        "changeable",
+        "inconstant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e5a2d4e1-f121-4747-acec-5d3e7354c138",
+      "english": "variation",
+      "translation": null,
+      "hebrew": "וריאציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a variation in the data.",
+        "The song has a variation."
+      ],
+      "synonyms": [
+        "difference",
+        "modification"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8e2e390d-2c41-4d85-923a-7c003ee2d34f",
+      "english": "variety",
+      "translation": null,
+      "hebrew": "מגוון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a variety of food.",
+        "The store has a variety of products."
+      ],
+      "synonyms": [
+        "range",
+        "selection"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "beafc140-f2b6-40f5-8825-3f0456784eac",
+      "english": "various",
+      "translation": null,
+      "hebrew": "שונים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "There are various types of cars.",
+        "The store sells various products."
+      ],
+      "synonyms": [
+        "diverse",
+        "assorted"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

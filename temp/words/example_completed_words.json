@@ -1,0 +1,53 @@
+[
+  {
+    "word_id": "0a2a0a2c-0368-4449-a60f-18c417e8cf97",
+    "english": "10th",
+    "translation": "tenth",
+    "hebrew": "עשירי",
+    "part_of_speech": "ordinal",
+    "difficulty_level": 1,
+    "examples": [
+      "This is the 10th time I've told you to clean your room.",
+      "She finished 10th in the competition."
+    ],
+    "synonyms": [],
+    "topic_tags": [
+      "general",
+      "numbers"
+    ]
+  },
+  {
+    "word_id": "4f2da9ab-fba5-42c3-9a5c-e07cffbcb208",
+    "english": "1st",
+    "translation": "first",
+    "hebrew": "ראשון",
+    "part_of_speech": "ordinal",
+    "difficulty_level": 1,
+    "examples": [
+      "She came 1st in the race.",
+      "This is our 1st time visiting this restaurant."
+    ],
+    "synonyms": ["primary", "initial"],
+    "topic_tags": [
+      "general",
+      "numbers"
+    ]
+  },
+  {
+    "word_id": "37f486d4-4cff-462b-a240-dfc5170557ff",
+    "english": "2nd",
+    "translation": "second",
+    "hebrew": "שני",
+    "part_of_speech": "ordinal",
+    "difficulty_level": 1,
+    "examples": [
+      "He won 2nd place in the competition.",
+      "This is the 2nd time I've been here."
+    ],
+    "synonyms": ["runner-up"],
+    "topic_tags": [
+      "general",
+      "numbers"
+    ]
+  }
+] 

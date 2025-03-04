@@ -1,0 +1,639 @@
+{
+  "_meta": {
+    "chunk_number": 50,
+    "words_range": "professional-report",
+    "word_count": 30,
+    "start_index": 1470,
+    "end_index": 1499
+  },
+  "words": [
+    {
+      "word_id": "befe24da-daea-4756-b476-fdb1d22d7c5c",
+      "english": "professional",
+      "translation": null,
+      "hebrew": "מקצועי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a professional soccer player.",
+        "He always maintains a professional attitude at work."
+      ],
+      "synonyms": [
+        "skilled",
+        "expert",
+        "qualified"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "ee7799cd-e6e2-4a02-b4e7-9fe71a61787b",
+      "english": "profound",
+      "translation": null,
+      "hebrew": "עמוק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The book offers profound insights into human nature.",
+        "Her speech had a profound impact on the audience."
+      ],
+      "synonyms": [
+        "deep",
+        "intense",
+        "significant"
+      ],
+      "topic_tags": [
+        "general",
+        "philosophy"
+      ]
+    },
+    {
+      "word_id": "c93edc3c-e46a-43a1-a441-f99d57d870b2",
+      "english": "profound",
+      "translation": null,
+      "hebrew": "מעמיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The professor gave a profound lecture on the subject.",
+        "His understanding of the topic was profound."
+      ],
+      "synonyms": [
+        "thorough",
+        "comprehensive",
+        "detailed"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "978e4343-2a69-4255-8898-1bdcde98e1fe",
+      "english": "profoundly",
+      "translation": null,
+      "hebrew": "באופן מעמיק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie profoundly affected her.",
+        "He was profoundly grateful for their help."
+      ],
+      "synonyms": [
+        "deeply",
+        "intensely",
+        "significantly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cc38d1bc-6be1-4092-9eef-def934ee63aa",
+      "english": "promise",
+      "translation": null,
+      "hebrew": "הבטחה",
+      "part_of_speech": "noun/verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a promise to help her.",
+        "I promise to be there on time."
+      ],
+      "synonyms": [
+        "pledge",
+        "vow",
+        "guarantee"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "5c1bdd84-76dd-468b-80ae-b1c9fae4d524",
+      "english": "property",
+      "translation": null,
+      "hebrew": "רכוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This house is my property.",
+        "The company owns a lot of property in the city."
+      ],
+      "synonyms": [
+        "asset",
+        "belongings",
+        "estate"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "c479a730-270f-4747-bb05-9f671a05553b",
+      "english": "property",
+      "translation": null,
+      "hebrew": "תכונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "One property of water is that it boils at 100 degrees Celsius.",
+        "The properties of this metal make it ideal for construction."
+      ],
+      "synonyms": [
+        "characteristic",
+        "attribute",
+        "quality"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "2f1a1316-b1c1-4ad9-a334-5caff9e31812",
+      "english": "protest",
+      "translation": null,
+      "hebrew": "מחאה",
+      "part_of_speech": "noun/verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They organized a protest against the new law.",
+        "People protested the government's decision."
+      ],
+      "synonyms": [
+        "demonstration",
+        "objection",
+        "opposition"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "03670d63-ba24-42c7-bff7-0f6896a637e4",
+      "english": "prove",
+      "translation": null,
+      "hebrew": "להוכיח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you prove that you were at home last night?",
+        "The evidence proves his innocence."
+      ],
+      "synonyms": [
+        "verify",
+        "validate",
+        "confirm"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "7cddd491-879c-4548-8335-1ec2338809d9",
+      "english": "public",
+      "translation": null,
+      "hebrew": "ציבורי",
+      "part_of_speech": "adjective/noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This park is open to the public.",
+        "The public is concerned about the environment."
+      ],
+      "synonyms": [
+        "community",
+        "general",
+        "open"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "223955ac-5dd8-4096-8058-081b14cb19bc",
+      "english": "race",
+      "translation": null,
+      "hebrew": "גזע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "People of all races should be treated equally.",
+        "Racial discrimination is unacceptable."
+      ],
+      "synonyms": [
+        "ethnicity",
+        "origin",
+        "background"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "3eb35241-74da-4169-98ba-1fcc92cbd0d8",
+      "english": "race",
+      "translation": null,
+      "hebrew": "מירוץ",
+      "part_of_speech": "noun/verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He won the race.",
+        "They raced to the finish line."
+      ],
+      "synonyms": [
+        "competition",
+        "contest",
+        "dash"
+      ],
+      "topic_tags": [
+        "general",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "b63c6d77-c11a-4d4b-b371-f92e134e31c6",
+      "english": "rail",
+      "translation": null,
+      "hebrew": "מעקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Hold onto the rail when you go down the stairs.",
+        "The train runs on rails."
+      ],
+      "synonyms": [
+        "barrier",
+        "handrail",
+        "guardrail"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "05c6efae-8b92-4787-af1b-f9259d5159a7",
+      "english": "railroad",
+      "translation": null,
+      "hebrew": "מסילת ברזל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The railroad connects the two cities.",
+        "He works for the railroad company."
+      ],
+      "synonyms": [
+        "railway",
+        "train track"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "f453e808-7837-41c0-9154-9ddb6a19bc1a",
+      "english": "random",
+      "translation": null,
+      "hebrew": "אקראי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The computer chose a random number.",
+        "We picked a random sample from the population."
+      ],
+      "synonyms": [
+        "arbitrary",
+        "chance",
+        "haphazard"
+      ],
+      "topic_tags": [
+        "general",
+        "statistics"
+      ]
+    },
+    {
+      "word_id": "cb2e8150-bcc8-4f10-ac1c-1bf29413e3fb",
+      "english": "randomly",
+      "translation": null,
+      "hebrew": "באופן אקראי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The names were chosen randomly from a list.",
+        "He randomly selected a card from the deck."
+      ],
+      "synonyms": [
+        "arbitrarily",
+        "by chance",
+        "haphazardly"
+      ],
+      "topic_tags": [
+        "general",
+        "statistics"
+      ]
+    },
+    {
+      "word_id": "b1431a6a-988e-4f24-897b-d499e2bc4035",
+      "english": "reaction",
+      "translation": null,
+      "hebrew": "תגובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What was his reaction to the news?",
+        "The chemical reaction produced heat."
+      ],
+      "synonyms": [
+        "response",
+        "reply",
+        "feedback"
+      ],
+      "topic_tags": [
+        "general",
+        "chemistry"
+      ]
+    },
+    {
+      "word_id": "d5e2c5a2-9e82-4809-af1f-ac99e3bbb507",
+      "english": "reasonable",
+      "translation": null,
+      "hebrew": "הגיוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's a reasonable price for the car.",
+        "He made a reasonable request."
+      ],
+      "synonyms": [
+        "sensible",
+        "logical",
+        "rational"
+      ],
+      "topic_tags": [
+        "general",
+        "logic"
+      ]
+    },
+    {
+      "word_id": "0ea1a29a-9384-49b1-b424-5c8cd97462bc",
+      "english": "reconstruct",
+      "translation": null,
+      "hebrew": "לשחזר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police tried to reconstruct the crime scene.",
+        "We need to reconstruct the building after the fire."
+      ],
+      "synonyms": [
+        "rebuild",
+        "restore",
+        "recreate"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "df58326c-4a44-4453-a070-15e0d3629955",
+      "english": "refute",
+      "translation": null,
+      "hebrew": "להפריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to refute the allegations against him.",
+        "The evidence refutes his claims."
+      ],
+      "synonyms": [
+        "disprove",
+        "contradict",
+        "invalidate"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "1904b71a-39ea-4c0a-bb69-dd71a63cd5bb",
+      "english": "regain",
+      "translation": null,
+      "hebrew": "להשיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She hopes to regain her health after the surgery.",
+        "The team fought to regain the lead."
+      ],
+      "synonyms": [
+        "recover",
+        "retrieve",
+        "recapture"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "0b81426d-a7c8-4b50-9057-511ae6b081a1",
+      "english": "regard",
+      "translation": null,
+      "hebrew": "להתייחס",
+      "part_of_speech": "verb/noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I regard him as a close friend.",
+        "He has a high regard for her opinion."
+      ],
+      "synonyms": [
+        "consider",
+        "respect",
+        "esteem"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "1195f3ef-1d5f-4541-bafa-9c1bcc3852e6",
+      "english": "relate",
+      "translation": null,
+      "hebrew": "לקשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can relate to your feelings.",
+        "The two events are related."
+      ],
+      "synonyms": [
+        "connect",
+        "associate",
+        "understand"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "e5e10164-5504-43c2-965c-3b4707aecfde",
+      "english": "release",
+      "translation": null,
+      "hebrew": "לשחרר",
+      "part_of_speech": "verb/noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They will release the prisoner tomorrow.",
+        "The release of the new album is next week."
+      ],
+      "synonyms": [
+        "free",
+        "liberate",
+        "discharge"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "70054815-930b-4f4e-a085-0b5cb26f2e43",
+      "english": "relevant",
+      "translation": null,
+      "hebrew": "רלוונטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This information is relevant to the case.",
+        "Please provide only relevant details."
+      ],
+      "synonyms": [
+        "applicable",
+        "pertinent",
+        "related"
+      ],
+      "topic_tags": [
+        "general",
+        "information"
+      ]
+    },
+    {
+      "word_id": "acba1536-e83e-4adf-a825-404de58dcd6e",
+      "english": "relocate",
+      "translation": null,
+      "hebrew": "להעביר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company decided to relocate its headquarters.",
+        "We had to relocate after the hurricane."
+      ],
+      "synonyms": [
+        "move",
+        "transfer",
+        "resettle"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "42ce4bea-02b0-4c7b-8751-1806e8a782d3",
+      "english": "reluctant",
+      "translation": null,
+      "hebrew": "מהסס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was reluctant to admit that he was wrong.",
+        "She was reluctant to try the new food."
+      ],
+      "synonyms": [
+        "hesitant",
+        "unwilling",
+        "disinclined"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "f8172ff5-775e-446d-9803-8f12bf5fd7b6",
+      "english": "rely",
+      "translation": null,
+      "hebrew": "לסמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can rely on me to help you.",
+        "We rely on the weather forecast to plan our trip."
+      ],
+      "synonyms": [
+        "depend",
+        "trust",
+        "count on"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "08afe033-7d31-4b00-883b-12dfa60f22f8",
+      "english": "remote",
+      "translation": null,
+      "hebrew": "מרוחק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We stayed in a remote cabin in the woods.",
+        "The island is remote and difficult to reach."
+      ],
+      "synonyms": [
+        "distant",
+        "isolated",
+        "faraway"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "fa544054-c53a-4670-959e-46dde783bba6",
+      "english": "report",
+      "translation": null,
+      "hebrew": "דו״ח",
+      "part_of_speech": "noun/verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company issued its annual report.",
+        "He reported the incident to the police."
+      ],
+      "synonyms": [
+        "account",
+        "statement",
+        "summary"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    }
+  ]
+}

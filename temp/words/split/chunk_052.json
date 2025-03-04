@@ -1,0 +1,628 @@
+{
+  "_meta": {
+    "chunk_number": 52,
+    "words_range": "solution-survey",
+    "word_count": 30,
+    "start_index": 1530,
+    "end_index": 1559
+  },
+  "words": [
+    {
+      "word_id": "75efc1ff-100c-4d8d-a89b-f3876795cfbe",
+      "english": "solution",
+      "translation": null,
+      "hebrew": "פתרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to find a solution to this problem.",
+        "The solution to the puzzle was very simple."
+      ],
+      "synonyms": [
+        "answer",
+        "resolution",
+        "key"
+      ],
+      "topic_tags": [
+        "general",
+        "problemsolving"
+      ]
+    },
+    {
+      "word_id": "4cdfd5eb-a8f3-47d1-8207-51220a5a7f57",
+      "english": "sort",
+      "translation": null,
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What sort of music do you like?",
+        "He is a sort of person who always helps others."
+      ],
+      "synonyms": [
+        "kind",
+        "type",
+        "variety"
+      ],
+      "topic_tags": [
+        "general",
+        "categorization"
+      ]
+    },
+    {
+      "word_id": "2e17aa7f-b2cc-42a5-98a9-18456a2961b8",
+      "english": "source",
+      "translation": null,
+      "hebrew": "מקור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The river's source is in the mountains.",
+        "The internet is a great source of information."
+      ],
+      "synonyms": [
+        "origin",
+        "resource",
+        "fountain"
+      ],
+      "topic_tags": [
+        "general",
+        "information"
+      ]
+    },
+    {
+      "word_id": "ecee2546-62e7-4b7f-b9ee-0e97fa514ac5",
+      "english": "span",
+      "translation": null,
+      "hebrew": "טווח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bridge has a span of 500 meters.",
+        "His attention span is very short."
+      ],
+      "synonyms": [
+        "range",
+        "extent",
+        "reach"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "8d1d4db0-0313-40d2-8142-c8c8a0bd06b5",
+      "english": "span",
+      "translation": null,
+      "hebrew": "להשתרע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The mountains span across the entire region.",
+        "His career spanned over 40 years."
+      ],
+      "synonyms": [
+        "extend",
+        "cover",
+        "stretch"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "941ca038-6bce-4a91-9b2d-6586dd00f961",
+      "english": "splendid",
+      "translation": null,
+      "hebrew": "נפלא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The view from the top of the mountain was splendid.",
+        "We had a splendid time at the party."
+      ],
+      "synonyms": [
+        "wonderful",
+        "magnificent",
+        "glorious"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "033a2e18-605a-4143-be92-3809e49696c5",
+      "english": "spring",
+      "translation": null,
+      "hebrew": "אביב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Spring is my favorite season.",
+        "The flowers bloom in the spring."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "seasons"
+      ]
+    },
+    {
+      "word_id": "6b566f80-1d59-42bc-88f1-cfd1763176ff",
+      "english": "spring",
+      "translation": null,
+      "hebrew": "מעיין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The spring provides fresh water to the village.",
+        "We drank water from the natural spring."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "04c32168-8b56-4a23-9542-9898fcdb1c7c",
+      "english": "spring, sprang",
+      "translation": null,
+      "hebrew": "לקפוץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat sprang from the tree.",
+        "He sprang to his feet when he heard the news."
+      ],
+      "synonyms": [
+        "jump",
+        "leap",
+        "bound"
+      ],
+      "topic_tags": [
+        "general",
+        "movement"
+      ]
+    },
+    {
+      "word_id": "77536cb5-6216-43f9-939a-346650da7cce",
+      "english": "stability",
+      "translation": null,
+      "hebrew": "יציבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country needs political stability.",
+        "The table has good stability."
+      ],
+      "synonyms": [
+        "steadiness",
+        "firmness",
+        "security"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "2f276683-024b-4369-b3a8-c08e7d2ec73e",
+      "english": "stamina",
+      "translation": null,
+      "hebrew": "סיבולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Running requires a lot of stamina.",
+        "He has the stamina to work long hours."
+      ],
+      "synonyms": [
+        "endurance",
+        "strength",
+        "resistance"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "85e55135-148a-4dc7-aad9-bc2bfd398959",
+      "english": "standard",
+      "translation": null,
+      "hebrew": "תקן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The product meets the required standards.",
+        "The school has high academic standards."
+      ],
+      "synonyms": [
+        "norm",
+        "criterion",
+        "benchmark"
+      ],
+      "topic_tags": [
+        "general",
+        "quality"
+      ]
+    },
+    {
+      "word_id": "231b62db-4d1e-4856-98b1-3d9180a85ec2",
+      "english": "state",
+      "translation": null,
+      "hebrew": "מדינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The United States is a large country.",
+        "Each state has its own laws."
+      ],
+      "synonyms": [
+        "nation",
+        "country",
+        "commonwealth"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "05caf389-b351-4c0c-b35e-a9793725d9d3",
+      "english": "state",
+      "translation": null,
+      "hebrew": "לציין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please state your name and address.",
+        "The report states that the economy is improving."
+      ],
+      "synonyms": [
+        "declare",
+        "assert",
+        "specify"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "1fb4c3ae-05c5-47e4-aff0-ffc8f1dd6c92",
+      "english": "statement",
+      "translation": null,
+      "hebrew": "הצהרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The president made a statement to the press.",
+        "His statement was very clear and concise."
+      ],
+      "synonyms": [
+        "declaration",
+        "announcement",
+        "remark"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "2fb756c8-52a9-459e-a014-51de66633921",
+      "english": "steady",
+      "translation": null,
+      "hebrew": "יציב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Hold the ladder steady.",
+        "He has a steady job."
+      ],
+      "synonyms": [
+        "stable",
+        "firm",
+        "constant"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "86754267-dd64-4e8a-bfcc-977604bd479c",
+      "english": "stimulate",
+      "translation": null,
+      "hebrew": "לעורר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is trying to stimulate the economy.",
+        "Coffee can stimulate your mind."
+      ],
+      "synonyms": [
+        "encourage",
+        "motivate",
+        "activate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "40a70959-b234-4ced-b380-1a32953e4c0d",
+      "english": "stock",
+      "translation": null,
+      "hebrew": "מלאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to check our stock levels.",
+        "The store has a large stock of goods."
+      ],
+      "synonyms": [
+        "supply",
+        "inventory",
+        "reserve"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "16e9c277-8467-4c56-af12-a86d6cbca75b",
+      "english": "stock",
+      "translation": null,
+      "hebrew": "מניות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He invested in stocks.",
+        "The stock market crashed."
+      ],
+      "synonyms": [
+        "shares",
+        "equity",
+        "securities"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "12736d02-683a-4136-8c3d-bc5b63c6e665",
+      "english": "stock",
+      "translation": null,
+      "hebrew": "מרק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I made chicken stock for the soup.",
+        "Vegetable stock is a healthy base for sauces."
+      ],
+      "synonyms": [
+        "broth",
+        "bouillon"
+      ],
+      "topic_tags": [
+        "general",
+        "cooking"
+      ]
+    },
+    {
+      "word_id": "2bccae18-50bf-4795-944e-0be000409270",
+      "english": "strange",
+      "translation": null,
+      "hebrew": "מוזר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's a strange question.",
+        "He is a strange man."
+      ],
+      "synonyms": [
+        "odd",
+        "peculiar",
+        "unusual"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "85f159f0-b19a-4111-8a3b-77ee633bb437",
+      "english": "strive",
+      "translation": null,
+      "hebrew": "לשאוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We must strive for peace.",
+        "He always strives to do his best."
+      ],
+      "synonyms": [
+        "try",
+        "endeavor",
+        "aim"
+      ],
+      "topic_tags": [
+        "general",
+        "motivation"
+      ]
+    },
+    {
+      "word_id": "69f4cf47-53ba-4a09-a113-8c28871fc094",
+      "english": "successor",
+      "translation": null,
+      "hebrew": "יורש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the successor to the throne.",
+        "The company is looking for a successor to the CEO."
+      ],
+      "synonyms": [
+        "heir",
+        "inheritor",
+        "replacement"
+      ],
+      "topic_tags": [
+        "general",
+        "leadership"
+      ]
+    },
+    {
+      "word_id": "5f283257-14eb-4882-aeef-5559c19bd453",
+      "english": "summer",
+      "translation": null,
+      "hebrew": "קיץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Summer is the hottest season.",
+        "We go to the beach in the summer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "seasons"
+      ]
+    },
+    {
+      "word_id": "074234b6-22f7-40f4-8e88-e995bbf0d2f4",
+      "english": "superior",
+      "translation": null,
+      "hebrew": "עדיף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This product is superior to that one.",
+        "He has a superior knowledge of the subject."
+      ],
+      "synonyms": [
+        "better",
+        "greater",
+        "higher"
+      ],
+      "topic_tags": [
+        "general",
+        "quality"
+      ]
+    },
+    {
+      "word_id": "70189d40-48e7-4409-849e-4757b91db56e",
+      "english": "supervise",
+      "translation": null,
+      "hebrew": "לפקח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He supervises the construction workers.",
+        "She supervises the students in the lab."
+      ],
+      "synonyms": [
+        "oversee",
+        "manage",
+        "control"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "cc82c88e-b6db-43de-b9d0-5bf64924fc68",
+      "english": "support",
+      "translation": null,
+      "hebrew": "לתמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I support your decision.",
+        "The bridge needs support."
+      ],
+      "synonyms": [
+        "assist",
+        "help",
+        "back"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "29f46342-75a0-4eae-9d08-ac00587e143d",
+      "english": "supportive",
+      "translation": null,
+      "hebrew": "תומך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a very supportive friend.",
+        "The family was very supportive during the crisis."
+      ],
+      "synonyms": [
+        "helpful",
+        "encouraging",
+        "caring"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "28edb902-c631-4883-98f4-e44b0a038725",
+      "english": "survey",
+      "translation": null,
+      "hebrew": "סקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We conducted a survey to find out what people think.",
+        "The survey results were very interesting."
+      ],
+      "synonyms": [
+        "poll",
+        "questionnaire",
+        "study"
+      ],
+      "topic_tags": [
+        "general",
+        "research"
+      ]
+    },
+    {
+      "word_id": "cd6b89db-823d-468c-8e59-51c5dec8f814",
+      "english": "survey",
+      "translation": null,
+      "hebrew": "לסקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The engineer surveyed the land before building.",
+        "He surveyed the room, looking for an exit."
+      ],
+      "synonyms": [
+        "examine",
+        "inspect",
+        "scan"
+      ],
+      "topic_tags": [
+        "general",
+        "research"
+      ]
+    }
+  ]
+}

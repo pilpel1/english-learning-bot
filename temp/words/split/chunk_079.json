@@ -1,0 +1,590 @@
+{
+  "_meta": {
+    "chunk_number": 79,
+    "words_range": "project-restriction",
+    "word_count": 30,
+    "start_index": 2340,
+    "end_index": 2369
+  },
+  "words": [
+    {
+      "word_id": "a32b3f7a-228a-4363-ba3b-5fa86a2a5b96",
+      "english": "project",
+      "translation": null,
+      "hebrew": "לתכנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company projects to increase sales next year.",
+        "He projects confidence in his abilities."
+      ],
+      "synonyms": [
+        "forecast",
+        "estimate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "fc665433-597f-4cd6-858d-4243900ff306",
+      "english": "promote",
+      "translation": null,
+      "hebrew": "לקדם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is promoting a new product.",
+        "He was promoted to a higher position."
+      ],
+      "synonyms": [
+        "advance",
+        "upgrade"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "dc7351a1-9f30-4e43-b4fd-96c857da0a14",
+      "english": "promotion",
+      "translation": null,
+      "hebrew": "קידום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She got a promotion at work.",
+        "The promotion of healthy eating is important."
+      ],
+      "synonyms": [
+        "advancement",
+        "boost"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "b4040df1-fbea-405c-8dbf-7d9827634475",
+      "english": "prompted",
+      "translation": null,
+      "hebrew": "הניע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The news prompted him to take action.",
+        "What prompted you to ask that question?"
+      ],
+      "synonyms": [
+        "motivated",
+        "inspired"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3559b045-3898-4f10-8bcd-41f97362a130",
+      "english": "proponent",
+      "translation": null,
+      "hebrew": "תומך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a proponent of environmental protection.",
+        "She is a strong proponent of education reform."
+      ],
+      "synonyms": [
+        "advocate",
+        "supporter"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "9d576999-3dc1-47ba-a8fe-5e4d3744009a",
+      "english": "proportion",
+      "translation": null,
+      "hebrew": "שיעור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The proportion of women in the workforce is increasing.",
+        "The room is in good proportion."
+      ],
+      "synonyms": [
+        "ratio",
+        "percentage"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "b202fa6b-0784-447d-bf33-179453403804",
+      "english": "prosperity",
+      "translation": null,
+      "hebrew": "שגשוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is enjoying a period of prosperity.",
+        "Economic prosperity is important for society."
+      ],
+      "synonyms": [
+        "wealth",
+        "success"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "14ceea84-f0b2-4c97-a8cf-8141d1f8394a",
+      "english": "prosperous",
+      "translation": null,
+      "hebrew": "משגשג",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is prosperous and growing.",
+        "They are a prosperous family."
+      ],
+      "synonyms": [
+        "wealthy",
+        "successful"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "9b89001d-5780-4dee-a325-58f8c0118388",
+      "english": "pump",
+      "translation": null,
+      "hebrew": "משאבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pump is used to move water.",
+        "He needs to pump air into his tires."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "5ad6b626-a29c-4adb-a5de-3870e79b0910",
+      "english": "pursue",
+      "translation": null,
+      "hebrew": "לרדוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police pursued the suspect.",
+        "She is pursuing a career in medicine."
+      ],
+      "synonyms": [
+        "chase",
+        "follow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "23e8f064-7c8e-4d88-9bf7-6981212bf020",
+      "english": "pursuit",
+      "translation": null,
+      "hebrew": "מרדף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pursuit of happiness is a common goal.",
+        "The police are in pursuit of the criminal."
+      ],
+      "synonyms": [
+        "chase",
+        "quest"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d00a311d-e26b-42d8-860d-4a6b56affa66",
+      "english": "quantify",
+      "translation": null,
+      "hebrew": "לכמת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to quantify the risks involved.",
+        "Can you quantify your results?"
+      ],
+      "synonyms": [
+        "measure",
+        "calculate"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "46ad450d-0fc5-47a0-9f9c-048350a160cf",
+      "english": "quantity",
+      "translation": null,
+      "hebrew": "כמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need a large quantity of supplies.",
+        "The quantity of water is limited."
+      ],
+      "synonyms": [
+        "amount",
+        "volume"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "249788c1-898f-4245-bb4f-fcd27ddf1272",
+      "english": "radically",
+      "translation": null,
+      "hebrew": "באופן קיצוני",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The situation has changed radically.",
+        "We need to radically rethink our approach."
+      ],
+      "synonyms": [
+        "drastically",
+        "fundamentally"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "29513689-5d7f-4dc2-908a-8e5a6071e0c3",
+      "english": "rank",
+      "translation": null,
+      "hebrew": "דרגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a high rank in the military.",
+        "The students were listed in rank order."
+      ],
+      "synonyms": [
+        "grade",
+        "position",
+        "standing"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a25a6b9b-a925-4039-a8a1-7aab1faa855e",
+      "english": "ray",
+      "translation": null,
+      "hebrew": "קרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A ray of sunlight came through the window.",
+        "The X-ray showed a broken bone."
+      ],
+      "synonyms": [
+        "beam",
+        "shaft",
+        "streak"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ea4ffee2-3a90-4b52-a104-73af4c91808f",
+      "english": "razor",
+      "translation": null,
+      "hebrew": "סכין גילוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He uses a razor to shave his beard.",
+        "Be careful with the razor."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "hygiene"
+      ]
+    },
+    {
+      "word_id": "7cb3cf78-39cd-4792-af56-e23f466696d8",
+      "english": "rear",
+      "translation": null,
+      "hebrew": "אחורי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The car has a rear window.",
+        "The rear door is locked."
+      ],
+      "synonyms": [
+        "back",
+        "hind"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "41deeebc-9c2b-49bf-bfc6-c7ccde5ef14c",
+      "english": "rear",
+      "translation": null,
+      "hebrew": "לגדל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They reared their children in the countryside.",
+        "It's difficult to rear a child alone."
+      ],
+      "synonyms": [
+        "raise",
+        "bring up"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8f689cd3-278b-4f7f-9a54-71f109224e13",
+      "english": "reconcile",
+      "translation": null,
+      "hebrew": "להתפייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They reconciled after the argument.",
+        "It's important to reconcile differences."
+      ],
+      "synonyms": [
+        "reunite",
+        "settle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d8ad6a8c-4ab7-4695-a4b6-cd16219de88f",
+      "english": "reform",
+      "translation": null,
+      "hebrew": "רפורמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is planning a major tax reform.",
+        "Education reform is needed."
+      ],
+      "synonyms": [
+        "improvement",
+        "change"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "9f9e3df4-f6f1-4fd5-bd01-1d8373904857",
+      "english": "reinvigorate",
+      "translation": null,
+      "hebrew": "להחיות מחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new policies are meant to reinvigorate the economy.",
+        "A vacation can reinvigorate you."
+      ],
+      "synonyms": [
+        "revitalize",
+        "refresh"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b27f7c0d-e37c-4d91-aa8b-61ec7bffdc28",
+      "english": "relationship",
+      "translation": null,
+      "hebrew": "יחסים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They have a good relationship.",
+        "The relationship between the two countries is improving."
+      ],
+      "synonyms": [
+        "connection",
+        "bond"
+      ],
+      "topic_tags": [
+        "general",
+        "social"
+      ]
+    },
+    {
+      "word_id": "e5687d14-4a9d-49ab-9ca9-506f036f0ed3",
+      "english": "religious",
+      "translation": null,
+      "hebrew": "דתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a religious person.",
+        "Religious freedom is important."
+      ],
+      "synonyms": [
+        "devout",
+        "pious"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "ab155e70-d319-4dac-b80c-a81d9eff255b",
+      "english": "remainder",
+      "translation": null,
+      "hebrew": "שארית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You can keep the remainder of the money.",
+        "The remainder of the group will arrive later."
+      ],
+      "synonyms": [
+        "rest",
+        "balance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8603e4e9-01b7-4e5f-8e69-726b84783834",
+      "english": "renovate",
+      "translation": null,
+      "hebrew": "לשפץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are renovating their house.",
+        "The old building needs to be renovated."
+      ],
+      "synonyms": [
+        "remodel",
+        "restore"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7ea1a2dd-7dce-4fff-8d9e-1b003b2117ec",
+      "english": "respective",
+      "translation": null,
+      "hebrew": "בהתאמה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The students went to their respective classrooms.",
+        "They have their respective roles in the project."
+      ],
+      "synonyms": [
+        "individual",
+        "particular"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "adaea9bc-3d51-4ba6-96e1-993457bd8e8c",
+      "english": "respectively",
+      "translation": null,
+      "hebrew": "בהתאמה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "John and Mary are 16 and 18, respectively.",
+        "The blue and red teams scored 20 and 25 points, respectively."
+      ],
+      "synonyms": [
+        "accordingly",
+        "separately"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ab2952a0-fbf7-4336-a14b-cecfed21a970",
+      "english": "restrict",
+      "translation": null,
+      "hebrew": "להגביל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is restricting immigration.",
+        "We need to restrict access to the information."
+      ],
+      "synonyms": [
+        "limit",
+        "confine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "85e0d3a9-3256-4ffa-81bd-86895353e674",
+      "english": "restriction",
+      "translation": null,
+      "hebrew": "הגבלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are restrictions on parking here.",
+        "Travel restrictions are in place."
+      ],
+      "synonyms": [
+        "limitation",
+        "control"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

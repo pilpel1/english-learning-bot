@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 9,
+    "words_range": "so-under",
+    "word_count": 30,
+    "start_index": 240,
+    "end_index": 269
+  },
+  "words": [
+    {
+      "word_id": "975e4181-ca99-4aeb-b97d-73f7e785f531",
+      "english": "so",
+      "translation": "כך",
+      "hebrew": "כך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was so tired that he fell asleep immediately.",
+        "The cake was so delicious that everyone wanted more."
+      ],
+      "synonyms": ["thus", "therefore"],
+      "topic_tags": ["general", "intensity"]
+    },
+    {
+      "word_id": "31194a85-270a-4733-8604-5374a232da62",
+      "english": "so long as",
+      "translation": "כל עוד",
+      "hebrew": "כל עוד",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "You can stay here so long as you keep quiet.",
+        "I will help you so long as you promise to study."
+      ],
+      "synonyms": ["as long as", "provided that"],
+      "topic_tags": ["general", "conditions"]
+    },
+    {
+      "word_id": "0a517adb-8971-4303-953d-3b5ef68756e1",
+      "english": "so that",
+      "translation": "כדי ש",
+      "hebrew": "כדי ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "He studied hard so that he could pass the exam.",
+        "She left early so that she could catch the bus."
+      ],
+      "synonyms": ["in order that", "to ensure"],
+      "topic_tags": ["general", "purpose"]
+    },
+    {
+      "word_id": "119dc8d5-c982-4143-876e-6af73528c57c",
+      "english": "sometimes",
+      "translation": "לפעמים",
+      "hebrew": "לפעמים",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Sometimes I go for a walk in the evening.",
+        "He sometimes forgets to lock the door."
+      ],
+      "synonyms": ["occasionally", "at times"],
+      "topic_tags": ["general", "frequency"]
+    },
+    {
+      "word_id": "acb6ee05-d250-4377-b3fd-3a6b7b3ea064",
+      "english": "soon",
+      "translation": "בקרוב",
+      "hebrew": "בקרוב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will see you soon.",
+        "The movie will start soon."
+      ],
+      "synonyms": ["shortly", "presently"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "4aa219c1-7cad-4106-b514-3ab0deafc049",
+      "english": "specifically",
+      "translation": "במיוחד",
+      "hebrew": "במיוחד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I asked specifically for a vegetarian meal.",
+        "She was looking specifically for a red dress."
+      ],
+      "synonyms": ["particularly", "especially"],
+      "topic_tags": ["general", "detail"]
+    },
+    {
+      "word_id": "203e27f4-6b22-44de-abe4-71f671efc12f",
+      "english": "still",
+      "translation": "עדיין",
+      "hebrew": "עדיין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is still waiting for the bus.",
+        "I still have not received the package."
+      ],
+      "synonyms": ["yet", "nevertheless"],
+      "topic_tags": ["general", "continuation"]
+    },
+    {
+      "word_id": "fe908710-816f-41a4-a4e0-396aed41a2e3",
+      "english": "subsequently",
+      "translation": "לאחר מכן",
+      "hebrew": "לאחר מכן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was arrested and subsequently released.",
+        "The book was published and subsequently became a bestseller."
+      ],
+      "synonyms": ["afterward", "later"],
+      "topic_tags": ["general", "sequence"]
+    },
+    {
+      "word_id": "bb3447a0-98ed-419f-b5f6-40da519a7bc7",
+      "english": "such as",
+      "translation": "כגון",
+      "hebrew": "כגון",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He enjoys sports such as football and basketball.",
+        "Fruits such as apples and oranges are healthy."
+      ],
+      "synonyms": ["like", "for example"],
+      "topic_tags": ["general", "examples"]
+    },
+    {
+      "word_id": "97c4315c-61bd-42fe-825e-5c60a4bcc26b",
+      "english": "suddenly",
+      "translation": "פתאום",
+      "hebrew": "פתאום",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lights went out suddenly.",
+        "She suddenly remembered her appointment."
+      ],
+      "synonyms": ["abruptly", "unexpectedly"],
+      "topic_tags": ["general", "surprise"]
+    },
+    {
+      "word_id": "b8b3e262-fbce-4af6-8395-f387386ecd1b",
+      "english": "surely",
+      "translation": "בוודאי",
+      "hebrew": "בוודאי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Surely you can see the difference.",
+        "He will surely succeed with hard work."
+      ],
+      "synonyms": ["certainly", "definitely"],
+      "topic_tags": ["general", "certainty"]
+    },
+    {
+      "word_id": "3bdce2e6-7b21-47f4-9b67-04fcfb83af66",
+      "english": "surprisingly",
+      "translation": "באופן מפתיע",
+      "hebrew": "באופן מפתיע",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Surprisingly, he agreed to the proposal.",
+        "The exam was surprisingly easy."
+      ],
+      "synonyms": ["unexpectedly", "astonishingly"],
+      "topic_tags": ["general", "surprise"]
+    },
+    {
+      "word_id": "526f72dd-3124-4485-8e46-5a18b4c342eb",
+      "english": "than",
+      "translation": "מאשר",
+      "hebrew": "מאשר",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She is taller than her brother.",
+        "I would rather stay home than go out."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "6ac773d4-e147-4c95-a197-20c85b9e3f06",
+      "english": "thanks to",
+      "translation": "בזכות",
+      "hebrew": "בזכות",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Thanks to her help, we finished on time.",
+        "He succeeded thanks to his hard work."
+      ],
+      "synonyms": ["because of", "due to"],
+      "topic_tags": ["general", "cause"]
+    },
+    {
+      "word_id": "803099e9-7382-4aa4-8950-e7c66be355aa",
+      "english": "that",
+      "translation": "ש",
+      "hebrew": "ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I know that you are busy.",
+        "She said that she would come."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "subordination"]
+    },
+    {
+      "word_id": "e20883e1-a2ca-45bb-b860-a958122544c3",
+      "english": "then",
+      "translation": "אז",
+      "hebrew": "אז",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Finish your homework, then you can play.",
+        "We went to the park, and then we had lunch."
+      ],
+      "synonyms": ["afterward", "next"],
+      "topic_tags": ["general", "sequence"]
+    },
+    {
+      "word_id": "00a0d0a4-5f19-42d0-9cf5-84133052a1d5",
+      "english": "then",
+      "translation": "אז",
+      "hebrew": "אז",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "If you are ready, then let's go.",
+        "He was a student then."
+      ],
+      "synonyms": ["at that time", "subsequently"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "aeb9ade7-918d-4d2b-b05b-91ae57f1a690",
+      "english": "there",
+      "translation": "שם",
+      "hebrew": "שם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will meet you there.",
+        "The book is over there on the table."
+      ],
+      "synonyms": ["in that place", "at that location"],
+      "topic_tags": ["general", "location"]
+    },
+    {
+      "word_id": "65035e77-87a0-46d8-985c-d0898c2a69d5",
+      "english": "therefore",
+      "translation": "לכן",
+      "hebrew": "לכן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was tired, therefore he went to bed early.",
+        "The weather was bad, therefore the event was canceled."
+      ],
+      "synonyms": ["thus", "consequently"],
+      "topic_tags": ["general", "conclusion"]
+    },
+    {
+      "word_id": "335bff28-c499-47fa-8c1b-3ee608f9d92c",
+      "english": "though",
+      "translation": "למרות",
+      "hebrew": "למרות",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Though it was raining, we went for a walk.",
+        "He is friendly, though a bit shy."
+      ],
+      "synonyms": ["although", "even though"],
+      "topic_tags": ["general", "contrast"]
+    },
+    {
+      "word_id": "404033a5-c65d-4842-b6be-7d2d73fae6ab",
+      "english": "though",
+      "translation": "למרות",
+      "hebrew": "למרות",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She smiled, though she was sad.",
+        "He passed the exam, though he didn't study much."
+      ],
+      "synonyms": ["although", "even though"],
+      "topic_tags": ["general", "contrast"]
+    },
+    {
+      "word_id": "2ad633d4-559c-4880-88f6-978e0ab87fd3",
+      "english": "thus",
+      "translation": "כך",
+      "hebrew": "כך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He didn't study, thus he failed the exam.",
+        "The project was successful, thus we celebrated."
+      ],
+      "synonyms": ["therefore", "hence"],
+      "topic_tags": ["general", "conclusion"]
+    },
+    {
+      "word_id": "260c897c-8e91-4e5c-b4ae-21d6f7bf401b",
+      "english": "to begin with",
+      "translation": "בתחילה",
+      "hebrew": "בתחילה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "To begin with, we need to gather all the materials.",
+        "He was not interested in the project to begin with."
+      ],
+      "synonyms": ["initially", "at first"],
+      "topic_tags": ["general", "introduction"]
+    },
+    {
+      "word_id": "15061e61-48a4-4bb0-bf8e-3821496e9354",
+      "english": "to sum up",
+      "translation": "לסיכום",
+      "hebrew": "לסיכום",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "To sum up, the meeting was a success.",
+        "He gave a brief speech to sum up the event."
+      ],
+      "synonyms": ["in conclusion", "to summarize"],
+      "topic_tags": ["general", "summary"]
+    },
+    {
+      "word_id": "0f1f5e12-8126-4fff-9347-27c00ce24fa9",
+      "english": "together with",
+      "translation": "יחד עם",
+      "hebrew": "יחד עם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He went to the party together with his friends.",
+        "The package includes a charger together with the phone."
+      ],
+      "synonyms": ["along with", "in conjunction with"],
+      "topic_tags": ["general", "addition"]
+    },
+    {
+      "word_id": "14360e19-cfa1-41fa-9a47-537ee49be2db",
+      "english": "too",
+      "translation": "גם",
+      "hebrew": "גם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to go too.",
+        "She is coming to the party too."
+      ],
+      "synonyms": ["also", "as well"],
+      "topic_tags": ["general", "addition"]
+    },
+    {
+      "word_id": "652094f5-07fe-4c53-ad6e-9b5289569197",
+      "english": "too",
+      "translation": "מדי",
+      "hebrew": "מדי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The soup is too hot to eat.",
+        "He is too young to drive."
+      ],
+      "synonyms": ["excessively", "overly"],
+      "topic_tags": ["general", "intensity"]
+    },
+    {
+      "word_id": "34e249bd-ff63-4298-bc89-18b933478e02",
+      "english": "toward",
+      "translation": "לעבר",
+      "hebrew": "לעבר",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She walked toward the door.",
+        "He has a positive attitude toward life."
+      ],
+      "synonyms": ["in the direction of", "to"],
+      "topic_tags": ["general", "direction"]
+    },
+    {
+      "word_id": "a0e772b3-7d48-4950-9d22-edef51c6758f",
+      "english": "truly",
+      "translation": "באמת",
+      "hebrew": "באמת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is truly a remarkable person.",
+        "I truly appreciate your help."
+      ],
+      "synonyms": ["genuinely", "sincerely"],
+      "topic_tags": ["general", "emphasis"]
+    },
+    {
+      "word_id": "2478c766-a6cf-481d-9719-fba12642d2b1",
+      "english": "under",
+      "translation": "מתחת",
+      "hebrew": "מתחת",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is under the table.",
+        "He is under a lot of pressure at work."
+      ],
+      "synonyms": ["beneath", "below"],
+      "topic_tags": ["general", "position"]
+    }
+  ]
+}

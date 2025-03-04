@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 135,
+    "words_range": "saga-snap",
+    "word_count": 30,
+    "start_index": 4020,
+    "end_index": 4049
+  },
+  "words": [
+    {
+      "word_id": "28977f65-3836-4455-9d95-adeeccea2990",
+      "english": "saga",
+      "translation": null,
+      "hebrew": "סאגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The story is a long saga.",
+        "It is a family saga."
+      ],
+      "synonyms": ["epic", "tale", "story"],
+      "topic_tags": ["general", "literature"]
+    },
+    {
+      "word_id": "a837ba78-107e-41a8-ad5f-e0fd158487ef",
+      "english": "salt",
+      "translation": null,
+      "hebrew": "מלח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Add salt to the food.",
+        "Salt is a seasoning."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "25f87677-893f-417f-aa4b-191ed0ae648e",
+      "english": "sarcophagus",
+      "translation": null,
+      "hebrew": "סרקופג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sarcophagus contained a mummy.",
+        "The sarcophagus is ancient."
+      ],
+      "synonyms": ["coffin"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "2a36b337-5ec8-437a-a101-70abcde7a26a",
+      "english": "savanna",
+      "translation": null,
+      "hebrew": "סוואנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The savanna is full of wildlife.",
+        "Lions live in the savanna."
+      ],
+      "synonyms": ["grassland"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "b1421f17-8d60-4ab7-9854-fd494840cad5",
+      "english": "script",
+      "translation": null,
+      "hebrew": "תסריט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The script is well written.",
+        "The actors followed the script."
+      ],
+      "synonyms": ["screenplay"],
+      "topic_tags": ["general", "film"]
+    },
+    {
+      "word_id": "7f917099-f809-455c-99e8-9de775509a0b",
+      "english": "seafood",
+      "translation": null,
+      "hebrew": "פירות ים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes seafood.",
+        "The restaurant serves fresh seafood."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "a8574232-3c22-449b-a90b-d740002d3930",
+      "english": "seat",
+      "translation": null,
+      "hebrew": "מושב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Take a seat.",
+        "The seat is comfortable."
+      ],
+      "synonyms": ["chair", "bench"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "dcba22ea-3a0a-4b28-9760-7226500d853c",
+      "english": "secret",
+      "translation": null,
+      "hebrew": "סוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He told her a secret.",
+        "Keep it a secret."
+      ],
+      "synonyms": ["mystery"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b6006f0f-5fb9-43f6-8072-c096e3365974",
+      "english": "sentiments",
+      "translation": null,
+      "hebrew": "רגשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He expressed his sentiments.",
+        "She has strong sentiments about the issue."
+      ],
+      "synonyms": ["feelings", "emotions"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8d64bb24-ac27-4996-b680-06095b1ef09e",
+      "english": "shadow",
+      "translation": null,
+      "hebrew": "צל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The tree cast a shadow.",
+        "He stood in the shadow."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2c230476-7a6b-412a-b76d-eb8cc068e9f8",
+      "english": "shave",
+      "translation": null,
+      "hebrew": "לגלח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He shaves every day.",
+        "She shaved her legs."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "grooming"]
+    },
+    {
+      "word_id": "c75b1819-e415-41d3-9d78-384f280174c0",
+      "english": "shelf (shelves)",
+      "translation": null,
+      "hebrew": "מדף (מדפים)",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The books are on the shelf.",
+        "Put the dishes on the shelves."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "040118e0-b573-42f6-9ea8-c02e216478c9",
+      "english": "shepherd",
+      "translation": null,
+      "hebrew": "רועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The shepherd watched over his sheep.",
+        "He is a shepherd."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "occupation"]
+    },
+    {
+      "word_id": "3898b17f-9eb9-46f6-94ed-e56daa3874e3",
+      "english": "shingles",
+      "translation": null,
+      "hebrew": "רעפים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The roof is covered with shingles.",
+        "The storm damaged the shingles."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "39e3aad2-69dc-445c-ae4e-2c98236066db",
+      "english": "shop",
+      "translation": null,
+      "hebrew": "חנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She went to the shop.",
+        "He owns a shop."
+      ],
+      "synonyms": ["store"],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "3fc5e45e-b04b-4285-b234-dfb760270c73",
+      "english": "shop",
+      "translation": null,
+      "hebrew": "לעשות קניות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She went shopping.",
+        "He likes to shop for clothes."
+      ],
+      "synonyms": ["browse", "purchase"],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "f818555e-a688-44d1-b6a6-cbdfd9105932",
+      "english": "shoulder",
+      "translation": null,
+      "hebrew": "כתף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He hurt his shoulder.",
+        "She rested her head on his shoulder."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "e455f696-79d9-496f-9019-e3a90ee81bac",
+      "english": "show",
+      "translation": null,
+      "hebrew": "להראות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Show me the picture.",
+        "Show respect."
+      ],
+      "synonyms": ["display", "reveal"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6ca2ad76-1ac6-4112-9340-942e868b382c",
+      "english": "show",
+      "translation": null,
+      "hebrew": "מופע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to a show.",
+        "The show was entertaining."
+      ],
+      "synonyms": ["performance", "spectacle"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "0ec288d8-20d2-49db-93b2-8561adc4ba79",
+      "english": "shy",
+      "translation": null,
+      "hebrew": "ביישן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is shy.",
+        "He is a shy boy."
+      ],
+      "synonyms": ["timid", "bashful"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ec50c6aa-9b40-4833-ad0a-05376c07080e",
+      "english": "silk",
+      "translation": null,
+      "hebrew": "משי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dress is made of silk.",
+        "Silk is a soft fabric."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "fashion", "material"]
+    },
+    {
+      "word_id": "f0a9dd76-ce16-4194-b0da-14cdad49c4c1",
+      "english": "silkworm",
+      "translation": null,
+      "hebrew": "תולעת משי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Silkworms produce silk.",
+        "They raise silkworms."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "0a3ba0ff-19c6-4af4-b183-aa509db012e6",
+      "english": "singer",
+      "translation": null,
+      "hebrew": "זמר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a famous singer.",
+        "He is a talented singer."
+      ],
+      "synonyms": ["vocalist"],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "ef58a340-1fa5-4768-8696-98a48ad8bd0c",
+      "english": "sir",
+      "translation": null,
+      "hebrew": "אדוני",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Yes, sir.",
+        "Good morning, sir."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "bf5577af-f461-4f71-86d5-0f66dcb5b3e3",
+      "english": "sky",
+      "translation": null,
+      "hebrew": "שמיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sky is blue.",
+        "The sky is full of stars."
+      ],
+      "synonyms": ["heavens"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "ea4b3fa7-103d-475a-8466-db0e56b15641",
+      "english": "smog",
+      "translation": null,
+      "hebrew": "ערפיח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The smog covered the city.",
+        "Smog is a form of pollution."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "1ba5510b-76c6-4186-ae27-52c26bea1d50",
+      "english": "smoke",
+      "translation": null,
+      "hebrew": "עשן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was smoke in the air.",
+        "The fire produced smoke."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "bbd93052-c1cf-424d-8bee-fcb8be9f0eae",
+      "english": "snake",
+      "translation": null,
+      "hebrew": "נחש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The snake slithered through the grass.",
+        "The snake is poisonous."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "58850f69-8694-4292-9be8-f2c2182d54b5",
+      "english": "snap",
+      "translation": null,
+      "hebrew": "לצלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He snapped a photo.",
+        "Snap the picture."
+      ],
+      "synonyms": ["photograph"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e95acb4a-515a-4f07-b2a4-b54b11166cb5",
+      "english": "snap",
+      "translation": null,
+      "hebrew": "נקישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The branch broke with a snap.",
+        "He closed the book with a snap."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    }
+  ]
+}

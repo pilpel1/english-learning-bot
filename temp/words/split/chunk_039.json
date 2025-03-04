@@ -1,0 +1,601 @@
+{
+  "_meta": {
+    "chunk_number": 39,
+    "words_range": "union-adopt",
+    "word_count": 30,
+    "start_index": 1140,
+    "end_index": 1169
+  },
+  "words": [
+    {
+      "word_id": "8ed5ca97-ff7d-487a-b94d-543820766e0f",
+      "english": "union",
+      "translation": null,
+      "hebrew": "איגוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The workers formed a union to protect their rights.",
+        "The union negotiated a new contract with the company."
+      ],
+      "synonyms": [
+        "association",
+        "alliance"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "a6778373-5c87-4bcd-939d-df67f6688db6",
+      "english": "universe",
+      "translation": null,
+      "hebrew": "יקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The universe is vast and mysterious.",
+        "Scientists are studying the origins of the universe."
+      ],
+      "synonyms": [
+        "cosmos",
+        "world"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "87dd773d-6cf0-4dd9-a3ac-4e107c088d67",
+      "english": "uphold",
+      "translation": null,
+      "hebrew": "לתמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge must uphold the law.",
+        "We should uphold the values of our community."
+      ],
+      "synonyms": [
+        "support",
+        "maintain"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "7b1620da-42da-4a28-94e6-d8cb85fc4c57",
+      "english": "volume",
+      "translation": null,
+      "hebrew": "נפח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the volume of this container?",
+        "The volume of water in the lake is decreasing."
+      ],
+      "synonyms": [
+        "capacity",
+        "size"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "6272f8e5-0ade-4b43-991a-df56b6628a25",
+      "english": "volume",
+      "translation": null,
+      "hebrew": "עוצמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please turn up the volume on the radio.",
+        "The volume of the music was too loud."
+      ],
+      "synonyms": [
+        "loudness",
+        "intensity"
+      ],
+      "topic_tags": [
+        "general",
+        "sound"
+      ]
+    },
+    {
+      "word_id": "65b53d41-d5ae-4285-bd4d-dc21cf627fd1",
+      "english": "volume",
+      "translation": null,
+      "hebrew": "כרך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is volume three of the encyclopedia.",
+        "The library has a large volume of books."
+      ],
+      "synonyms": [
+        "book",
+        "tome"
+      ],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "2cfbb2b9-8d2f-4ba1-a902-0e0eba8ce11f",
+      "english": "war",
+      "translation": null,
+      "hebrew": "מלחמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The war lasted for many years.",
+        "The country is at war with its neighbor."
+      ],
+      "synonyms": [
+        "conflict",
+        "battle"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "bb7ff0c2-c1e9-4f7a-9c33-718954c785a7",
+      "english": "warfare",
+      "translation": null,
+      "hebrew": "לוחמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Modern warfare involves advanced technology.",
+        "Guerilla warfare is difficult to combat."
+      ],
+      "synonyms": [
+        "combat",
+        "fighting"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "72376837-baaf-48fc-bb53-47e793c54635",
+      "english": "warrior",
+      "translation": null,
+      "hebrew": "לוחם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The warrior fought bravely in battle.",
+        "Ancient cultures often revered warriors."
+      ],
+      "synonyms": [
+        "fighter",
+        "soldier"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "bbed9b44-b38c-4797-b413-76a04f881edb",
+      "english": "waste",
+      "translation": null,
+      "hebrew": "בזבוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The waste of resources is a serious problem.",
+        "We need to reduce waste and recycle more."
+      ],
+      "synonyms": [
+        "squandering",
+        "dissipation"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "099c6bf0-5943-4260-9f26-b2b7e57da27a",
+      "english": "waste",
+      "translation": null,
+      "hebrew": "לבזבז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't waste your time on unimportant things.",
+        "He wasted all his money gambling."
+      ],
+      "synonyms": [
+        "squander",
+        "misuse"
+      ],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "d6f516cd-9de3-45f0-a43d-ac7d3f0e99e9",
+      "english": "watch",
+      "translation": null,
+      "hebrew": "לצפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I like to watch movies on the weekend.",
+        "We watched the sunset from the beach."
+      ],
+      "synonyms": [
+        "observe",
+        "view"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "5826edad-64b3-4955-a5c3-368ea6e23bcc",
+      "english": "watch",
+      "translation": null,
+      "hebrew": "שעון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I wear a watch on my wrist.",
+        "What time is it according to your watch?"
+      ],
+      "synonyms": [
+        "clock",
+        "timepiece"
+      ],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "98389dd1-97f3-4310-82c7-b0bcff36c2fe",
+      "english": "widespread",
+      "translation": null,
+      "hebrew": "נפוץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The disease is widespread in the region.",
+        "There is widespread support for the new law."
+      ],
+      "synonyms": [
+        "common",
+        "prevalent"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "4ffef2cb-6d89-420a-9442-634f18608e5f",
+      "english": "wild",
+      "translation": null,
+      "hebrew": "פראי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Wild animals live in the forest.",
+        "The party was wild and crazy."
+      ],
+      "synonyms": [
+        "untamed",
+        "feral"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "343bf13b-ca33-4be8-a6f1-9648c3f00403",
+      "english": "wilderness",
+      "translation": null,
+      "hebrew": "מדבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They got lost in the wilderness.",
+        "The wilderness is a place of natural beauty."
+      ],
+      "synonyms": [
+        "desert",
+        "backcountry"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "4132afe4-151f-4550-aed3-3bc650711661",
+      "english": "wool",
+      "translation": null,
+      "hebrew": "צמר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wool is used to make warm clothing.",
+        "Sheep produce wool."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "clothing"
+      ]
+    },
+    {
+      "word_id": "0c65395c-bf2e-433c-92d9-ef7999c8f12e",
+      "english": "abandon",
+      "translation": null,
+      "hebrew": "לנטוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They had to abandon their car in the snow.",
+        "The sailors abandoned the sinking ship."
+      ],
+      "synonyms": [
+        "desert",
+        "forsake"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88a2a28f-92a4-4304-bee7-03ff7a950547",
+      "english": "abduct",
+      "translation": null,
+      "hebrew": "לחטוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The child was abducted from her home.",
+        "The aliens abducted the farmer."
+      ],
+      "synonyms": [
+        "kidnap",
+        "seize"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "e593cba3-0721-40b1-baa3-eed7f178542f",
+      "english": "abide",
+      "translation": null,
+      "hebrew": "לציית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must abide by the rules.",
+        "I cannot abide such behavior."
+      ],
+      "synonyms": [
+        "obey",
+        "tolerate"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "ff191611-911a-4c19-975d-47a018004ff7",
+      "english": "absence",
+      "translation": null,
+      "hebrew": "העדר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her absence was noticed immediately.",
+        "In the absence of evidence, the case was dismissed."
+      ],
+      "synonyms": [
+        "lack",
+        "want"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b52c474f-e5fd-4c5f-bf7b-223c41b5ccd9",
+      "english": "absent",
+      "translation": null,
+      "hebrew": "נעדר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was absent from school today.",
+        "She was absent-minded and forgot her keys."
+      ],
+      "synonyms": [
+        "away",
+        "missing"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6cd5fa92-bd27-487f-811f-d9878ef2acf5",
+      "english": "absorb",
+      "translation": null,
+      "hebrew": "לספוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sponge absorbed the water.",
+        "The company was absorbed by a larger corporation."
+      ],
+      "synonyms": [
+        "soak up",
+        "assimilate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0bddf40c-c2f5-4e3d-887f-8abf8afdf618",
+      "english": "abundance",
+      "translation": null,
+      "hebrew": "שפע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was an abundance of food at the party.",
+        "The garden produced an abundance of flowers."
+      ],
+      "synonyms": [
+        "plenty",
+        "profusion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "194dfded-ccb8-47df-ac23-2fa210bbb365",
+      "english": "abuse",
+      "translation": null,
+      "hebrew": "להתעלל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He abused his power as a manager.",
+        "The child was abused by her parents."
+      ],
+      "synonyms": [
+        "mistreat",
+        "harm"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "16bc1d08-aabd-4f4e-af25-250dc2d55ff7",
+      "english": "abuse",
+      "translation": null,
+      "hebrew": "התעללות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Child abuse is a serious crime.",
+        "Drug abuse can lead to addiction."
+      ],
+      "synonyms": [
+        "mistreatment",
+        "harm"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "bb229a19-fc9e-4d07-a8f3-6bdb4203f1c1",
+      "english": "accumulate",
+      "translation": null,
+      "hebrew": "להצטבר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Dust tends to accumulate in corners.",
+        "He accumulated a large fortune over the years."
+      ],
+      "synonyms": [
+        "gather",
+        "collect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d058394-406b-4f53-a3da-a7bc8c72a5c6",
+      "english": "acquire",
+      "translation": null,
+      "hebrew": "לרכוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He acquired a new car.",
+        "She acquired a taste for classical music."
+      ],
+      "synonyms": [
+        "obtain",
+        "gain"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b4a2b6db-7732-47c3-bbb5-0d1b60c7684d",
+      "english": "acquisition",
+      "translation": null,
+      "hebrew": "רכישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The acquisition of the company was a success.",
+        "The museum made a new acquisition."
+      ],
+      "synonyms": [
+        "purchase",
+        "procurement"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "0bea5714-82a7-46cf-9715-541bcde34e7f",
+      "english": "adopt",
+      "translation": null,
+      "hebrew": "לאמץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They decided to adopt a child.",
+        "The company adopted a new strategy."
+      ],
+      "synonyms": [
+        "take in",
+        "embrace"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    }
+  ]
+}

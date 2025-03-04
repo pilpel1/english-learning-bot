@@ -1,0 +1,722 @@
+{
+  "_meta": {
+    "chunk_number": 47,
+    "words_range": "increase-mammal",
+    "word_count": 30,
+    "start_index": 1380,
+    "end_index": 1409
+  },
+  "words": [
+    {
+      "word_id": "60e7264a-5e09-428d-bc02-7df253c85684",
+      "english": "increase",
+      "translation": null,
+      "hebrew": "להגדיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to increase our sales.",
+        "The price of gas will increase next month.",
+        "The company plans to increase production."
+      ],
+      "synonyms": [
+        "raise",
+        "expand"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "b75dc6c4-ffc9-434d-b7fc-95dd5573dc23",
+      "english": "incredible",
+      "translation": null,
+      "hebrew": "מדהים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The view from the top of the mountain was incredible.",
+        "She has an incredible talent for music.",
+        "The food at the restaurant was incredible."
+      ],
+      "synonyms": [
+        "amazing",
+        "unbelievable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eedf86bd-f7e3-4e51-86d3-6f853e780fd0",
+      "english": "individual",
+      "translation": null,
+      "hebrew": "אינדיבידואלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Each individual has unique talents.",
+        "The company caters to individual needs.",
+        "We need to consider the individual circumstances."
+      ],
+      "synonyms": [
+        "personal",
+        "specific"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "161dcc1a-15c0-4161-a87b-97c42f903e41",
+      "english": "industry",
+      "translation": null,
+      "hebrew": "תעשייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car industry is very competitive.",
+        "The tourism industry is important to the economy.",
+        "He works in the technology industry."
+      ],
+      "synonyms": [
+        "business",
+        "sector"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "6411ca7d-7857-4de7-9813-5d86a24f6f95",
+      "english": "inferred",
+      "translation": null,
+      "hebrew": "הוסק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It can be inferred from the data that...",
+        "What can be inferred from this statement?",
+        "I inferred that he was not happy."
+      ],
+      "synonyms": [
+        "deduced",
+        "concluded"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c05431a-e4c8-4ff8-a364-401a02be5ae6",
+      "english": "inform",
+      "translation": null,
+      "hebrew": "ליידע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please inform me of any changes.",
+        "The police informed him of his rights.",
+        "We need to inform the customers about the new policy."
+      ],
+      "synonyms": [
+        "notify",
+        "tell"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f72b2956-331a-4575-b63b-977d381b7794",
+      "english": "information",
+      "translation": null,
+      "hebrew": "מידע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need more information about the project.",
+        "The internet is a source of information.",
+        "The company collects personal information."
+      ],
+      "synonyms": [
+        "data",
+        "facts"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2ecae313-c9ae-45e5-a020-c185c7d69824",
+      "english": "innovate",
+      "translation": null,
+      "hebrew": "לחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company needs to innovate to stay competitive.",
+        "We need to innovate new solutions to the problem.",
+        "The designer is known for his ability to innovate."
+      ],
+      "synonyms": [
+        "create",
+        "invent"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "a3f48545-19fe-4757-9a5f-4d53a8b6636c",
+      "english": "intention",
+      "translation": null,
+      "hebrew": "כוונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your intention?",
+        "I had no intention of hurting you.",
+        "He acted with good intentions."
+      ],
+      "synonyms": [
+        "purpose",
+        "aim"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b2fd22cf-28dd-41e2-9c6a-ac3461f9afe6",
+      "english": "intentional",
+      "translation": null,
+      "hebrew": "מכוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The damage was intentional.",
+        "It was not an intentional mistake.",
+        "He made an intentional effort to be kind."
+      ],
+      "synonyms": [
+        "deliberate",
+        "planned"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7874ddf-e5ca-4cbb-a297-4c532495697e",
+      "english": "interact",
+      "translation": null,
+      "hebrew": "ליצור אינטראקציה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The students interact with each other in the classroom.",
+        "The software allows users to interact with the data.",
+        "We need to interact with our customers more effectively."
+      ],
+      "synonyms": [
+        "engage",
+        "communicate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1a16aeb0-72f6-4044-8899-9dc7de462902",
+      "english": "interest",
+      "translation": null,
+      "hebrew": "עניין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have an interest in history.",
+        "She showed no interest in the project.",
+        "What are your interests?"
+      ],
+      "synonyms": [
+        "curiosity",
+        "passion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "71071c86-ef6f-4e73-8bc8-f0204a576d93",
+      "english": "interest",
+      "translation": null,
+      "hebrew": "ריבית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The interest rate is very low.",
+        "How much interest will I earn?",
+        "The bank charges high interest."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "b834d487-4284-4beb-b018-4303e8b5b69d",
+      "english": "interfere",
+      "translation": null,
+      "hebrew": "להפריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't interfere in my business.",
+        "The noise interfered with my concentration.",
+        "The government should not interfere in the economy."
+      ],
+      "synonyms": [
+        "disrupt",
+        "obstruct"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99981131-1e69-416f-a55f-97909e19955f",
+      "english": "interpret",
+      "translation": null,
+      "hebrew": "לפרש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "How do you interpret this poem?",
+        "The data can be interpreted in different ways.",
+        "The translator interpreted the speech."
+      ],
+      "synonyms": [
+        "explain",
+        "understand"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995999",
+      "english": "interview",
+      "translation": null,
+      "hebrew": "ראיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have an interview tomorrow.",
+        "The journalist conducted an interview with the president.",
+        "She prepared for the job interview."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995998",
+      "english": "interview",
+      "translation": null,
+      "hebrew": "לראיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will interview several candidates.",
+        "The journalist interviewed the celebrity.",
+        "She interviewed for the position."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995997",
+      "english": "introduce",
+      "translation": null,
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Let me introduce you to my friend.",
+        "The company introduced a new product.",
+        "The teacher introduced the topic."
+      ],
+      "synonyms": [
+        "present",
+        "offer"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995996",
+      "english": "invent",
+      "translation": null,
+      "hebrew": "להמציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Who invented the telephone?",
+        "The company is trying to invent new technologies.",
+        "He invented a new game."
+      ],
+      "synonyms": [
+        "create",
+        "design"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995995",
+      "english": "invest",
+      "translation": null,
+      "hebrew": "להשקיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to invest in education.",
+        "The company plans to invest in new equipment.",
+        "He invested his money in the stock market."
+      ],
+      "synonyms": [
+        "fund",
+        "finance"
+      ],
+      "topic_tags": [
+        "general",
+        "business",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995994",
+      "english": "investigate",
+      "translation": null,
+      "hebrew": "לחקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police are investigating the crime.",
+        "We need to investigate the cause of the problem.",
+        "The journalist investigated the scandal."
+      ],
+      "synonyms": [
+        "examine",
+        "explore"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995993",
+      "english": "issue",
+      "translation": null,
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the main issue?",
+        "We need to address this issue.",
+        "The company is facing several issues."
+      ],
+      "synonyms": [
+        "topic",
+        "matter"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9599919d-9b63-494f-8591-995999995992",
+      "english": "item",
+      "translation": null,
+      "hebrew": "פריט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the next item on the agenda?",
+        "The store sells a variety of items.",
+        "Each item costs $10."
+      ],
+      "synonyms": [
+        "object",
+        "thing"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e5fb6ecb-283e-49a4-a55c-89a5e206e5b5",
+      "english": "judgment",
+      "translation": null,
+      "hebrew": "שיפוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I trust his judgment.",
+        "The judge made a fair judgment.",
+        "We need to use our judgment."
+      ],
+      "synonyms": [
+        "assessment",
+        "decision"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f1f09ca7-7f4f-4cf1-972d-a415877aa736",
+      "english": "know, knew",
+      "translation": null,
+      "hebrew": "לדעת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I know the answer.",
+        "She knew him from school.",
+        "Do you know what time it is?"
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "92af4006-efbe-4734-8ada-2176a1f7ecc8",
+      "english": "knowledge",
+      "translation": null,
+      "hebrew": "ידע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a lot of knowledge about computers.",
+        "Knowledge is power.",
+        "We need to share our knowledge."
+      ],
+      "synonyms": [
+        "understanding",
+        "expertise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "72428fff-4bd3-4abb-8a72-0948aaa9f54c",
+      "english": "known",
+      "translation": null,
+      "hebrew": "ידוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a known criminal.",
+        "The restaurant is known for its pizza.",
+        "It is a well-known fact."
+      ],
+      "synonyms": [
+        "famous",
+        "renowned"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6bcea43b-8c18-47cc-a05e-ed18aa275fd2",
+      "english": "laid",
+      "translation": null,
+      "hebrew": "הניח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She laid the baby in the crib.",
+        "He laid the book on the table.",
+        "The company laid off several employees."
+      ],
+      "synonyms": [
+        "placed",
+        "set"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "79044e69-4c6e-414e-ae94-130cf9db8131",
+      "english": "lane",
+      "translation": null,
+      "hebrew": "נתיב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Stay in your lane.",
+        "The car was driving in the wrong lane.",
+        "The highway has three lanes."
+      ],
+      "synonyms": [
+        "path",
+        "road"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7994aed7-0fbf-492d-89e3-0b65177839fe",
+      "english": "launch",
+      "translation": null,
+      "hebrew": "לשגר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will launch a new product.",
+        "The rocket was launched into space.",
+        "The campaign was launched last week."
+      ],
+      "synonyms": [
+        "start",
+        "begin"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "103e032f-f8a9-4c06-b087-34237999501e",
+      "english": "launch",
+      "translation": null,
+      "hebrew": "השקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The launch of the new product was a success.",
+        "The company is planning a launch event.",
+        "The rocket launch was delayed."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a8f84a15-0fb5-4862-8a06-53e976435e8f",
+      "english": "limit",
+      "translation": null,
+      "hebrew": "להגביל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to limit our spending.",
+        "The company limited access to the information.",
+        "There is a limit to what I can do."
+      ],
+      "synonyms": [
+        "restrict",
+        "constrain"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78deda4f-f521-4ab6-b55f-542a67601b5d",
+      "english": "limitation",
+      "translation": null,
+      "hebrew": "מגבלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What are the limitations of this technology?",
+        "We need to overcome our limitations.",
+        "The project has several limitations."
+      ],
+      "synonyms": [
+        "restriction",
+        "constraint"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b59ba249-5f87-4fbd-8600-0500fd1a098a",
+      "english": "lobby",
+      "translation": null,
+      "hebrew": "לובי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hotel has a large lobby.",
+        "The lobby was crowded.",
+        "The company hired a lobbyist."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "254b36bd-a0ff-4562-9eee-6e43f0ee1e36",
+      "english": "lobby",
+      "translation": null,
+      "hebrew": "לשדל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is lobbying for new laws.",
+        "They lobbied the government to change the policy.",
+        "The organization is lobbying for better healthcare."
+      ],
+      "synonyms": [
+        "persuade",
+        "influence"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "e35e8f5b-1de0-46b4-8d11-2099060c2b82",
+      "english": "mammal",
+      "translation": null,
+      "hebrew": "יונק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A whale is a mammal.",
+        "Humans are mammals.",
+        "Mammals have hair or fur."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature",
+        "science"
+      ]
+    }
+  ]
+}

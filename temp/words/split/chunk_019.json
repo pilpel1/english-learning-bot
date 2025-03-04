@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 19,
+    "words_range": "due-feel",
+    "word_count": 30,
+    "start_index": 540,
+    "end_index": 569
+  },
+  "words": [
+    {
+      "word_id": "3ebe7c0b-94bb-4dfa-9fe2-695d74c97737",
+      "english": "due",
+      "translation": "בגלל",
+      "hebrew": "בגלל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The delay was due to traffic.",
+        "The payment is due next week."
+      ],
+      "synonyms": ["because of", "owing to"],
+      "topic_tags": ["general", "reason"]
+    },
+    {
+      "word_id": "e7d1b0e1-e955-447e-a00e-71bda91ec730",
+      "english": "early",
+      "translation": "מוקדם",
+      "hebrew": "מוקדם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She arrived early to the meeting.",
+        "The early bird catches the worm."
+      ],
+      "synonyms": ["premature", "initial"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "76f49df1-18bf-439a-8c7c-b639cb6a34df",
+      "english": "earth",
+      "translation": "אדמה",
+      "hebrew": "אדמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The earth is rich with minerals.",
+        "He planted the seeds in the earth."
+      ],
+      "synonyms": ["soil", "ground"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "aee6bff9-b6b0-43bb-9cef-10337241546a",
+      "english": "Earth",
+      "translation": "כדור הארץ",
+      "hebrew": "כדור הארץ",
+      "part_of_speech": "proper noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Earth is the third planet from the sun.",
+        "Astronauts have traveled to space from Earth."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "astronomy"]
+    },
+    {
+      "word_id": "42c6bb0a-3ea5-4a2c-8d86-a98ba8e8c3fa",
+      "english": "earthquake",
+      "translation": "רעידת אדמה",
+      "hebrew": "רעידת אדמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The earthquake caused significant damage.",
+        "They felt the earthquake shake the building."
+      ],
+      "synonyms": ["tremor", "quake"],
+      "topic_tags": ["general", "disaster"]
+    },
+    {
+      "word_id": "c2f9598c-5cde-4495-90d3-a8bea59e5047",
+      "english": "educate",
+      "translation": "לחנך",
+      "hebrew": "לחנך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Schools aim to educate children.",
+        "She was educated in a private school."
+      ],
+      "synonyms": ["teach", "instruct"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "b98baeb6-0b70-4ddb-ab91-09c31546a5a4",
+      "english": "education",
+      "translation": "חינוך",
+      "hebrew": "חינוך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Education is important for personal growth.",
+        "He received a good education."
+      ],
+      "synonyms": ["schooling", "instruction"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "3038f625-78c6-4b08-8b9d-84e84f9b6a8c",
+      "english": "empty",
+      "translation": "ריק",
+      "hebrew": "ריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was empty.",
+        "He drank the glass until it was empty."
+      ],
+      "synonyms": ["vacant", "hollow"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "c0574130-ebb0-46b7-8bdc-568a720cc0df",
+      "english": "enemy",
+      "translation": "אויב",
+      "hebrew": "אויב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They faced a powerful enemy.",
+        "He considered him an enemy."
+      ],
+      "synonyms": ["foe", "adversary"],
+      "topic_tags": ["general", "conflict"]
+    },
+    {
+      "word_id": "498688e2-82e7-416a-8a6d-01e486557335",
+      "english": "energy",
+      "translation": "אנרגיה",
+      "hebrew": "אנרגיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Solar panels convert sunlight into energy.",
+        "He was full of energy after the nap."
+      ],
+      "synonyms": ["power", "vitality"],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "377d6bc4-d57b-4ec3-a0ea-f896e2bc1aff",
+      "english": "enjoy",
+      "translation": "ליהנות",
+      "hebrew": "ליהנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She enjoys reading books.",
+        "They enjoyed the concert."
+      ],
+      "synonyms": ["relish", "savor"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "0dbcd66b-93c6-4d10-8c01-2386f0681ac2",
+      "english": "enjoyable",
+      "translation": "מהנה",
+      "hebrew": "מהנה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was very enjoyable.",
+        "They had an enjoyable evening."
+      ],
+      "synonyms": ["pleasant", "delightful"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "468d8e49-76f0-4d3a-8bda-e0cf6c0ecf48",
+      "english": "enter",
+      "translation": "להיכנס",
+      "hebrew": "להיכנס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please enter the room quietly.",
+        "He entered the competition."
+      ],
+      "synonyms": ["go in", "access"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "9eff0800-3cf4-496e-b34d-6bccbbcd0145",
+      "english": "error",
+      "translation": "שגיאה",
+      "hebrew": "שגיאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The program has an error.",
+        "He made an error in his calculations."
+      ],
+      "synonyms": ["mistake", "fault"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "e373f3ac-32c5-45a8-b65e-9653c0b978e4",
+      "english": "escape",
+      "translation": "לברוח",
+      "hebrew": "לברוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They managed to escape from the building.",
+        "He escaped from the prison."
+      ],
+      "synonyms": ["flee", "evade"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "af0027b3-13f7-4294-b844-15e1aa704cce",
+      "english": "evening",
+      "translation": "ערב",
+      "hebrew": "ערב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went for a walk in the evening.",
+        "The evening was calm and peaceful."
+      ],
+      "synonyms": ["nightfall", "dusk"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "d918fd34-aed8-4667-95d2-950e1b520fa1",
+      "english": "event",
+      "translation": "אירוע",
+      "hebrew": "אירוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The event was a great success.",
+        "They attended a charity event."
+      ],
+      "synonyms": ["occasion", "happening"],
+      "topic_tags": ["general", "social"]
+    },
+    {
+      "word_id": "2cdc7d40-aa1c-4258-b166-0b456ee1ee62",
+      "english": "exact",
+      "translation": "מדויק",
+      "hebrew": "מדויק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She gave the exact amount of money.",
+        "The exact time of arrival is unknown."
+      ],
+      "synonyms": ["precise", "accurate"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "961b1f82-2907-49cd-af2e-3268f070aa0d",
+      "english": "exactly",
+      "translation": "בדיוק",
+      "hebrew": "בדיוק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "That's exactly what I meant.",
+        "He arrived exactly at noon."
+      ],
+      "synonyms": ["precisely", "accurately"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "0f010935-da9e-4c24-b263-11df65ec2849",
+      "english": "example",
+      "translation": "דוגמה",
+      "hebrew": "דוגמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you give me an example?",
+        "This is a perfect example of teamwork."
+      ],
+      "synonyms": ["instance", "illustration"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "eada7a51-20b7-4910-85b3-30e842418bda",
+      "english": "excessive",
+      "translation": "מופרז",
+      "hebrew": "מופרז",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The price is excessive.",
+        "He was criticized for his excessive spending."
+      ],
+      "synonyms": ["extreme", "unreasonable"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "557a89a6-808f-48d0-81fe-b6784c5f96a1",
+      "english": "expert",
+      "translation": "מומחה",
+      "hebrew": "מומחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is an expert in her field.",
+        "They consulted an expert for advice."
+      ],
+      "synonyms": ["specialist", "authority"],
+      "topic_tags": ["general", "profession"]
+    },
+    {
+      "word_id": "7af5cc74-b98a-48fb-b1ad-72fe8ec1381f",
+      "english": "extinct",
+      "translation": "נכחד",
+      "hebrew": "נכחד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Dinosaurs are extinct.",
+        "The species became extinct many years ago."
+      ],
+      "synonyms": ["vanished", "gone"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "60046ae0-6660-4f80-a72a-6f3e832bde98",
+      "english": "fact",
+      "translation": "עובדה",
+      "hebrew": "עובדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It's a fact that the Earth orbits the sun.",
+        "He stated the facts clearly."
+      ],
+      "synonyms": ["truth", "reality"],
+      "topic_tags": ["general", "knowledge"]
+    },
+    {
+      "word_id": "04848be2-d87f-4f3f-86d5-a08c4fc584a0",
+      "english": "false",
+      "translation": "שקרי",
+      "hebrew": "שקרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The statement was false.",
+        "He gave a false name to the police."
+      ],
+      "synonyms": ["untrue", "incorrect"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "b10b2943-5db4-4737-9983-7335c9533f4e",
+      "english": "farm",
+      "translation": "חווה",
+      "hebrew": "חווה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They live on a farm.",
+        "The farm produces vegetables and fruits."
+      ],
+      "synonyms": ["ranch", "plantation"],
+      "topic_tags": ["general", "agriculture"]
+    },
+    {
+      "word_id": "98368ee0-42f3-46bd-a6c2-fa2d75537e54",
+      "english": "farmer",
+      "translation": "חקלאי",
+      "hebrew": "חקלאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The farmer works in the fields.",
+        "She is a dairy farmer."
+      ],
+      "synonyms": ["agriculturist", "grower"],
+      "topic_tags": ["general", "profession"]
+    },
+    {
+      "word_id": "5e457f93-f8d7-4e38-a9a3-c685ab20f0e8",
+      "english": "father",
+      "translation": "אבא",
+      "hebrew": "אבא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His father is a doctor.",
+        "She called her father for advice."
+      ],
+      "synonyms": ["dad", "parent"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "6a93c78a-7c08-4018-b77a-0feda042f83e",
+      "english": "fear",
+      "translation": "פחד",
+      "hebrew": "פחד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a fear of heights.",
+        "She overcame her fear."
+      ],
+      "synonyms": ["terror", "anxiety"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "83a5f022-3a42-451a-b535-4bf416a23675",
+      "english": "feel",
+      "translation": "להרגיש",
+      "hebrew": "להרגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I feel happy today.",
+        "She felt the warmth of the sun."
+      ],
+      "synonyms": ["sense", "perceive"],
+      "topic_tags": ["general", "emotion"]
+    }
+  ]
+}

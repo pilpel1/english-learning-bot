@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 6,
+    "words_range": "in light of-mostly",
+    "word_count": 30,
+    "start_index": 150,
+    "end_index": 179
+  },
+  "words": [
+    {
+      "word_id": "0d023169-4d71-4762-8f6f-3422085d4c84",
+      "english": "in light of",
+      "translation": "לאור",
+      "hebrew": "לאור",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In light of recent events, we have decided to postpone the meeting.",
+        "The policy was changed in light of new evidence."
+      ],
+      "synonyms": ["considering", "because of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b0ee7294-893a-404c-b06e-5f056408494e",
+      "english": "in order to",
+      "translation": "כדי",
+      "hebrew": "כדי",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She studied hard in order to pass the exam.",
+        "In order to succeed, you must work hard."
+      ],
+      "synonyms": ["to", "so as to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d22603f2-7fc4-49ce-8f07-90f7a5b0f078",
+      "english": "in other words",
+      "translation": "במילים אחרות",
+      "hebrew": "במילים אחרות",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a polyglot, in other words, he speaks several languages.",
+        "The project is due soon, in other words, by the end of the week."
+      ],
+      "synonyms": ["that is", "i.e."],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "09568c8b-1e0e-4bb2-b2ed-41cc29316338",
+      "english": "in particular",
+      "translation": "בפרט",
+      "hebrew": "בפרט",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I love fruits, in particular, apples and bananas.",
+        "She is interested in art, in particular, painting."
+      ],
+      "synonyms": ["especially", "specifically"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "62cb9ed6-41ba-4e5e-a5e9-8827c5877f3b",
+      "english": "in spite of",
+      "translation": "למרות",
+      "hebrew": "למרות",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "In spite of the rain, we went for a walk.",
+        "He succeeded in spite of the difficulties."
+      ],
+      "synonyms": ["despite", "notwithstanding"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "43679a00-1844-49b1-8b30-bf6dec15e1c8",
+      "english": "in that case",
+      "translation": "במקרה כזה",
+      "hebrew": "במקרה כזה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "If it rains, in that case, we will stay inside.",
+        "In that case, we should reconsider our options."
+      ],
+      "synonyms": ["then", "if so"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1af5c2ba-5bd0-47e9-aa32-d7615275eb32",
+      "english": "in the same way",
+      "translation": "באותו אופן",
+      "hebrew": "באותו אופן",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She treats all her students in the same way.",
+        "In the same way, we should approach this problem."
+      ],
+      "synonyms": ["similarly", "likewise"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "225f4dbb-de60-48a0-9b7e-366846d4847c",
+      "english": "incidentally",
+      "translation": "אגב",
+      "hebrew": "אגב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Incidentally, I saw your brother yesterday.",
+        "The book, incidentally, is a bestseller."
+      ],
+      "synonyms": ["by the way", "by chance"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2cecb427-6393-48f0-b845-c3b7a0b81bbb",
+      "english": "including",
+      "translation": "כולל",
+      "hebrew": "כולל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The price is $50, including tax.",
+        "Everyone was invited, including the new neighbors."
+      ],
+      "synonyms": ["such as", "along with"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4145d52b-e295-47a1-a7d2-5e74521321c3",
+      "english": "indeed",
+      "translation": "באמת",
+      "hebrew": "באמת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is indeed a talented musician.",
+        "The meal was indeed delicious."
+      ],
+      "synonyms": ["truly", "certainly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fa8ab1d8-9b26-4228-9f41-7618579d0de5",
+      "english": "initially",
+      "translation": "בהתחלה",
+      "hebrew": "בהתחלה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Initially, I didn't understand the question.",
+        "The project was initially planned for two years."
+      ],
+      "synonyms": ["at first", "originally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "470bd94a-ea53-4fd0-90e4-35a95cc04a17",
+      "english": "inside",
+      "translation": "בפנים",
+      "hebrew": "בפנים",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is inside the house.",
+        "Please come inside."
+      ],
+      "synonyms": ["within", "indoors"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0bfdecb0-18ea-46e3-9059-bdd2e30f1eb4",
+      "english": "instantly",
+      "translation": "מיד",
+      "hebrew": "מיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He responded instantly to the message.",
+        "The pain disappeared instantly."
+      ],
+      "synonyms": ["immediately", "at once"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e1531524-8ca4-4740-a765-00a890bfd0c8",
+      "english": "instead",
+      "translation": "במקום",
+      "hebrew": "במקום",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I didn't go to the party; I stayed home instead.",
+        "Instead of coffee, I drank tea."
+      ],
+      "synonyms": ["alternatively", "rather"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e735d413-ce5f-441d-bbff-3995bbf7a4c3",
+      "english": "instead of",
+      "translation": "במקום",
+      "hebrew": "במקום",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "We went to the park instead of the mall.",
+        "She chose the red dress instead of the blue one."
+      ],
+      "synonyms": ["in place of", "rather than"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "074f0e0e-7706-42ab-99e3-9935abdb26f7",
+      "english": "into",
+      "translation": "לתוך",
+      "hebrew": "לתוך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She walked into the room.",
+        "The cat jumped into the box."
+      ],
+      "synonyms": ["inside", "within"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2d341f7c-c45b-4f16-8581-d94d23cf5da0",
+      "english": "just as",
+      "translation": "בדיוק כמו",
+      "hebrew": "בדיוק כמו",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Just as I was leaving, the phone rang.",
+        "She is just as talented as her brother."
+      ],
+      "synonyms": ["equally", "similarly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78c6c59c-1fcf-4940-8107-13d877f4138f",
+      "english": "just as… so…",
+      "translation": "בדיוק כמו... כך...",
+      "hebrew": "בדיוק כמו... כך...",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Just as the sun rises, so does it set.",
+        "Just as you sow, so shall you reap."
+      ],
+      "synonyms": ["in the same way", "similarly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ee0f2c12-41c3-4031-a25a-f9fc8decba80",
+      "english": "last",
+      "translation": "אחרון",
+      "hebrew": "אחרון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was the last person to leave.",
+        "This is the last chance."
+      ],
+      "synonyms": ["final", "ultimate"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f6d20368-68d1-43dd-b387-a5508dfd6f65",
+      "english": "later",
+      "translation": "מאוחר יותר",
+      "hebrew": "מאוחר יותר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll call you later.",
+        "She arrived later than expected."
+      ],
+      "synonyms": ["afterward", "subsequently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "120bf26d-1715-4033-b4ac-9bcb66fe47a7",
+      "english": "latter",
+      "translation": "האחרון",
+      "hebrew": "האחרון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Of the two options, I prefer the latter.",
+        "The latter part of the book is more interesting."
+      ],
+      "synonyms": ["second", "last"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "81c1d578-41f5-49f1-9044-46682e0e3fd3",
+      "english": "led to",
+      "translation": "הוביל ל",
+      "hebrew": "הוביל ל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "His hard work led to his success.",
+        "The changes led to improvements."
+      ],
+      "synonyms": ["resulted in", "caused"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbd52ffe-1aa2-483d-b7cc-0b94c34387f0",
+      "english": "left",
+      "translation": "שמאל",
+      "hebrew": "שמאל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Turn left at the next intersection.",
+        "The book is on the left side of the shelf."
+      ],
+      "synonyms": ["port", "sinister"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c6c72e1a-9b85-4652-b64f-c1188512a01b",
+      "english": "like",
+      "translation": "כמו",
+      "hebrew": "כמו",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She sings like a professional.",
+        "He looks like his father."
+      ],
+      "synonyms": ["similar to", "resembling"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c1166d98-b93b-4bcc-bbeb-aac0bc7b1b9c",
+      "english": "likewise",
+      "translation": "כמו כן",
+      "hebrew": "כמו כן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a talented musician; likewise, her brother is a gifted artist.",
+        "The food was delicious, and the service was likewise excellent."
+      ],
+      "synonyms": ["similarly", "also"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f864572b-2fa3-4038-ab43-5e18a1b18174",
+      "english": "mainly",
+      "translation": "בעיקר",
+      "hebrew": "בעיקר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is mainly about history.",
+        "He is known mainly for his paintings."
+      ],
+      "synonyms": ["primarily", "chiefly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0bb152c9-05d6-4f5d-a0c3-f7c1ac5eba3e",
+      "english": "markedly",
+      "translation": "באופן בולט",
+      "hebrew": "באופן בולט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather has changed markedly.",
+        "His performance has improved markedly."
+      ],
+      "synonyms": ["noticeably", "significantly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5fa4cd96-99b4-4632-aea9-3fc9fc6d48a6",
+      "english": "meanwhile",
+      "translation": "בינתיים",
+      "hebrew": "בינתיים",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She was cooking; meanwhile, he was setting the table.",
+        "The project is delayed; meanwhile, we are working on other tasks."
+      ],
+      "synonyms": ["at the same time", "simultaneously"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c726e295-08eb-41d1-980f-a176fe921540",
+      "english": "moreover",
+      "translation": "יתר על כן",
+      "hebrew": "יתר על כן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is interesting; moreover, it is educational.",
+        "He is smart and, moreover, very kind."
+      ],
+      "synonyms": ["furthermore", "in addition"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c7fd43a-30b5-43f4-a16f-3971f2239c8b",
+      "english": "mostly",
+      "translation": "בעיקר",
+      "hebrew": "בעיקר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The audience was mostly young people.",
+        "The weather is mostly sunny."
+      ],
+      "synonyms": ["mainly", "largely"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

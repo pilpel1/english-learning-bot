@@ -1,0 +1,599 @@
+{
+  "_meta": {
+    "chunk_number": 38,
+    "words_range": "subject-unify",
+    "word_count": 30,
+    "start_index": 1110,
+    "end_index": 1139
+  },
+  "words": [
+    {
+      "word_id": "58dfab53-602a-47f1-a790-57f64e2ea747",
+      "english": "subject",
+      "translation": null,
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The subject of the meeting is the new marketing campaign.",
+        "Math is my favorite subject in school."
+      ],
+      "synonyms": [
+        "topic",
+        "theme"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "ef0ebd1e-0ff0-45a6-9f11-bc3d53c21314",
+      "english": "subject",
+      "translation": null,
+      "hebrew": "להכניע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The king sought to subject the neighboring lands to his rule.",
+        "Citizens should not be subjected to cruel and unusual punishment."
+      ],
+      "synonyms": [
+        "subdue",
+        "enslave"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "48aacbd6-e271-4025-9f0d-f7e6fa0ea1da",
+      "english": "subject",
+      "translation": null,
+      "hebrew": "כפוף ל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The deal is subject to approval by the board.",
+        "All flights are subject to delay due to the weather."
+      ],
+      "synonyms": [
+        "dependent",
+        "conditional"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "0839aa49-4cc5-4608-be99-e08fc1d4078f",
+      "english": "subject",
+      "translation": null,
+      "hebrew": "נבדק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientist needed a subject for his experiment.",
+        "Our study involved 20 human subjects."
+      ],
+      "synonyms": [
+        "participant",
+        "testee"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "91c882aa-a4ed-4874-9b60-cbd44012369e",
+      "english": "subjective",
+      "translation": null,
+      "hebrew": "סובייקטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Beauty is subjective; what one person finds beautiful, another may not.",
+        "His review of the movie was very subjective."
+      ],
+      "synonyms": [
+        "personal",
+        "biased"
+      ],
+      "topic_tags": [
+        "general",
+        "opinion"
+      ]
+    },
+    {
+      "word_id": "ff4ca029-f332-4b6f-bc12-adee17717478",
+      "english": "suburban",
+      "translation": null,
+      "hebrew": "פרברי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a suburban neighborhood outside the city.",
+        "Suburban life is often quieter than city life."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "fcd04f23-bd72-4f0c-8200-f3b21c22ed56",
+      "english": "succeed",
+      "translation": null,
+      "hebrew": "להצליח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She worked hard to succeed in her career.",
+        "If you study diligently, you will succeed in your exams."
+      ],
+      "synonyms": [
+        "prosper",
+        "thrive"
+      ],
+      "topic_tags": [
+        "general",
+        "achievement"
+      ]
+    },
+    {
+      "word_id": "59213372-8eee-43ed-a33e-f7edb3d6ab7f",
+      "english": "success",
+      "translation": null,
+      "hebrew": "הצלחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The success of the project was due to teamwork.",
+        "Hard work is the key to success."
+      ],
+      "synonyms": [
+        "achievement",
+        "triumph"
+      ],
+      "topic_tags": [
+        "general",
+        "achievement"
+      ]
+    },
+    {
+      "word_id": "8bbdc0e1-cc42-4798-86c5-51b0b07da24a",
+      "english": "sum",
+      "translation": null,
+      "hebrew": "סכום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sum of 5 and 7 is 12.",
+        "What is the sum total of your expenses?"
+      ],
+      "synonyms": [
+        "total",
+        "amount"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "26113016-c98e-4c37-bdd1-f4d95497f465",
+      "english": "sum up",
+      "translation": null,
+      "hebrew": "לסכם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "To sum up, the meeting was very productive.",
+        "Can you sum up the main points of the article?"
+      ],
+      "synonyms": [
+        "summarize",
+        "recap"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "daaf155a-70bf-407a-9963-d75ba2c47d37",
+      "english": "summarize",
+      "translation": null,
+      "hebrew": "לסכם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please summarize the report in one page.",
+        "The teacher asked the students to summarize the chapter."
+      ],
+      "synonyms": [
+        "recap",
+        "sum up"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "c082a32b-9e69-4d95-9c64-c3f62cc560f4",
+      "english": "summary",
+      "translation": null,
+      "hebrew": "סיכום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Here is a summary of the main points.",
+        "The summary provides a brief overview of the book."
+      ],
+      "synonyms": [
+        "recap",
+        "abstract"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "50f386c2-2fe8-4a62-90fc-b2ae902fc8e2",
+      "english": "surround",
+      "translation": null,
+      "hebrew": "להקיף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Mountains surround the city.",
+        "The police surrounded the building."
+      ],
+      "synonyms": [
+        "encircle",
+        "enclose"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "74d45a86-c6cf-42b2-a211-1acec2b39e76",
+      "english": "surrounding",
+      "translation": null,
+      "hebrew": "סובב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The surrounding area is very beautiful.",
+        "We explored the surrounding countryside."
+      ],
+      "synonyms": [
+        "nearby",
+        "adjacent"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "c0715b15-e54c-49bd-b27e-5f4f7ce23f87",
+      "english": "task",
+      "translation": null,
+      "hebrew": "משימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Completing this task is very important.",
+        "Each member of the team was given a specific task."
+      ],
+      "synonyms": [
+        "job",
+        "assignment"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "60dea2c0-3b9a-4473-b5c4-96faac4be8ca",
+      "english": "territory",
+      "translation": null,
+      "hebrew": "שטח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This territory belongs to our country.",
+        "The soldiers defended their territory."
+      ],
+      "synonyms": [
+        "area",
+        "region"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "77c6a809-a395-4ace-9590-c47bb8511160",
+      "english": "thereby",
+      "translation": null,
+      "hebrew": "ובכך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He lost his license, thereby losing his job.",
+        "By working hard, you can improve your skills, thereby increasing your chances of promotion."
+      ],
+      "synonyms": [
+        "thus",
+        "therefore"
+      ],
+      "topic_tags": [
+        "general",
+        "grammar"
+      ]
+    },
+    {
+      "word_id": "59edc4bf-6f01-4604-af36-e938d3b0d804",
+      "english": "title",
+      "translation": null,
+      "hebrew": "כותרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The title of the book is 'The Secret Garden'.",
+        "She has the title of CEO."
+      ],
+      "synonyms": [
+        "heading",
+        "name"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "d8e02516-e4ae-43b5-ac07-ef0e2f433c6e",
+      "english": "touch",
+      "translation": null,
+      "hebrew": "לגעת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please don't touch the paintings.",
+        "The fabric feels soft to the touch."
+      ],
+      "synonyms": [
+        "feel",
+        "contact"
+      ],
+      "topic_tags": [
+        "general",
+        "senses"
+      ]
+    },
+    {
+      "word_id": "b4f9a471-a2e1-474a-854c-d8eb34438125",
+      "english": "trade",
+      "translation": null,
+      "hebrew": "מסחר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "International trade is essential for economic growth.",
+        "The country's main trade is in agricultural products."
+      ],
+      "synonyms": [
+        "commerce",
+        "business"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "1f73eb8c-4f4c-4636-a7b8-0a91d7e6689c",
+      "english": "trade",
+      "translation": null,
+      "hebrew": "לסחור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They trade goods with other countries.",
+        "The company trades in stocks and bonds."
+      ],
+      "synonyms": [
+        "exchange",
+        "barter"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2c8763e2-fc9a-41bb-884c-4a26ad9a37f6",
+      "english": "train",
+      "translation": null,
+      "hebrew": "רכבת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I take the train to work every day.",
+        "The train was delayed due to bad weather."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "50c43cd9-b1ba-4fe8-a41a-654c4d6809df",
+      "english": "train",
+      "translation": null,
+      "hebrew": "לאמן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The coach will train the athletes for the competition.",
+        "You need to train your dog to obey commands."
+      ],
+      "synonyms": [
+        "coach",
+        "teach"
+      ],
+      "topic_tags": [
+        "general",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "aab8f674-b0fb-4138-9fc6-1bc98b4d9fb3",
+      "english": "trial",
+      "translation": null,
+      "hebrew": "משפט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The trial will begin next week.",
+        "He is on trial for fraud."
+      ],
+      "synonyms": [
+        "hearing",
+        "lawsuit"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "a7ff22ca-7264-40c0-aabf-1192e547f3cc",
+      "english": "trial",
+      "translation": null,
+      "hebrew": "ניסיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The new product is undergoing a trial period.",
+        "This is just a trial run to see if it works."
+      ],
+      "synonyms": [
+        "test",
+        "experiment"
+      ],
+      "topic_tags": [
+        "general",
+        "experiment"
+      ]
+    },
+    {
+      "word_id": "6a5d0769-1c14-4f3a-b7e6-ed036469bfef",
+      "english": "turn",
+      "translation": null,
+      "hebrew": "תור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It's your turn to speak.",
+        "Wait for your turn in line."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "6ebe01ee-1e32-4539-91f8-3baaac336483",
+      "english": "uncharted",
+      "translation": null,
+      "hebrew": "לא ממופה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They explored uncharted territory.",
+        "The company is venturing into uncharted waters."
+      ],
+      "synonyms": [
+        "unexplored",
+        "unknown"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "0fea86eb-ee5e-4709-ba29-2473b037c2bf",
+      "english": "uniform",
+      "translation": null,
+      "hebrew": "אחיד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The students wear a school uniform.",
+        "The soldiers were dressed in uniform."
+      ],
+      "synonyms": [
+        "standard",
+        "consistent"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "ec435d3a-a736-41bf-b8e6-4330605bfce9",
+      "english": "uniform",
+      "translation": null,
+      "hebrew": "תלבושת אחידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Each company has its own uniform.",
+        "The security guard was wearing a uniform."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "c07d8ed0-349a-46be-915e-594b36eece96",
+      "english": "unify",
+      "translation": null,
+      "hebrew": "לאחד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The president wants to unify the country.",
+        "The merger will unify the two companies."
+      ],
+      "synonyms": [
+        "merge",
+        "combine"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    }
+  ]
+}

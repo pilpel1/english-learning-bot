@@ -1,0 +1,557 @@
+{
+  "_meta": {
+    "chunk_number": 69,
+    "words_range": "amass-circulate",
+    "word_count": 30,
+    "start_index": 2040,
+    "end_index": 2069
+  },
+  "words": [
+    {
+      "word_id": "3f711901-4603-4f7f-9847-968d7da9481d",
+      "english": "amass",
+      "translation": null,
+      "hebrew": "לאסוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He amassed a fortune.",
+        "They amassed a large collection of books."
+      ],
+      "synonyms": [
+        "gather",
+        "collect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ca11647d-c5ee-490f-83f7-9e6a5896dbd7",
+      "english": "amaze",
+      "translation": null,
+      "hebrew": "להדהים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician amazed the audience.",
+        "The view from the top of the mountain amazed us."
+      ],
+      "synonyms": [
+        "astonish",
+        "surprise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "363f29dd-61d2-4a1d-9fb0-2a1606c4beac",
+      "english": "appeal",
+      "translation": null,
+      "hebrew": "לערער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to appeal the court's decision.",
+        "The lawyer will appeal the verdict."
+      ],
+      "synonyms": [
+        "challenge",
+        "protest"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "08506252-ad4b-4a0b-ab96-b79836d872e9",
+      "english": "appeal",
+      "translation": null,
+      "hebrew": "לפנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The charity is appealing for donations.",
+        "We need to appeal to the public for help."
+      ],
+      "synonyms": [
+        "plead",
+        "request"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "26b0d0ea-75fd-4cc6-b69e-22b4fe8b3b5b",
+      "english": "appeal",
+      "translation": null,
+      "hebrew": "משיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie has a wide appeal.",
+        "The song's appeal lies in its simplicity."
+      ],
+      "synonyms": [
+        "attraction",
+        "charm"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2975397e-eb5d-468c-b364-1ff92b614901",
+      "english": "applicant",
+      "translation": null,
+      "hebrew": "מועמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There were many applicants for the job.",
+        "The applicant was interviewed by the manager."
+      ],
+      "synonyms": [
+        "candidate",
+        " претендент"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2229b208-bce2-4d5e-bc7f-44a8ae36aed1",
+      "english": "arousing",
+      "translation": null,
+      "hebrew": "מעורר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The speech was arousing.",
+        "The movie was arousing."
+      ],
+      "synonyms": [
+        "stimulating",
+        "exciting"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5ed59882-dcbd-4b4a-b100-0dae60854839",
+      "english": "as many as",
+      "translation": null,
+      "hebrew": "ככל ש",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "As many as 100 people attended the meeting.",
+        "As many as 500 students study at the university."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ceac11d2-451d-43e0-97ba-5f271b26441c",
+      "english": "ascertain",
+      "translation": null,
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to ascertain the facts.",
+        "The police are trying to ascertain the truth."
+      ],
+      "synonyms": [
+        "determine",
+        "discover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7a57d07-8f7d-4879-af2f-28e51219f4c5",
+      "english": "aspiration",
+      "translation": null,
+      "hebrew": "שאיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has high aspirations.",
+        "Her aspiration is to become a doctor."
+      ],
+      "synonyms": [
+        "ambition",
+        "goal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78d72081-767f-4f74-a3a7-eb2e0f6194bb",
+      "english": "audit",
+      "translation": null,
+      "hebrew": "ביקורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is undergoing an audit.",
+        "The audit revealed some discrepancies."
+      ],
+      "synonyms": [
+        "inspection",
+        "review"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "389c7fbd-e3d8-49d9-b524-ecb721895616",
+      "english": "award",
+      "translation": null,
+      "hebrew": "פרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She won an award for her performance.",
+        "The company received an award for its innovation."
+      ],
+      "synonyms": [
+        "prize",
+        "honor"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b081c865-c0a7-4eba-af14-de7a1b18ccde",
+      "english": "bank",
+      "translation": null,
+      "hebrew": "בנק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to go to the bank.",
+        "She deposited the money in the bank."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "819cf8be-1df3-4aa4-96de-eb29b8b474e3",
+      "english": "bank",
+      "translation": null,
+      "hebrew": "גדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We sat on the bank of the river.",
+        "The boat was pulled up on the bank."
+      ],
+      "synonyms": [
+        "shore",
+        "coast"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "4595959b-059a-4621-8949-564f8649995f",
+      "english": "barrier",
+      "translation": null,
+      "hebrew": "מחסום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a language barrier.",
+        "The fence is a barrier to entry."
+      ],
+      "synonyms": [
+        "obstacle",
+        "hindrance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "83491b6c-7e06-40ab-bb20-1d6e222abb5c",
+      "english": "blank",
+      "translation": null,
+      "hebrew": "ריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The page was blank.",
+        "He gave me a blank look."
+      ],
+      "synonyms": [
+        "empty",
+        "vacant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2ab49e30-0e42-46e7-a7bc-c88cfc68f8e7",
+      "english": "boost",
+      "translation": null,
+      "hebrew": "לְעוֹדֵד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new law will boost the economy.",
+        "The team needs a boost of confidence."
+      ],
+      "synonyms": [
+        "improve",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e2c2fc36-cb58-4932-905e-d819604b6991",
+      "english": "broadcast",
+      "translation": null,
+      "hebrew": "לשדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The game will be broadcast live.",
+        "The news was broadcast on the radio."
+      ],
+      "synonyms": [
+        "transmit",
+        "air"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "f2f1b2fd-ae0f-4cb5-b650-9076da0ae9a3",
+      "english": "cage",
+      "translation": null,
+      "hebrew": "כלוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird was in a cage.",
+        "The lion was pacing in its cage."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8d7ade52-3494-481c-816b-cb9d49703429",
+      "english": "cancer",
+      "translation": null,
+      "hebrew": "סרטן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was diagnosed with cancer.",
+        "Cancer is a serious disease."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "555d3015-9937-45a2-9f25-f2a6262dc360",
+      "english": "capture",
+      "translation": null,
+      "hebrew": "ללכוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police captured the suspect.",
+        "The photographer captured the moment."
+      ],
+      "synonyms": [
+        "catch",
+        "seize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ebe19cc2-11bc-43b9-95bd-be5a964f6947",
+      "english": "cargo",
+      "translation": null,
+      "hebrew": "מטען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ship was carrying cargo.",
+        "The cargo was unloaded at the port."
+      ],
+      "synonyms": [
+        "freight",
+        "load"
+      ],
+      "topic_tags": [
+        "general",
+        "transport"
+      ]
+    },
+    {
+      "word_id": "f2273a30-710d-4221-bffa-bebbc812a15e",
+      "english": "carve",
+      "translation": null,
+      "hebrew": "לגלף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He carved a statue out of wood.",
+        "The artist carved his name into the stone."
+      ],
+      "synonyms": [
+        "sculpt",
+        "engrave"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "b23ed66d-220d-494d-bd67-705d6f5dd472",
+      "english": "cemetery",
+      "translation": null,
+      "hebrew": "בית קברות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was buried in the cemetery.",
+        "We visited the cemetery to pay our respects."
+      ],
+      "synonyms": [
+        "graveyard",
+        "burial ground"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c075386-406b-4290-8c96-166dbf13bfc9",
+      "english": "certify",
+      "translation": null,
+      "hebrew": "לאשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The document was certified by a notary.",
+        "The product is certified organic."
+      ],
+      "synonyms": [
+        "verify",
+        "validate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1ce7efac-bbb5-4cb2-b0dd-1d5d6e7d5fd5",
+      "english": "chapter",
+      "translation": null,
+      "hebrew": "פרק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Read chapter 3 for homework.",
+        "The book has 10 chapters."
+      ],
+      "synonyms": [
+        "section",
+        "part"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "31eac272-4808-470a-8e0f-8f87714609ca",
+      "english": "church",
+      "translation": null,
+      "hebrew": "כנסייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We went to church on Sunday.",
+        "The church is a beautiful building."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "075279e9-bb44-4168-8861-e00c0782fd7c",
+      "english": "circulate",
+      "translation": null,
+      "hebrew": "להפיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The blood circulates through the body.",
+        "The news circulated quickly."
+      ],
+      "synonyms": [
+        "spread",
+        "distribute"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a4d36d21-f2e6-42ef-861c-1ef71795e68b",
+      "english": "circulate",
+      "translation": null,
+      "hebrew": "להסתובב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The guests circulated around the room.",
+        "The rumors began to circulate."
+      ],
+      "synonyms": [
+        "wander",
+        "drift"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

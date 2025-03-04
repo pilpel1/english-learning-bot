@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 15,
+    "words_range": "block-by",
+    "word_count": 30,
+    "start_index": 420,
+    "end_index": 449
+  },
+  "words": [
+    {
+      "word_id": "aebc1aaf-2844-460c-81c8-53fe7789370f",
+      "english": "block",
+      "translation": "לחסום",
+      "hebrew": "לחסום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The road was blocked by a fallen tree.",
+        "He blocked the ball with his hand."
+      ],
+      "synonyms": ["obstruct", "bar"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "5f32201e-2ecb-410d-b9e5-acd89cfbb533",
+      "english": "block",
+      "translation": "בלוק",
+      "hebrew": "בלוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They live on the same block.",
+        "The building is made of concrete blocks."
+      ],
+      "synonyms": ["section", "area"],
+      "topic_tags": ["general", "structure"]
+    },
+    {
+      "word_id": "711bc402-d694-4e68-be09-dcc2b198656f",
+      "english": "blood",
+      "translation": "דם",
+      "hebrew": "דם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He lost a lot of blood in the accident.",
+        "Blood is essential for life."
+      ],
+      "synonyms": ["plasma", "hemoglobin"],
+      "topic_tags": ["general", "biology"]
+    },
+    {
+      "word_id": "25c3b6e1-066c-4260-abe3-1fc22bc1de55",
+      "english": "blood vessel",
+      "translation": "כלי דם",
+      "hebrew": "כלי דם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The blood vessel was damaged.",
+        "Blood vessels carry blood throughout the body."
+      ],
+      "synonyms": ["vein", "artery"],
+      "topic_tags": ["general", "biology"]
+    },
+    {
+      "word_id": "c11ba83d-2de8-4be9-be18-8a562ead5df6",
+      "english": "blow, blew",
+      "translation": "לנשוף",
+      "hebrew": "לנשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He blew out the candles.",
+        "The wind blew strongly last night."
+      ],
+      "synonyms": ["puff", "exhale"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "db814883-3304-4eef-8619-ac16d32a950e",
+      "english": "blow, blew",
+      "translation": "מכה",
+      "hebrew": "מכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He received a blow to the head.",
+        "The news was a heavy blow to her."
+      ],
+      "synonyms": ["hit", "strike"],
+      "topic_tags": ["general", "impact"]
+    },
+    {
+      "word_id": "ddef1ce1-e1e2-4450-8ca5-c4dadf71c4ff",
+      "english": "boat",
+      "translation": "סירה",
+      "hebrew": "סירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They sailed the boat across the lake.",
+        "The boat is anchored at the dock."
+      ],
+      "synonyms": ["vessel", "craft"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "92151c5b-c58d-4922-9619-93771b3e4de5",
+      "english": "body",
+      "translation": "גוף",
+      "hebrew": "גוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The human body is complex.",
+        "She exercises to keep her body fit."
+      ],
+      "synonyms": ["form", "figure"],
+      "topic_tags": ["general", "anatomy"]
+    },
+    {
+      "word_id": "ff9c6dff-04a2-4269-8393-54242cd8869b",
+      "english": "bone",
+      "translation": "עצם",
+      "hebrew": "עצם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He broke a bone in his arm.",
+        "Bones provide structure to the body."
+      ],
+      "synonyms": ["skeleton", "osseous"],
+      "topic_tags": ["general", "anatomy"]
+    },
+    {
+      "word_id": "e154f542-2a99-4ed3-ae1d-aacdd2adb305",
+      "english": "border",
+      "translation": "גבול",
+      "hebrew": "גבול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They crossed the border into Canada.",
+        "The border between the two countries is heavily guarded."
+      ],
+      "synonyms": ["boundary", "edge"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "8494d255-f90d-4a3c-aa2a-3a279fa6ce73",
+      "english": "boring",
+      "translation": "משעמם",
+      "hebrew": "משעמם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The lecture was boring.",
+        "He found the movie boring."
+      ],
+      "synonyms": ["dull", "tedious"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "46f8e8af-7889-42eb-a5b3-1b425a28face",
+      "english": "bottle",
+      "translation": "בקבוק",
+      "hebrew": "בקבוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She drank a bottle of water.",
+        "The bottle is made of glass."
+      ],
+      "synonyms": ["flask", "container"],
+      "topic_tags": ["general", "container"]
+    },
+    {
+      "word_id": "7d73224c-338c-4cf5-a1e1-8f25ffcc905d",
+      "english": "bottom",
+      "translation": "תחתית",
+      "hebrew": "תחתית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The keys are at the bottom of the bag.",
+        "He reached the bottom of the hill."
+      ],
+      "synonyms": ["base", "foot"],
+      "topic_tags": ["general", "position"]
+    },
+    {
+      "word_id": "61c03594-e69c-4c0e-a3b7-c53264f2afe2",
+      "english": "bottom",
+      "translation": "תחתון",
+      "hebrew": "תחתון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The bottom shelf is empty.",
+        "He is at the bottom of the class."
+      ],
+      "synonyms": ["lowest", "inferior"],
+      "topic_tags": ["general", "position"]
+    },
+    {
+      "word_id": "8972f29c-6140-4b33-a9bb-3a3d0d1aa64a",
+      "english": "bought",
+      "translation": "קנה",
+      "hebrew": "קנה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She bought a new dress.",
+        "He bought a car last week."
+      ],
+      "synonyms": ["purchased", "acquired"],
+      "topic_tags": ["general", "transaction"]
+    },
+    {
+      "word_id": "3490dd72-2e83-4929-bd63-a38a59527ba4",
+      "english": "brain",
+      "translation": "מוח",
+      "hebrew": "מוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The brain controls all body functions.",
+        "He has a sharp brain."
+      ],
+      "synonyms": ["mind", "intellect"],
+      "topic_tags": ["general", "anatomy"]
+    },
+    {
+      "word_id": "8cbd1a8b-f767-4cd0-9e42-3c1328fa870b",
+      "english": "brainwash",
+      "translation": "לשטוף מוח",
+      "hebrew": "לשטוף מוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They tried to brainwash him into joining the cult.",
+        "The propaganda was used to brainwash the public."
+      ],
+      "synonyms": ["indoctrinate", "condition"],
+      "topic_tags": ["general", "psychology"]
+    },
+    {
+      "word_id": "5cd7582b-4154-4bee-99a5-a37523e385e5",
+      "english": "brave",
+      "translation": "אמיץ",
+      "hebrew": "אמיץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The brave soldier received a medal.",
+        "She made a brave decision."
+      ],
+      "synonyms": ["courageous", "valiant"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "c4db0781-5f8b-4073-9ef1-66d9b5d55da9",
+      "english": "bread",
+      "translation": "לחם",
+      "hebrew": "לחם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She baked fresh bread.",
+        "Bread is a staple food."
+      ],
+      "synonyms": ["loaf", "baked good"],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "34b19b57-d973-4645-92b1-39e2aba55278",
+      "english": "break",
+      "translation": "לשבור",
+      "hebrew": "לשבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He broke the glass by accident.",
+        "She needs a break from work."
+      ],
+      "synonyms": ["shatter", "fracture"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "0600f2f8-6393-4020-84c6-92b6d04cf95a",
+      "english": "breathe",
+      "translation": "לנשום",
+      "hebrew": "לנשום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He found it hard to breathe in the smoke.",
+        "She took a deep breath and relaxed."
+      ],
+      "synonyms": ["inhale", "exhale"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "df452502-5a40-46cb-a23d-43df2ddf97e5",
+      "english": "bridge",
+      "translation": "גשר",
+      "hebrew": "גשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They crossed the bridge over the river.",
+        "The bridge connects the two cities."
+      ],
+      "synonyms": ["overpass", "viaduct"],
+      "topic_tags": ["general", "structure"]
+    },
+    {
+      "word_id": "8e3bfc19-5691-49a0-9806-d29e4250ac75",
+      "english": "broad",
+      "translation": "רחב",
+      "hebrew": "רחב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The street is broad and spacious.",
+        "He has a broad knowledge of history."
+      ],
+      "synonyms": ["wide", "extensive"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "6aeafd14-5722-477c-90f3-e77f5561d271",
+      "english": "budget",
+      "translation": "תקציב",
+      "hebrew": "תקציב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is over budget.",
+        "They need to plan their budget carefully."
+      ],
+      "synonyms": ["financial plan", "allocation"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "72fe616c-ecc6-403e-b3e0-9749df7e140f",
+      "english": "build",
+      "translation": "לבנות",
+      "hebrew": "לבנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They plan to build a new house.",
+        "He built a model airplane."
+      ],
+      "synonyms": ["construct", "erect"],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "4d7d4f09-24d9-4540-a538-0fc613c03361",
+      "english": "build",
+      "translation": "מבנה",
+      "hebrew": "מבנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The build of the car is solid.",
+        "He has a strong build."
+      ],
+      "synonyms": ["structure", "form"],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "c17f847e-d839-4d21-be13-b45ca67d9c61",
+      "english": "building",
+      "translation": "בניין",
+      "hebrew": "בניין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is under construction.",
+        "They work in a tall office building."
+      ],
+      "synonyms": ["edifice", "structure"],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "7802587d-b7b6-404f-bdde-a74b055f462a",
+      "english": "built",
+      "translation": "בנוי",
+      "hebrew": "בנוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is well built.",
+        "He is built like an athlete."
+      ],
+      "synonyms": ["constructed", "formed"],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "db617efa-5260-45f9-846a-563d1af50bff",
+      "english": "bullet",
+      "translation": "כדור",
+      "hebrew": "כדור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bullet hit the target.",
+        "He loaded the gun with bullets."
+      ],
+      "synonyms": ["projectile", "slug"],
+      "topic_tags": ["general", "weapon"]
+    },
+    {
+      "word_id": "dcc29332-925b-4414-98fb-b38e0731077c",
+      "english": "by",
+      "translation": "על ידי",
+      "hebrew": "על ידי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The book was written by her.",
+        "He stood by the window."
+      ],
+      "synonyms": ["via", "through"],
+      "topic_tags": ["general", "preposition"]
+    }
+  ]
+}

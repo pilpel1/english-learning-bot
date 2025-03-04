@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 128,
+    "words_range": "denominator-fashion",
+    "word_count": 30,
+    "start_index": 3810,
+    "end_index": 3839
+  },
+  "words": [
+    {
+      "word_id": "7f625197-7041-4159-a4b1-e24278ba281e",
+      "english": "denominator",
+      "translation": null,
+      "hebrew": "מכנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The denominator of the fraction is 4.",
+        "The common denominator is the key."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "2163747f-8462-49ec-97d6-7574cb897ab0",
+      "english": "dental",
+      "translation": null,
+      "hebrew": "שיניים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has dental problems.",
+        "Dental hygiene is important."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "d2c8919c-160d-4820-a4e0-74f1bb67176d",
+      "english": "dentist",
+      "translation": null,
+      "hebrew": "רופא שיניים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have an appointment with the dentist.",
+        "The dentist checked my teeth."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "6daf6a71-8ea5-4165-b162-2f81260545ed",
+      "english": "diary",
+      "translation": null,
+      "hebrew": "יומן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She writes in her diary every day.",
+        "He kept a secret diary."
+      ],
+      "synonyms": ["journal"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a5a9415d-5dab-45c2-830b-f97ecba924f5",
+      "english": "dictator",
+      "translation": null,
+      "hebrew": "דיקטטור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dictator ruled the country with an iron fist.",
+        "He is a ruthless dictator."
+      ],
+      "synonyms": ["autocrat", "despot"],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "008408ed-3a55-4ee4-ba99-424b4037e91b",
+      "english": "dilemma",
+      "translation": null,
+      "hebrew": "דילמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He faced a difficult dilemma.",
+        "She was in a moral dilemma."
+      ],
+      "synonyms": ["predicament", "quandary"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ba3bc686-b786-4adc-a684-687bc3e35619",
+      "english": "diurnal",
+      "translation": null,
+      "hebrew": "יומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Diurnal animals are active during the day.",
+        "He had a diurnal routine."
+      ],
+      "synonyms": ["daily", "daytime"],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "8aebb30f-98a1-448f-8e5c-5171aef8260b",
+      "english": "divorce",
+      "translation": null,
+      "hebrew": "גירושין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They got a divorce.",
+        "The divorce was amicable."
+      ],
+      "synonyms": ["dissolution"],
+      "topic_tags": ["general", "relationships"]
+    },
+    {
+      "word_id": "2050175d-d19d-4b7c-87aa-4f13d736d56e",
+      "english": "doorstep",
+      "translation": null,
+      "hebrew": "סף דלת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He left the package on the doorstep.",
+        "She found a baby on her doorstep."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "c72df5eb-d30c-40ec-9524-8a5b1a735ed4",
+      "english": "dovecote",
+      "translation": null,
+      "hebrew": "שובך יונים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dovecote housed many pigeons.",
+        "The dovecote is in the garden."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "786441ee-330d-4d4e-ade4-cb7f252dc0fb",
+      "english": "dust",
+      "translation": null,
+      "hebrew": "אבק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was dust on the furniture.",
+        "The wind blew dust in their faces."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f4b6b3b2-01b7-4371-85f6-9140a375a52b",
+      "english": "Dutch",
+      "translation": null,
+      "hebrew": "הולנדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He speaks Dutch.",
+        "They are Dutch citizens."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "language", "geography"]
+    },
+    {
+      "word_id": "710e592e-9afe-42da-86dc-c72774907184",
+      "english": "dwarf",
+      "translation": null,
+      "hebrew": "גמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fairytale featured dwarves.",
+        "He is a dwarf."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "mythology"]
+    },
+    {
+      "word_id": "8bbdb56a-5dfb-4bfc-8bc6-64557179292a",
+      "english": "dwindle",
+      "translation": null,
+      "hebrew": "להתמעט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The crowd dwindled as it started to rain.",
+        "Their resources dwindled."
+      ],
+      "synonyms": ["diminish", "decrease"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3a158c65-cca0-4e68-a0bf-0231c018651c",
+      "english": "eagle",
+      "translation": null,
+      "hebrew": "נשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The eagle soared through the sky.",
+        "The eagle is a symbol of freedom."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "f2bbc177-4b58-40f7-abbf-bb055c33913d",
+      "english": "echo",
+      "translation": null,
+      "hebrew": "הד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They heard an echo in the canyon.",
+        "His words echoed in her mind."
+      ],
+      "synonyms": ["reverberation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "762549d2-af09-43f8-8385-c8bbb7d190e6",
+      "english": "edible",
+      "translation": null,
+      "hebrew": "אכיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The mushrooms are edible.",
+        "The fruit is edible."
+      ],
+      "synonyms": ["eatable"],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "8295f93e-0d3d-46b4-a8bd-44ffdfbb5b66",
+      "english": "eel",
+      "translation": null,
+      "hebrew": "צלופח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The eel swam in the water.",
+        "They ate grilled eel."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "5f229134-4848-4291-8e86-baa001e893df",
+      "english": "elephant",
+      "translation": null,
+      "hebrew": "פיל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The elephant has a long trunk.",
+        "Elephants are very intelligent animals."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "178d217b-3227-45aa-98b2-1a8991adead6",
+      "english": "envelope",
+      "translation": null,
+      "hebrew": "מעטפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She put the letter in an envelope.",
+        "Write the address on the envelope."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "67e63485-64f2-4cf8-a7d8-ae76d359f11c",
+      "english": "exotic",
+      "translation": null,
+      "hebrew": "אקזוטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They traveled to an exotic island.",
+        "He has exotic tastes."
+      ],
+      "synonyms": ["foreign", "unusual"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a189c2b8-eedd-41bf-b498-f9fa0e21df1b",
+      "english": "explosive",
+      "translation": null,
+      "hebrew": "נפיץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The bomb was explosive.",
+        "The situation is explosive."
+      ],
+      "synonyms": ["volatile"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8a21abb1-2acf-40b2-81dd-c328e5578214",
+      "english": "fairy",
+      "translation": null,
+      "hebrew": "פיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Fairies are magical creatures.",
+        "The story is about a fairy."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "mythology"]
+    },
+    {
+      "word_id": "f9bf2a5d-c588-49d5-a477-9c922571eb01",
+      "english": "fairytale",
+      "translation": null,
+      "hebrew": "אגדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The story is a fairytale.",
+        "She had a fairytale wedding."
+      ],
+      "synonyms": ["folktale"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "db2f6c77-9173-4d2d-951f-177991197ba7",
+      "english": "fan",
+      "translation": null,
+      "hebrew": "מאוורר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Turn on the fan.",
+        "The fan kept her cool."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "72538a65-c542-4407-bc34-46accd28359b",
+      "english": "fan",
+      "translation": null,
+      "hebrew": "מעריץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a big fan of the band.",
+        "The fans cheered for their team."
+      ],
+      "synonyms": ["admirer"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "dbff4233-22a8-4335-9f41-c9803ee8e9d2",
+      "english": "fancy",
+      "translation": null,
+      "hebrew": "מפואר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a fancy house.",
+        "She wore a fancy dress."
+      ],
+      "synonyms": ["elaborate", "ornate", "luxurious"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "726e1bcc-09ec-4059-93b8-7825917c6504",
+      "english": "fancy",
+      "translation": null,
+      "hebrew": "לרצות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you fancy a cup of coffee?",
+        "He fancied her."
+      ],
+      "synonyms": ["desire", "like"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e69f2701-12fb-491d-afac-b3d92f23cd02",
+      "english": "fashion",
+      "translation": null,
+      "hebrew": "אופנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is interested in fashion.",
+        "The latest fashion trends."
+      ],
+      "synonyms": ["style", "trend"],
+      "topic_tags": ["general", "culture"]
+    },
+    {
+      "word_id": "2461921f-11d9-40e1-bb12-7ae609e2ca03",
+      "english": "fashion",
+      "translation": null,
+      "hebrew": "לעצב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They fashioned a raft from logs.",
+        "He fashioned a sculpture from clay."
+      ],
+      "synonyms": ["create", "mold"],
+      "topic_tags": ["general", "arts"]
+    }
+  ]
+}

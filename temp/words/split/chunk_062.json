@@ -1,0 +1,576 @@
+{
+  "_meta": {
+    "chunk_number": 62,
+    "words_range": "monumental-period",
+    "word_count": 30,
+    "start_index": 1830,
+    "end_index": 1859
+  },
+  "words": [
+    {
+      "word_id": "06a5a11f-f84a-4de7-9117-1a4da0da36ea",
+      "english": "monumental",
+      "translation": null,
+      "hebrew": "עצום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The construction of the bridge was a monumental achievement.",
+        "The company made a monumental mistake."
+      ],
+      "synonyms": [
+        "huge",
+        "massive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b5d05095-b556-4654-afcc-6a875c5d39b7",
+      "english": "negotiate",
+      "translation": null,
+      "hebrew": "לנהל משא ומתן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is negotiating a new contract with the union.",
+        "They negotiated a price for the car."
+      ],
+      "synonyms": [
+        "bargain",
+        "mediate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7fe052a9-bc2c-460a-baa4-163eb1d2694e",
+      "english": "negotiation",
+      "translation": null,
+      "hebrew": "משא ומתן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The negotiation process took several weeks.",
+        "They reached a successful negotiation."
+      ],
+      "synonyms": [
+        "bargaining",
+        "mediation"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "bf7d6d8d-0048-4f81-9c71-f7cc6e0409b0",
+      "english": "nominated",
+      "translation": null,
+      "hebrew": "מועמד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was nominated for an Academy Award.",
+        "She was nominated as the head of the committee."
+      ],
+      "synonyms": [
+        "appointed",
+        "selected"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a95227f6-58b1-45f1-9f3c-2869e18e80b1",
+      "english": "nuclear",
+      "translation": null,
+      "hebrew": "גרעיני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has a nuclear power plant.",
+        "Nuclear weapons are a threat to world peace."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "ac5c5fe1-7555-468a-8a56-38076eb637b0",
+      "english": "observer",
+      "translation": null,
+      "hebrew": "צופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an observer at the United Nations.",
+        "The police are looking for observers to the accident."
+      ],
+      "synonyms": [
+        "spectator",
+        "watcher"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "11515745-fc25-4835-8ae5-d11250f25e0f",
+      "english": "obsolete",
+      "translation": null,
+      "hebrew": "מיושן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The technology is now obsolete.",
+        "The old law is obsolete and needs to be updated."
+      ],
+      "synonyms": [
+        "outdated",
+        "antiquated"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "4dea59cd-183b-4ed1-87b1-8cfb8dfb17f9",
+      "english": "occupy",
+      "translation": null,
+      "hebrew": "לכבוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army occupied the city.",
+        "The protesters occupied the park."
+      ],
+      "synonyms": [
+        "invade",
+        "seize"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "bc9ebfe5-c0b4-4a70-b870-d6c2ed561bc5",
+      "english": "occupy",
+      "translation": null,
+      "hebrew": "לתפוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The desk occupies too much space in the room.",
+        "She occupies a high position in the company."
+      ],
+      "synonyms": [
+        "fill",
+        "take up"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0896c76f-c92d-4985-a4f9-75e92fc22a02",
+      "english": "occurrence",
+      "translation": null,
+      "hebrew": "התרחשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The occurrence of the earthquake caused widespread damage.",
+        "Such occurrences are rare."
+      ],
+      "synonyms": [
+        "event",
+        "incident"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7122846d-c19d-4f26-a436-2900008c5721",
+      "english": "odd",
+      "translation": null,
+      "hebrew": "מוזר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has an odd sense of humor.",
+        "That's an odd thing to say."
+      ],
+      "synonyms": [
+        "strange",
+        "peculiar"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "35a17ef0-b3b7-45b1-92f3-513e243ab429",
+      "english": "odd",
+      "translation": null,
+      "hebrew": "אי זוגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "3, 5, and 7 are odd numbers.",
+        "The house has an odd number of rooms."
+      ],
+      "synonyms": [
+        "uneven"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "2c4bad60-c305-46e8-af33-9a452639038d",
+      "english": "omission",
+      "translation": null,
+      "hebrew": "השמטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The omission of his name from the list was a mistake.",
+        "There were several omissions in the report."
+      ],
+      "synonyms": [
+        "exclusion",
+        "oversight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "13687f95-b257-4548-92cf-a9aa232824ed",
+      "english": "omit",
+      "translation": null,
+      "hebrew": "להשמיט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please omit any personal details from your resume.",
+        "You can omit this sentence if you want."
+      ],
+      "synonyms": [
+        "exclude",
+        "leave out"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbe1cfda-2fa4-4cff-85c4-01d5e9f33726",
+      "english": "opinion",
+      "translation": null,
+      "hebrew": "דעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "In my opinion, the movie was boring.",
+        "Everyone has a right to their own opinion."
+      ],
+      "synonyms": [
+        "view",
+        "belief"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "37ab9885-38dd-4ebd-8957-67002c4feb32",
+      "english": "opponent",
+      "translation": null,
+      "hebrew": "יריב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a strong opponent in the election.",
+        "The boxer knocked out his opponent."
+      ],
+      "synonyms": [
+        "rival",
+        "adversary"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "191a20ac-2b82-4902-bd7d-97a00ea8b6c3",
+      "english": "opportunity",
+      "translation": null,
+      "hebrew": "הזדמנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a great opportunity to travel the world.",
+        "Don't miss this opportunity."
+      ],
+      "synonyms": [
+        "chance",
+        "occasion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f42172f8-77fa-4de9-8978-e9a4b8f65826",
+      "english": "organic",
+      "translation": null,
+      "hebrew": "אורגני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She buys organic fruits and vegetables.",
+        "The farm uses organic farming methods."
+      ],
+      "synonyms": [
+        "natural",
+        "biological"
+      ],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "bb79e67a-8ab4-4bc4-9a97-5f79941e3b12",
+      "english": "overlaps",
+      "translation": null,
+      "hebrew": "חפיפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two projects overlaps in some areas.",
+        "The meeting overlaps with my lunch break."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9b131df2-e2e4-4ff3-bbbf-595ec394d9a8",
+      "english": "own",
+      "translation": null,
+      "hebrew": "שלי",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to have a house of my own.",
+        "He made the decision on his own."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c97f708b-9b8f-4716-86c8-8d34bb9de15a",
+      "english": "own",
+      "translation": null,
+      "hebrew": "להחזיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She owns a successful business.",
+        "He owns several properties."
+      ],
+      "synonyms": [
+        "possess",
+        "have"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd16c4e9-0a4a-46a9-9069-7effb693c956",
+      "english": "owner",
+      "translation": null,
+      "hebrew": "בעלים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the owner of the company.",
+        "The owner of the dog is responsible for its behavior."
+      ],
+      "synonyms": [
+        "proprietor",
+        "holder"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "133ec70b-1e57-4171-b43b-4a7483ac877d",
+      "english": "paramount",
+      "translation": null,
+      "hebrew": "עליון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Safety is of paramount importance.",
+        "Education is paramount to success."
+      ],
+      "synonyms": [
+        "supreme",
+        "chief"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "abfd7d12-208a-4fd5-b7ba-55eb4d60c054",
+      "english": "pass",
+      "translation": null,
+      "hebrew": "לעבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He passed the exam with flying colors.",
+        "The car passed us on the highway."
+      ],
+      "synonyms": [
+        "succeed",
+        "go by"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ceba0db-df69-4242-aa8a-bb8d056741df",
+      "english": "pass",
+      "translation": null,
+      "hebrew": "מסירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a great pass in the basketball game.",
+        "She has a pass to enter the building."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "09d83187-c0d2-4ece-a360-30c0c7a8f819",
+      "english": "pedestrian",
+      "translation": null,
+      "hebrew": "הולך רגל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Pedestrians should use the crosswalk.",
+        "The city is pedestrian-friendly."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transport"
+      ]
+    },
+    {
+      "word_id": "0a877aae-0188-4ad9-aea5-08c5b76d8966",
+      "english": "perhaps",
+      "translation": null,
+      "hebrew": "אולי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Perhaps we should go home now.",
+        "Perhaps he is right."
+      ],
+      "synonyms": [
+        "maybe",
+        "possibly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a4eb82be-4d2e-4a15-ad0b-38a7cbaa983b",
+      "english": "period",
+      "translation": null,
+      "hebrew": "תקופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Victorian period was a time of great change.",
+        "The course covers the period from 1900 to 1950."
+      ],
+      "synonyms": [
+        "era",
+        "age"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "346628a8-1fe7-42b8-8075-7fbfc3a4edb9",
+      "english": "period",
+      "translation": null,
+      "hebrew": "נקודה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Put a period at the end of the sentence.",
+        "The period is used to indicate the end of a sentence."
+      ],
+      "synonyms": [
+        "full stop"
+      ],
+      "topic_tags": [
+        "general",
+        "grammar"
+      ]
+    },
+    {
+      "word_id": "06e938cf-bb0b-4d0d-8961-1822ae853aa8",
+      "english": "period",
+      "translation": null,
+      "hebrew": "וסת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a regular menstrual period.",
+        "The period can cause discomfort."
+      ],
+      "synonyms": [
+        "menstruation"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

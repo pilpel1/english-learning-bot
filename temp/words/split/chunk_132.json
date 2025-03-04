@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 132,
+    "words_range": "marble-paddle",
+    "word_count": 30,
+    "start_index": 3930,
+    "end_index": 3959
+  },
+  "words": [
+    {
+      "word_id": "d6dff28f-38e7-46a1-9720-763b54f73580",
+      "english": "marble",
+      "translation": null,
+      "hebrew": "גולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He played with marbles.",
+        "She lost her marble."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "games"]
+    },
+    {
+      "word_id": "12707470-3c4a-4dfb-9885-ee4ccce4bdee",
+      "english": "marsupial",
+      "translation": null,
+      "hebrew": "חיית כיס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A kangaroo is a marsupial.",
+        "Koalas are marsupials."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "cc3eb5d7-162b-422a-8a4f-49b97a457e3f",
+      "english": "mathematician",
+      "translation": null,
+      "hebrew": "מתמטיקאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous mathematician.",
+        "She studied with a mathematician."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "science"]
+    },
+    {
+      "word_id": "3f376be2-9ba9-4e47-bba5-a439c0ff8e27",
+      "english": "miracle",
+      "translation": null,
+      "hebrew": "נס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a miracle that they survived.",
+        "She performed a miracle."
+      ],
+      "synonyms": ["wonder"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "902a88b6-66a2-42ec-93e8-f1bcb92c7a38",
+      "english": "mock",
+      "translation": null,
+      "hebrew": "ללעוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They mocked him for his accent.",
+        "Don't mock her."
+      ],
+      "synonyms": ["ridicule", "tease"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4ba7bdaf-15c5-4c85-a160-400d1ed84859",
+      "english": "monk",
+      "translation": null,
+      "hebrew": "נזיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The monk lived in a monastery.",
+        "He became a monk."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "religion"]
+    },
+    {
+      "word_id": "39331f93-03ac-4b02-87a3-cf73e811b8ee",
+      "english": "monkey",
+      "translation": null,
+      "hebrew": "קוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The monkey swung from the trees.",
+        "The monkey ate a banana."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "b1c871a5-655c-44fe-af3c-0553055863d7",
+      "english": "monster",
+      "translation": null,
+      "hebrew": "מפלצת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The monster was scary.",
+        "He is a monster."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "mythology"]
+    },
+    {
+      "word_id": "990394ce-6247-4627-a750-2916ec32d124",
+      "english": "mood",
+      "translation": null,
+      "hebrew": "מצב רוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is in a good mood.",
+        "He is in a bad mood."
+      ],
+      "synonyms": ["temper", "feeling"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "20d5e5b1-74ff-4c85-9a97-ccdc899db9c5",
+      "english": "mosquito",
+      "translation": null,
+      "hebrew": "יתוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mosquito bit him.",
+        "Mosquitoes are annoying."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "01c47c72-8e93-4200-9333-e7a1d34a3bc1",
+      "english": "moth",
+      "translation": null,
+      "hebrew": "עש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The moth flew into the light.",
+        "Moths eat clothes."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "24a3e82f-6d83-4b2f-ad34-b460f70e096e",
+      "english": "mouse (mice)",
+      "translation": null,
+      "hebrew": "עכבר (עכברים)",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a mouse in the house.",
+        "Mice are small rodents."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "3124d9c9-7e96-42ba-99b8-c620a550ad16",
+      "english": "mouth",
+      "translation": null,
+      "hebrew": "פה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Open your mouth.",
+        "She closed her mouth."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "94812131-3ea1-42b0-a4d4-5467596ba5bb",
+      "english": "nausea",
+      "translation": null,
+      "hebrew": "בחילות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt nausea.",
+        "He had a wave of nausea."
+      ],
+      "synonyms": ["sickness"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "983604ee-6ff6-4a61-b630-4bca1568ae30",
+      "english": "nickname",
+      "translation": null,
+      "hebrew": "כינוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His nickname is Bob.",
+        "She gave him a nickname."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "aa0e28a3-de5c-4431-9739-979443baafe0",
+      "english": "no longer",
+      "translation": null,
+      "hebrew": "לא עוד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is no longer here.",
+        "She no longer works there."
+      ],
+      "synonyms": ["not anymore"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e68e4d9f-8ec5-4008-bb6f-b966c6ba5f73",
+      "english": "numerator",
+      "translation": null,
+      "hebrew": "מונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The numerator of the fraction is 3.",
+        "Divide the numerator by the denominator."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "bcb5537b-7ae6-4c55-a81f-9117ab0cc71b",
+      "english": "numeric",
+      "translation": null,
+      "hebrew": "מספרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They used numeric codes.",
+        "The data is numeric."
+      ],
+      "synonyms": ["numerical"],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "b33b02cc-afde-4dcf-a4ad-afa6810fd455",
+      "english": "nut",
+      "translation": null,
+      "hebrew": "אגוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She ate a nut.",
+        "He cracked a nut."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "bdedb289-cb4e-42c3-97ec-eb3465fff09a",
+      "english": "octopus",
+      "translation": null,
+      "hebrew": "תמנון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The octopus has eight arms.",
+        "The octopus is a clever animal."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "af978dec-8998-4cab-89e3-e186b9b7ae05",
+      "english": "ode",
+      "translation": null,
+      "hebrew": "אודה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He wrote an ode to nature.",
+        "The poet composed an ode."
+      ],
+      "synonyms": ["poem", "song"],
+      "topic_tags": ["general", "literature"]
+    },
+    {
+      "word_id": "9b589de4-e83f-40dd-88d2-19e5c2435ba9",
+      "english": "olive",
+      "translation": null,
+      "hebrew": "זית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She ate an olive.",
+        "Olive oil is healthy."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "5b8c1820-74ce-4f2e-8c16-06291d4292bf",
+      "english": "onion",
+      "translation": null,
+      "hebrew": "בצל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She chopped an onion.",
+        "The soup contains onion."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "1b70f52d-71d4-4b91-bd35-e1ff4cddab58",
+      "english": "orchestra",
+      "translation": null,
+      "hebrew": "תזמורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The orchestra played beautiful music.",
+        "He is a member of the orchestra."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "891dd195-4065-41bd-8f29-26579e318bec",
+      "english": "orchestrate",
+      "translation": null,
+      "hebrew": "לתזמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He orchestrated the event.",
+        "The general orchestrated the attack."
+      ],
+      "synonyms": ["arrange", "coordinate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4738061a-350d-4bba-a447-808caab74ee0",
+      "english": "oven",
+      "translation": null,
+      "hebrew": "תנור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She baked a cake in the oven.",
+        "Preheat the oven to 350 degrees."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "67cc83fc-7cdf-4a34-845a-494be960f083",
+      "english": "overhaul",
+      "translation": null,
+      "hebrew": "לשפץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They overhauled the engine.",
+        "The company needs an overhaul."
+      ],
+      "synonyms": ["renovate", "remodel", "reconstruct"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "28b33c68-1de0-42d8-85ff-aa980de6e709",
+      "english": "pad",
+      "translation": null,
+      "hebrew": "רפידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She used a cleaning pad.",
+        "The pad protects the furniture."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cf6f3d21-bb36-4f8a-8092-90a6c1e76122",
+      "english": "paddle",
+      "translation": null,
+      "hebrew": "משוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They used a paddle to steer the canoe.",
+        "He held the paddle tightly."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "1694a67b-a0f8-4d22-9808-7e980db9594c",
+      "english": "paddle",
+      "translation": null,
+      "hebrew": "לחתור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They paddled the canoe.",
+        "She paddled in the pool."
+      ],
+      "synonyms": ["row"],
+      "topic_tags": ["general", "sports"]
+    }
+  ]
+}

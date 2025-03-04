@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 125,
+    "words_range": "unwilling-actress",
+    "word_count": 30,
+    "start_index": 3720,
+    "end_index": 3749
+  },
+  "words": [
+    {
+      "word_id": "310cdb1f-a8b6-4271-a8aa-da3fc50b7087",
+      "english": "unwilling",
+      "translation": null,
+      "hebrew": "לא מוכן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was unwilling to help.",
+        "She was unwilling to forgive him."
+      ],
+      "synonyms": ["reluctant", "hesitant", "disinclined"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5e6ddeed-a025-44a8-9c52-3c4a4dbc639f",
+      "english": "upheaval",
+      "translation": null,
+      "hebrew": "מהפך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The revolution caused a great upheaval.",
+        "The company went through a major upheaval."
+      ],
+      "synonyms": ["disruption", "turmoil", "revolution"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8a6dda16-64e1-4d9c-898e-9e95f54ebe06",
+      "english": "uproar",
+      "translation": null,
+      "hebrew": "מהומה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The news caused an uproar.",
+        "There was an uproar in the crowd."
+      ],
+      "synonyms": ["commotion", "tumult", "disturbance"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6c808f12-6440-40fe-8b42-be7100a4bad1",
+      "english": "urine",
+      "translation": null,
+      "hebrew": "שתן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor tested his urine.",
+        "The body excretes urine."
+      ],
+      "synonyms": ["pee"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "4e056ca6-ec3f-413b-98fb-d539266f43a3",
+      "english": "utilize",
+      "translation": null,
+      "hebrew": "לנצל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to utilize our resources effectively.",
+        "They utilized new technology."
+      ],
+      "synonyms": ["use", "employ", "apply"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f4f80900-21e7-453b-9c93-2c0e83b15ce2",
+      "english": "utter",
+      "translation": null,
+      "hebrew": "להגות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He didn't utter a word.",
+        "She uttered a sigh."
+      ],
+      "synonyms": ["speak", "pronounce", "articulate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "227a176f-2ff6-4fcc-bed1-04033c1ffe3e",
+      "english": "valley",
+      "translation": null,
+      "hebrew": "עמק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The valley is very green.",
+        "The river flows through the valley."
+      ],
+      "synonyms": ["dale", "glen"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c1c6ed21-e265-4af4-9674-49ccb092faa1",
+      "english": "valve",
+      "translation": null,
+      "hebrew": "שסתום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The valve controls the flow of water.",
+        "The heart valve is damaged."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "technical"]
+    },
+    {
+      "word_id": "be892045-61c2-464e-97d8-5d7dce01c42a",
+      "english": "verbal",
+      "translation": null,
+      "hebrew": "מילולי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave a verbal agreement.",
+        "They had a verbal argument."
+      ],
+      "synonyms": ["oral", "spoken"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f4a9741d-9b48-497a-8f88-7c70ea80f4f8",
+      "english": "via",
+      "translation": null,
+      "hebrew": "דרך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "We traveled to Rome via Paris.",
+        "Send the package via express mail."
+      ],
+      "synonyms": ["through"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "85c4d60f-c69c-4607-afc0-84c7530157d4",
+      "english": "victim",
+      "translation": null,
+      "hebrew": "קורבן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She was a victim of the crime.",
+        "The earthquake victims need help."
+      ],
+      "synonyms": ["sufferer"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1fd77fdc-bc5e-4422-a0a6-2fc478e220e8",
+      "english": "vocabulary",
+      "translation": null,
+      "hebrew": "אוצר מילים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a large vocabulary.",
+        "Improve your vocabulary by reading."
+      ],
+      "synonyms": ["lexicon", "terminology"],
+      "topic_tags": ["general", "language"]
+    },
+    {
+      "word_id": "e127b65a-4433-4931-b017-610e553c7a9b",
+      "english": "vocation",
+      "translation": null,
+      "hebrew": "מקצוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Teaching is his vocation.",
+        "She found her vocation in helping others."
+      ],
+      "synonyms": ["calling", "occupation", "career"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a7677f1e-bfbe-4c66-964f-acd4dd1ffab3",
+      "english": "wagon",
+      "translation": null,
+      "hebrew": "קרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The horse pulled the wagon.",
+        "They traveled in a covered wagon."
+      ],
+      "synonyms": ["cart"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d50c0782-7c32-4b7c-8bfc-27be9bbd7a60",
+      "english": "wander",
+      "translation": null,
+      "hebrew": "לשוטט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They wandered through the forest.",
+        "His mind wandered."
+      ],
+      "synonyms": ["roam", "stray", "meander"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2e8ba928-156f-4a60-8e57-e6ac5615f544",
+      "english": "West",
+      "translation": null,
+      "hebrew": "מערב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun sets in the West.",
+        "They traveled West."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "8fd2fe6b-e2dc-4a55-ae47-45728d1c00cd",
+      "english": "wine",
+      "translation": null,
+      "hebrew": "יין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She likes red wine.",
+        "They drank wine with dinner."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "f2776fe4-c4d1-437c-9e9b-5d55732af8eb",
+      "english": "wonder",
+      "translation": null,
+      "hebrew": "לתהות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I wonder what will happen.",
+        "He wondered if she was telling the truth."
+      ],
+      "synonyms": ["ask oneself", "question"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "73307956-42d0-4f17-9d13-32fcecb74912",
+      "english": "wonder",
+      "translation": null,
+      "hebrew": "פליאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children looked at him in wonder.",
+        "It's a wonder she survived."
+      ],
+      "synonyms": ["awe", "amazement"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "da63f955-16c7-44db-8922-1ee65e116a67",
+      "english": "wonderful",
+      "translation": null,
+      "hebrew": "נפלא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a wonderful experience.",
+        "She is a wonderful person."
+      ],
+      "synonyms": ["amazing", "marvelous", "fantastic"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "71450bfa-0ee3-48b6-aa66-85dd48b8f986",
+      "english": "wood",
+      "translation": null,
+      "hebrew": "עץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is made of wood.",
+        "The fire was burning wood."
+      ],
+      "synonyms": ["timber", "lumber"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "79a5ccb8-6689-492c-8d8b-b392ea2cd36f",
+      "english": "woods",
+      "translation": null,
+      "hebrew": "יער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They walked through the woods.",
+        "The cabin is in the woods."
+      ],
+      "synonyms": ["forest", "woodland"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "829dab7e-726d-43ea-8dbf-16121256ced6",
+      "english": "wound",
+      "translation": null,
+      "hebrew": "פצע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He had a wound on his arm.",
+        "The soldier was treated for his wounds."
+      ],
+      "synonyms": ["injury", "cut"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "3c73dc4a-d673-4ebd-9b98-f8853e47ce24",
+      "english": "wound",
+      "translation": null,
+      "hebrew": "לפצוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bullet wounded him in the leg.",
+        "His words wounded her deeply."
+      ],
+      "synonyms": ["injure", "hurt"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c570497d-35d3-4c23-a059-98ac09e36be0",
+      "english": "wrap",
+      "translation": null,
+      "hebrew": "לעטוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Wrap the gift in paper.",
+        "She wrapped a scarf around her neck."
+      ],
+      "synonyms": ["cover", "enclose"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "bde95d68-73c9-4990-8f93-2e06609a85fc",
+      "english": "wrought",
+      "translation": null,
+      "hebrew": "מעוצב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Wrought iron gates.",
+        "A carefully wrought plan."
+      ],
+      "synonyms": ["fashioned", "shaped", "created"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a10690f0-18e0-40ba-887e-39321f34a68a",
+      "english": "young",
+      "translation": null,
+      "hebrew": "צעיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a young woman.",
+        "The young children played in the park."
+      ],
+      "synonyms": ["youthful"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b8a3e705-5206-42d9-a792-49a59d7f072a",
+      "english": "abacus",
+      "translation": null,
+      "hebrew": "חשבונייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He used an abacus to calculate the answer.",
+        "Abacuses were used before calculators."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "d7226bf4-1441-46c5-b691-598e633ce81f",
+      "english": "academic",
+      "translation": null,
+      "hebrew": "אקדמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has academic interests.",
+        "He is an academic researcher."
+      ],
+      "synonyms": ["scholarly", "educational"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "bb742ee7-1b9a-40f1-877a-bb42dff3a25a",
+      "english": "actress",
+      "translation": null,
+      "hebrew": "שחקנית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a famous actress.",
+        "The actress gave a great performance."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "entertainment"]
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "chunk_number": 85,
+    "words_range": "confession-crack",
+    "word_count": 30,
+    "start_index": 2520,
+    "end_index": 2549
+  },
+  "words": [
+    {
+      "word_id": "4fda81a4-7fb2-44e3-916e-0db1836b7855",
+      "english": "confession",
+      "translation": "וידוי",
+      "hebrew": "וידוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a confession to the police.",
+        "The priest listened to her confession."
+      ],
+      "synonyms": [
+        "admission",
+        "acknowledgment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db2d3cf0-7187-42e9-8105-18cc3dfaca86",
+      "english": "confinement",
+      "translation": "מאסר",
+      "hebrew": "מאסר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was held in confinement for three days.",
+        "The bird escaped from its confinement."
+      ],
+      "synonyms": [
+        "imprisonment",
+        "detention"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "04329ae0-b989-456c-9587-54f1c05249af",
+      "english": "confiscate",
+      "translation": "להחרים",
+      "hebrew": "להחרים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher confiscated his phone.",
+        "The police confiscated the illegal drugs."
+      ],
+      "synonyms": [
+        "seize",
+        "impound"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d435a479-4ecd-4da0-b205-6d8d9e50fed5",
+      "english": "conform",
+      "translation": "להתאים",
+      "hebrew": "להתאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must conform to the rules.",
+        "The building doesn't conform to safety standards."
+      ],
+      "synonyms": [
+        "comply",
+        "adapt"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "988b5875-6bd2-4522-85a4-73e700a84b01",
+      "english": "confuse",
+      "translation": "לבלבל",
+      "hebrew": "לבלבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were confusing.",
+        "Don't confuse me with someone else."
+      ],
+      "synonyms": [
+        "baffle",
+        "puzzle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e7137534-7e87-4e78-ae46-352d2641c094",
+      "english": "confusion",
+      "translation": "בלבול",
+      "hebrew": "בלבול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a lot of confusion about the dates.",
+        "The announcement caused widespread confusion."
+      ],
+      "synonyms": [
+        "disorder",
+        "chaos"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d836124-1902-4fca-bd69-800f1e84d60e",
+      "english": "conquer",
+      "translation": "לכבוש",
+      "hebrew": "לכבוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The Romans conquered many lands.",
+        "He conquered his fear of heights."
+      ],
+      "synonyms": [
+        "defeat",
+        "overcome"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "13085f72-6f1b-4f0f-aa8f-21ed5a65b3d5",
+      "english": "conquest",
+      "translation": "כיבוש",
+      "hebrew": "כיבוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conquest of the Americas had a major impact on the world.",
+        "The general planned the conquest carefully."
+      ],
+      "synonyms": [
+        "capture",
+        "victory"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "5a472e88-9b86-4bf7-9ce7-28d2051daae6",
+      "english": "conscious",
+      "translation": "בהכרה",
+      "hebrew": "בהכרה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She was conscious after the accident.",
+        "He made a conscious decision to quit smoking."
+      ],
+      "synonyms": [
+        "aware",
+        "alert"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "108e18ed-71c7-44dd-9092-f8a8a46a0e31",
+      "english": "conservation",
+      "translation": "שימור",
+      "hebrew": "שימור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wildlife conservation is very important.",
+        "Energy conservation can save you money."
+      ],
+      "synonyms": [
+        "preservation",
+        "protection"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "cf1428d8-ee1f-41ad-84e2-eb23715ad4d5",
+      "english": "conservative",
+      "translation": "שמרני",
+      "hebrew": "שמרני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has conservative political views.",
+        "She wore a conservative dress to the interview."
+      ],
+      "synonyms": [
+        "traditional",
+        "cautious"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "52672d9a-a29e-4968-92cc-5cce76da16f1",
+      "english": "conserve",
+      "translation": "לשמר",
+      "hebrew": "לשמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to conserve water during the drought.",
+        "Try to conserve energy by turning off the lights."
+      ],
+      "synonyms": [
+        "preserve",
+        "save"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "71f6fa5a-807a-4030-976e-51130b166215",
+      "english": "contend",
+      "translation": "לטעון",
+      "hebrew": "לטעון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He contends that the law is unfair.",
+        "The lawyer will contend that his client is innocent."
+      ],
+      "synonyms": [
+        "argue",
+        "assert"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c130b9e2-7130-4dfe-9a53-3a44366f5393",
+      "english": "content",
+      "translation": "תוכן",
+      "hebrew": "תוכן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The content of the book was very interesting.",
+        "The website has a lot of useful content."
+      ],
+      "synonyms": [
+        "material",
+        "subject matter"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd9dae97-01c1-4ea9-8984-47b649a9898f",
+      "english": "content",
+      "translation": "מרוצה",
+      "hebrew": "מרוצה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is content with his life.",
+        "She is content to stay at home."
+      ],
+      "synonyms": [
+        "satisfied",
+        "pleased"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "96b6ab96-6291-4be8-8c9e-8eeb6e473ef6",
+      "english": "continent",
+      "translation": "יבשת",
+      "hebrew": "יבשת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Africa is a large continent.",
+        "Europe is a continent with many countries."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "7d9de071-5d33-4cd8-8d89-7e17da9570c2",
+      "english": "contrast",
+      "translation": "ניגוד",
+      "hebrew": "ניגוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a big contrast between the two cities.",
+        "The black and white colors create a strong contrast."
+      ],
+      "synonyms": [
+        "difference",
+        "opposition"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d37bccd2-8044-469e-a7b2-36d6a1fb4e95",
+      "english": "contrast",
+      "translation": "להשוות",
+      "hebrew": "להשוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can contrast the two paintings.",
+        "Let's contrast the advantages and disadvantages."
+      ],
+      "synonyms": [
+        "compare",
+        "differentiate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb60e926-c372-403b-a553-8d352db0d359",
+      "english": "contribute",
+      "translation": "לתרום",
+      "hebrew": "לתרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He contributed money to the charity.",
+        "She contributed a lot of time to the project."
+      ],
+      "synonyms": [
+        "donate",
+        "give"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "63d53acc-edfb-4cca-a714-7270d7c309f9",
+      "english": "controversial",
+      "translation": "שנוי במחלוקת",
+      "hebrew": "שנוי במחלוקת",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The new law is very controversial.",
+        "He made some controversial remarks."
+      ],
+      "synonyms": [
+        "disputable",
+        "debatable"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "99529aa8-0fe2-4dba-b3c2-883ac26f3c5e",
+      "english": "controversy",
+      "translation": "מחלוקת",
+      "hebrew": "מחלוקת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a lot of controversy surrounding the issue.",
+        "The decision sparked a major controversy."
+      ],
+      "synonyms": [
+        "dispute",
+        "argument"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "6a3f352f-f864-436a-8097-fd535c1c9225",
+      "english": "convene",
+      "translation": "לכנס",
+      "hebrew": "לכנס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The committee will convene next week.",
+        "The meeting was convened to discuss the problem."
+      ],
+      "synonyms": [
+        "assemble",
+        "gather"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1c122817-6786-4129-8d5e-9de92d7851b3",
+      "english": "conversation",
+      "translation": "שיחה",
+      "hebrew": "שיחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We had a long conversation about our future.",
+        "The conversation was very interesting."
+      ],
+      "synonyms": [
+        "discussion",
+        "dialogue"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8e9e8765-fe74-4aba-aea3-ac2bfc9faa4a",
+      "english": "convince",
+      "translation": "לשכנע",
+      "hebrew": "לשכנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to convince me to join the team.",
+        "She convinced him to change his mind."
+      ],
+      "synonyms": [
+        "persuade",
+        "influence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39811c36-c2f4-4c85-911b-d6f92f38a596",
+      "english": "coordination",
+      "translation": "תיאום",
+      "hebrew": "תיאום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Good coordination is essential for success.",
+        "The project requires careful coordination."
+      ],
+      "synonyms": [
+        "organization",
+        "collaboration"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d8892013-59df-4549-8f7b-a67453e718f3",
+      "english": "coordinator",
+      "translation": "רכז",
+      "hebrew": "רכז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the project coordinator.",
+        "The event coordinator is responsible for all the details."
+      ],
+      "synonyms": [
+        "organizer",
+        "administrator"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "a7520139-b9f0-43a6-b09f-82695a393bec",
+      "english": "correspond",
+      "translation": "להתכתב",
+      "hebrew": "להתכתב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I correspond with my friend in Australia.",
+        "The two events do not correspond in time."
+      ],
+      "synonyms": [
+        "communicate",
+        "match"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d431c98f-0ca8-4450-87c5-d27948d10598",
+      "english": "correspond",
+      "translation": "תואם",
+      "hebrew": "תואם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two accounts correspond.",
+        "His actions correspond with his words."
+      ],
+      "synonyms": [
+        "agree",
+        "align"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "aef59f52-fa0f-41d4-9e59-6d7c44e428be",
+      "english": "correspondence",
+      "translation": "התכתבות",
+      "hebrew": "התכתבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a lot of correspondence to answer.",
+        "The correspondence between the two leaders was revealed."
+      ],
+      "synonyms": [
+        "communication",
+        "letters"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fb1b0c49-d69d-4bc2-a48a-752d827ed61d",
+      "english": "crack",
+      "translation": "סדק",
+      "hebrew": "סדק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a crack in the wall.",
+        "The ice began to crack."
+      ],
+      "synonyms": [
+        "fissure",
+        "split"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

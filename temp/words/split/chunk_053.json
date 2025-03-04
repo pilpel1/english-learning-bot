@@ -1,0 +1,608 @@
+{
+  "_meta": {
+    "chunk_number": 53,
+    "words_range": "survive-admirable",
+    "word_count": 30,
+    "start_index": 1560,
+    "end_index": 1589
+  },
+  "words": [
+    {
+      "word_id": "6a87a3b4-6c45-4ea9-a28b-91c86ba3f33e",
+      "english": "survive",
+      "translation": null,
+      "hebrew": "לשרוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plants can survive in cold weather.",
+        "Only a few people survived the plane crash."
+      ],
+      "synonyms": [
+        "endure",
+        "persist"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "7b59d593-eb24-4d4e-bbe1-fba87a78202f",
+      "english": "swift",
+      "translation": null,
+      "hebrew": "מהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The swift current carried the boat downstream.",
+        "He made a swift recovery from his illness."
+      ],
+      "synonyms": [
+        "fast",
+        "quick"
+      ],
+      "topic_tags": [
+        "general",
+        "speed"
+      ]
+    },
+    {
+      "word_id": "5b09264a-8b8e-49dd-b49c-51117082d44d",
+      "english": "temporary",
+      "translation": null,
+      "hebrew": "זמני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is only a temporary solution.",
+        "She has a temporary job for the summer."
+      ],
+      "synonyms": [
+        "provisional",
+        "transient"
+      ],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "3a24a51a-55fb-467c-8408-45300bb4eee4",
+      "english": "thick",
+      "translation": null,
+      "hebrew": "עבה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The book has a thick cover.",
+        "He wore a thick coat to keep warm."
+      ],
+      "synonyms": [
+        "dense",
+        "bulky"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "49e15c4f-239c-4ee6-ba5b-1ea48110028a",
+      "english": "thick",
+      "translation": null,
+      "hebrew": "סמיך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The soup was thick and creamy.",
+        "The fog was so thick that we couldn't see the road."
+      ],
+      "synonyms": [
+        "viscous",
+        "dense"
+      ],
+      "topic_tags": [
+        "general",
+        "texture"
+      ]
+    },
+    {
+      "word_id": "19d1568b-05ba-4ffe-9cfc-8b9a408961d4",
+      "english": "thrive",
+      "translation": null,
+      "hebrew": "לשגשג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The business is thriving under new management.",
+        "Plants thrive in a sunny location."
+      ],
+      "synonyms": [
+        "flourish",
+        "prosper"
+      ],
+      "topic_tags": [
+        "general",
+        "growth"
+      ]
+    },
+    {
+      "word_id": "f5a52460-d4b6-47b0-9466-ee563b4c1934",
+      "english": "tradition",
+      "translation": null,
+      "hebrew": "מסורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It's a tradition to have turkey for Thanksgiving.",
+        "The tradition has been passed down through generations."
+      ],
+      "synonyms": [
+        "custom",
+        "ritual"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "d587e6de-a0b1-4489-8887-7e07d7cac4f0",
+      "english": "traffic",
+      "translation": null,
+      "hebrew": "תנועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The traffic is heavy during rush hour.",
+        "There was a lot of traffic on the highway."
+      ],
+      "synonyms": [
+        "vehicles",
+        "congestion"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "646182fa-509c-4489-82e8-d19e255e3c9a",
+      "english": "traffic jam",
+      "translation": null,
+      "hebrew": "פקק תנועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We were stuck in a traffic jam for an hour.",
+        "The traffic jam caused us to be late for the meeting."
+      ],
+      "synonyms": [
+        "congestion",
+        "gridlock"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "78dd4623-286a-410d-9e0d-153ac8c8d5a5",
+      "english": "transfer",
+      "translation": null,
+      "hebrew": "להעביר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to transfer money to my bank account.",
+        "The company transferred him to a new department."
+      ],
+      "synonyms": [
+        "move",
+        "transmit"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "8413a821-5b03-48b5-8a00-54504605565f",
+      "english": "transfer",
+      "translation": null,
+      "hebrew": "העברה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He requested a transfer to another branch.",
+        "The transfer of power was peaceful."
+      ],
+      "synonyms": [
+        "relocation",
+        "transmission"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c6d967f6-20f7-4cae-9124-6978d52ee49e",
+      "english": "tribe",
+      "translation": null,
+      "hebrew": "שבט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The tribe has lived in this area for centuries.",
+        "He is a member of the Navajo tribe."
+      ],
+      "synonyms": [
+        "clan",
+        "group"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "c55a7d48-1078-4a9a-b32c-05d5db3bf0b4",
+      "english": "unaware",
+      "translation": null,
+      "hebrew": "לא מודע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was unaware of the danger.",
+        "She was unaware that she was being followed."
+      ],
+      "synonyms": [
+        "ignorant",
+        "oblivious"
+      ],
+      "topic_tags": [
+        "general",
+        "knowledge"
+      ]
+    },
+    {
+      "word_id": "9b638a64-8ca5-43e6-9597-3637f71d2959",
+      "english": "uncertain",
+      "translation": null,
+      "hebrew": "לא בטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The future is uncertain.",
+        "I'm uncertain about what to do next."
+      ],
+      "synonyms": [
+        "doubtful",
+        "unsure"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "8e695e85-f3af-4e28-92b2-a3f2ae0f7191",
+      "english": "unclear",
+      "translation": null,
+      "hebrew": "לא ברור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were unclear.",
+        "The reason for his absence is unclear."
+      ],
+      "synonyms": [
+        "vague",
+        "ambiguous"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "fbe0e81a-b143-4571-9a06-23e82399fa7e",
+      "english": "uncover",
+      "translation": null,
+      "hebrew": "לחשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The investigation uncovered new evidence.",
+        "She uncovered the truth about his past."
+      ],
+      "synonyms": [
+        "reveal",
+        "expose"
+      ],
+      "topic_tags": [
+        "general",
+        "investigation"
+      ]
+    },
+    {
+      "word_id": "f66ff8e8-0d21-457c-8bcc-474b5eb2afe1",
+      "english": "unfold",
+      "translation": null,
+      "hebrew": "להתפתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The story began to unfold.",
+        "Events unfolded rapidly."
+      ],
+      "synonyms": [
+        "develop",
+        "evolve"
+      ],
+      "topic_tags": [
+        "general",
+        "events"
+      ]
+    },
+    {
+      "word_id": "9975b1b9-46ef-476d-b240-1c7a080c0da5",
+      "english": "unfold",
+      "translation": null,
+      "hebrew": "לפרוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He unfolded the map.",
+        "She unfolded the letter and began to read."
+      ],
+      "synonyms": [
+        "open",
+        "spread"
+      ],
+      "topic_tags": [
+        "general",
+        "actions"
+      ]
+    },
+    {
+      "word_id": "fbd3f786-0876-45a2-9ed7-907993a0c6e4",
+      "english": "unit",
+      "translation": null,
+      "hebrew": "יחידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A centimeter is a unit of length.",
+        "The apartment is in a complex with several units."
+      ],
+      "synonyms": [
+        "component",
+        "element"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "3ffbf48b-1dd2-4212-93c9-2438cd4e774b",
+      "english": "unstable",
+      "translation": null,
+      "hebrew": "לא יציב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is unstable and wobbly.",
+        "His emotional state is unstable."
+      ],
+      "synonyms": [
+        "erratic",
+        "unsteady"
+      ],
+      "topic_tags": [
+        "general",
+        "stability"
+      ]
+    },
+    {
+      "word_id": "7c4d0a49-b6fd-4043-8890-e454b51a2f91",
+      "english": "update",
+      "translation": null,
+      "hebrew": "לעדכן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please update your software.",
+        "I need to update my contact information."
+      ],
+      "synonyms": [
+        "revise",
+        "refresh"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "e79a7f1e-983f-4107-8ece-ef710e39cb86",
+      "english": "upgrade",
+      "translation": null,
+      "hebrew": "שדרוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I got an upgrade to first class.",
+        "The software upgrade includes new features."
+      ],
+      "synonyms": [
+        "improvement",
+        "enhancement"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "3395f4ea-5963-4f2b-9c61-325658ae07a3",
+      "english": "valid",
+      "translation": null,
+      "hebrew": "תקף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "My passport is still valid.",
+        "That's a valid point."
+      ],
+      "synonyms": [
+        "legitimate",
+        "authentic"
+      ],
+      "topic_tags": [
+        "general",
+        "legality"
+      ]
+    },
+    {
+      "word_id": "c9d1557c-6871-482d-a7f2-e85ae11b3e9c",
+      "english": "validate",
+      "translation": null,
+      "hebrew": "לאמת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please validate your parking ticket.",
+        "The study needs to validate the results."
+      ],
+      "synonyms": [
+        "verify",
+        "confirm"
+      ],
+      "topic_tags": [
+        "general",
+        "research"
+      ]
+    },
+    {
+      "word_id": "5856429a-229a-4147-93bb-836670c36390",
+      "english": "violence",
+      "translation": null,
+      "hebrew": "אלימות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Violence is never the answer.",
+        "The movie contains scenes of violence."
+      ],
+      "synonyms": [
+        "aggression",
+        "brutality"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "3efb3b1c-811f-49fb-845b-2a711bb7f82d",
+      "english": "violent",
+      "translation": null,
+      "hebrew": "אלים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a violent temper.",
+        "The storm was very violent."
+      ],
+      "synonyms": [
+        "aggressive",
+        "brutal"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "274f32e7-54e5-4383-98cd-580f3a3431b9",
+      "english": "widely",
+      "translation": null,
+      "hebrew": "נרחב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The product is widely used.",
+        "He is widely known as an expert in the field."
+      ],
+      "synonyms": [
+        "extensively",
+        "generally"
+      ],
+      "topic_tags": [
+        "general",
+        "popularity"
+      ]
+    },
+    {
+      "word_id": "c81137ec-37a1-453a-98c2-8506122f2922",
+      "english": "widen",
+      "translation": null,
+      "hebrew": "להרחיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They decided to widen the road.",
+        "The company wants to widen its customer base."
+      ],
+      "synonyms": [
+        "broaden",
+        "expand"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "e2e6e74e-19be-4076-85fa-9bf75500cb83",
+      "english": "winter",
+      "translation": null,
+      "hebrew": "חורף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Winter is the coldest season.",
+        "We go skiing in the winter."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "seasons"
+      ]
+    },
+    {
+      "word_id": "7d47f53c-cf60-49ed-84c2-be51da1f73fd",
+      "english": "admirable",
+      "translation": null,
+      "hebrew": "מעורר הערצה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His courage is admirable.",
+        "She has an admirable work ethic."
+      ],
+      "synonyms": [
+        "praiseworthy",
+        "commendable"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    }
+  ]
+}

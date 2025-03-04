@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 28,
+    "words_range": "company-descend",
+    "word_count": 30,
+    "start_index": 810,
+    "end_index": 839
+  },
+  "words": [
+    {
+      "word_id": "9e29bbff-cc1a-47a6-ad4d-732ade3ba593",
+      "english": "company",
+      "translation": "חברה",
+      "hebrew": "חברה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She works for a large company.",
+        "The company is expanding its operations."
+      ],
+      "synonyms": ["business", "firm", "corporation"],
+      "topic_tags": ["general", "business", "organization"]
+    },
+    {
+      "word_id": "2b7ead9f-ed26-4424-90e8-cee912e4f3c6",
+      "english": "comparable",
+      "translation": "בר השוואה",
+      "hebrew": "בר השוואה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two products are comparable in quality.",
+        "Her skills are comparable to those of her peers."
+      ],
+      "synonyms": ["similar", "equivalent", "analogous"],
+      "topic_tags": ["general", "comparison", "evaluation"]
+    },
+    {
+      "word_id": "d69c9d0a-de0d-46db-8fa3-1a3a584df106",
+      "english": "compare",
+      "translation": "להשוות",
+      "hebrew": "להשוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It's important to compare prices before buying.",
+        "She compared the two reports carefully."
+      ],
+      "synonyms": ["contrast", "evaluate", "assess"],
+      "topic_tags": ["general", "comparison", "analysis"]
+    },
+    {
+      "word_id": "2437dfe3-520f-416b-adfc-e7cd16d8ed5c",
+      "english": "comparison",
+      "translation": "השוואה",
+      "hebrew": "השוואה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The comparison between the two models is clear.",
+        "He made a comparison of the two proposals."
+      ],
+      "synonyms": ["contrast", "evaluation", "analysis"],
+      "topic_tags": ["general", "comparison", "evaluation"]
+    },
+    {
+      "word_id": "f3f16a9c-2c60-478c-bdd4-bd8acbba734c",
+      "english": "comprehend",
+      "translation": "להבין",
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He couldn't comprehend the complex instructions.",
+        "She comprehends the situation well."
+      ],
+      "synonyms": ["understand", "grasp", "perceive"],
+      "topic_tags": ["general", "understanding", "cognition"]
+    },
+    {
+      "word_id": "d6bf3f47-6add-4864-88b1-aaeb6e39f034",
+      "english": "comprehension",
+      "translation": "הבנה",
+      "hebrew": "הבנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her comprehension of the text was impressive.",
+        "The test measures reading comprehension."
+      ],
+      "synonyms": ["understanding", "grasp", "insight"],
+      "topic_tags": ["general", "understanding", "education"]
+    },
+    {
+      "word_id": "46d620c6-1e4e-469d-ba29-87805e7fb946",
+      "english": "concentrate",
+      "translation": "להתרכז",
+      "hebrew": "להתרכז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please concentrate on your work.",
+        "He needs a quiet place to concentrate."
+      ],
+      "synonyms": ["focus", "center", "direct"],
+      "topic_tags": ["general", "focus", "attention"]
+    },
+    {
+      "word_id": "5b750063-5614-40ea-b21e-364dee587dd7",
+      "english": "conclude",
+      "translation": "לסיים",
+      "hebrew": "לסיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They concluded the meeting with a summary.",
+        "She concluded her speech with a quote."
+      ],
+      "synonyms": ["finish", "end", "wrap up"],
+      "topic_tags": ["general", "ending", "summary"]
+    },
+    {
+      "word_id": "7d79ecf9-2ccd-42d8-8e54-2515e359afd9",
+      "english": "conclude",
+      "translation": "להסיק",
+      "hebrew": "להסיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "From the evidence, we can conclude that he is guilty.",
+        "She concluded that the plan was not feasible."
+      ],
+      "synonyms": ["deduce", "infer", "determine"],
+      "topic_tags": ["general", "reasoning", "logic"]
+    },
+    {
+      "word_id": "4250d281-4f51-493b-9c4f-6697e2d3dab2",
+      "english": "conclusion",
+      "translation": "מסקנה",
+      "hebrew": "מסקנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conclusion of the report was clear.",
+        "He reached a conclusion after much thought."
+      ],
+      "synonyms": ["result", "outcome", "end"],
+      "topic_tags": ["general", "reasoning", "summary"]
+    },
+    {
+      "word_id": "415f1727-258a-4c86-a9dd-3096898f6462",
+      "english": "conclusively",
+      "translation": "באופן חד משמעי",
+      "hebrew": "באופן חד משמעי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The evidence proves conclusively that he is innocent.",
+        "She answered the question conclusively."
+      ],
+      "synonyms": ["decisively", "definitively", "irrefutably"],
+      "topic_tags": ["general", "certainty", "evidence"]
+    },
+    {
+      "word_id": "a93ad29e-22a5-4876-8f17-fffe3269d9e6",
+      "english": "confirm",
+      "translation": "לאשר",
+      "hebrew": "לאשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please confirm your attendance at the meeting.",
+        "The results confirm the hypothesis."
+      ],
+      "synonyms": ["verify", "validate", "affirm"],
+      "topic_tags": ["general", "verification", "validation"]
+    },
+    {
+      "word_id": "41bde8c1-3a9b-4468-af3a-6ba9092c9791",
+      "english": "continuation",
+      "translation": "המשך",
+      "hebrew": "המשך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The continuation of the project is uncertain.",
+        "He wrote a continuation to the story."
+      ],
+      "synonyms": ["extension", "prolongation", "progression"],
+      "topic_tags": ["general", "progress", "extension"]
+    },
+    {
+      "word_id": "be4fa979-b9c8-4e13-b3d3-a009b4439350",
+      "english": "cooperation",
+      "translation": "שיתוף פעולה",
+      "hebrew": "שיתוף פעולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Cooperation between the teams is essential.",
+        "They achieved success through cooperation."
+      ],
+      "synonyms": ["collaboration", "partnership", "teamwork"],
+      "topic_tags": ["general", "teamwork", "collaboration"]
+    },
+    {
+      "word_id": "60efe6b3-d8bd-4920-86d9-af771110aba4",
+      "english": "core",
+      "translation": "ליבה",
+      "hebrew": "ליבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The core of the Earth is very hot.",
+        "The core of the issue is trust."
+      ],
+      "synonyms": ["center", "heart", "essence"],
+      "topic_tags": ["general", "central", "essential"]
+    },
+    {
+      "word_id": "3c2b9afb-48b9-42e9-b3df-89cf270a3882",
+      "english": "crisis",
+      "translation": "משבר",
+      "hebrew": "משבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is facing a financial crisis.",
+        "They managed to resolve the crisis quickly."
+      ],
+      "synonyms": ["emergency", "disaster", "catastrophe"],
+      "topic_tags": ["general", "emergency", "problem"]
+    },
+    {
+      "word_id": "9c165d83-5684-4973-b097-dd2fedcb3300",
+      "english": "cure",
+      "translation": "תרופה",
+      "hebrew": "תרופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Scientists are searching for a cure for cancer.",
+        "The cure was effective in treating the disease."
+      ],
+      "synonyms": ["remedy", "treatment", "solution"],
+      "topic_tags": ["general", "health", "medicine"]
+    },
+    {
+      "word_id": "fdabfaef-0a0d-450a-991d-eeb2c701026f",
+      "english": "decide",
+      "translation": "להחליט",
+      "hebrew": "להחליט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She decided to go to the party.",
+        "He can't decide what to wear."
+      ],
+      "synonyms": ["determine", "choose", "resolve"],
+      "topic_tags": ["general", "decision", "choice"]
+    },
+    {
+      "word_id": "616e195d-c13a-4b3e-b169-777b69d7df19",
+      "english": "decline",
+      "translation": "לסרב",
+      "hebrew": "לסרב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She declined the invitation to the wedding.",
+        "He politely declined the offer."
+      ],
+      "synonyms": ["refuse", "reject", "turn down"],
+      "topic_tags": ["general", "refusal", "rejection"]
+    },
+    {
+      "word_id": "32390f78-7a85-4b64-a89f-434f0ba6e6dd",
+      "english": "decline",
+      "translation": "להתדרדר",
+      "hebrew": "להתדרדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The economy began to decline.",
+        "His health has declined over the years."
+      ],
+      "synonyms": ["deteriorate", "worsen", "fall"],
+      "topic_tags": ["general", "deterioration", "decrease"]
+    },
+    {
+      "word_id": "3333da60-b285-4b21-99d5-da14122165f9",
+      "english": "decline",
+      "translation": "ירידה",
+      "hebrew": "ירידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There has been a decline in sales.",
+        "The decline of the Roman Empire was gradual."
+      ],
+      "synonyms": ["decrease", "reduction", "drop"],
+      "topic_tags": ["general", "decrease", "reduction"]
+    },
+    {
+      "word_id": "46f4f3d2-df2c-4548-9d7f-4dad3482d4c6",
+      "english": "decrease",
+      "translation": "להפחית",
+      "hebrew": "להפחית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to decrease our expenses.",
+        "The temperature will decrease overnight."
+      ],
+      "synonyms": ["reduce", "lessen", "diminish"],
+      "topic_tags": ["general", "reduction", "decrease"]
+    },
+    {
+      "word_id": "746b1884-6680-4703-bc7c-50bc9d3027ae",
+      "english": "decrease",
+      "translation": "הפחתה",
+      "hebrew": "הפחתה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a decrease in the number of visitors.",
+        "The decrease in temperature was noticeable."
+      ],
+      "synonyms": ["reduction", "decline", "drop"],
+      "topic_tags": ["general", "reduction", "decrease"]
+    },
+    {
+      "word_id": "9775890d-fb33-40fc-afb8-d27a45698386",
+      "english": "deduce",
+      "translation": "להסיק",
+      "hebrew": "להסיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "From the clues, the detective deduced the identity of the thief.",
+        "We can deduce that the plan will not work."
+      ],
+      "synonyms": ["infer", "conclude", "derive"],
+      "topic_tags": ["general", "reasoning", "logic"]
+    },
+    {
+      "word_id": "9dd282e8-20cd-4b07-b41b-070ab927686b",
+      "english": "demand",
+      "translation": "דרישה",
+      "hebrew": "דרישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a high demand for skilled workers.",
+        "The demand for the product has increased."
+      ],
+      "synonyms": ["requirement", "need", "request"],
+      "topic_tags": ["general", "requirement", "economics"]
+    },
+    {
+      "word_id": "9fe553e2-3f17-4e7b-b284-8456858dc7c4",
+      "english": "deny",
+      "translation": "להכחיש",
+      "hebrew": "להכחיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He denied the allegations against him.",
+        "She cannot deny the truth."
+      ],
+      "synonyms": ["refute", "reject", "disclaim"],
+      "topic_tags": ["general", "refusal", "rejection"]
+    },
+    {
+      "word_id": "de41131b-67c5-4482-919b-90c59963b2c1",
+      "english": "deny",
+      "translation": "למנוע",
+      "hebrew": "למנוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They were denied access to the building.",
+        "The law denies certain rights to non-citizens."
+      ],
+      "synonyms": ["withhold", "refuse", "prohibit"],
+      "topic_tags": ["general", "restriction", "law"]
+    },
+    {
+      "word_id": "02e36ae4-7937-4a6e-b9a5-b0bdae8fd8f6",
+      "english": "depart",
+      "translation": "לעזוב",
+      "hebrew": "לעזוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The train will depart at noon.",
+        "She decided to depart from the company."
+      ],
+      "synonyms": ["leave", "exit", "go"],
+      "topic_tags": ["general", "travel", "movement"]
+    },
+    {
+      "word_id": "7ce6bbfb-058f-405b-aa28-9fe6f66aaedd",
+      "english": "derive",
+      "translation": "להפיק",
+      "hebrew": "להפיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The word 'computer' is derived from the Latin word 'computare'.",
+        "She derives great satisfaction from her work."
+      ],
+      "synonyms": ["obtain", "extract", "gain"],
+      "topic_tags": ["general", "origin", "extraction"]
+    },
+    {
+      "word_id": "8bbf45d7-4cb8-4bcc-b0c1-997863bc25c1",
+      "english": "descend",
+      "translation": "לרדת",
+      "hebrew": "לרדת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane began to descend.",
+        "He descended the stairs quickly."
+      ],
+      "synonyms": ["fall", "drop", "sink"],
+      "topic_tags": ["general", "movement", "direction"]
+    }
+  ]
+}

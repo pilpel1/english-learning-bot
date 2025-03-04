@@ -1,0 +1,590 @@
+{
+  "_meta": {
+    "chunk_number": 92,
+    "words_range": "party-prevent",
+    "word_count": 30,
+    "start_index": 2730,
+    "end_index": 2759
+  },
+  "words": [
+    {
+      "word_id": "2877594e-2b81-43c6-93df-4a291278924c",
+      "english": "party",
+      "translation": null,
+      "hebrew": "מסיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We're having a party next weekend.",
+        "The party was a great success."
+      ],
+      "synonyms": [
+        "celebration",
+        "gathering"
+      ],
+      "topic_tags": [
+        "general",
+        "social"
+      ]
+    },
+    {
+      "word_id": "937a1261-3a0b-4e28-8ffd-b26165a0f3b1",
+      "english": "party",
+      "translation": null,
+      "hebrew": "צד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Which party do you support?",
+        "He is a member of the Green Party."
+      ],
+      "synonyms": [
+        "faction",
+        "group"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "eea28209-cfae-4dc8-8c51-37d165421e80",
+      "english": "pattern",
+      "translation": null,
+      "hebrew": "דפוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pattern on the wallpaper is very intricate.",
+        "We need to identify the pattern of the data."
+      ],
+      "synonyms": [
+        "design",
+        "template"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "960ae0a9-debd-4b5a-a525-80a8b9368c2a",
+      "english": "penned",
+      "translation": null,
+      "hebrew": "כתוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He penned a letter to his friend.",
+        "The article was penned by a famous journalist."
+      ],
+      "synonyms": [
+        "wrote",
+        "authored"
+      ],
+      "topic_tags": [
+        "general",
+        "writing"
+      ]
+    },
+    {
+      "word_id": "199d29c4-4586-45f8-90c5-0b8215ec1f8d",
+      "english": "perceive",
+      "translation": null,
+      "hebrew": "לתפוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "How do you perceive the situation?",
+        "I perceive a change in his attitude."
+      ],
+      "synonyms": [
+        "notice",
+        "detect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de002014-561f-4b33-82a1-14074cb1f56f",
+      "english": "perform",
+      "translation": null,
+      "hebrew": "לבצע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The operation was successfully performed.",
+        "He performs his duties with great care."
+      ],
+      "synonyms": [
+        "execute",
+        "achieve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cb880a31-2052-43a8-9750-9cca852358ab",
+      "english": "performance",
+      "translation": null,
+      "hebrew": "ביצוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The team's performance was outstanding.",
+        "The car's performance is excellent."
+      ],
+      "synonyms": [
+        "execution",
+        "achievement"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7112ef1a-19d7-4210-80e3-703c7879438b",
+      "english": "performance",
+      "translation": null,
+      "hebrew": "הופעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The band gave a fantastic performance.",
+        "Her performance in the play was amazing."
+      ],
+      "synonyms": [
+        "show",
+        "act"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "f8a5b73f-5013-44cf-b60f-d555bf6ef0a9",
+      "english": "performer",
+      "translation": null,
+      "hebrew": "מבצע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a talented performer.",
+        "The performer received a standing ovation."
+      ],
+      "synonyms": [
+        "artist",
+        "entertainer"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "deec97fb-3ff7-4826-9080-0ad3a6a0e272",
+      "english": "permission",
+      "translation": null,
+      "hebrew": "אישור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need permission to enter the building.",
+        "Did you get permission from your parents?"
+      ],
+      "synonyms": [
+        "consent",
+        "authorization"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "66ac6fe1-9ee9-44c5-9928-1613a43e10dd",
+      "english": "permit",
+      "translation": null,
+      "hebrew": "להתיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The law permits smoking in designated areas.",
+        "We do not permit parking in this area."
+      ],
+      "synonyms": [
+        "allow",
+        "authorize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8454fcbe-bfd8-4b12-9944-d6aa467ca9b7",
+      "english": "permit",
+      "translation": null,
+      "hebrew": "רישיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need a permit to build a house.",
+        "He has a permit to carry a gun."
+      ],
+      "synonyms": [
+        "license",
+        "authorization"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "edd8e3e9-56fe-4ddb-bc10-037a293e97fa",
+      "english": "persuade",
+      "translation": null,
+      "hebrew": "לשכנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you persuade him to come with us?",
+        "She tried to persuade me to change my mind."
+      ],
+      "synonyms": [
+        "convince",
+        "influence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4d558156-02f5-43d1-9961-8f57e63bce0c",
+      "english": "persuasion",
+      "translation": null,
+      "hebrew": "שכנוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His powers of persuasion are remarkable.",
+        "She used gentle persuasion to get him to agree."
+      ],
+      "synonyms": [
+        "influence",
+        "inducement"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6369db34-ed98-49a7-b983-f276918435b3",
+      "english": "piece",
+      "translation": null,
+      "hebrew": "חתיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Can I have a piece of cake?",
+        "The vase broke into many pieces."
+      ],
+      "synonyms": [
+        "part",
+        "segment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "30d32107-4fa4-4a89-9a95-0ac8fc497b19",
+      "english": "piece",
+      "translation": null,
+      "hebrew": "יצירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a beautiful piece of music.",
+        "The museum has a valuable piece of art."
+      ],
+      "synonyms": [
+        "work",
+        "composition"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "7fa9fb69-f35e-4ae3-9696-58c77a1beec7",
+      "english": "pipe",
+      "translation": null,
+      "hebrew": "צינור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The water flows through the pipe.",
+        "The plumber fixed the broken pipe."
+      ],
+      "synonyms": [
+        "tube",
+        "conduit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "aa7d5f16-73a1-45ff-9e52-0092be988d61",
+      "english": "plausible",
+      "translation": null,
+      "hebrew": "סביר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His explanation sounds plausible.",
+        "It's a plausible theory."
+      ],
+      "synonyms": [
+        "believable",
+        "credible"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "36f12031-2adf-45ed-bcfb-f319dcfe82fe",
+      "english": "plot",
+      "translation": null,
+      "hebrew": "עלילה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plot of the movie was very complex.",
+        "The story has a surprising plot twist."
+      ],
+      "synonyms": [
+        "storyline",
+        "scheme"
+      ],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "4cb1a26f-7008-4518-8f13-065194ca0605",
+      "english": "plot",
+      "translation": null,
+      "hebrew": "חלקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They bought a plot of land.",
+        "We have a small vegetable plot in our garden."
+      ],
+      "synonyms": [
+        "area",
+        "patch"
+      ],
+      "topic_tags": [
+        "general",
+        "real estate"
+      ]
+    },
+    {
+      "word_id": "7d989d95-d432-421d-ab68-c49178a3cbe1",
+      "english": "plot",
+      "translation": null,
+      "hebrew": "לִתְכְנֵן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are plotting to overthrow the government.",
+        "He plotted his revenge carefully."
+      ],
+      "synonyms": [
+        "plan",
+        "scheme"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "43d6d0b6-7590-4890-a8bf-b9a6feb26266",
+      "english": "plot",
+      "translation": null,
+      "hebrew": "תרשים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plot shows the relationship between the variables.",
+        "Draw a plot of the data."
+      ],
+      "synonyms": [
+        "graph",
+        "chart"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "3a996481-c74d-4b50-b507-5a743a31b74c",
+      "english": "poacher",
+      "translation": null,
+      "hebrew": "צייד לא חוקי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The poachers were arrested by the police.",
+        "Poachers kill elephants for their ivory."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "9c5fa17f-942f-48fc-b565-2505570db2a9",
+      "english": "practical",
+      "translation": null,
+      "hebrew": "מעשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a practical approach to solving problems.",
+        "This is a practical solution."
+      ],
+      "synonyms": [
+        "realistic",
+        "useful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a0e8dcca-02e0-4d03-8a0d-5b3f577ed34a",
+      "english": "practice",
+      "translation": null,
+      "hebrew": "תרגול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Practice makes perfect.",
+        "He needs more practice."
+      ],
+      "synonyms": [
+        "exercise",
+        "rehearsal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "91e9af6e-3b9d-4890-809a-90b1b02b8d36",
+      "english": "prescribe",
+      "translation": null,
+      "hebrew": "לרשום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor prescribed antibiotics.",
+        "What did the doctor prescribe for your cough?"
+      ],
+      "synonyms": [
+        "order",
+        "recommend"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "3442f067-d706-44d7-a970-871dbf376663",
+      "english": "prescription",
+      "translation": null,
+      "hebrew": "מרשם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to get a prescription for my glasses.",
+        "Take the prescription to the pharmacy."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "57f99386-7dc0-4553-90f8-1710e4169433",
+      "english": "preserve",
+      "translation": null,
+      "hebrew": "לשמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to preserve our cultural heritage.",
+        "This park is preserved as a wildlife sanctuary."
+      ],
+      "synonyms": [
+        "protect",
+        "conserve"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "e1ae8b3f-97f9-44ed-8efd-3718c2b09012",
+      "english": "pretext",
+      "translation": null,
+      "hebrew": "אמתלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He used a pretext to avoid the meeting.",
+        "She left under the pretext of going to the store."
+      ],
+      "synonyms": [
+        "excuse",
+        "cover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f899f6e9-02d7-4662-88f6-2d346f563e0e",
+      "english": "prevent",
+      "translation": null,
+      "hebrew": "למנוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to prevent accidents.",
+        "The vaccine can prevent the disease."
+      ],
+      "synonyms": [
+        "avoid",
+        "hinder"
+      ],
+      "topic_tags": [
+        "general",
+        "safety"
+      ]
+    }
+  ]
+}

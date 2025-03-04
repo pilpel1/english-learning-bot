@@ -1,0 +1,589 @@
+{
+  "_meta": {
+    "chunk_number": 113,
+    "words_range": "cloak-devastated",
+    "word_count": 30,
+    "start_index": 3360,
+    "end_index": 3389
+  },
+  "words": [
+    {
+      "word_id": "9483c9f5-f27a-486c-a580-8b0f7834e6ef",
+      "english": "cloak",
+      "translation": null,
+      "hebrew": "גלימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a cloak to protect herself from the cold.",
+        "The spy used the darkness as a cloak."
+      ],
+      "synonyms": [
+        "cape",
+        "mantle"
+      ],
+      "topic_tags": [
+        "general",
+        "clothing"
+      ]
+    },
+    {
+      "word_id": "c36e4a18-1aea-4ff7-962d-fe69a66a912c",
+      "english": "coma",
+      "translation": null,
+      "hebrew": "תרדמת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was in a coma for several weeks.",
+        "The accident left her in a coma."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "e4bbdf82-c721-4e92-b862-fa2c5e9e4183",
+      "english": "comic",
+      "translation": null,
+      "hebrew": "קומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was a comic masterpiece.",
+        "He has a comic personality."
+      ],
+      "synonyms": [
+        "humorous",
+        "funny"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "99939248-e3c9-45c3-a1b0-8eb22c7eb359",
+      "english": "cosmopolitan",
+      "translation": null,
+      "hebrew": "קוסמופוליטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "New York is a cosmopolitan city.",
+        "She has a cosmopolitan outlook on life."
+      ],
+      "synonyms": [
+        "worldly",
+        "cultured"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "571e4ea5-2173-48ce-a7fb-c30cc8c908cf",
+      "english": "cough",
+      "translation": null,
+      "hebrew": "שיעול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a bad cough.",
+        "The smoke made him cough."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "47563ee5-9dc7-4746-b4ca-5c1cd88cce47",
+      "english": "course",
+      "translation": null,
+      "hebrew": "מסלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The river changed its course.",
+        "The plane is on a collision course."
+      ],
+      "synonyms": [
+        "path",
+        "route"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "66cd5f17-3521-4280-b16d-6bd03b9ba690",
+      "english": "course",
+      "translation": null,
+      "hebrew": "מנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dinner consisted of three courses.",
+        "The main course was delicious."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "ceb3b761-545a-4d8a-808b-558dfe742aab",
+      "english": "course",
+      "translation": null,
+      "hebrew": "קורס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm taking a course in history.",
+        "The course lasts for ten weeks."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "4d0bb54c-700b-45ef-96a6-4dcef34a8179",
+      "english": "cousin",
+      "translation": null,
+      "hebrew": "בן דוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is my cousin.",
+        "I have many cousins."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "7067c541-092c-4040-86f8-78e9a3abdf0e",
+      "english": "cripple",
+      "translation": null,
+      "hebrew": "לשתק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The accident crippled him.",
+        "The strike crippled the economy."
+      ],
+      "synonyms": [
+        "disable",
+        "impair"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7ccece6-2448-4992-958c-4c92d4fd88e8",
+      "english": "croak",
+      "translation": null,
+      "hebrew": "לקרקר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The frog croaked loudly.",
+        "He croaked out a reply."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "0e66fa79-289e-4254-8e40-7a1f174def47",
+      "english": "crop",
+      "translation": null,
+      "hebrew": "יבול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The main crop is wheat.",
+        "The farmers harvested the crops."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "agriculture"
+      ]
+    },
+    {
+      "word_id": "2aada898-b14f-4d82-96c7-8d5ed6521364",
+      "english": "crop",
+      "translation": null,
+      "hebrew": "לקצוץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She cropped her hair short.",
+        "The photo was cropped to show only her face."
+      ],
+      "synonyms": [
+        "trim",
+        "cut"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b30d756c-a960-48ca-9f17-9ea3d18825a7",
+      "english": "crowd",
+      "translation": null,
+      "hebrew": "קהל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A large crowd gathered to watch the parade.",
+        "He got lost in the crowd."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "89591a4d-b891-49ca-9a9f-0469e5310a9a",
+      "english": "crude",
+      "translation": null,
+      "hebrew": "גולמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Crude oil needs to be refined.",
+        "The tools were crude but effective."
+      ],
+      "synonyms": [
+        "raw",
+        "unrefined"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7998149a-4561-4993-9949-9289b916589a",
+      "english": "crumb",
+      "translation": null,
+      "hebrew": "פירור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He brushed the crumbs off the table.",
+        "There wasn't a crumb left."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "95914321-1999-4661-894d-0ba49431396a",
+      "english": "crush",
+      "translation": null,
+      "hebrew": "למעוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The car was crushed in the accident.",
+        "He crushed the can in his hand."
+      ],
+      "synonyms": [
+        "squash",
+        "press"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "59999f18-596d-4664-894b-19649115414b",
+      "english": "cultivate",
+      "translation": null,
+      "hebrew": "לטפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to cultivate good relationships.",
+        "The farmers cultivate the land."
+      ],
+      "synonyms": [
+        "foster",
+        "nurture"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "011cf853-5979-4712-8c72-e222f2b498d7",
+      "english": "dagger",
+      "translation": null,
+      "hebrew": "פגיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He carried a dagger for protection.",
+        "The assassin used a dagger."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "weapons"
+      ]
+    },
+    {
+      "word_id": "d464f29d-d418-44ff-a4da-5202d98a9f36",
+      "english": "dairy",
+      "translation": null,
+      "hebrew": "חלבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Dairy products are a good source of calcium.",
+        "We visited a dairy farm."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "ca39d3cc-1b3c-4e8a-9822-0963d2fecee2",
+      "english": "dandy",
+      "translation": null,
+      "hebrew": "גנדרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a dandy who cares a lot about his appearance.",
+        "The dandy wore a fancy suit."
+      ],
+      "synonyms": [
+        "fop"
+      ],
+      "topic_tags": [
+        "general",
+        "appearance"
+      ]
+    },
+    {
+      "word_id": "1a09021d-dc28-4d6b-9743-8609e863a581",
+      "english": "decorate",
+      "translation": null,
+      "hebrew": "לקשט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We decorated the house for the party.",
+        "She decorated the cake with flowers."
+      ],
+      "synonyms": [
+        "adorn",
+        "embellish"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88f6e0a6-a288-4aa3-99db-d408cffba71a",
+      "english": "decorative",
+      "translation": null,
+      "hebrew": "דקורטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The vase was purely decorative.",
+        "The room was filled with decorative items."
+      ],
+      "synonyms": [
+        "ornamental"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "58b9f3d2-5789-49fc-af6d-048f0696e5fd",
+      "english": "deer",
+      "translation": null,
+      "hebrew": "אייל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We saw a deer in the forest.",
+        "Deer are common in this area."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "afacad2f-e63a-4cfc-aa12-b40488c2d8a6",
+      "english": "demented",
+      "translation": null,
+      "hebrew": "מעורער בנפשו",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He acted like a demented person.",
+        "The old man was demented."
+      ],
+      "synonyms": [
+        "insane",
+        "mad"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "e519480d-0c95-4afd-9f72-86ca7142b415",
+      "english": "densely",
+      "translation": null,
+      "hebrew": "בצפיפות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The forest was densely populated with trees.",
+        "The city is densely built."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1d59d2e8-33a5-4867-987d-86c6aff3aaf1",
+      "english": "density",
+      "translation": null,
+      "hebrew": "צפיפות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The density of the population is high.",
+        "The density of the wood is important."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19cd6b1d-00c4-416b-98bb-8f8c61730197",
+      "english": "depict",
+      "translation": null,
+      "hebrew": "לתאר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting depicts a scene from the Bible.",
+        "The book depicts life in the 19th century."
+      ],
+      "synonyms": [
+        "portray",
+        "represent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9978ceca-39d5-49ef-82d7-f0516d3759e7",
+      "english": "derision",
+      "translation": null,
+      "hebrew": "לעג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His speech was met with derision.",
+        "They treated him with derision."
+      ],
+      "synonyms": [
+        "mockery",
+        "scorn"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d5a43df4-06c7-45c3-8408-6a47ddb005be",
+      "english": "detail",
+      "translation": null,
+      "hebrew": "פרט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He noticed every detail.",
+        "The report included all the details."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "af8b2e22-c051-41a3-b35c-7d64f6cb70bc",
+      "english": "detrimental",
+      "translation": null,
+      "hebrew": "מזיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Smoking is detrimental to your health.",
+        "The decision was detrimental to the company."
+      ],
+      "synonyms": [
+        "harmful",
+        "damaging"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "417e6d1e-bd12-4966-9637-e83dc2ee0eb2",
+      "english": "devastated",
+      "translation": null,
+      "hebrew": "הרוס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was devastated by the news.",
+        "The town was devastated by the earthquake."
+      ],
+      "synonyms": [
+        "destroyed",
+        "ruined"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    }
+  ]
+}

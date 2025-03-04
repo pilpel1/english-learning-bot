@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "chunk_number": 103,
+    "words_range": "heresy-infancy",
+    "word_count": 30,
+    "start_index": 3060,
+    "end_index": 3089
+  },
+  "words": [
+    {
+      "word_id": "e23def12-f93c-4beb-8209-9207c1f8fac2",
+      "english": "heresy",
+      "translation": null,
+      "hebrew": "כפירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was accused of heresy for his beliefs.",
+        "In the past, heresy was severely punished."
+      ],
+      "synonyms": [
+        "dissension",
+        "unorthodoxy"
+      ],
+      "topic_tags": [
+        "general",
+        "religion",
+        "philosophy"
+      ]
+    },
+    {
+      "word_id": "f47fb089-0c7b-4e64-9571-d63bbba90a64",
+      "english": "hibernate",
+      "translation": null,
+      "hebrew": "לתרדמת חורף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Bears hibernate during the winter.",
+        "The animal needs to hibernate to survive the cold."
+      ],
+      "synonyms": [
+        "sleep",
+        "dormancy"
+      ],
+      "topic_tags": [
+        "general",
+        "animals",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "95664b7c-7545-418f-ac13-ded1ca009c84",
+      "english": "hid from",
+      "translation": null,
+      "hebrew": "הסתתר מ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The child hid from his parents.",
+        "She hid from the rain under a tree."
+      ],
+      "synonyms": [
+        "concealed",
+        "sheltered"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "044d8cb4-4296-4956-a1bd-f6f33c860acb",
+      "english": "hidden",
+      "translation": null,
+      "hebrew": "נסתר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The treasure was hidden in the cave.",
+        "There's a hidden message in the painting."
+      ],
+      "synonyms": [
+        "concealed",
+        "secret"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1e93fca6-9b5b-4f21-aa83-ab3ad6436456",
+      "english": "highway",
+      "translation": null,
+      "hebrew": "כביש מהיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The highway is very busy during rush hour.",
+        "We drove on the highway to get to the beach."
+      ],
+      "synonyms": [
+        "freeway",
+        "expressway"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "f1b0b8ca-8caa-4864-8324-c637627286c4",
+      "english": "hinder",
+      "translation": null,
+      "hebrew": "להפריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The rain hindered our plans.",
+        "Don't hinder me from doing my job."
+      ],
+      "synonyms": [
+        "obstruct",
+        "impede"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "36f7e8b3-2d7f-4422-9268-f6ddcebf9753",
+      "english": "hint",
+      "translation": null,
+      "hebrew": "רמז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave me a hint about the surprise.",
+        "Did you catch the hint?"
+      ],
+      "synonyms": [
+        "clue",
+        "suggestion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5344da81-5ff0-41be-a0a9-c0167bd742b9",
+      "english": "historian",
+      "translation": null,
+      "hebrew": "היסטוריון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The historian wrote a book about the war.",
+        "Historians study the past."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "a5103d66-25d0-4ab9-8203-139f57a15ccd",
+      "english": "hive",
+      "translation": null,
+      "hebrew": "כוורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bees live in a hive.",
+        "The beekeeper opened the hive."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "37eda185-6cf1-41b9-b9eb-d6d298121fac",
+      "english": "horrific",
+      "translation": null,
+      "hebrew": "מזעזע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The accident was horrific.",
+        "It was a horrific experience."
+      ],
+      "synonyms": [
+        "terrible",
+        "awful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "083196ad-a596-47ec-abf1-db4951820a97",
+      "english": "horror",
+      "translation": null,
+      "hebrew": "אימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt horror when she saw the snake.",
+        "The movie was full of horror."
+      ],
+      "synonyms": [
+        "terror",
+        "dread"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "89782723-27bc-4eb8-a356-3f0d2a8f803f",
+      "english": "hospitality",
+      "translation": null,
+      "hebrew": "אירוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The hotel is known for its hospitality.",
+        "They showed us great hospitality."
+      ],
+      "synonyms": [
+        "welcome",
+        "friendliness"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "963ce5f9-5d68-4f4e-842a-e53b10f4c5c9",
+      "english": "host",
+      "translation": null,
+      "hebrew": "מארח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was the host of the party.",
+        "The host greeted us at the door."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7b75aa87-72da-4a61-8ed9-3e3d2a0cb68b",
+      "english": "hostility",
+      "translation": null,
+      "hebrew": "עוינות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a lot of hostility between the two countries.",
+        "He felt hostility towards his enemies."
+      ],
+      "synonyms": [
+        "enmity",
+        "antagonism"
+      ],
+      "topic_tags": [
+        "general",
+        "politics",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "fb4b7cf6-3685-4d2f-bd81-1dd8c627d274",
+      "english": "hypocrisy",
+      "translation": null,
+      "hebrew": "צביעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His hypocrisy was obvious to everyone.",
+        "There's a lot of hypocrisy in politics."
+      ],
+      "synonyms": [
+        "deceit",
+        "insincerity"
+      ],
+      "topic_tags": [
+        "general",
+        "ethics"
+      ]
+    },
+    {
+      "word_id": "0f93dc19-8097-4170-84ae-747ae64c5f0f",
+      "english": "idolize",
+      "translation": null,
+      "hebrew": "להעריץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Teenagers often idolize celebrities.",
+        "He idolized his father."
+      ],
+      "synonyms": [
+        "worship",
+        "revere"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ea5f4c20-a3bb-45f0-b933-9c330da3631e",
+      "english": "ill",
+      "translation": null,
+      "hebrew": "חולה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is ill and cannot come to work.",
+        "He felt ill after eating too much."
+      ],
+      "synonyms": [
+        "sick",
+        "unwell"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "8afcb97f-2176-4da8-ac83-461432711026",
+      "english": "illuminate",
+      "translation": null,
+      "hebrew": "להאיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The streetlights illuminate the road.",
+        "The lamp illuminated the room."
+      ],
+      "synonyms": [
+        "light",
+        "brighten"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5f3b5a31-741c-4692-8dfa-0be60290a477",
+      "english": "illusion",
+      "translation": null,
+      "hebrew": "אשליה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician created an illusion.",
+        "It was just an illusion."
+      ],
+      "synonyms": [
+        "delusion",
+        "fantasy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dbd98415-65cc-4e9c-96a7-7121a1f5015f",
+      "english": "imaginative",
+      "translation": null,
+      "hebrew": "דמיוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a very imaginative writer.",
+        "The child has an imaginative mind."
+      ],
+      "synonyms": [
+        "creative",
+        "visionary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6cb29c35-afc0-4cdf-89bf-eb11462c9a47",
+      "english": "imitate",
+      "translation": null,
+      "hebrew": "לחקות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Children often imitate their parents.",
+        "He can imitate the president's voice."
+      ],
+      "synonyms": [
+        "mimic",
+        "copy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "38ecefd8-6df6-406f-9bba-b7bb20b8f8eb",
+      "english": "implore",
+      "translation": null,
+      "hebrew": "להתחנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He implored her to stay.",
+        "She implored him for forgiveness."
+      ],
+      "synonyms": [
+        "beg",
+        "plead"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4c8eef60-3581-4c87-8b41-224bc8e90a14",
+      "english": "imply",
+      "translation": null,
+      "hebrew": "לרמוז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Are you implying that I'm wrong?",
+        "His words implied a threat."
+      ],
+      "synonyms": [
+        "suggest",
+        "insinuate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f844cc49-5e44-4e48-96fc-555febbfcd32",
+      "english": "imprisonment",
+      "translation": null,
+      "hebrew": "מאסר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was sentenced to imprisonment.",
+        "Imprisonment is a harsh punishment."
+      ],
+      "synonyms": [
+        "incarceration",
+        "confinement"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "6a132f83-7b63-4ed4-8439-3ae4ba682495",
+      "english": "inadvertently",
+      "translation": null,
+      "hebrew": "בטעות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I inadvertently deleted the file.",
+        "He inadvertently revealed the secret."
+      ],
+      "synonyms": [
+        "unintentionally",
+        "accidentally"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "22aaa6d2-13e5-45b8-a734-5343509122bc",
+      "english": "incline",
+      "translation": null,
+      "hebrew": "לנטות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I incline to believe him.",
+        "He inclines towards conservatism."
+      ],
+      "synonyms": [
+        "lean",
+        "tend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2e2c0322-5901-4ad1-ad70-1fbdf2c34e61",
+      "english": "incline",
+      "translation": null,
+      "hebrew": "שיפוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The road has a steep incline.",
+        "The hill is a gentle incline."
+      ],
+      "synonyms": [
+        "slope",
+        "gradient"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8d908e2c-1ab2-46bf-934d-0ea6ae0ff884",
+      "english": "indebted",
+      "translation": null,
+      "hebrew": "אסיר תודה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am indebted to you for your help.",
+        "He felt indebted to his parents."
+      ],
+      "synonyms": [
+        "grateful",
+        "obliged"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2525ec47-6ff6-4b20-bbde-1d7aa3b16dc8",
+      "english": "induce",
+      "translation": null,
+      "hebrew": "לגרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The medicine can induce sleep.",
+        "What induced you to do that?"
+      ],
+      "synonyms": [
+        "cause",
+        "persuade"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a0f8084c-5d50-4806-a618-2308316f8c5b",
+      "english": "infancy",
+      "translation": null,
+      "hebrew": "יַלְדוּת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is still in its infancy.",
+        "She remembers her infancy vividly."
+      ],
+      "synonyms": [
+        "babyhood",
+        "beginning"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

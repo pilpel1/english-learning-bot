@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 27,
+    "words_range": "capacity-community",
+    "word_count": 30,
+    "start_index": 780,
+    "end_index": 809
+  },
+  "words": [
+    {
+      "word_id": "e1df1e4f-3d15-4638-83b4-ff182138d71d",
+      "english": "capacity",
+      "translation": null,
+      "hebrew": "קיבולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The theater has a seating capacity of 500.",
+        "The tank's capacity is 100 liters."
+      ],
+      "synonyms": ["volume", "size", "limit"],
+      "topic_tags": ["general", "measurement", "capacity"]
+    },
+    {
+      "word_id": "5ca09de6-cb90-460b-832d-4df3fb6d2be0",
+      "english": "capacity",
+      "translation": "יכולת",
+      "hebrew": "יכולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has the capacity to learn quickly.",
+        "His capacity for hard work is impressive."
+      ],
+      "synonyms": ["ability", "capability", "potential"],
+      "topic_tags": ["general", "ability", "potential"]
+    },
+    {
+      "word_id": "8b2641cd-2ad8-4f63-ab23-214e26c9b954",
+      "english": "capital",
+      "translation": "הון",
+      "hebrew": "הון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company needs more capital to expand.",
+        "He invested a large amount of capital in the business."
+      ],
+      "synonyms": ["funds", "assets", "wealth"],
+      "topic_tags": ["general", "finance", "investment"]
+    },
+    {
+      "word_id": "0ded1b8e-5b34-465d-9581-00d1dd2045d9",
+      "english": "capital",
+      "translation": "עיר בירה",
+      "hebrew": "עיר בירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Paris is the capital of France.",
+        "The capital city is known for its rich history."
+      ],
+      "synonyms": ["metropolis", "city", "center"],
+      "topic_tags": ["general", "geography", "cities"]
+    },
+    {
+      "word_id": "9d39fc52-6967-42a8-ae78-808aabcf2fc7",
+      "english": "capital",
+      "translation": "אות גדולה",
+      "hebrew": "אות גדולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sentence starts with a capital letter.",
+        "Use a capital for proper nouns."
+      ],
+      "synonyms": ["uppercase", "majuscule", "big letter"],
+      "topic_tags": ["general", "language", "writing"]
+    },
+    {
+      "word_id": "be2fc0dd-7bdf-4e20-a56c-48bead28156f",
+      "english": "capital",
+      "translation": "עיקרי",
+      "hebrew": "עיקרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The capital idea was to improve efficiency.",
+        "He made a capital mistake."
+      ],
+      "synonyms": ["main", "chief", "primary"],
+      "topic_tags": ["general", "importance", "priority"]
+    },
+    {
+      "word_id": "e206bfcc-1acf-4dd7-8baa-f8f9af72aa6c",
+      "english": "capital punishment",
+      "translation": "עונש מוות",
+      "hebrew": "עונש מוות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Capital punishment is a controversial topic.",
+        "Some countries have abolished capital punishment."
+      ],
+      "synonyms": ["death penalty", "execution", "death sentence"],
+      "topic_tags": ["general", "law", "justice"]
+    },
+    {
+      "word_id": "374465ed-9dbc-4ed3-862f-6014813de664",
+      "english": "capitalize",
+      "translation": "להשתמש באות גדולה",
+      "hebrew": "להשתמש באות גדולה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Remember to capitalize the first word of a sentence.",
+        "Names should always be capitalized."
+      ],
+      "synonyms": ["uppercase", "capitalize", "majuscule"],
+      "topic_tags": ["general", "language", "writing"]
+    },
+    {
+      "word_id": "5512516c-0d77-484e-891e-bfa507db7343",
+      "english": "certain",
+      "translation": "מסוים",
+      "hebrew": "מסוים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Certain people prefer tea over coffee.",
+        "There are certain rules you must follow."
+      ],
+      "synonyms": ["specific", "particular", "definite"],
+      "topic_tags": ["general", "specification", "preference"]
+    },
+    {
+      "word_id": "c6c67116-0dcd-4685-8769-e711c7f0254f",
+      "english": "certain",
+      "translation": "בטוח",
+      "hebrew": "בטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am certain that he will come.",
+        "She is certain about her decision."
+      ],
+      "synonyms": ["sure", "confident", "positive"],
+      "topic_tags": ["general", "certainty", "confidence"]
+    },
+    {
+      "word_id": "2e6238ad-7b38-4470-bdcd-eb42f24e99fa",
+      "english": "certainty",
+      "translation": "ודאות",
+      "hebrew": "ודאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is no certainty in life.",
+        "He spoke with certainty about the outcome."
+      ],
+      "synonyms": ["assurance", "confidence", "conviction"],
+      "topic_tags": ["general", "certainty", "assurance"]
+    },
+    {
+      "word_id": "0e638cd6-152e-4a6e-aa74-c958de799d6c",
+      "english": "character",
+      "translation": "דמות",
+      "hebrew": "דמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The main character in the story is a hero.",
+        "She played a character in the play."
+      ],
+      "synonyms": ["figure", "persona", "role"],
+      "topic_tags": ["general", "literature", "theater"]
+    },
+    {
+      "word_id": "e8790113-4624-4b93-99ee-1953637861f9",
+      "english": "character",
+      "translation": "אופי",
+      "hebrew": "אופי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a strong character.",
+        "Her character is known for honesty."
+      ],
+      "synonyms": ["nature", "personality", "disposition"],
+      "topic_tags": ["general", "psychology", "traits"]
+    },
+    {
+      "word_id": "784dcd8b-1ad0-44b2-abd0-8fdfc5ceac68",
+      "english": "character",
+      "translation": "תו",
+      "hebrew": "תו",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Each character in the password is important.",
+        "The Chinese language uses many characters."
+      ],
+      "synonyms": ["symbol", "letter", "glyph"],
+      "topic_tags": ["general", "language", "symbols"]
+    },
+    {
+      "word_id": "13fe07f4-d05a-4f48-b5dd-899e0a85dae2",
+      "english": "characteristic",
+      "translation": "מאפיין",
+      "hebrew": "מאפיין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Patience is a characteristic of a good teacher.",
+        "The characteristic of the material is its durability."
+      ],
+      "synonyms": ["trait", "feature", "quality"],
+      "topic_tags": ["general", "traits", "features"]
+    },
+    {
+      "word_id": "72ff96f0-7c47-41fb-aa22-3c9cb9ad9b02",
+      "english": "choice",
+      "translation": "בחירה",
+      "hebrew": "בחירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You have a choice between tea and coffee.",
+        "His choice was to stay home."
+      ],
+      "synonyms": ["selection", "option", "alternative"],
+      "topic_tags": ["general", "decision", "options"]
+    },
+    {
+      "word_id": "a282569c-4406-431a-838b-5bdf37fd30b9",
+      "english": "choose",
+      "translation": "לבחור",
+      "hebrew": "לבחור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She chose the red dress.",
+        "You can choose your own path."
+      ],
+      "synonyms": ["select", "pick", "decide"],
+      "topic_tags": ["general", "decision", "selection"]
+    },
+    {
+      "word_id": "5c4b9898-7a03-4ad4-89b7-1bb33f11cdba",
+      "english": "circumstance",
+      "translation": "נסיבות",
+      "hebrew": "נסיבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Under the circumstances, we had to cancel the event.",
+        "The circumstances of the accident are unclear."
+      ],
+      "synonyms": ["situation", "condition", "context"],
+      "topic_tags": ["general", "situation", "context"]
+    },
+    {
+      "word_id": "d1a86717-4838-40d0-8298-08a8d53a34fb",
+      "english": "civil",
+      "translation": "אזרחי",
+      "hebrew": "אזרחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Civil rights are important in a democracy.",
+        "He works in civil engineering."
+      ],
+      "synonyms": ["civic", "public", "municipal"],
+      "topic_tags": ["general", "society", "law"]
+    },
+    {
+      "word_id": "057be7b5-4341-4cb0-9ad1-180a92aafa68",
+      "english": "civil",
+      "translation": "מנומס",
+      "hebrew": "מנומס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Please be civil during the discussion.",
+        "They had a civil conversation."
+      ],
+      "synonyms": ["polite", "courteous", "respectful"],
+      "topic_tags": ["general", "behavior", "manners"]
+    },
+    {
+      "word_id": "7ef47ea7-4e50-49ae-b48f-188f07805991",
+      "english": "class",
+      "translation": "כיתה",
+      "hebrew": "כיתה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The class starts at 9 AM.",
+        "She is the top student in her class."
+      ],
+      "synonyms": ["course", "lesson", "session"],
+      "topic_tags": ["general", "education", "school"]
+    },
+    {
+      "word_id": "63683a4e-e358-4203-9ebb-2a62cad5a2e8",
+      "english": "class",
+      "translation": "מעמד",
+      "hebrew": "מעמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The middle class is growing.",
+        "He belongs to the upper class."
+      ],
+      "synonyms": ["rank", "status", "tier"],
+      "topic_tags": ["general", "society", "economics"]
+    },
+    {
+      "word_id": "06740f1d-fa03-4ac7-a0cf-b8214548ec99",
+      "english": "class",
+      "translation": "סוג",
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This class of animals is endangered.",
+        "The product falls into a different class."
+      ],
+      "synonyms": ["category", "type", "group"],
+      "topic_tags": ["general", "classification", "categories"]
+    },
+    {
+      "word_id": "c58f096f-9e3b-4e1a-96c7-c3de444ab210",
+      "english": "classify",
+      "translation": "לסווג",
+      "hebrew": "לסווג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The library classifies books by genre.",
+        "He classified the documents as confidential."
+      ],
+      "synonyms": ["categorize", "sort", "arrange"],
+      "topic_tags": ["general", "organization", "classification"]
+    },
+    {
+      "word_id": "d2b1b71f-242f-4c63-ab27-b5f3d493f033",
+      "english": "colony",
+      "translation": "מושבה",
+      "hebrew": "מושבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The colony was established in the 18th century.",
+        "Ants live in a colony."
+      ],
+      "synonyms": ["settlement", "outpost", "community"],
+      "topic_tags": ["general", "history", "biology"]
+    },
+    {
+      "word_id": "c289276e-e624-4c4d-aa31-71abe24c448f",
+      "english": "combine",
+      "translation": "לשלב",
+      "hebrew": "לשלב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Combine the ingredients in a bowl.",
+        "They combined their efforts to succeed."
+      ],
+      "synonyms": ["merge", "unite", "blend"],
+      "topic_tags": ["general", "action", "integration"]
+    },
+    {
+      "word_id": "64de0e2c-ed16-41f9-842e-50a154a59b9a",
+      "english": "common",
+      "translation": "נפוץ",
+      "hebrew": "נפוץ",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is common to see tourists in this area.",
+        "They share a common interest in music."
+      ],
+      "synonyms": ["usual", "frequent", "widespread"],
+      "topic_tags": ["general", "frequency", "popularity"]
+    },
+    {
+      "word_id": "b23336ec-5005-43c6-b80e-891fd1b090a3",
+      "english": "communal",
+      "translation": "קהילתי",
+      "hebrew": "קהילתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a communal setting.",
+        "The communal garden is open to all residents."
+      ],
+      "synonyms": ["shared", "collective", "joint"],
+      "topic_tags": ["general", "community", "sharing"]
+    },
+    {
+      "word_id": "02b8fdc4-3d2e-4ddf-af75-f82976058fd5",
+      "english": "communicate",
+      "translation": "לתקשר",
+      "hebrew": "לתקשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They communicate through email.",
+        "It's important to communicate your needs."
+      ],
+      "synonyms": ["convey", "transmit", "interact"],
+      "topic_tags": ["general", "communication", "interaction"]
+    },
+    {
+      "word_id": "79ed2167-c470-4930-8169-b46f72c9f958",
+      "english": "community",
+      "translation": "קהילה",
+      "hebrew": "קהילה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The community gathered for the festival.",
+        "She is an active member of her community."
+      ],
+      "synonyms": ["society", "group", "population"],
+      "topic_tags": ["general", "society", "group"]
+    }
+  ]
+}

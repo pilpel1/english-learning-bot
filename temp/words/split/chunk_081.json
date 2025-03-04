@@ -1,0 +1,573 @@
+{
+  "_meta": {
+    "chunk_number": 81,
+    "words_range": "spectacular-terminate",
+    "word_count": 30,
+    "start_index": 2400,
+    "end_index": 2429
+  },
+  "words": [
+    {
+      "word_id": "e6b17df0-0096-4fc7-9adb-6ba6917a0f28",
+      "english": "spectacular",
+      "translation": "מרהיב",
+      "hebrew": "מרהיב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The sunset over the ocean was spectacular.",
+        "The fireworks display was truly spectacular."
+      ],
+      "synonyms": [
+        "amazing",
+        "impressive",
+        "stunning"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1ea310b7-d99f-4004-8181-66b1abcc5902",
+      "english": "spirit",
+      "translation": "רוח",
+      "hebrew": "רוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a strong spirit and never gives up.",
+        "The spirit of the team was high after their victory."
+      ],
+      "synonyms": [
+        "soul",
+        "mind",
+        "attitude"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a3951679-560c-4de4-a9ff-49751204bb41",
+      "english": "spirit",
+      "translation": "משקה חריף",
+      "hebrew": "משקה חריף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He ordered a spirit at the bar.",
+        "Some spirits are made from grain."
+      ],
+      "synonyms": [
+        "liquor"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b328fdb2-7787-44ff-8108-d3123292f28a",
+      "english": "spiritual",
+      "translation": "רוחני",
+      "hebrew": "רוחני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a spiritual person who meditates daily.",
+        "They went on a spiritual retreat to find inner peace."
+      ],
+      "synonyms": [
+        "religious",
+        "non-physical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8207a941-bcb9-442b-8462-189dd59b69eb",
+      "english": "spontaneously",
+      "translation": "באופן ספונטני",
+      "hebrew": "באופן ספונטני",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The crowd spontaneously started singing.",
+        "He spontaneously decided to go for a walk."
+      ],
+      "synonyms": [
+        "naturally",
+        "impulsively"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0044ff76-c0a8-42fb-8a62-5fec18856447",
+      "english": "stabilize",
+      "translation": "לייצב",
+      "hebrew": "לייצב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor tried to stabilize the patient's condition.",
+        "The government is working to stabilize the economy."
+      ],
+      "synonyms": [
+        "secure",
+        "balance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8593b1a9-ad84-494b-820e-0a2fdde0b73f",
+      "english": "stable",
+      "translation": "יציב",
+      "hebrew": "יציב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is stable and won't wobble.",
+        "He has a stable job with a good salary."
+      ],
+      "synonyms": [
+        "steady",
+        "firm"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5cb9f521-62ce-4f11-aa78-b21194181142",
+      "english": "steam",
+      "translation": "אדים",
+      "hebrew": "אדים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The steam from the hot shower filled the bathroom.",
+        "The engine runs on steam."
+      ],
+      "synonyms": [
+        "vapor"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "da97e472-923e-4b32-8053-d7ab085d71f8",
+      "english": "steamship",
+      "translation": "אוניית קיטור",
+      "hebrew": "אוניית קיטור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The steamship crossed the Atlantic Ocean.",
+        "Steamships were common in the 19th century."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general", "transportation"
+      ]
+    },
+    {
+      "word_id": "ed1262b4-6a5d-495a-bd1e-3d3a933f6730",
+      "english": "straightforward",
+      "translation": "פשוט",
+      "hebrew": "פשוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were straightforward and easy to follow.",
+        "He gave a straightforward answer to the question."
+      ],
+      "synonyms": [
+        "simple",
+        "direct",
+        "clear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b4c6341f-3093-46d7-b0a0-14df1d64ac7e",
+      "english": "stream",
+      "translation": "נחל",
+      "hebrew": "נחל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A small stream ran through the forest.",
+        "We sat by the stream and listened to the water."
+      ],
+      "synonyms": [
+        "brook",
+        "river"
+      ],
+      "topic_tags": [
+        "general", "nature"
+      ]
+    },
+    {
+      "word_id": "fc39978c-d657-4d84-8687-edaf0bf1f06e",
+      "english": "stricken",
+      "translation": "מוכה",
+      "hebrew": "מוכה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The town was stricken by a terrible earthquake.",
+        "She was stricken with grief after her loss."
+      ],
+      "synonyms": [
+        "affected",
+        "hit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9bfe3b67-6a3e-4aec-86e9-39f5e4720909",
+      "english": "stride",
+      "translation": "לצעוד",
+      "hebrew": "לצעוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He strode confidently into the room.",
+        "She took long strides to keep up with him."
+      ],
+      "synonyms": [
+        "walk",
+        "step"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "30ea54fa-d1d6-4195-acba-8527d132f631",
+      "english": "strife",
+      "translation": "מאבק",
+      "hebrew": "מאבק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has been torn by political strife.",
+        "There was a lot of strife within the company."
+      ],
+      "synonyms": [
+        "conflict",
+        "struggle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99c2bf2f-b375-4155-90ef-67e098a125bc",
+      "english": "strike",
+      "translation": "לפגוע",
+      "hebrew": "לפגוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The ball struck the window.",
+        "Lightning struck the tree."
+      ],
+      "synonyms": [
+        "hit",
+        "attack"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db1a55a4-fd67-4d72-9465-a171fa227964",
+      "english": "strike",
+      "translation": "שביתה",
+      "hebrew": "שביתה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The workers went on strike for better pay.",
+        "The strike lasted for two weeks."
+      ],
+      "synonyms": [
+        "walkout"
+      ],
+      "topic_tags": [
+        "general", "business"
+      ]
+    },
+    {
+      "word_id": "69f5b8c7-0983-46a2-bff5-846e24f26650",
+      "english": "stripes",
+      "translation": "פסים",
+      "hebrew": "פסים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The shirt has blue and white stripes.",
+        "Zebras are known for their black and white stripes."
+      ],
+      "synonyms": [
+        "lines"
+      ],
+      "topic_tags": [
+        "general", "clothing"
+      ]
+    },
+    {
+      "word_id": "2cbfdb67-1d0e-4837-b2ac-cbf619f184fd",
+      "english": "structure",
+      "translation": "מבנה",
+      "hebrew": "מבנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has a strong structure.",
+        "The structure of the book was well-organized."
+      ],
+      "synonyms": [
+        "framework",
+        "organization"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "225eb2a3-2a4f-42fa-8bf6-1aab360a5aa5",
+      "english": "stumble",
+      "translation": "למעוד",
+      "hebrew": "למעוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He stumbled over a rock and fell.",
+        "She stumbled through her speech."
+      ],
+      "synonyms": [
+        "trip",
+        "falter"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "afc0d632-5eea-4593-853d-6a6523f7ce56",
+      "english": "substitute",
+      "translation": "תחליף",
+      "hebrew": "תחליף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was a substitute teacher for the day.",
+        "You can use margarine as a substitute for butter."
+      ],
+      "synonyms": [
+        "replacement"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c465cfd5-c0cf-495d-8a0b-b4539830421f",
+      "english": "sufficient",
+      "translation": "מספיק",
+      "hebrew": "מספיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We have sufficient food for the trip.",
+        "Is there sufficient evidence to prove his guilt?"
+      ],
+      "synonyms": [
+        "enough",
+        "adequate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d42b523e-3bc4-4cbf-b8f0-404c23d57135",
+      "english": "superfluous",
+      "translation": "מיותר",
+      "hebrew": "מיותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The extra information was superfluous.",
+        "Remove any superfluous details from the report."
+      ],
+      "synonyms": [
+        "unnecessary",
+        "redundant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b910a079-4210-40c3-a118-f6a10e46cdc2",
+      "english": "surface",
+      "translation": "משטח",
+      "hebrew": "משטח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The surface of the table was smooth.",
+        "The boat broke the surface of the water."
+      ],
+      "synonyms": [
+        "exterior"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b2d7eec9-1430-4f1b-8ebc-f70a993b3052",
+      "english": "suspect",
+      "translation": "לחשוד",
+      "hebrew": "לחשוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I suspect that he is lying.",
+        "The police suspect her of the crime."
+      ],
+      "synonyms": [
+        "doubt",
+        "distrust"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "902738e4-d179-4938-87a5-4e9858e4d1c2",
+      "english": "suspect",
+      "translation": "חשוד",
+      "hebrew": "חשוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the main suspect in the case.",
+        "The police are looking for the suspect."
+      ],
+      "synonyms": [
+        "criminal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b32c59a-371a-4d5e-91b4-b5bfb314913d",
+      "english": "suspicious",
+      "translation": "חשוד",
+      "hebrew": "חשוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior was suspicious.",
+        "The package looked suspicious."
+      ],
+      "synonyms": [
+        "doubtful",
+        "questionable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "06431bf0-402c-4cba-bf77-49a53a8d2a98",
+      "english": "sympathetic",
+      "translation": "אוהד",
+      "hebrew": "אוהד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She was sympathetic to my situation.",
+        "He offered a sympathetic ear."
+      ],
+      "synonyms": [
+        "compassionate",
+        "understanding"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ca0a3f2d-d280-4a2b-a52b-45801053799c",
+      "english": "team",
+      "translation": "צוות",
+      "hebrew": "צוות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We work as a team to complete the project.",
+        "He is a member of the school's soccer team."
+      ],
+      "synonyms": [
+        "group"
+      ],
+      "topic_tags": [
+        "general", "sports"
+      ]
+    },
+    {
+      "word_id": "42745921-784c-4e25-9080-e42e32bc6dad",
+      "english": "tendency",
+      "translation": "נטייה",
+      "hebrew": "נטייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a tendency to be late.",
+        "There is a tendency for prices to rise in the summer."
+      ],
+      "synonyms": [
+        "inclination",
+        "trend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ed2493b4-5f42-416f-9d60-a2d57bab0086",
+      "english": "terminate",
+      "translation": "לסיים",
+      "hebrew": "לסיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The contract was terminated early.",
+        "The road terminates at the beach."
+      ],
+      "synonyms": [
+        "end",
+        "conclude"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

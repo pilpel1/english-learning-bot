@@ -1,0 +1,592 @@
+{
+  "_meta": {
+    "chunk_number": 70,
+    "words_range": "colleague-conscious",
+    "word_count": 30,
+    "start_index": 2070,
+    "end_index": 2099
+  },
+  "words": [
+    {
+      "word_id": "fece4d6d-b585-4901-8605-67b374d42ae1",
+      "english": "colleague",
+      "translation": null,
+      "hebrew": "עמית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is my colleague at work.",
+        "I enjoy working with my colleagues."
+      ],
+      "synonyms": [
+        "coworker",
+        "associate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "1c34ca1f-5578-4d47-878d-27b2b28640fe",
+      "english": "collect",
+      "translation": null,
+      "hebrew": "לאסוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I collect stamps.",
+        "Please collect the trash."
+      ],
+      "synonyms": [
+        "gather",
+        "accumulate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "92c6e235-fa63-43bd-a166-882a98bb5e70",
+      "english": "collide",
+      "translation": null,
+      "hebrew": "להתנגש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two cars collided.",
+        "The planets will collide in the future."
+      ],
+      "synonyms": [
+        "crash",
+        "impact"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "55452985-9cd1-4967-970f-f01b75fb29c0",
+      "english": "collision",
+      "translation": null,
+      "hebrew": "התנגשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a collision on the highway.",
+        "The collision caused a lot of damage."
+      ],
+      "synonyms": [
+        "crash",
+        "impact"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4310fd84-205a-48e7-b55c-4ba861d4c21c",
+      "english": "commendably",
+      "translation": null,
+      "hebrew": "לשבח",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He acted commendably in the crisis.",
+        "She performed commendably on the exam."
+      ],
+      "synonyms": [
+        "admirably",
+        "praiseworthy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "64f4569e-12bd-4317-b6e8-09371208e9b1",
+      "english": "commends",
+      "translation": null,
+      "hebrew": "משבח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher commends the student for his hard work.",
+        "The manager commends the team for their success."
+      ],
+      "synonyms": [
+        "praise",
+        "applaud"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "538ac100-35ba-4323-9681-af4155a8ff86",
+      "english": "commentary",
+      "translation": null,
+      "hebrew": "פרשנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The news program included a commentary on the election.",
+        "The book provides a commentary on the play."
+      ],
+      "synonyms": [
+        "explanation",
+        "interpretation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d6c67a12-0fef-4a05-a0b9-8df2da138a69",
+      "english": "companion",
+      "translation": null,
+      "hebrew": "בן לוויה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My dog is my best companion.",
+        "He traveled with a companion."
+      ],
+      "synonyms": [
+        "friend",
+        "partner"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "de69012e-e219-40f2-8f62-3715db94a88b",
+      "english": "compatible",
+      "translation": null,
+      "hebrew": "תואם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two software programs are compatible.",
+        "They are not compatible with each other."
+      ],
+      "synonyms": [
+        "harmonious",
+        "consistent"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "95022e45-31a4-4a09-a2b0-747c67c99576",
+      "english": "compel",
+      "translation": null,
+      "hebrew": "לאלץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The law compels people to pay taxes.",
+        "I felt compelled to help her."
+      ],
+      "synonyms": [
+        "force",
+        "oblige"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "365950a6-e68a-41f8-b89a-5bcc2f412161",
+      "english": "compensate",
+      "translation": null,
+      "hebrew": "לפצות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company will compensate you for your injuries.",
+        "He was compensated for his loss."
+      ],
+      "synonyms": [
+        "reimburse",
+        "repay"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "db200f86-80c4-4d6c-a499-4c303f481a7e",
+      "english": "compile",
+      "translation": null,
+      "hebrew": "לקבץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He compiled a list of names.",
+        "The data was compiled into a report."
+      ],
+      "synonyms": [
+        "assemble",
+        "gather"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2ec2a288-17d7-4411-9f87-14f3724afd9b",
+      "english": "conceal",
+      "translation": null,
+      "hebrew": "להסתיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to conceal the truth.",
+        "She concealed her feelings."
+      ],
+      "synonyms": [
+        "hide",
+        "cover"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "419bdbf7-4073-4757-8712-9c73c4310585",
+      "english": "conceive",
+      "translation": null,
+      "hebrew": "להרות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is unable to conceive a child.",
+        "They conceived a plan to escape."
+      ],
+      "synonyms": [
+        "imagine",
+        "think up"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "28fa7727-5038-4287-b050-fe0e2a33cc96",
+      "english": "conceive",
+      "translation": null,
+      "hebrew": "לתפוס רעיון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I cannot conceive of such a thing happening.",
+        "She couldn't conceive how anyone could be so cruel."
+      ],
+      "synonyms": [
+        "grasp",
+        "comprehend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "389028c0-0301-4899-8089-7be72c5f243a",
+      "english": "concerted",
+      "translation": null,
+      "hebrew": "מתואם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "A concerted effort was made to clean up the park.",
+        "The problem requires concerted action from all departments."
+      ],
+      "synonyms": [
+        "coordinated",
+        "joint"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bcfb0bb6-732c-49b1-bad5-1ddc4b471d4c",
+      "english": "concur",
+      "translation": null,
+      "hebrew": "להסכים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I concur with your opinion.",
+        "The committee concurred on the decision."
+      ],
+      "synonyms": [
+        "agree",
+        "assent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9385ec28-360f-4a54-bc31-f029d7abe31f",
+      "english": "concurrence",
+      "translation": null,
+      "hebrew": "הסכמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a concurrence of opinion on the matter.",
+        "The decision was made with the concurrence of all members."
+      ],
+      "synonyms": [
+        "agreement",
+        "accord"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e7dbadd0-2955-4e76-86f2-e91ee0961086",
+      "english": "condemned",
+      "translation": null,
+      "hebrew": "נידון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building was condemned as unsafe.",
+        "He was condemned to death."
+      ],
+      "synonyms": [
+        "doomed",
+        "convicted"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "e9f7438f-6f09-461b-9200-06305ca261ff",
+      "english": "condemned",
+      "translation": null,
+      "hebrew": "לגנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The world condemned the terrorist attack.",
+        "The politician condemned the violence."
+      ],
+      "synonyms": [
+        "denounce",
+        "criticize"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "ff2feed6-82a9-4b51-83be-83bd73313f33",
+      "english": "confess",
+      "translation": null,
+      "hebrew": "להתוודות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He confessed to the crime.",
+        "She confessed her love for him."
+      ],
+      "synonyms": [
+        "admit",
+        "acknowledge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "192909b0-98b4-424e-ad53-9b58463d9f82",
+      "english": "confession",
+      "translation": null,
+      "hebrew": "וידוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a confession to the police.",
+        "The priest heard her confession."
+      ],
+      "synonyms": [
+        "admission",
+        "acknowledgment"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "2c83930b-ffda-4109-9909-47a5e83e5943",
+      "english": "confinement",
+      "translation": null,
+      "hebrew": "מאסר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was sentenced to a period of confinement.",
+        "She was in confinement after giving birth."
+      ],
+      "synonyms": [
+        "imprisonment",
+        "detention"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "47fde8cf-a42a-4202-99b5-99e90ec2daf7",
+      "english": "confiscate",
+      "translation": null,
+      "hebrew": "להחרים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police confiscated the illegal drugs.",
+        "The government confiscated his property."
+      ],
+      "synonyms": [
+        "seize",
+        "impound"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "e00b7fae-e3bd-40fa-8ae3-73cc4e55d439",
+      "english": "conform",
+      "translation": null,
+      "hebrew": "להתאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must conform to the rules.",
+        "The building does not conform to safety standards."
+      ],
+      "synonyms": [
+        "comply",
+        "adapt"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78a97ab9-58e2-458e-bfb9-2c5f02fcf166",
+      "english": "confuse",
+      "translation": null,
+      "hebrew": "לבלבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were confusing.",
+        "I am confused by the question."
+      ],
+      "synonyms": [
+        "baffle",
+        "puzzle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d2c1e8ef-8a62-4a19-94a7-125f12454015",
+      "english": "confusion",
+      "translation": null,
+      "hebrew": "בלבול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a lot of confusion about the meeting time.",
+        "The new policy caused confusion among employees."
+      ],
+      "synonyms": [
+        "disorder",
+        "chaos"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1605a020-2e6a-4d95-93da-413f659148dc",
+      "english": "conquer",
+      "translation": null,
+      "hebrew": "לכבוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army conquered the city.",
+        "He conquered his fear of heights."
+      ],
+      "synonyms": [
+        "defeat",
+        "overcome"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "54d889c6-13c5-4616-818c-93cb01f7cb49",
+      "english": "conquest",
+      "translation": null,
+      "hebrew": "כיבוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The conquest of the city was a major victory.",
+        "The country was under foreign conquest."
+      ],
+      "synonyms": [
+        "capture",
+        "victory"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "d46a5008-82b3-401e-a601-f29683b68401",
+      "english": "conscious",
+      "translation": null,
+      "hebrew": "בהכרה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was conscious after the accident.",
+        "She is conscious of her weight."
+      ],
+      "synonyms": [
+        "aware",
+        "alert"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

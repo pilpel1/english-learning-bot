@@ -1,0 +1,549 @@
+{
+  "_meta": {
+    "chunk_number": 96,
+    "words_range": "superfluous-village",
+    "word_count": 30,
+    "start_index": 2850,
+    "end_index": 2879
+  },
+  "words": [
+    {
+      "word_id": "42e803f8-c43e-40c2-bdfc-3722a6add7ef",
+      "english": "superfluous",
+      "translation": null,
+      "hebrew": "מיותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The report contained superfluous details.",
+        "Much of the information was superfluous."
+      ],
+      "synonyms": [
+        "unnecessary",
+        "redundant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "36f65395-40ef-4d6e-8627-5a1468ee9403",
+      "english": "surface",
+      "translation": null,
+      "hebrew": "משטח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The surface of the table was smooth.",
+        "The boat floated on the surface of the water."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e9f9ae53-e804-432d-aa82-b23397c93d1c",
+      "english": "suspect",
+      "translation": null,
+      "hebrew": "לחשוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police suspect him of the crime.",
+        "I suspect that he is lying."
+      ],
+      "synonyms": [
+        "doubt",
+        "distrust"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "241dee43-9238-45f5-90fd-f0b921b50aaa",
+      "english": "suspect",
+      "translation": null,
+      "hebrew": "חשוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a suspect in the case.",
+        "The police are looking for the suspect."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "b41f8bcf-cf19-44d9-a46f-68658e29ecb9",
+      "english": "suspicious",
+      "translation": null,
+      "hebrew": "חשוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior was suspicious.",
+        "The package looked suspicious."
+      ],
+      "synonyms": [
+        "doubtful",
+        "questionable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "843bf2d7-a9bc-4ef0-a515-2e233b23c7f5",
+      "english": "sympathetic",
+      "translation": null,
+      "hebrew": "אוהד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She was sympathetic to my situation.",
+        "He is a sympathetic listener."
+      ],
+      "synonyms": [
+        "compassionate",
+        "understanding"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a0874f40-7db4-49b4-b6f5-6003e86125ad",
+      "english": "team",
+      "translation": null,
+      "hebrew": "צוות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a member of the team.",
+        "The team worked together to win the game."
+      ],
+      "synonyms": [
+        "group",
+        "crew"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c2389a84-e6c8-4e8c-bb46-68b766f5e26f",
+      "english": "tendency",
+      "translation": null,
+      "hebrew": "נטייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a tendency to be late.",
+        "There is a tendency for prices to rise in the summer."
+      ],
+      "synonyms": [
+        "inclination",
+        "trend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0bd19a88-17f0-4e42-a13f-088bce4d80b5",
+      "english": "terminate",
+      "translation": null,
+      "hebrew": "לסיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The contract was terminated.",
+        "The company decided to terminate the project."
+      ],
+      "synonyms": [
+        "end",
+        "cancel"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "97461573-d85a-480a-934f-2ee1bfe4fa74",
+      "english": "terrain",
+      "translation": null,
+      "hebrew": "שטח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The terrain was rough and uneven.",
+        "The soldiers had to cross difficult terrain."
+      ],
+      "synonyms": [
+        "ground",
+        "landscape"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99b7474d-b77a-40c4-8a47-6221340583bf",
+      "english": "terrify",
+      "translation": null,
+      "hebrew": "להפחיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie terrified the children.",
+        "The thought of public speaking terrifies me."
+      ],
+      "synonyms": [
+        "frighten",
+        "scare"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "63265723-418a-450e-9321-d680672798f0",
+      "english": "theme",
+      "translation": null,
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The theme of the book is love.",
+        "The party had a pirate theme."
+      ],
+      "synonyms": [
+        "topic",
+        "subject"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "90161c54-40ee-4bd0-8b8c-fb6887b94ef5",
+      "english": "threat",
+      "translation": null,
+      "hebrew": "איום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He received a death threat.",
+        "The storm is a threat to the coastal areas."
+      ],
+      "synonyms": [
+        "danger",
+        "menace"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9af3585c-9a87-4ba2-8a39-e0145df07a10",
+      "english": "tight",
+      "translation": null,
+      "hebrew": "צמוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The shirt was too tight.",
+        "The rope was pulled tight."
+      ],
+      "synonyms": [
+        "close-fitting",
+        "snug"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b146941a-584d-4501-8999-7c9744824449",
+      "english": "time",
+      "translation": null,
+      "hebrew": "זמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What time is it?",
+        "I don't have much time."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39759fda-2785-49e0-b92e-8da0c7d25969",
+      "english": "ultimate",
+      "translation": null,
+      "hebrew": "אולטימטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is the ultimate driving machine.",
+        "The ultimate goal is to win the championship."
+      ],
+      "synonyms": [
+        "final",
+        "supreme"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c7bf742-ddb0-44d2-8732-b442dae3d54a",
+      "english": "unbearable",
+      "translation": null,
+      "hebrew": "בלתי נסבל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The pain was unbearable.",
+        "The heat was unbearable."
+      ],
+      "synonyms": [
+        "intolerable",
+        "insufferable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ea5de7ec-5976-438c-abb5-599906a2cacd",
+      "english": "uncountable",
+      "translation": null,
+      "hebrew": "לא ספיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is an uncountable noun.",
+        "The stars are uncountable."
+      ],
+      "synonyms": [
+        "innumerable",
+        "countless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bb0c711e-7634-4348-b1fe-98dcee1d2f8e",
+      "english": "undergo",
+      "translation": null,
+      "hebrew": "לעבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to undergo surgery.",
+        "The company is undergoing major changes."
+      ],
+      "synonyms": [
+        "experience",
+        "go through"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2c166ec1-e80e-4493-9d14-1903a3371351",
+      "english": "unforgettable",
+      "translation": null,
+      "hebrew": "בלתי נשכח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The trip was unforgettable.",
+        "It was an unforgettable experience."
+      ],
+      "synonyms": [
+        "memorable",
+        "remarkable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "90a29941-fcc4-4f56-ae25-8b39e935a195",
+      "english": "unsafe",
+      "translation": null,
+      "hebrew": "לא בטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is unsafe.",
+        "It is unsafe to swim in the river."
+      ],
+      "synonyms": [
+        "dangerous",
+        "hazardous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dd22cd99-77c9-4af1-804c-6f837f4e2792",
+      "english": "vain",
+      "translation": null,
+      "hebrew": "יהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is very vain about his appearance.",
+        "She is too vain to wear glasses."
+      ],
+      "synonyms": [
+        "conceited",
+        "arrogant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dadae779-e384-4822-ac62-c28f93836523",
+      "english": "vain",
+      "translation": null,
+      "hebrew": "לשווא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His efforts were in vain.",
+        "She tried in vain to stop him."
+      ],
+      "synonyms": [
+        "futile",
+        "pointless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "44a04e91-7eb6-40d8-a711-a381fb892f7a",
+      "english": "vary",
+      "translation": null,
+      "hebrew": "להשתנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The prices vary from store to store.",
+        "The weather can vary greatly."
+      ],
+      "synonyms": [
+        "differ",
+        "change"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3ff6ef0c-ac4e-43ca-8439-896ff1444c25",
+      "english": "venture",
+      "translation": null,
+      "hebrew": "להעז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He ventured into the forest.",
+        "She ventured to ask him a question."
+      ],
+      "synonyms": [
+        "dare",
+        "risk"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "61115569-78d5-4dd6-b662-0bf6f307cd5f",
+      "english": "verify",
+      "translation": null,
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please verify your email address.",
+        "The police are trying to verify the facts."
+      ],
+      "synonyms": [
+        "confirm",
+        "check"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "91ed496f-194f-405a-a607-68a2c61ebc70",
+      "english": "versions",
+      "translation": null,
+      "hebrew": "גרסאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are different versions of the story.",
+        "The software has several versions."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ae7c7fde-7853-4b71-898d-5fe08b41bf8c",
+      "english": "vessel",
+      "translation": null,
+      "hebrew": "כלי שיט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The vessel sailed across the ocean.",
+        "The blood vessel carries blood to the heart."
+      ],
+      "synonyms": [
+        "ship",
+        "boat"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "85cbdce6-388d-43da-839b-4fadf21f9be6",
+      "english": "village",
+      "translation": null,
+      "hebrew": "כפר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He lives in a small village.",
+        "The village is located in the mountains."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "_meta": {
+    "chunk_number": 75,
+    "words_range": "heredity-invisible",
+    "word_count": 30,
+    "start_index": 2220,
+    "end_index": 2249
+  },
+  "words": [
+    {
+      "word_id": "58b5c836-ba6e-4c81-81fc-c96aeea07a50",
+      "english": "heredity",
+      "translation": null,
+      "hebrew": "תורשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Heredity plays a significant role in determining our traits.",
+        "Eye color is often determined by heredity."
+      ],
+      "synonyms": [
+        "inheritance",
+        "genes"
+      ],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "4ba98178-9d39-4f2d-8e19-a890b082d716",
+      "english": "hospital",
+      "translation": null,
+      "hebrew": "בית חולים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She works as a nurse in the local hospital.",
+        "He was taken to the hospital after the accident."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "b575d8bc-33cd-4c46-a821-6e5ff25fd18a",
+      "english": "hospitalize",
+      "translation": null,
+      "hebrew": "לאשפז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to be hospitalized due to his illness.",
+        "The doctor decided to hospitalize her for observation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "2e640574-7860-404d-8e01-42a6ee670bf1",
+      "english": "hunger",
+      "translation": null,
+      "hebrew": "רעב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt a pang of hunger.",
+        "Many people in the world suffer from hunger."
+      ],
+      "synonyms": [
+        "starvation",
+        "appetite"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f2051c69-d8b7-4d0b-a3bc-572fe738a945",
+      "english": "ideal",
+      "translation": null,
+      "hebrew": "אידיאלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is an ideal location for a picnic.",
+        "She has an ideal job."
+      ],
+      "synonyms": [
+        "perfect",
+        "optimal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "50aae5ce-593e-47bb-8bb7-ada06322bc39",
+      "english": "immense",
+      "translation": null,
+      "hebrew": "עצום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The universe is immense.",
+        "She has immense talent."
+      ],
+      "synonyms": [
+        "huge",
+        "vast"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb4a7c19-619e-4a22-8719-802d87aac818",
+      "english": "immigrate",
+      "translation": null,
+      "hebrew": "להגר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Many people immigrate to find better opportunities.",
+        "They decided to immigrate to Canada."
+      ],
+      "synonyms": [
+        "migrate",
+        "emigrate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2f5814a7-fcd5-4739-b1ad-a754119f509c",
+      "english": "impulse",
+      "translation": null,
+      "hebrew": "דחף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He bought the car on an impulse.",
+        "She had an impulse to run away."
+      ],
+      "synonyms": [
+        "urge",
+        "desire"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c8ff653-898f-4d7e-8aab-f3eba22e0f44",
+      "english": "impulsively",
+      "translation": null,
+      "hebrew": "אימפולסיבי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He acted impulsively and regretted it later.",
+        "She bought the dress impulsively."
+      ],
+      "synonyms": [
+        "spontaneously",
+        "recklessly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd0cdbf1-b2b8-48a0-b2d3-4703c363b1b9",
+      "english": "in favor of",
+      "translation": null,
+      "hebrew": "לטובת",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "I am in favor of the new proposal.",
+        "The law is in favor of protecting the environment."
+      ],
+      "synonyms": [
+        "supporting",
+        "approving"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c99050a3-b8d0-4c34-868f-a28ecb721584",
+      "english": "incentive",
+      "translation": null,
+      "hebrew": "תמריץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company offers incentives to increase sales.",
+        "There is no incentive to work harder."
+      ],
+      "synonyms": [
+        "motivation",
+        "reward"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "42267c40-aaa7-416d-8351-f0504ca6b2dc",
+      "english": "incidence",
+      "translation": null,
+      "hebrew": "שכיחות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The incidence of the disease is increasing.",
+        "There is a high incidence of crime in the city."
+      ],
+      "synonyms": [
+        "occurrence",
+        "frequency"
+      ],
+      "topic_tags": [
+        "general",
+        "statistics"
+      ]
+    },
+    {
+      "word_id": "2c3001d9-eeee-43f8-881c-07b718fee4ed",
+      "english": "indifference",
+      "translation": null,
+      "hebrew": "אדישות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He showed indifference to their suffering.",
+        "Her indifference was hurtful."
+      ],
+      "synonyms": [
+        "apathy",
+        "unconcern"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "8a929164-aff7-4b03-a286-db8d196bae09",
+      "english": "infinite",
+      "translation": null,
+      "hebrew": "אינסופי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The universe is infinite.",
+        "Time is infinite."
+      ],
+      "synonyms": [
+        "unlimited",
+        "endless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd642899-760d-4663-956b-be1b36437e0d",
+      "english": "innate",
+      "translation": null,
+      "hebrew": "מולד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has an innate ability to learn languages.",
+        "His innate curiosity led him to explore new things."
+      ],
+      "synonyms": [
+        "inborn",
+        "natural"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5eaebed6-cf8a-4950-83a4-259de2ea9d13",
+      "english": "inner",
+      "translation": null,
+      "hebrew": "פנימי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a strong inner strength.",
+        "The inner workings of the machine are complex."
+      ],
+      "synonyms": [
+        "internal",
+        "inside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eff6af38-ad8d-4c20-8caf-8997833e3ade",
+      "english": "inquire",
+      "translation": null,
+      "hebrew": "לשאול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to inquire about the price.",
+        "He inquired about her health."
+      ],
+      "synonyms": [
+        "ask",
+        "question"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1bc96638-39fe-4856-b51e-365241824134",
+      "english": "inquiry",
+      "translation": null,
+      "hebrew": "חקירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police are conducting an inquiry into the incident.",
+        "She made an inquiry about the job."
+      ],
+      "synonyms": [
+        "investigation",
+        "question"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3659eea7-8f96-4da4-89f7-34b9ac924e2c",
+      "english": "insist",
+      "translation": null,
+      "hebrew": "להתעקש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He insisted on paying for dinner.",
+        "She insisted that she was right."
+      ],
+      "synonyms": [
+        "persist",
+        "demand"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "54655d54-cf18-46d4-b331-f7564069ccf8",
+      "english": "inspiration",
+      "translation": null,
+      "hebrew": "השראה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist found inspiration in nature.",
+        "His speech was an inspiration to many."
+      ],
+      "synonyms": [
+        "motivation",
+        "stimulus"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "2717ca04-949b-45c3-8a05-4dffbc948c9d",
+      "english": "inspiring",
+      "translation": null,
+      "hebrew": "מעורר השראה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was very inspiring.",
+        "She is an inspiring teacher."
+      ],
+      "synonyms": [
+        "motivating",
+        "uplifting"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c2b25779-d7e6-46c5-a22e-9061fdf938dd",
+      "english": "interior",
+      "translation": null,
+      "hebrew": "פנים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The interior of the car is very comfortable.",
+        "The interior design is modern."
+      ],
+      "synonyms": [
+        "inside",
+        "inner"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0ca8ad9c-d0d7-41d6-b20f-cd7e8113c7f3",
+      "english": "interrupt",
+      "translation": null,
+      "hebrew": "להפריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please don't interrupt me when I'm talking.",
+        "The phone call interrupted our conversation."
+      ],
+      "synonyms": [
+        "disrupt",
+        "disturb"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2546ced3-367b-46c8-8ffd-4fe6c0354926",
+      "english": "intersection",
+      "translation": null,
+      "hebrew": "צומת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was an accident at the intersection.",
+        "The traffic is heavy at this intersection."
+      ],
+      "synonyms": [
+        "crossing",
+        "junction"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "69cfc9a6-7bdd-4fee-aed3-fda74d759604",
+      "english": "intervene",
+      "translation": null,
+      "hebrew": "להתערב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher had to intervene in the fight.",
+        "The UN intervened to stop the conflict."
+      ],
+      "synonyms": [
+        "mediate",
+        "interfere"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27ad0286-bf83-49f3-8d3f-34818dc4f58d",
+      "english": "intervention",
+      "translation": null,
+      "hebrew": "התערבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government's intervention was necessary.",
+        "Early intervention can prevent problems."
+      ],
+      "synonyms": [
+        "mediation",
+        "interference"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "df6ce89a-253e-4c7d-bae9-dc8f4c96f173",
+      "english": "invent",
+      "translation": null,
+      "hebrew": "להמציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He invented a new type of engine.",
+        "She invented a story to explain her absence."
+      ],
+      "synonyms": [
+        "create",
+        "design"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "654a3785-8b14-4874-9598-8eb7918b7f64",
+      "english": "inventor",
+      "translation": null,
+      "hebrew": "ממציא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Edison was a famous inventor.",
+        "The inventor of the telephone was Alexander Graham Bell."
+      ],
+      "synonyms": [
+        "creator",
+        "designer"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "317dc858-f104-4286-8401-57b76191124a",
+      "english": "inventory",
+      "translation": null,
+      "hebrew": "מלאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The store has a large inventory of goods.",
+        "We need to take inventory of our supplies."
+      ],
+      "synonyms": [
+        "stock",
+        "supply"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "5c39e009-3e7d-4b12-9300-2a618b5db2fd",
+      "english": "invisible",
+      "translation": null,
+      "hebrew": "בלתי נראה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The air is invisible.",
+        "He felt invisible in the crowd."
+      ],
+      "synonyms": [
+        "unseen",
+        "undetectable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

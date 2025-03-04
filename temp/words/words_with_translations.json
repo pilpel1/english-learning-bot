@@ -1,0 +1,122 @@
+[
+  {
+    "word_id": "fd797921-9575-4c6c-879a-846b8ed0fe3b",
+    "english": "hello",
+    "hebrew": "שלום",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "e98e1d19-7b7f-411c-a639-ad8eb663b4b3",
+    "english": "world",
+    "hebrew": "עולם",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "30397ccc-3c92-4818-b002-801e8bf528af",
+    "english": "computer",
+    "hebrew": "מחשב",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "84dba2a3-8c28-4b35-831a-269cb31a295e",
+    "english": "language",
+    "hebrew": "שפה",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "29a45ed3-c728-4caa-9fa4-6e6dde822c6d",
+    "english": "learning",
+    "hebrew": "למידה",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "0e6c2bc0-4e49-4f25-9937-03d19bf1058e",
+    "english": "education",
+    "hebrew": "חינוך",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "4e9a56fd-afe9-4ecb-b3b5-d05003adc044",
+    "english": "algorithm",
+    "hebrew": "אלגוריתם",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "ec598d68-951a-448c-9dea-966421121f21",
+    "english": "programming",
+    "hebrew": "תכנות",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "86364914-ad69-4097-9afb-4670239fd036",
+    "english": "example",
+    "hebrew": "דוגמה",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  },
+  {
+    "word_id": "25ffb981-4596-4d7e-be88-8f3bb36bf908",
+    "english": "test",
+    "hebrew": "בדיקה",
+    "part_of_speech": "",
+    "difficulty_level": 1,
+    "examples": [],
+    "synonyms": [],
+    "topic_tags": [
+      "general"
+    ]
+  }
+]

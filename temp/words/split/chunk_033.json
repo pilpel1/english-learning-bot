@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 33,
+    "words_range": "merely-official",
+    "word_count": 30,
+    "start_index": 960,
+    "end_index": 989
+  },
+  "words": [
+    {
+      "word_id": "aa0652c2-8a81-45de-a5ec-6aa9c25406af",
+      "english": "merely",
+      "translation": "רק",
+      "hebrew": "רק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was merely a child when he learned to play the piano.",
+        "It's merely a scratch, nothing serious."
+      ],
+      "synonyms": ["only", "just", "simply"],
+      "topic_tags": ["general", "emphasis"]
+    },
+    {
+      "word_id": "80ff160c-824d-4f37-9567-4773eba4c844",
+      "english": "middle",
+      "translation": "אמצע",
+      "hebrew": "אמצע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She stood in the middle of the room.",
+        "The book is on the middle shelf."
+      ],
+      "synonyms": ["center", "midpoint", "core"],
+      "topic_tags": ["general", "position"]
+    },
+    {
+      "word_id": "fb64ecc0-5d2f-421a-9881-19cd765c3be3",
+      "english": "mortal",
+      "translation": "בן תמותה",
+      "hebrew": "בן תמותה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Every mortal must face death eventually.",
+        "He was just a mortal, not a god."
+      ],
+      "synonyms": ["human", "person", "being"],
+      "topic_tags": ["general", "life"]
+    },
+    {
+      "word_id": "05560295-2742-404e-964a-d24b80537140",
+      "english": "mortal",
+      "translation": "קטלני",
+      "hebrew": "קטלני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The snake's bite was mortal.",
+        "He suffered a mortal wound in the battle."
+      ],
+      "synonyms": ["deadly", "fatal", "lethal"],
+      "topic_tags": ["general", "danger"]
+    },
+    {
+      "word_id": "6a8c7844-7958-435e-98ed-8085c83f1b44",
+      "english": "mortality",
+      "translation": "תמותה",
+      "hebrew": "תמותה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mortality rate has decreased over the years.",
+        "They discussed the concept of mortality in philosophy class."
+      ],
+      "synonyms": ["death rate", "fatality", "lethality"],
+      "topic_tags": ["general", "health"]
+    },
+    {
+      "word_id": "087b79c7-c778-49da-b992-83cfda498043",
+      "english": "most",
+      "translation": "הכי",
+      "hebrew": "הכי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the most talented singer in the group.",
+        "This is the most interesting book I've read."
+      ],
+      "synonyms": ["greatest", "maximum", "utmost"],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "b883ad51-88b7-4168-b5a4-c966a9117210",
+      "english": "most",
+      "translation": "רוב",
+      "hebrew": "רוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Most of the students passed the exam.",
+        "He spent most of his time reading."
+      ],
+      "synonyms": ["majority", "bulk", "greater part"],
+      "topic_tags": ["general", "quantity"]
+    },
+    {
+      "word_id": "042e108a-4225-499b-b18d-2e435fb1cd04",
+      "english": "mutually",
+      "translation": "הדדית",
+      "hebrew": "הדדית",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "They reached a mutually beneficial agreement.",
+        "The two companies are mutually dependent."
+      ],
+      "synonyms": ["reciprocally", "jointly", "together"],
+      "topic_tags": ["general", "cooperation"]
+    },
+    {
+      "word_id": "c29eefb2-cc2f-416b-b2af-533907cc4dda",
+      "english": "nation",
+      "translation": "אומה",
+      "hebrew": "אומה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The nation celebrated its independence day.",
+        "They are proud of their nation."
+      ],
+      "synonyms": ["country", "state", "land"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "55f497af-c1f9-4644-b5fa-f2183e779da4",
+      "english": "nationality",
+      "translation": "לאום",
+      "hebrew": "לאום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has dual nationality.",
+        "His nationality is American."
+      ],
+      "synonyms": ["citizenship", "ethnicity", "identity"],
+      "topic_tags": ["general", "identity"]
+    },
+    {
+      "word_id": "1fd52c36-7a3a-45c0-ac90-65ec3da35bb6",
+      "english": "nationalize",
+      "translation": "להלאים",
+      "hebrew": "להלאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government decided to nationalize the industry.",
+        "They nationalized the banks during the crisis."
+      ],
+      "synonyms": ["state control", "publicize", "socialize"],
+      "topic_tags": ["general", "economy"]
+    },
+    {
+      "word_id": "d6dd9d93-5054-4984-83a0-83e25b0c692b",
+      "english": "native",
+      "translation": "יליד",
+      "hebrew": "יליד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a native of this town.",
+        "The natives welcomed the visitors."
+      ],
+      "synonyms": ["local", "inhabitant", "resident"],
+      "topic_tags": ["general", "identity"]
+    },
+    {
+      "word_id": "06772d75-c497-42bc-b25e-943186ea332f",
+      "english": "natural",
+      "translation": "טבעי",
+      "hebrew": "טבעי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a natural talent for music.",
+        "The park is a natural habitat for wildlife."
+      ],
+      "synonyms": ["organic", "innate", "unprocessed"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "d3fb3f34-7d8f-4f7e-ad93-09220e18aa3c",
+      "english": "nature",
+      "translation": "טבע",
+      "hebrew": "טבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They enjoy spending time in nature.",
+        "The beauty of nature is inspiring."
+      ],
+      "synonyms": ["environment", "wilderness", "outdoors"],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "4eb1f647-0310-4bf9-8f28-872110a8ba49",
+      "english": "need",
+      "translation": "צורך",
+      "hebrew": "צורך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a need for more teachers.",
+        "His need for approval is strong."
+      ],
+      "synonyms": ["requirement", "necessity", "demand"],
+      "topic_tags": ["general", "necessity"]
+    },
+    {
+      "word_id": "233b91cf-c502-4fb3-afa6-7382bce7510f",
+      "english": "negative",
+      "translation": "שלילי",
+      "hebrew": "שלילי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He received a negative response.",
+        "The test results were negative."
+      ],
+      "synonyms": ["adverse", "unfavorable", "pessimistic"],
+      "topic_tags": ["general", "attitude"]
+    },
+    {
+      "word_id": "d0a6b33a-5cfe-46c3-b2ed-defe460c6c56",
+      "english": "network",
+      "translation": "רשת",
+      "hebrew": "רשת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has a large network of clients.",
+        "They set up a network of computers."
+      ],
+      "synonyms": ["system", "web", "grid"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "1b6050ba-a83c-49bd-81fb-8f2c2adac376",
+      "english": "new",
+      "translation": "חדש",
+      "hebrew": "חדש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She bought a new car.",
+        "They are looking for new ideas."
+      ],
+      "synonyms": ["fresh", "novel", "recent"],
+      "topic_tags": ["general", "novelty"]
+    },
+    {
+      "word_id": "811d8ae9-4ecd-4853-98f7-0b87e7e4139f",
+      "english": "newscaster",
+      "translation": "קריין חדשות",
+      "hebrew": "קריין חדשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The newscaster reported the latest updates.",
+        "She is a well-known newscaster."
+      ],
+      "synonyms": ["anchor", "broadcaster", "reporter"],
+      "topic_tags": ["general", "media"]
+    },
+    {
+      "word_id": "27c64dae-327c-4ee8-ae36-f57c6fc97b4c",
+      "english": "newspaper",
+      "translation": "עיתון",
+      "hebrew": "עיתון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He reads the newspaper every morning.",
+        "The newspaper published an article about the event."
+      ],
+      "synonyms": ["journal", "gazette", "publication"],
+      "topic_tags": ["general", "media"]
+    },
+    {
+      "word_id": "0771b605-bd25-44cb-9550-a1b0a1ccc4ae",
+      "english": "note",
+      "translation": "פתק",
+      "hebrew": "פתק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She left a note on the fridge.",
+        "He wrote a note to remind himself."
+      ],
+      "synonyms": ["message", "memo", "reminder"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "763f8c47-1b44-4633-9e22-686615c753c5",
+      "english": "note",
+      "translation": "לשים לב",
+      "hebrew": "לשים לב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please note the changes in the schedule.",
+        "He noted the differences between the two."
+      ],
+      "synonyms": ["observe", "remark", "mention"],
+      "topic_tags": ["general", "observation"]
+    },
+    {
+      "word_id": "907edb32-fc67-4980-94ed-9db8ef9a03b7",
+      "english": "noted",
+      "translation": "ידוע",
+      "hebrew": "ידוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a noted author.",
+        "The restaurant is noted for its excellent service."
+      ],
+      "synonyms": ["famous", "renowned", "celebrated"],
+      "topic_tags": ["general", "recognition"]
+    },
+    {
+      "word_id": "c6a88811-bb75-4c38-8593-8fd5ffee653d",
+      "english": "obviously",
+      "translation": "ברור",
+      "hebrew": "ברור",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Obviously, he was not happy with the decision.",
+        "She was obviously surprised by the news."
+      ],
+      "synonyms": ["clearly", "evidently", "plainly"],
+      "topic_tags": ["general", "clarity"]
+    },
+    {
+      "word_id": "a56ac637-51f5-4f0e-ba05-f8eca327b8d2",
+      "english": "occasion",
+      "translation": "אירוע",
+      "hebrew": "אירוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They met on several occasions.",
+        "The wedding was a joyous occasion."
+      ],
+      "synonyms": ["event", "incident", "happening"],
+      "topic_tags": ["general", "event"]
+    },
+    {
+      "word_id": "dbd8a40b-942c-466a-a8bd-cb653af8e561",
+      "english": "occasional",
+      "translation": "מדי פעם",
+      "hebrew": "מדי פעם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He makes occasional visits to his hometown.",
+        "They have occasional meetings to discuss progress."
+      ],
+      "synonyms": ["infrequent", "sporadic", "periodic"],
+      "topic_tags": ["general", "frequency"]
+    },
+    {
+      "word_id": "c3e3aeb7-9c78-44ab-8b60-a055d07c40a7",
+      "english": "occasions",
+      "translation": "מקרים",
+      "hebrew": "מקרים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "On rare occasions, he would join us.",
+        "There were several occasions when she was late."
+      ],
+      "synonyms": ["instances", "times", "events"],
+      "topic_tags": ["general", "event"]
+    },
+    {
+      "word_id": "81d7c0d9-1bf6-4b30-bd23-afed49ec4b22",
+      "english": "occur",
+      "translation": "להתרחש",
+      "hebrew": "להתרחש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The event is scheduled to occur next week.",
+        "Accidents can occur at any time."
+      ],
+      "synonyms": ["happen", "take place", "arise"],
+      "topic_tags": ["general", "event"]
+    },
+    {
+      "word_id": "b67909bd-446c-4bf1-9c4b-f109c2ae9f60",
+      "english": "offer",
+      "translation": "להציע",
+      "hebrew": "להציע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He offered to help with the project.",
+        "They offered her a job."
+      ],
+      "synonyms": ["propose", "present", "suggest"],
+      "topic_tags": ["general", "proposal"]
+    },
+    {
+      "word_id": "4b1903ce-609b-4b3e-b2eb-7c8aed83df9a",
+      "english": "official",
+      "translation": "רשמי",
+      "hebrew": "רשמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The official announcement was made yesterday.",
+        "He holds an official position in the government."
+      ],
+      "synonyms": ["formal", "authorized", "certified"],
+      "topic_tags": ["general", "status"]
+    }
+  ]
+}

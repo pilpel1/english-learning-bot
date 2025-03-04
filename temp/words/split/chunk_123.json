@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 123,
+    "words_range": "scales-study",
+    "word_count": 30,
+    "start_index": 3660,
+    "end_index": 3689
+  },
+  "words": [
+    {
+      "word_id": "d18e2c6c-ceca-4d0e-9ffa-1ba02963e02a",
+      "english": "scales",
+      "translation": null,
+      "hebrew": "קשקשים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Fish have scales.",
+        "The dragon was covered in scales."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2b6e5081-c9a1-4fd2-9f4a-06a24dd81bd8",
+      "english": "scan",
+      "translation": null,
+      "hebrew": "לסרוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Scan the document.",
+        "The doctor scanned his brain."
+      ],
+      "synonyms": ["browse", "examine"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0c233024-82e2-469a-87b7-474e2bba24d8",
+      "english": "scorn",
+      "translation": null,
+      "hebrew": "בוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt nothing but scorn for the criminals.",
+        "She showed her scorn with a sneer."
+      ],
+      "synonyms": ["contempt", "disdain"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ad22b027-f090-4b48-b742-975d7ac21211",
+      "english": "scrutinize",
+      "translation": null,
+      "hebrew": "לבחון בקפידה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The accountant scrutinized the financial records.",
+        "The detective scrutinized the crime scene."
+      ],
+      "synonyms": ["examine", "inspect", "analyze"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "20469abd-86a5-4497-ad21-491ec887ce86",
+      "english": "sculpture",
+      "translation": null,
+      "hebrew": "פסל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum has a collection of sculptures.",
+        "The artist created a beautiful sculpture."
+      ],
+      "synonyms": ["statue"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "114029d6-9307-4e68-a6d7-e4623b0c608b",
+      "english": "sedative",
+      "translation": null,
+      "hebrew": "תרופת הרגעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor prescribed a sedative to help her sleep.",
+        "He took a sedative to calm his nerves."
+      ],
+      "synonyms": ["tranquilizer"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3d4d49f0-2f9f-404a-bc65-fdf623946af8",
+      "english": "segregation",
+      "translation": null,
+      "hebrew": "הפרדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Racial segregation is illegal.",
+        "There was segregation in schools."
+      ],
+      "synonyms": ["separation", "discrimination"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "245bca89-dbac-4bd1-9581-85f4b04b157c",
+      "english": "seizure",
+      "translation": null,
+      "hebrew": "התקף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He had a seizure.",
+        "The police made a drug seizure."
+      ],
+      "synonyms": ["fit", "confiscation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e9f385ca-04ef-4e23-9009-00d4f25e923b",
+      "english": "separately",
+      "translation": null,
+      "hebrew": "בנפרד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The items were packed separately.",
+        "They live separately."
+      ],
+      "synonyms": ["apart", "independently"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7c7305e7-40bb-48e2-bf86-d699173a5361",
+      "english": "separation",
+      "translation": null,
+      "hebrew": "הפרדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The separation of church and state is important.",
+        "They announced their separation."
+      ],
+      "synonyms": ["division", "segregation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ba26c606-28b4-4ef3-a86f-568ff521d3f0",
+      "english": "shrink",
+      "translation": null,
+      "hebrew": "להתכווץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sweater shrank in the wash.",
+        "The company's profits shrank."
+      ],
+      "synonyms": ["contract", "diminish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "86fb0cbb-b08d-40b8-909b-454ae2b3232a",
+      "english": "shroud",
+      "translation": null,
+      "hebrew": "תכריך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mountain was shrouded in mist.",
+        "The dead body was covered in a shroud."
+      ],
+      "synonyms": ["covering", "veil"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0d424bfb-31bb-4c4b-a6b3-108c7ec30d94",
+      "english": "sin",
+      "translation": null,
+      "hebrew": "חטא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He confessed his sins.",
+        "It is a sin to lie."
+      ],
+      "synonyms": ["wrongdoing", "offense"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6e82061a-4837-4226-8d7d-c30ca56c30d7",
+      "english": "sincerity",
+      "translation": null,
+      "hebrew": "כנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He spoke with sincerity.",
+        "I appreciate your sincerity."
+      ],
+      "synonyms": ["honesty", "frankness"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "389f9b4a-a229-442c-a453-1be5f72d5ea3",
+      "english": "situation",
+      "translation": null,
+      "hebrew": "מצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The situation is under control.",
+        "The situation is getting worse."
+      ],
+      "synonyms": ["circumstance", "condition"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c06b62f3-990b-4504-8630-91cdfab625fb",
+      "english": "slaughterhouse",
+      "translation": null,
+      "hebrew": "בית מטבחיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The animals were taken to the slaughterhouse.",
+        "The slaughterhouse was located outside the city."
+      ],
+      "synonyms": ["abattoir"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "baa4647a-9a3f-496e-873f-b385ac73e98d",
+      "english": "sober",
+      "translation": null,
+      "hebrew": "פיכח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was sober after drinking coffee.",
+        "She remained sober throughout the evening."
+      ],
+      "synonyms": ["temperate", "clear-headed"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "655509a7-27ba-4e15-aa70-d8c947d3f3a1",
+      "english": "solely",
+      "translation": null,
+      "hebrew": "בלבד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is solely responsible for the mistake.",
+        "She is solely motivated by money."
+      ],
+      "synonyms": ["only", "exclusively"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "518f5b51-5ade-4f36-bd22-c8e5a2aaaa81",
+      "english": "sperm",
+      "translation": null,
+      "hebrew": "זרע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Sperm is needed for fertilization.",
+        "The sperm count was low."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ee526277-336b-45d2-a2df-1544d97cac6b",
+      "english": "spewing",
+      "translation": null,
+      "hebrew": "לפלוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The volcano was spewing lava.",
+        "He was spewing insults."
+      ],
+      "synonyms": ["ejecting", "gushing"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "428b9cfa-5673-4a85-89ad-2326db2aa9bc",
+      "english": "spice",
+      "translation": null,
+      "hebrew": "תבלין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Add some spice to the dish.",
+        "Cinnamon is a popular spice."
+      ],
+      "synonyms": ["seasoning"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "533a4541-20d8-4c3f-96ee-9c42254e5aeb",
+      "english": "spicy",
+      "translation": null,
+      "hebrew": "חריף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I like spicy food.",
+        "The sauce is very spicy."
+      ],
+      "synonyms": ["hot", "piquant"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a29daef5-bb05-4aff-ac1c-3f275d171357",
+      "english": "spray",
+      "translation": null,
+      "hebrew": "תרסיס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She used hair spray.",
+        "The spray from the ocean was refreshing."
+      ],
+      "synonyms": ["aerosol", "mist"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "634a30d5-c78d-4963-9e78-594c6eb27e28",
+      "english": "stain",
+      "translation": null,
+      "hebrew": "כתם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a stain on his shirt.",
+        "The coffee left a stain on the carpet."
+      ],
+      "synonyms": ["mark", "blemish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ef39b6ea-6a1e-4e31-b756-c52fe8956fae",
+      "english": "stamp",
+      "translation": null,
+      "hebrew": "בול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She collected stamps.",
+        "Put a stamp on the envelope."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5b7f4eb1-e78a-44f0-a03f-693afaaf0be2",
+      "english": "step",
+      "translation": null,
+      "hebrew": "צעד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Take a step forward.",
+        "She took a step back."
+      ],
+      "synonyms": ["pace"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eb0c0da2-4a2c-402b-a805-13e4a2ef2872",
+      "english": "storm",
+      "translation": null,
+      "hebrew": "סערה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a storm last night.",
+        "The storm caused a lot of damage."
+      ],
+      "synonyms": ["tempest"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a5fc3dbc-058c-422f-80d8-9655c439a758",
+      "english": "straighten",
+      "translation": null,
+      "hebrew": "ליישר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Straighten your back.",
+        "Straighten the picture on the wall."
+      ],
+      "synonyms": ["align", "correct"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6bc6db4a-595f-482e-8d44-a23853c295e5",
+      "english": "study",
+      "translation": null,
+      "hebrew": "ללמוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I study English.",
+        "She studies medicine."
+      ],
+      "synonyms": ["learn", "investigate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5ed5a318-e108-47db-85b5-d8eef657d4e8",
+      "english": "study",
+      "translation": null,
+      "hebrew": "מחקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A recent study showed that...",
+        "She is conducting a study."
+      ],
+      "synonyms": ["research", "investigation"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

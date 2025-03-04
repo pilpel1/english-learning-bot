@@ -1,0 +1,557 @@
+{
+  "_meta": {
+    "chunk_number": 63,
+    "words_range": "permanent-raw",
+    "word_count": 30,
+    "start_index": 1860,
+    "end_index": 1889
+  },
+  "words": [
+    {
+      "word_id": "36ce2339-5ef9-46c5-9f1c-4f3faa45afa9",
+      "english": "permanent",
+      "translation": null,
+      "hebrew": "קבוע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is looking for a permanent job.",
+        "The museum has a permanent collection of art."
+      ],
+      "synonyms": [
+        "lasting",
+        "enduring"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ace4322f-50ac-4b2f-917c-e44db2634d6e",
+      "english": "persecution",
+      "translation": null,
+      "hebrew": "רדיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The refugees fled their country to escape persecution.",
+        "Religious persecution is a violation of human rights."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "a07d6ddb-4e20-4d59-a4e6-177fdf6f9db1",
+      "english": "planet",
+      "translation": null,
+      "hebrew": "כוכב לכת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Earth is the third planet from the sun.",
+        "Scientists are searching for other planets with life."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "3d4c64b5-7659-4fe9-aece-92845304df58",
+      "english": "plant",
+      "translation": null,
+      "hebrew": "צמח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has many plants in her garden.",
+        "The plant needs water and sunlight."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "8edc0173-0294-45ba-a80d-4ee23b54b68b",
+      "english": "poll",
+      "translation": null,
+      "hebrew": "סקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The poll shows that the candidate is leading.",
+        "They conducted a poll to find out public opinion."
+      ],
+      "synonyms": [
+        "survey"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "7245ce7a-b9d4-4afb-81c4-c92bbebae19f",
+      "english": "populous",
+      "translation": null,
+      "hebrew": "מאוכלס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "China is the most populous country in the world.",
+        "The city is a populous urban center."
+      ],
+      "synonyms": [
+        "crowded"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "6dbe423e-1bdd-4437-a06a-f9f968212369",
+      "english": "post",
+      "translation": null,
+      "hebrew": "דואר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to send this letter by post.",
+        "The post office is down the street."
+      ],
+      "synonyms": [
+        "mail"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "b5c1cc46-8137-4ddd-9622-c3648887c396",
+      "english": "post",
+      "translation": null,
+      "hebrew": "עמדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He got a post in the company.",
+        "She applied for the post of manager."
+      ],
+      "synonyms": [
+        "position"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "8b498972-7fcc-4cd1-b335-c2e911ca4309",
+      "english": "post",
+      "translation": null,
+      "hebrew": "לפרסם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please post the announcement on the website.",
+        "She posted a picture on social media."
+      ],
+      "synonyms": [
+        "publish"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "2aa88091-eee1-4cee-9e56-f32fa0306e71",
+      "english": "post",
+      "translation": null,
+      "hebrew": "מוט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fence is supported by wooden posts.",
+        "The sign was attached to a metal post."
+      ],
+      "synonyms": [
+        "pole"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a846d667-6cb5-419c-aff5-bcd495f5a069",
+      "english": "postage",
+      "translation": null,
+      "hebrew": "דמי משלוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The postage for the package was expensive.",
+        "You need to pay the postage to receive the item."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "38899b71-9885-4bf9-89dd-f7b4f280dd96",
+      "english": "postpone",
+      "translation": null,
+      "hebrew": "לדחות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They decided to postpone the meeting.",
+        "The game was postponed due to rain."
+      ],
+      "synonyms": [
+        "delay",
+        "reschedule"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "84b62a2e-0553-4fe8-8d89-e0381b4d71d1",
+      "english": "powerful",
+      "translation": null,
+      "hebrew": "חזק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a powerful leader.",
+        "The storm was very powerful."
+      ],
+      "synonyms": [
+        "strong",
+        "mighty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "732754f5-4c3e-448d-9b4e-9ec40a7fbab3",
+      "english": "preferable",
+      "translation": null,
+      "hebrew": "עדיף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is preferable to arrive early.",
+        "A quiet location is preferable for studying."
+      ],
+      "synonyms": [
+        "better",
+        "desirable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "793d324a-caa6-481a-b809-b9deee64e49f",
+      "english": "presume",
+      "translation": null,
+      "hebrew": "להניח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I presume you are here for the meeting.",
+        "We presume that he is innocent until proven guilty."
+      ],
+      "synonyms": [
+        "assume",
+        "suppose"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c695c0e2-af8f-40a4-9519-80c4abfbf583",
+      "english": "priest",
+      "translation": null,
+      "hebrew": "כומר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The priest gave a sermon.",
+        "He is a priest in the Catholic Church."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "4e000805-1645-4107-ba77-27ca07941587",
+      "english": "privilege",
+      "translation": null,
+      "hebrew": "זכות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Education is a privilege that many people don't have.",
+        "He has the privilege of speaking first."
+      ],
+      "synonyms": [
+        "right",
+        "advantage"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "def3e7d9-b9af-4bb8-8dca-362b5af592ba",
+      "english": "profit",
+      "translation": null,
+      "hebrew": "רווח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company made a large profit this year.",
+        "The profit margin is very small."
+      ],
+      "synonyms": [
+        "gain",
+        "benefit"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "650fd3c4-fb8d-419a-9ef7-9dbf806f6d3b",
+      "english": "profitable",
+      "translation": null,
+      "hebrew": "רווחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The business is very profitable.",
+        "It was a profitable investment."
+      ],
+      "synonyms": [
+        "lucrative"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "45853ba7-474f-4441-940c-b7d4bbc7995d",
+      "english": "publication",
+      "translation": null,
+      "hebrew": "פרסום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is a recent publication.",
+        "The article appeared in a scientific publication."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "3bd18b6a-f29d-41d0-9cc4-4c6b237b04ec",
+      "english": "publicized",
+      "translation": null,
+      "hebrew": "פורסם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The event was widely publicized.",
+        "The company publicized its new product."
+      ],
+      "synonyms": [
+        "advertised"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "05e4bcdf-2b7c-440f-85c7-32561ea1d609",
+      "english": "publish",
+      "translation": null,
+      "hebrew": "לפרסם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The author wants to publish a book.",
+        "The newspaper publishes articles every day."
+      ],
+      "synonyms": [
+        "release"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "1da59c5f-aa09-4b5b-9a8a-c1e7c2cfb753",
+      "english": "publisher",
+      "translation": null,
+      "hebrew": "מוציא לאור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She works for a major publisher.",
+        "The publisher is responsible for printing the book."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "99cbff52-9021-478a-9ed8-de016a3f3950",
+      "english": "qualify",
+      "translation": null,
+      "hebrew": "להעפיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He needs to qualify for the competition.",
+        "She qualified as a doctor."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "552d0f28-18df-4e01-8217-acce84394399",
+      "english": "quality",
+      "translation": null,
+      "hebrew": "איכות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The quality of the product is very high.",
+        "We need to improve the quality of our work."
+      ],
+      "synonyms": [
+        "standard",
+        "level"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b8a9ab9c-62e3-4ddb-9afa-d2979251a0b7",
+      "english": "quarter",
+      "translation": null,
+      "hebrew": "רבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He ate a quarter of the pizza.",
+        "The project is in its final quarter."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6b555b2b-a465-4098-8285-272f2f6e0086",
+      "english": "radiation",
+      "translation": null,
+      "hebrew": "קרינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Exposure to radiation can be dangerous.",
+        "The device emits radiation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "905a7bfa-27ea-44ee-90c6-80cff373005c",
+      "english": "rare",
+      "translation": null,
+      "hebrew": "נדיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird is a rare species.",
+        "Diamonds are rare and valuable."
+      ],
+      "synonyms": [
+        "uncommon"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7bfb1880-9fa7-4bb9-b42b-cd4501e031df",
+      "english": "rare",
+      "translation": null,
+      "hebrew": "לא מבושל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes his steak rare.",
+        "The meat was still rare in the middle."
+      ],
+      "synonyms": [
+        "undercooked"
+      ],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "78949eac-50b0-484f-b100-dc3eb1b6b60f",
+      "english": "raw",
+      "translation": null,
+      "hebrew": "גלם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is made of raw materials.",
+        "She eats raw vegetables."
+      ],
+      "synonyms": [
+        "unprocessed"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "_meta": {
+    "chunk_number": 88,
+    "words_range": "exquisite-grant",
+    "word_count": 30,
+    "start_index": 2610,
+    "end_index": 2639
+  },
+  "words": [
+    {
+      "word_id": "a8fbc7d3-82bc-46d8-b0b3-0ac11273b9ea",
+      "english": "exquisite",
+      "translation": null,
+      "hebrew": "מעודן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting was exquisite in every detail.",
+        "She has exquisite taste in music."
+      ],
+      "synonyms": [
+        "delicate",
+        "refined",
+        "elegant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "22336b06-462e-4b54-a0b9-4e050698ad99",
+      "english": "exquisite",
+      "translation": null,
+      "hebrew": "יוצא מן הכלל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food at the restaurant was exquisite.",
+        "The view from the top of the mountain was exquisite."
+      ],
+      "synonyms": [
+        "exceptional",
+        "superb",
+        "wonderful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "95dbdbda-7870-4908-bce3-a5b47ece7368",
+      "english": "extend",
+      "translation": null,
+      "hebrew": "להאריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to extend the deadline for the project.",
+        "The company plans to extend its operations to new markets."
+      ],
+      "synonyms": [
+        "prolong",
+        "stretch",
+        "expand"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9535b682-ea8c-4f81-b6f8-79250551da5d",
+      "english": "extension",
+      "translation": null,
+      "hebrew": "הרחבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The library is planning an extension to create more space.",
+        "He requested an extension on his assignment."
+      ],
+      "synonyms": [
+        "addition",
+        "expansion",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6e688782-739a-4bde-8765-eeb493417730",
+      "english": "exterior",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The exterior of the building was painted white.",
+        "We need to clean the exterior windows."
+      ],
+      "synonyms": [
+        "outside",
+        "outer",
+        "surface"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fb6042a3-5926-4e7a-b2e6-bf0e2a43132b",
+      "english": "external",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to seek external advice on this matter.",
+        "The company relies on external funding."
+      ],
+      "synonyms": [
+        "outer",
+        "outside",
+        "foreign"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3ade9f67-c85d-4d97-97a0-ffc0f10e596d",
+      "english": "extinction",
+      "translation": null,
+      "hebrew": "הכחדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Many species are facing extinction due to habitat loss.",
+        "The extinction of the dinosaurs is a well-known event."
+      ],
+      "synonyms": [
+        "dying out",
+        "vanishing",
+        "annihilation"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "e9fa6455-8ab6-4e8e-8f13-944ed8139a78",
+      "english": "extract",
+      "translation": null,
+      "hebrew": "לִסחוֹט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dentist had to extract a tooth.",
+        "They extract oil from olives."
+      ],
+      "synonyms": [
+        "remove",
+        "draw out",
+        "take out"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "784bc5e7-1bf1-43e7-b030-18492457307b",
+      "english": "factor",
+      "translation": null,
+      "hebrew": "גורם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Price is an important factor when making a purchase.",
+        "Several factors contributed to the company's success."
+      ],
+      "synonyms": [
+        "element",
+        "component",
+        "aspect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6a78a19a-b2b2-4bb7-9847-0b6473761ae1",
+      "english": "favor",
+      "translation": null,
+      "hebrew": "טובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you do me a favor and help me move this box?",
+        "I need to ask you for a favor."
+      ],
+      "synonyms": [
+        "kindness",
+        "good deed",
+        "service"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7b81771-2761-4f6d-ab6d-21d8124e0b19",
+      "english": "favor",
+      "translation": null,
+      "hebrew": "להעדיף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I favor the idea of going to the beach.",
+        "She favors her younger brother."
+      ],
+      "synonyms": [
+        "prefer",
+        "support",
+        "approve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbdae312-a87a-4e5b-8581-28632f7343df",
+      "english": "favored",
+      "translation": null,
+      "hebrew": "מועדף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is my favored restaurant.",
+        "She is the favored candidate for the job."
+      ],
+      "synonyms": [
+        "preferred",
+        "popular",
+        "liked"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fe3aafcd-9aff-432c-a588-87fa9f7e057f",
+      "english": "fight, fought",
+      "translation": null,
+      "hebrew": "להילחם, נלחם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They fought for their freedom.",
+        "He fought bravely in the war."
+      ],
+      "synonyms": [
+        "battle",
+        "struggle",
+        "combat"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "44845b51-b867-4c89-ac16-bafe4da9c905",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "דמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a beautiful figure.",
+        "He is a prominent figure in the community."
+      ],
+      "synonyms": [
+        "shape",
+        "form",
+        "body"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b088f958-ecf1-4386-93ee-7eb6a1a20cbe",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "מספר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The figure shows a significant increase in sales.",
+        "Can you check these figures for me?"
+      ],
+      "synonyms": [
+        "number",
+        "statistic",
+        "amount"
+      ],
+      "topic_tags": [
+        "general",
+        "math"
+      ]
+    },
+    {
+      "word_id": "0721f649-3831-4f75-b7f3-a17b06ad64cc",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't figure out how to solve this problem.",
+        "We need to figure out a solution."
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend",
+        "solve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "df099332-fdea-4720-aa8c-24865e5e7395",
+      "english": "figure",
+      "translation": null,
+      "hebrew": "לדמיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't figure him doing something like that.",
+        "Can you figure what will happen next?"
+      ],
+      "synonyms": [
+        "imagine",
+        "envision",
+        "picture"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "499d66d9-3c19-44da-9ad3-4878abc12349",
+      "english": "flat",
+      "translation": null,
+      "hebrew": "שטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The Earth is not flat.",
+        "We need a flat surface to build on."
+      ],
+      "synonyms": [
+        "level",
+        "even",
+        "smooth"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d97fcd10-a55f-4920-9f4c-af03379888b7",
+      "english": "flat",
+      "translation": null,
+      "hebrew": "דירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in a flat in the city center.",
+        "We are looking for a new flat to rent."
+      ],
+      "synonyms": [
+        "apartment",
+        "condo",
+        "residence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b73aa0c-51f4-490d-a66b-e64b646346d3",
+      "english": "flew",
+      "translation": null,
+      "hebrew": "טס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird flew over the trees.",
+        "He flew to New York last week."
+      ],
+      "synonyms": [
+        "soared",
+        "winged",
+        "glided"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "37a717a0-4afa-44b1-b4d8-7a9e780b1e3f",
+      "english": "fly",
+      "translation": null,
+      "hebrew": "לעוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Birds can fly.",
+        "I wish I could fly like a bird."
+      ],
+      "synonyms": [
+        "soar",
+        "wing",
+        "glide"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c68aa4d-044f-4f6c-b6d4-648347d475a6",
+      "english": "fly",
+      "translation": null,
+      "hebrew": "זבוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There's a fly in my soup!",
+        "Flies are annoying insects."
+      ],
+      "synonyms": [
+        "insect",
+        "pest"
+      ],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "4807e082-f9c5-4514-bca4-fab8ea0a7ff3",
+      "english": "foil",
+      "translation": null,
+      "hebrew": "לסכל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police foiled the robbery attempt.",
+        "His plans were foiled by bad weather."
+      ],
+      "synonyms": [
+        "thwart",
+        "frustrate",
+        "prevent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd633505-c860-4b1b-b885-8294f4e94729",
+      "english": "forerunner",
+      "translation": null,
+      "hebrew": "מבשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The internet was the forerunner of the digital age.",
+        "He is considered a forerunner of modern art."
+      ],
+      "synonyms": [
+        "precursor",
+        "herald",
+        "ancestor"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "911f410c-dc90-47a1-8705-da5d47e2ab6c",
+      "english": "forerunner",
+      "translation": null,
+      "hebrew": "חלוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She was a forerunner in the field of medicine.",
+        "He is a forerunner in the development of new technologies."
+      ],
+      "synonyms": [
+        "pioneer",
+        "innovator",
+        "leader"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8a6a074c-8722-44d4-91f9-7face61fe1e2",
+      "english": "fossil",
+      "translation": null,
+      "hebrew": "מאובן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Fossils provide evidence of ancient life.",
+        "The museum has a large collection of fossils."
+      ],
+      "synonyms": [
+        "relic",
+        "remnant",
+        "petrification"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "55127235-860d-4fc6-a2e0-96489e47b4fa",
+      "english": "genius",
+      "translation": null,
+      "hebrew": "גאון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Einstein was a genius.",
+        "She has a genius for music."
+      ],
+      "synonyms": [
+        "intellect",
+        "talent",
+        "brilliance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbbcd02f-4a6d-4933-b986-c3e96c179214",
+      "english": "gentle",
+      "translation": null,
+      "hebrew": "עדין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a gentle touch.",
+        "The breeze was gentle."
+      ],
+      "synonyms": [
+        "mild",
+        "soft",
+        "tender"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7591052a-2ef9-482c-9191-6122b6cfd162",
+      "english": "genuine",
+      "translation": null,
+      "hebrew": "אמיתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a genuine leather bag.",
+        "He is a genuine person."
+      ],
+      "synonyms": [
+        "authentic",
+        "real",
+        "true"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bad2caa1-14e9-43ff-80f3-f82a9d27bab4",
+      "english": "grant",
+      "translation": null,
+      "hebrew": "מענק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The university received a grant for research.",
+        "She applied for a grant to study abroad."
+      ],
+      "synonyms": [
+        "subsidy",
+        "donation",
+        "allowance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

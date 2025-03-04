@@ -1,0 +1,564 @@
+{
+  "_meta": {
+    "chunk_number": 99,
+    "words_range": "convict-devoid",
+    "word_count": 30,
+    "start_index": 2940,
+    "end_index": 2969
+  },
+  "words": [
+    {
+      "word_id": "9d893955-a507-415e-a217-7623fca4d40c",
+      "english": "convict",
+      "translation": null,
+      "hebrew": "אסיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The convict escaped from prison.",
+        "He is a convicted criminal."
+      ],
+      "synonyms": [
+        "prisoner"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "abbcc6ad-8a71-439f-a406-a5f365ba6cf2",
+      "english": "cope",
+      "translation": null,
+      "hebrew": "להתמודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "How do you cope with stress?",
+        "She is coping well after the accident."
+      ],
+      "synonyms": [
+        "manage",
+        "handle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f2fb86d8-c7ec-4ae0-8221-32da443d4c4d",
+      "english": "cord",
+      "translation": null,
+      "hebrew": "כבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lamp has a long cord.",
+        "He tied the package with a cord."
+      ],
+      "synonyms": [
+        "rope",
+        "string"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ebe623d9-2775-47c5-b527-441bae136443",
+      "english": "cornerstone",
+      "translation": null,
+      "hebrew": "אבן פינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Honesty is the cornerstone of any good relationship.",
+        "The cornerstone of the building was laid in 1920."
+      ],
+      "synonyms": [
+        "foundation",
+        "basis"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9681daf0-c90f-4950-a9e5-75ee98245638",
+      "english": "crash",
+      "translation": null,
+      "hebrew": "להתרסק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane crashed into the mountain.",
+        "The stock market crashed in 1929."
+      ],
+      "synonyms": [
+        "collide",
+        "smash"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eaf03b12-75df-4967-a300-4a58a28be454",
+      "english": "credibility",
+      "translation": null,
+      "hebrew": "אמינות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The politician lost his credibility.",
+        "The witness's credibility was questioned."
+      ],
+      "synonyms": [
+        "reliability",
+        "trustworthiness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2a1d784e-3251-422b-8b48-27fb742eba45",
+      "english": "crown",
+      "translation": null,
+      "hebrew": "כתר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The queen wore a crown.",
+        "He was crowned king."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "royalty"
+      ]
+    },
+    {
+      "word_id": "ee11c56a-a02a-4b9f-9fd8-03cfc448423d",
+      "english": "cultivate",
+      "translation": null,
+      "hebrew": "לטפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Cultivate good relationships.",
+        "Cultivate the land."
+      ],
+      "synonyms": [
+        "develop",
+        "foster"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0c9b4575-b4b8-4ae2-a173-cd286dedc035",
+      "english": "curiosity",
+      "translation": null,
+      "hebrew": "סקרנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Curiosity killed the cat.",
+        "He showed great curiosity about the world."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0b5e8180-f9ee-47de-ad55-66f6b63f4517",
+      "english": "curious",
+      "translation": null,
+      "hebrew": "סקרן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a curious child.",
+        "I'm curious to know what happened."
+      ],
+      "synonyms": [
+        "inquisitive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e3a03d3a-3089-43ab-b598-289d70a06465",
+      "english": "curve",
+      "translation": null,
+      "hebrew": "עקומה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The road has a sharp curve.",
+        "The graph shows a curve."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c2d84abd-8da1-4958-bf2b-94934be2083c",
+      "english": "damp",
+      "translation": null,
+      "hebrew": "לח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The clothes are still damp.",
+        "The air was damp and cold."
+      ],
+      "synonyms": [
+        "moist"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5a09a4d4-7f79-4c74-916f-709e6f385d5a",
+      "english": "dampen",
+      "translation": null,
+      "hebrew": "להרטיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Dampen the cloth before wiping.",
+        "The rain dampened our spirits."
+      ],
+      "synonyms": [
+        "moisten"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78ecc280-e193-4915-aac8-f15a9c9b796d",
+      "english": "dare",
+      "translation": null,
+      "hebrew": "להעז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I dare you to jump into the pool.",
+        "She didn't dare to speak up during the meeting."
+      ],
+      "synonyms": [
+        "venture",
+        "risk",
+        "challenge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a897dd63-72e3-401a-bf34-fe2f37ad9b5b",
+      "english": "dare",
+      "translation": null,
+      "hebrew": "להעז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I dare you to jump into the pool.",
+        "She didn't dare to speak up during the meeting."
+      ],
+      "synonyms": [
+        "venture",
+        "risk",
+        "challenge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d99b0c03-0fa5-49eb-a93d-91064fc61626",
+      "english": "daydream",
+      "translation": null,
+      "hebrew": "לחלום בהקיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was daydreaming during the lecture.",
+        "She likes to daydream about traveling the world."
+      ],
+      "synonyms": [
+        "fantasize",
+        "imagine",
+        "muse"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "64afd8ca-9e4a-4442-beca-9a0c17ecd06b",
+      "english": "deaf",
+      "translation": null,
+      "hebrew": "חרש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is deaf in one ear.",
+        "She became deaf after the accident."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "c5270575-e1f6-496f-9494-694b970e8dc4",
+      "english": "defer",
+      "translation": null,
+      "hebrew": "לדחות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will defer the decision.",
+        "He deferred to his boss's judgment."
+      ],
+      "synonyms": [
+        "postpone"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5e31b704-79d6-47ff-b866-f518e5f041c8",
+      "english": "deflate",
+      "translation": null,
+      "hebrew": "לרוקן אוויר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Deflate the tires slightly.",
+        "The scandal deflated his ego."
+      ],
+      "synonyms": [
+        "empty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db4c8091-5565-4cce-bb9b-1e32f4143283",
+      "english": "deform",
+      "translation": null,
+      "hebrew": "לעוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The fire deformed the metal.",
+        "The accident deformed his face."
+      ],
+      "synonyms": [
+        "distort"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78465192-c7c0-4825-98c8-3be8e4360055",
+      "english": "deformity",
+      "translation": null,
+      "hebrew": "מום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a physical deformity.",
+        "The accident caused a permanent deformity."
+      ],
+      "synonyms": [
+        "malformation"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "04b45c22-d190-42d1-83d1-80f1942998b6",
+      "english": "delicate",
+      "translation": null,
+      "hebrew": "עדין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The flower is very delicate.",
+        "She has a delicate touch."
+      ],
+      "synonyms": [
+        "fragile",
+        "fine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "15ee9ef6-c02d-4544-8d71-0f2355aaa165",
+      "english": "demean",
+      "translation": null,
+      "hebrew": "לְהַשְׁפִּיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I would never demean myself by lying.",
+        "He demeaned his employees."
+      ],
+      "synonyms": [
+        "degrade",
+        "humiliate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d99781a6-65a3-4e30-8903-c8f765c5b0dd",
+      "english": "department",
+      "translation": null,
+      "hebrew": "מחלקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I work in the sales department.",
+        "The fire department arrived quickly."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7a42806e-1a78-47b5-aad7-bc4b544aea19",
+      "english": "department-store",
+      "translation": null,
+      "hebrew": "בית כלבו",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She works at a department store.",
+        "Let's go to the department store."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business",
+        "shopping"
+      ]
+    },
+    {
+      "word_id": "d409bbe3-efcc-4e49-a081-dc31695e030a",
+      "english": "deposit",
+      "translation": null,
+      "hebrew": "לְהַפְקִיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to deposit money in the bank.",
+        "The flood deposited mud on the fields."
+      ],
+      "synonyms": [
+        "store"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "ce398c0a-7023-4b82-be62-9a7e7fdd21a5",
+      "english": "depreciate",
+      "translation": null,
+      "hebrew": "לְהִתְפַּחֵת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The car depreciated quickly.",
+        "The value of the house depreciated."
+      ],
+      "synonyms": [
+        "devalue"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "43a9a9d9-5f64-4371-a7aa-15d32f3923ff",
+      "english": "despise",
+      "translation": null,
+      "hebrew": "לִבְזוֹת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I despise liars.",
+        "He despises his enemies."
+      ],
+      "synonyms": [
+        "hate",
+        "loathe"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78e64c55-32b2-463a-80e9-c3143f165001",
+      "english": "dessert",
+      "translation": null,
+      "hebrew": "קינוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What's for dessert?",
+        "I love chocolate dessert."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "food"
+      ]
+    },
+    {
+      "word_id": "186ac803-a3ca-4c8c-8e0f-d63bd1989f78",
+      "english": "devoid",
+      "translation": null,
+      "hebrew": "חָסֵר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was devoid of furniture.",
+        "His face was devoid of emotion."
+      ],
+      "synonyms": [
+        "empty",
+        "lacking"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

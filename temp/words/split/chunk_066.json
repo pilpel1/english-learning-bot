@@ -1,0 +1,579 @@
+{
+  "_meta": {
+    "chunk_number": 66,
+    "words_range": "spectator-terms",
+    "word_count": 30,
+    "start_index": 1950,
+    "end_index": 1979
+  },
+  "words": [
+    {
+      "word_id": "4edd179b-dc61-4821-b946-029fd77077bd",
+      "english": "spectator",
+      "translation": null,
+      "hebrew": "צופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The stadium was full of spectators.",
+        "The spectators cheered for their team."
+      ],
+      "synonyms": [
+        "viewer",
+        "observer"
+      ],
+      "topic_tags": [
+        "general",
+        "sports"
+      ]
+    },
+    {
+      "word_id": "757cd296-ef74-4562-8052-aab942ff25d3",
+      "english": "speech",
+      "translation": null,
+      "hebrew": "נאום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The president gave a speech on television.",
+        "He is known for his eloquent speeches."
+      ],
+      "synonyms": [
+        "address",
+        "lecture"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "5f9fb6b7-c050-4ccc-8989-14769e252235",
+      "english": "spoil",
+      "translation": null,
+      "hebrew": "לקלקל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The rain spoiled our picnic.",
+        "Don't spoil the surprise."
+      ],
+      "synonyms": [
+        "ruin",
+        "damage"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b1bfcc51-c9df-4da1-8e3d-cbbe5cc7957a",
+      "english": "spoil",
+      "translation": null,
+      "hebrew": "לפנק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They spoil their grandchildren with gifts.",
+        "He spoils his dog with treats."
+      ],
+      "synonyms": [
+        "pamper",
+        "indulge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b160924d-8e2d-4f38-93f1-fcbfb839665f",
+      "english": "spoil",
+      "translation": null,
+      "hebrew": "ביזה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The soldiers took spoil from the town.",
+        "The pirates divided the spoil among themselves."
+      ],
+      "synonyms": [
+        "loot",
+        "plunder"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "82602b81-783c-4f35-b924-ebce55d790ee",
+      "english": "spoil",
+      "translation": null,
+      "hebrew": "מפונק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a spoiled child.",
+        "She is spoiled by her parents."
+      ],
+      "synonyms": [
+        "pampered",
+        "indulged"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "51e172a7-864e-4b51-ad27-b565b5be5dc1",
+      "english": "stack",
+      "translation": null,
+      "hebrew": "ערמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a stack of books on the table.",
+        "He has a stack of papers to read."
+      ],
+      "synonyms": [
+        "pile",
+        "heap"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cbc38d94-de30-4fd6-aaa3-71082e0115f6",
+      "english": "staple",
+      "translation": null,
+      "hebrew": "סיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need a staple to fix these papers.",
+        "The office uses a lot of staples."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "office"
+      ]
+    },
+    {
+      "word_id": "258868a6-ee50-4897-a9d6-688b952e3065",
+      "english": "station",
+      "translation": null,
+      "hebrew": "תחנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The train station is downtown.",
+        "The bus station is near the airport."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transport"
+      ]
+    },
+    {
+      "word_id": "1aadc1c0-3b80-455b-8ec0-d02778a0a351",
+      "english": "station",
+      "translation": null,
+      "hebrew": "עמדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a station in the army.",
+        "She works at a station in the police."
+      ],
+      "synonyms": [
+        "position",
+        "post"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "46c242a5-eb27-4bdd-b0fe-740f6626c94a",
+      "english": "stem",
+      "translation": null,
+      "hebrew": "גבעול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The stem of the flower is green.",
+        "The stem supports the flower."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "f95c89f2-9687-40d8-90e8-a71aacfe113a",
+      "english": "stomach",
+      "translation": null,
+      "hebrew": "קיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My stomach hurts.",
+        "I have a stomach ache."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "9f7000b9-d845-44b8-91c0-ac6fbe28c558",
+      "english": "strategy",
+      "translation": null,
+      "hebrew": "אסטרטגיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has a new business strategy.",
+        "The team needs a better strategy to win."
+      ],
+      "synonyms": [
+        "plan",
+        "tactic"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "b7befe68-35e2-494f-b21c-77cfb06e7b4e",
+      "english": "subdue",
+      "translation": null,
+      "hebrew": "לכבוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army subdued the enemy.",
+        "He subdued his anger."
+      ],
+      "synonyms": [
+        "conquer",
+        "defeat"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "240deea4-13d2-4851-84e4-e48822848ffb",
+      "english": "submit",
+      "translation": null,
+      "hebrew": "להגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please submit your application by Friday.",
+        "He submitted his resignation."
+      ],
+      "synonyms": [
+        "present",
+        "offer"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "68190eff-e9e5-4855-afa4-eaeb3ce88359",
+      "english": "submit",
+      "translation": null,
+      "hebrew": "להיכנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He refused to submit to their demands.",
+        "The country submitted to the enemy."
+      ],
+      "synonyms": [
+        "yield",
+        "surrender"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "2a16d5a6-a9fb-4f48-871b-c0ed2bf6316b",
+      "english": "subtle",
+      "translation": null,
+      "hebrew": "מעודן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting has subtle colors.",
+        "The difference is subtle but important."
+      ],
+      "synonyms": [
+        "delicate",
+        "fine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4da75b25-d945-4d7a-87e8-7e643d967991",
+      "english": "suitable",
+      "translation": null,
+      "hebrew": "מתאים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This dress is suitable for the party.",
+        "The movie is not suitable for children."
+      ],
+      "synonyms": [
+        "appropriate",
+        "fitting"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7c476faa-7311-4ce7-b6c3-edc304487fc1",
+      "english": "superb",
+      "translation": null,
+      "hebrew": "מְעֻלֶּה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was superb.",
+        "The performance was superb."
+      ],
+      "synonyms": [
+        "excellent",
+        "outstanding"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a98856bc-5f54-4696-aa42-d0930478f1bc",
+      "english": "superficial",
+      "translation": null,
+      "hebrew": "שטחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The wound was superficial.",
+        "He has a superficial understanding of the subject."
+      ],
+      "synonyms": [
+        "shallow",
+        "slight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "44b251fe-c755-4b8b-89a6-33e95ee1c760",
+      "english": "suppression",
+      "translation": null,
+      "hebrew": "דיכוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The suppression of free speech is wrong.",
+        "The government used suppression to control the people."
+      ],
+      "synonyms": [
+        "repression",
+        "oppression"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "a240a300-2de9-4f28-a7b6-0cc3f2457535",
+      "english": "sustain",
+      "translation": null,
+      "hebrew": "לתמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The pillars sustain the roof.",
+        "The company needs to sustain its growth."
+      ],
+      "synonyms": [
+        "support",
+        "maintain"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3e261fcb-60d9-4695-afdf-ab1240429820",
+      "english": "sustain",
+      "translation": null,
+      "hebrew": "לסבול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sustained serious injuries in the accident.",
+        "The building sustained damage in the earthquake."
+      ],
+      "synonyms": [
+        "endure",
+        "bear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1e8aba5b-b6b4-42c1-877d-e8db561bda0c",
+      "english": "sustain",
+      "translation": null,
+      "hebrew": "לקיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The food sustains us.",
+        "The love sustains them."
+      ],
+      "synonyms": [
+        "nourish",
+        "uphold"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f6deb282-e7a7-4d25-91c5-80e9935fc493",
+      "english": "symbol",
+      "translation": null,
+      "hebrew": "סמל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dove is a symbol of peace.",
+        "The flag is a symbol of the country."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ee428b19-ce3a-44eb-938e-0a6c6afc7ea7",
+      "english": "symbolize",
+      "translation": null,
+      "hebrew": "לסמל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The statue symbolizes freedom.",
+        "The color red symbolizes love."
+      ],
+      "synonyms": [
+        "represent",
+        "stand for"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd6a5b1b-4b35-4d4d-8fa6-913ba46aa709",
+      "english": "take place",
+      "translation": null,
+      "hebrew": "להתרחש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting will take place tomorrow.",
+        "The accident took place on the highway."
+      ],
+      "synonyms": [
+        "happen",
+        "occur"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19a67db6-bf9a-4e68-ab19-8b61f7d5582b",
+      "english": "temple",
+      "translation": null,
+      "hebrew": "מקדש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The temple is a place of worship.",
+        "The ancient temple is a popular tourist attraction."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "3d9d2c09-d8c3-435b-9504-090e40c2dd22",
+      "english": "terms",
+      "translation": null,
+      "hebrew": "תנאים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What are the terms of the agreement?",
+        "The terms of the contract are clear."
+      ],
+      "synonyms": [
+        "conditions",
+        "provisions"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "58f7e3aa-b816-46c1-bb07-4ee4b21dd770",
+      "english": "terms",
+      "translation": null,
+      "hebrew": "מונחים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He used technical terms in his presentation.",
+        "The terms of the debate were agreed upon."
+      ],
+      "synonyms": [
+        "terminology",
+        "expressions"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    }
+  ]
+}

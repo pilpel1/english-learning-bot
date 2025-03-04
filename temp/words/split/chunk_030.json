@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 30,
+    "words_range": "evaluate-generally",
+    "word_count": 30,
+    "start_index": 870,
+    "end_index": 899
+  },
+  "words": [
+    {
+      "word_id": "c335eb3b-2214-49c9-b9bf-2bab1d5ba91b",
+      "english": "evaluate",
+      "translation": "להעריך",
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher will evaluate the students' projects.",
+        "We need to evaluate the situation before making a decision."
+      ],
+      "synonyms": ["assess", "appraise", "judge"],
+      "topic_tags": ["general", "assessment", "analysis"]
+    },
+    {
+      "word_id": "36d2251a-53ec-4161-aaa0-ce1a225ac229",
+      "english": "evaluation",
+      "translation": "הערכה",
+      "hebrew": "הערכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The evaluation of the new system took several weeks.",
+        "She received a positive evaluation from her boss."
+      ],
+      "synonyms": ["assessment", "appraisal", "review"],
+      "topic_tags": ["general", "assessment", "review"]
+    },
+    {
+      "word_id": "c32ba6b5-d84a-47ae-9d56-2b9ec885767b",
+      "english": "even",
+      "translation": "אפילו",
+      "hebrew": "אפילו",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Even the best players make mistakes.",
+        "She didn't even say goodbye."
+      ],
+      "synonyms": ["still", "yet", "indeed"],
+      "topic_tags": ["general", "emphasis", "contrast"]
+    },
+    {
+      "word_id": "f5e568e3-d878-41d5-b32b-3ce303e8947c",
+      "english": "even",
+      "translation": "זוגי",
+      "hebrew": "זוגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Four is an even number.",
+        "The numbers are evenly distributed."
+      ],
+      "synonyms": ["equal", "uniform", "balanced"],
+      "topic_tags": ["general", "mathematics", "numbers"]
+    },
+    {
+      "word_id": "fb468444-add7-483c-8224-9d00595296f3",
+      "english": "even",
+      "translation": "שטוח",
+      "hebrew": "שטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The surface of the table is even.",
+        "Make sure the ground is even before setting up the tent."
+      ],
+      "synonyms": ["flat", "level", "smooth"],
+      "topic_tags": ["general", "geometry", "surface"]
+    },
+    {
+      "word_id": "1de15c73-c426-4b80-9381-223040cbebf6",
+      "english": "evenly",
+      "translation": "באופן שווה",
+      "hebrew": "באופן שווה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The cake was evenly divided among the children.",
+        "Spread the paint evenly on the wall."
+      ],
+      "synonyms": ["equally", "uniformly", "consistently"],
+      "topic_tags": ["general", "distribution", "balance"]
+    },
+    {
+      "word_id": "9966d2a7-b9d2-46f3-9f2c-1ee69404e7e1",
+      "english": "except for",
+      "translation": "למעט",
+      "hebrew": "למעט",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Everyone was invited except for John.",
+        "The store is open every day except for Sunday."
+      ],
+      "synonyms": ["excluding", "apart from", "besides"],
+      "topic_tags": ["general", "exclusion", "exception"]
+    },
+    {
+      "word_id": "12c61ea2-be64-4e9c-af4b-0db5beaa38b0",
+      "english": "exercise",
+      "translation": "תרגיל",
+      "hebrew": "תרגיל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This exercise will help you improve your math skills.",
+        "The teacher gave us a new exercise to complete."
+      ],
+      "synonyms": ["task", "activity", "drill"],
+      "topic_tags": ["general", "education", "practice"]
+    },
+    {
+      "word_id": "e31df081-37d6-45af-80cc-6f3fd6330df1",
+      "english": "exercise",
+      "translation": "להתעמל",
+      "hebrew": "להתעמל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She exercises every morning before work.",
+        "It's important to exercise regularly for good health."
+      ],
+      "synonyms": ["work out", "train", "practice"],
+      "topic_tags": ["general", "health", "fitness"]
+    },
+    {
+      "word_id": "899aba1b-fc7c-4dd6-9b6d-b35b1717af2f",
+      "english": "exercise",
+      "translation": "לממש",
+      "hebrew": "לממש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He exercised his right to vote.",
+        "The company exercised its option to buy the property."
+      ],
+      "synonyms": ["implement", "apply", "use"],
+      "topic_tags": ["general", "rights", "application"]
+    },
+    {
+      "word_id": "84903bea-5db5-48b7-9774-d7f5d46a2c76",
+      "english": "expect",
+      "translation": "לצפות",
+      "hebrew": "לצפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I expect to receive my package tomorrow.",
+        "She didn't expect to see him at the party."
+      ],
+      "synonyms": ["anticipate", "await", "predict"],
+      "topic_tags": ["general", "anticipation", "prediction"]
+    },
+    {
+      "word_id": "1b8a465f-80e3-4f5b-a503-3f6a08751cbb",
+      "english": "expectations",
+      "translation": "ציפיות",
+      "hebrew": "ציפיות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher has high expectations for her students.",
+        "He didn't meet the expectations set by his parents."
+      ],
+      "synonyms": ["hopes", "prospects", "anticipations"],
+      "topic_tags": ["general", "anticipation", "standards"]
+    },
+    {
+      "word_id": "b6a5dcae-80ea-4091-b087-3f089851e0ae",
+      "english": "explain",
+      "translation": "להסביר",
+      "hebrew": "להסביר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you explain the rules of the game?",
+        "She explained the process in detail."
+      ],
+      "synonyms": ["clarify", "describe", "elucidate"],
+      "topic_tags": ["general", "communication", "clarification"]
+    },
+    {
+      "word_id": "7d6639f2-a7f8-4136-837e-c6aabe438c9a",
+      "english": "explanation",
+      "translation": "הסבר",
+      "hebrew": "הסבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher gave a clear explanation of the topic.",
+        "I need an explanation for your behavior."
+      ],
+      "synonyms": ["clarification", "description", "account"],
+      "topic_tags": ["general", "communication", "clarification"]
+    },
+    {
+      "word_id": "4eb96b7c-6326-466b-beae-751d0401e5f0",
+      "english": "express",
+      "translation": "להביע",
+      "hebrew": "להביע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He expressed his gratitude with a gift.",
+        "She expressed her feelings through art."
+      ],
+      "synonyms": ["convey", "communicate", "articulate"],
+      "topic_tags": ["general", "communication", "emotion"]
+    },
+    {
+      "word_id": "cb861b69-2bf4-4b27-b103-29f8ea9dc46a",
+      "english": "express",
+      "translation": "מהיר",
+      "hebrew": "מהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The express train gets you there faster.",
+        "She sent the package by express delivery."
+      ],
+      "synonyms": ["fast", "rapid", "swift"],
+      "topic_tags": ["general", "speed", "transportation"]
+    },
+    {
+      "word_id": "76437837-745b-417b-8e65-a3ce55c1e56f",
+      "english": "expression",
+      "translation": "ביטוי",
+      "hebrew": "ביטוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her expression showed surprise.",
+        "The expression 'break a leg' means good luck."
+      ],
+      "synonyms": ["phrase", "saying", "term"],
+      "topic_tags": ["general", "language", "emotion"]
+    },
+    {
+      "word_id": "49e987c3-1a87-49c6-832a-6dab1d378311",
+      "english": "extreme",
+      "translation": "קיצוני",
+      "hebrew": "קיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather was extreme, with heavy rain and strong winds.",
+        "He has extreme views on politics."
+      ],
+      "synonyms": ["intense", "severe", "radical"],
+      "topic_tags": ["general", "intensity", "conditions"]
+    },
+    {
+      "word_id": "9bb20732-ba55-4e70-bb09-2e7e806d0d3f",
+      "english": "face",
+      "translation": "פנים",
+      "hebrew": "פנים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She washed her face before bed.",
+        "His face lit up with a smile."
+      ],
+      "synonyms": ["countenance", "visage", "features"],
+      "topic_tags": ["general", "anatomy", "appearance"]
+    },
+    {
+      "word_id": "365d59f7-768b-4311-8f86-905f1669d62a",
+      "english": "face",
+      "translation": "להתמודד",
+      "hebrew": "להתמודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to face his fears.",
+        "They faced many challenges during the project."
+      ],
+      "synonyms": ["confront", "encounter", "tackle"],
+      "topic_tags": ["general", "challenge", "confrontation"]
+    },
+    {
+      "word_id": "abefab75-3386-4ce7-9918-29202a123dbe",
+      "english": "facial",
+      "translation": "פנים",
+      "hebrew": "פנים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She had a facial treatment at the spa.",
+        "Facial expressions can convey emotions."
+      ],
+      "synonyms": ["visage", "countenance", "features"],
+      "topic_tags": ["general", "anatomy", "appearance"]
+    },
+    {
+      "word_id": "1c8decc3-fc28-47de-94d5-e57f6ca00c14",
+      "english": "financial",
+      "translation": "פיננסי",
+      "hebrew": "פיננסי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She received financial advice from a professional.",
+        "The company is in good financial health."
+      ],
+      "synonyms": ["monetary", "economic", "fiscal"],
+      "topic_tags": ["general", "economy", "money"]
+    },
+    {
+      "word_id": "deec25a0-1afe-46ca-94dd-823df4f0f659",
+      "english": "forbid",
+      "translation": "לאסור",
+      "hebrew": "לאסור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The school forbids smoking on campus.",
+        "He was forbidden to enter the building."
+      ],
+      "synonyms": ["prohibit", "ban", "disallow"],
+      "topic_tags": ["general", "rules", "prohibition"]
+    },
+    {
+      "word_id": "24a481bc-310a-4f4e-8de0-1d6f52e55f1a",
+      "english": "form",
+      "translation": "טופס",
+      "hebrew": "טופס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Please fill out this form.",
+        "The form must be submitted by Friday."
+      ],
+      "synonyms": ["document", "sheet", "application"],
+      "topic_tags": ["general", "paperwork", "administration"]
+    },
+    {
+      "word_id": "c3e3f868-deb3-481a-9568-4b3851784511",
+      "english": "form",
+      "translation": "לעצב",
+      "hebrew": "לעצב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist formed the clay into a sculpture.",
+        "They formed a new committee to address the issue."
+      ],
+      "synonyms": ["shape", "create", "mold"],
+      "topic_tags": ["general", "creation", "design"]
+    },
+    {
+      "word_id": "f75bf86c-dcd3-4a49-b9d8-0885bec6866e",
+      "english": "formal",
+      "translation": "רשמי",
+      "hebrew": "רשמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The event requires formal attire.",
+        "He received a formal invitation to the gala."
+      ],
+      "synonyms": ["official", "ceremonial", "conventional"],
+      "topic_tags": ["general", "etiquette", "ceremony"]
+    },
+    {
+      "word_id": "b5672a03-8133-4159-a3a4-b3b1b6ed8854",
+      "english": "forth",
+      "translation": "קדימה",
+      "hebrew": "קדימה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He stepped forth to accept the award.",
+        "The plan will be set forth in the meeting."
+      ],
+      "synonyms": ["forward", "onward", "ahead"],
+      "topic_tags": ["general", "movement", "progress"]
+    },
+    {
+      "word_id": "e556eabc-d52c-436f-acb6-f2d2971a73e2",
+      "english": "general",
+      "translation": "כללי",
+      "hebrew": "כללי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The general consensus is that the plan will work.",
+        "He has a general understanding of the topic."
+      ],
+      "synonyms": ["overall", "broad", "universal"],
+      "topic_tags": ["general", "overview", "summary"]
+    },
+    {
+      "word_id": "734a4a23-2b53-4823-bcfc-6711a1409668",
+      "english": "General",
+      "translation": "גנרל",
+      "hebrew": "גנרל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The General led the troops into battle.",
+        "He was promoted to the rank of General."
+      ],
+      "synonyms": ["commander", "officer", "leader"],
+      "topic_tags": ["general", "military", "leadership"]
+    },
+    {
+      "word_id": "fe2f931b-b819-43f3-8ec7-0aa8d83f95ad",
+      "english": "generally",
+      "translation": "באופן כללי",
+      "hebrew": "באופן כללי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Generally, people prefer summer to winter.",
+        "The movie was generally well-received by critics."
+      ],
+      "synonyms": ["usually", "commonly", "typically"],
+      "topic_tags": ["general", "overview", "summary"]
+    }
+  ]
+}

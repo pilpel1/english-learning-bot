@@ -1,0 +1,610 @@
+{
+  "_meta": {
+    "chunk_number": 58,
+    "words_range": "experience-fund",
+    "word_count": 30,
+    "start_index": 1710,
+    "end_index": 1739
+  },
+  "words": [
+    {
+      "word_id": "8b109b0e-5dc4-497e-a1dc-472a7a0da92b",
+      "english": "experience",
+      "translation": null,
+      "hebrew": "חוויה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I had a great experience on my trip.",
+        "She has a lot of experience in this field."
+      ],
+      "synonyms": [
+        "feeling",
+        "adventure"
+      ],
+      "topic_tags": [
+        "general",
+        "events"
+      ]
+    },
+    {
+      "word_id": "e12842f8-a08f-4d68-b546-ed532cebe583",
+      "english": "experiment",
+      "translation": null,
+      "hebrew": "ניסוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientists conducted an experiment.",
+        "We need to do more experiments to prove our theory."
+      ],
+      "synonyms": [
+        "test",
+        "trial"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "cc648ea1-2741-4cb3-874c-d667ba5844a2",
+      "english": "exploit",
+      "translation": null,
+      "hebrew": "לנצל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company exploited its workers.",
+        "We should not exploit natural resources."
+      ],
+      "synonyms": [
+        "use",
+        "abuse"
+      ],
+      "topic_tags": [
+        "general",
+        "ethics"
+      ]
+    },
+    {
+      "word_id": "2b86939d-b651-463f-9cf6-7c2379ce2f81",
+      "english": "exploit",
+      "translation": null,
+      "hebrew": "מעשה גבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His exploit saved many lives.",
+        "The story is full of daring exploits."
+      ],
+      "synonyms": [
+        "feat",
+        "achievement"
+      ],
+      "topic_tags": [
+        "general",
+        "achievements"
+      ]
+    },
+    {
+      "word_id": "4a5422c5-657c-44bb-95cb-ce7f695a6243",
+      "english": "export",
+      "translation": null,
+      "hebrew": "לייצא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The country exports goods to Europe.",
+        "They export a lot of oil."
+      ],
+      "synonyms": [
+        "ship",
+        "trade"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "146fe4b6-3960-47f8-bc5c-15f3276cc4ba",
+      "english": "extensive",
+      "translation": null,
+      "hebrew": "נרחב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The library has an extensive collection of books.",
+        "He has extensive knowledge of the subject."
+      ],
+      "synonyms": [
+        "wide",
+        "broad"
+      ],
+      "topic_tags": [
+        "general",
+        "knowledge"
+      ]
+    },
+    {
+      "word_id": "e7171938-6b38-4294-8311-cb043773391f",
+      "english": "facilitate",
+      "translation": null,
+      "hebrew": "להקל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new road will facilitate travel.",
+        "We need to facilitate communication between departments."
+      ],
+      "synonyms": [
+        "ease",
+        "assist"
+      ],
+      "topic_tags": [
+        "general",
+        "help"
+      ]
+    },
+    {
+      "word_id": "83815f19-bf01-4b05-a5f0-92569617abd2",
+      "english": "fall apart",
+      "translation": null,
+      "hebrew": "להתפרק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The old car is falling apart.",
+        "Their relationship fell apart."
+      ],
+      "synonyms": [
+        "crumble",
+        "disintegrate"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "570834b5-1abe-4763-bf95-bc2d11da06b0",
+      "english": "fast",
+      "translation": null,
+      "hebrew": "מהר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He ran fast.",
+        "Time goes by so fast."
+      ],
+      "synonyms": [
+        "quickly",
+        "rapidly"
+      ],
+      "topic_tags": [
+        "general",
+        "speed"
+      ]
+    },
+    {
+      "word_id": "0ce4d55a-ad2b-4046-bce5-4dab64483d87",
+      "english": "fast",
+      "translation": null,
+      "hebrew": "צום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is on a fast.",
+        "They broke their fast."
+      ],
+      "synonyms": [
+        "abstinence",
+        "diet"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "0a7312b2-b251-4467-b9f7-a2f79766f0fe",
+      "english": "fasten",
+      "translation": null,
+      "hebrew": "להדק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Fasten your seatbelts.",
+        "He fastened the rope."
+      ],
+      "synonyms": [
+        "secure",
+        "tighten"
+      ],
+      "topic_tags": [
+        "general",
+        "safety"
+      ]
+    },
+    {
+      "word_id": "c9017ea9-b578-404d-bf60-a3da8c4752e0",
+      "english": "feminine",
+      "translation": null,
+      "hebrew": "נשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a feminine charm.",
+        "The dress has a feminine design."
+      ],
+      "synonyms": [
+        "womanly",
+        "delicate"
+      ],
+      "topic_tags": [
+        "general",
+        "gender"
+      ]
+    },
+    {
+      "word_id": "e75fb0f3-2089-43f0-872d-df94798f31a9",
+      "english": "fine",
+      "translation": null,
+      "hebrew": "בסדר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am fine, thank you.",
+        "The weather is fine today."
+      ],
+      "synonyms": [
+        "okay",
+        "good"
+      ],
+      "topic_tags": [
+        "general",
+        "status"
+      ]
+    },
+    {
+      "word_id": "fa6bb786-0e1a-41af-aa21-cffacb8f53ef",
+      "english": "fine",
+      "translation": null,
+      "hebrew": "קנס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to pay a fine.",
+        "The fine for speeding is high."
+      ],
+      "synonyms": [
+        "penalty",
+        "fee"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "6cae03b4-d093-45ac-b76e-df3f5b25fe18",
+      "english": "fine",
+      "translation": null,
+      "hebrew": "משובח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a fine wine.",
+        "He is a fine artist."
+      ],
+      "synonyms": [
+        "excellent",
+        "superior"
+      ],
+      "topic_tags": [
+        "general",
+        "quality"
+      ]
+    },
+    {
+      "word_id": "bc539c9a-46b2-4d1d-9782-6fefd001b8b3",
+      "english": "fine",
+      "translation": null,
+      "hebrew": "דק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has fine hair.",
+        "The powder is ground to a fine consistency."
+      ],
+      "synonyms": [
+        "thin",
+        "delicate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9857e214-96e8-45b5-a0b7-42acb37fa158",
+      "english": "fit",
+      "translation": null,
+      "hebrew": "מתאים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The shirt fits well.",
+        "He is fit for the job."
+      ],
+      "synonyms": [
+        "suitable",
+        "appropriate"
+      ],
+      "topic_tags": [
+        "general",
+        "status"
+      ]
+    },
+    {
+      "word_id": "1d4b64a0-1e19-4941-a164-86fc946f3474",
+      "english": "fit",
+      "translation": null,
+      "hebrew": "כושר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in good fit.",
+        "She works hard to stay fit."
+      ],
+      "synonyms": [
+        "health",
+        "shape"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "72fe283d-87e9-4bb7-a9c7-25f3e96c8e8f",
+      "english": "flight",
+      "translation": null,
+      "hebrew": "טיסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The flight was delayed.",
+        "We took a flight to New York."
+      ],
+      "synonyms": [
+        "journey",
+        "trip"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "c3d56e7d-f278-4095-89db-1ae478f34dce",
+      "english": "flight",
+      "translation": null,
+      "hebrew": "בריחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He took flight from the police.",
+        "The birds took flight."
+      ],
+      "synonyms": [
+        "escape",
+        "retreat"
+      ],
+      "topic_tags": [
+        "general",
+        "actions"
+      ]
+    },
+    {
+      "word_id": "fc1ea3bf-d747-4fd1-8bdf-32ce2340a6f2",
+      "english": "forceful",
+      "translation": null,
+      "hebrew": "תקיף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a forceful speaker.",
+        "She has a forceful personality."
+      ],
+      "synonyms": [
+        "powerful",
+        "assertive"
+      ],
+      "topic_tags": [
+        "general",
+        "personality"
+      ]
+    },
+    {
+      "word_id": "e35a15b1-341a-4d7c-9a1d-5441692e954c",
+      "english": "forecast",
+      "translation": null,
+      "hebrew": "תחזית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather forecast is good.",
+        "The economic forecast is uncertain."
+      ],
+      "synonyms": [
+        "prediction",
+        "outlook"
+      ],
+      "topic_tags": [
+        "general",
+        "weather"
+      ]
+    },
+    {
+      "word_id": "8e1a8e5e-dab2-4657-8234-294ad40b76af",
+      "english": "foreign",
+      "translation": null,
+      "hebrew": "זר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He speaks a foreign language.",
+        "She is from a foreign country."
+      ],
+      "synonyms": [
+        "alien",
+        "exotic"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "0692ea54-84e9-482f-aa38-3d66d4f6d46d",
+      "english": "foreign",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The foreign policy of the government.",
+        "They rely on foreign aid."
+      ],
+      "synonyms": [
+        "external",
+        "outside"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "3c3c4294-a12f-4aad-b45f-873d2712e90d",
+      "english": "forfeit",
+      "translation": null,
+      "hebrew": "לוותר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He had to forfeit the game.",
+        "They forfeited their rights."
+      ],
+      "synonyms": [
+        "relinquish",
+        "sacrifice"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "3f6abd34-0fd9-4ea3-a2fd-b7905da3ee9e",
+      "english": "fortunate",
+      "translation": null,
+      "hebrew": "בר מזל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is fortunate to have such a good job.",
+        "We are fortunate to live in a peaceful country."
+      ],
+      "synonyms": [
+        "lucky",
+        "blessed"
+      ],
+      "topic_tags": [
+        "general",
+        "luck"
+      ]
+    },
+    {
+      "word_id": "17791bea-0c13-4413-abd5-02c36bc636cc",
+      "english": "fortune",
+      "translation": null,
+      "hebrew": "הון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a fortune in the stock market.",
+        "She inherited a large fortune."
+      ],
+      "synonyms": [
+        "wealth",
+        "riches"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "087e45d0-d457-4f37-be6a-8c0c7105f1d2",
+      "english": "fortune",
+      "translation": null,
+      "hebrew": "גורל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He wanted to know his fortune.",
+        "She believes in fortune telling."
+      ],
+      "synonyms": [
+        "fate",
+        "destiny"
+      ],
+      "topic_tags": [
+        "general",
+        "beliefs"
+      ]
+    },
+    {
+      "word_id": "c6857e72-4db5-40d2-b4db-da6e47fd6bbf",
+      "english": "frame",
+      "translation": null,
+      "hebrew": "מסגרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The picture is in a frame.",
+        "He wears glasses with a metal frame."
+      ],
+      "synonyms": [
+        "border",
+        "casing"
+      ],
+      "topic_tags": [
+        "general",
+        "objects"
+      ]
+    },
+    {
+      "word_id": "7ca34b2f-edb0-40bd-8963-281d346bcca0",
+      "english": "fund",
+      "translation": null,
+      "hebrew": "קרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company set up a fund for education.",
+        "They need to raise funds for the project."
+      ],
+      "synonyms": [
+        "foundation",
+        "capital"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    }
+  ]
+}

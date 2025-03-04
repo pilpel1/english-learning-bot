@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 130,
+    "words_range": "grapes-janitor",
+    "word_count": 30,
+    "start_index": 3870,
+    "end_index": 3899
+  },
+  "words": [
+    {
+      "word_id": "a1effd0a-7d13-41a7-bb06-5b38b1f600e7",
+      "english": "grapes",
+      "translation": null,
+      "hebrew": "ענבים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She bought a bunch of grapes.",
+        "Grapes are used to make wine."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "d0c7438f-8f34-46cf-999e-e1b0e4c3352f",
+      "english": "grit",
+      "translation": null,
+      "hebrew": "חצץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was grit in his shoes.",
+        "The road was covered in grit."
+      ],
+      "synonyms": ["gravel", "sand"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a8d93d6a-094a-4c87-aef9-965d87b4dc57",
+      "english": "grocery",
+      "translation": null,
+      "hebrew": "מכולת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She went to the grocery store.",
+        "They bought groceries."
+      ],
+      "synonyms": ["supermarket"],
+      "topic_tags": ["general", "shopping"]
+    },
+    {
+      "word_id": "5dc13d24-4917-4583-b775-e8545747f709",
+      "english": "groom",
+      "translation": null,
+      "hebrew": "חתן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bride and groom.",
+        "The groom wore a suit."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "relationships"]
+    },
+    {
+      "word_id": "ef426bbe-88d6-4f6b-8786-802d2b0e5362",
+      "english": "groom",
+      "translation": null,
+      "hebrew": "לטפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She groomed her horse.",
+        "He groomed his beard."
+      ],
+      "synonyms": ["clean", "brush", "preen"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2ce2239a-6897-4fe3-8246-42183c750987",
+      "english": "guillotine",
+      "translation": null,
+      "hebrew": "גיליוטינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The guillotine was used during the French Revolution.",
+        "They sentenced him to the guillotine."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "5b3af6ed-ea4a-4c60-960f-00730f4fa5e7",
+      "english": "Gulf War",
+      "translation": null,
+      "hebrew": "מלחמת המפרץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Gulf War began in 1990.",
+        "He fought in the Gulf War."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "history", "politics"]
+    },
+    {
+      "word_id": "17e79a17-3620-4e02-b4f1-010c9fa11882",
+      "english": "gym",
+      "translation": null,
+      "hebrew": "חדר כושר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She goes to the gym every day.",
+        "He works out at the gym."
+      ],
+      "synonyms": ["fitness center"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "5d6c0f10-f6ac-4e20-af3b-a50191a7e10f",
+      "english": "gymnasium",
+      "translation": null,
+      "hebrew": "אולם ספורט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The school has a gymnasium.",
+        "They played basketball in the gymnasium."
+      ],
+      "synonyms": ["gym"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "d776f12d-68e9-4b5c-ab75-03d793d4b614",
+      "english": "handicap",
+      "translation": null,
+      "hebrew": "מוגבלות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He overcame his handicap.",
+        "She has a physical handicap."
+      ],
+      "synonyms": ["disability"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9f6aad4d-ca8e-4615-a835-f7b6342ecdc6",
+      "english": "harmony",
+      "translation": null,
+      "hebrew": "הרמוניה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They sang in harmony.",
+        "There was harmony between them."
+      ],
+      "synonyms": ["accord", "consonance"],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "eb3044bc-c86d-40dd-a628-a33983b0f423",
+      "english": "heart",
+      "translation": null,
+      "hebrew": "לב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The heart pumps blood.",
+        "He has a good heart."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "e1bcba7f-b0b5-4990-ba28-52866f44b8e9",
+      "english": "heartbeat",
+      "translation": null,
+      "hebrew": "דופק לב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor checked his heartbeat.",
+        "Her heartbeat quickened."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "f0071366-89f7-41a4-a160-127910b5cb29",
+      "english": "heroine",
+      "translation": null,
+      "hebrew": "גיבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the heroine of the story.",
+        "The heroine saved the day."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "literature"]
+    },
+    {
+      "word_id": "76cb1be7-780b-4566-b9b4-5e7910abb7e2",
+      "english": "hilarious",
+      "translation": null,
+      "hebrew": "מצחיק מאוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was hilarious.",
+        "He told a hilarious story."
+      ],
+      "synonyms": ["very funny", "comical"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0fef9386-314d-4952-92f3-056e703a2227",
+      "english": "hill",
+      "translation": null,
+      "hebrew": "גבעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They climbed the hill.",
+        "The house is on a hill."
+      ],
+      "synonyms": ["mound"],
+      "topic_tags": ["general", "geography"]
+    },
+    {
+      "word_id": "4034064c-a836-4f02-ae2e-ded8bda45837",
+      "english": "horn",
+      "translation": null,
+      "hebrew": "קרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The animal has horns.",
+        "She blew the horn."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "02d30bc6-8459-4e78-9089-16b59e48a48a",
+      "english": "horn",
+      "translation": null,
+      "hebrew": "צופר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He honked the horn.",
+        "The car has a horn."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3eb28eb1-ee69-493e-bcc8-f3d6dd2329bf",
+      "english": "housemaid",
+      "translation": null,
+      "hebrew": "עוזרת בית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The housemaid cleaned the house.",
+        "She works as a housemaid."
+      ],
+      "synonyms": ["maid", "housekeeper"],
+      "topic_tags": ["general", "occupation"]
+    },
+    {
+      "word_id": "c6ef1d21-3ef8-4b6f-81b7-9ccdb1e9685e",
+      "english": "howl",
+      "translation": null,
+      "hebrew": "ליילל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The wolf howled at the moon.",
+        "The wind howled through the trees."
+      ],
+      "synonyms": ["wail", "cry"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "8f0eb1d4-fb81-4a3d-994d-ad5439dfdce6",
+      "english": "index",
+      "translation": null,
+      "hebrew": "אינדקס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The index is at the back of the book.",
+        "He is a suspect in the index."
+      ],
+      "synonyms": ["list"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "02055eb7-095f-4b26-821a-0b82519c3689",
+      "english": "inexpensive",
+      "translation": null,
+      "hebrew": "זול",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The clothes are inexpensive.",
+        "It's an inexpensive restaurant."
+      ],
+      "synonyms": ["cheap", "affordable"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f8a23eb5-9037-4a8b-8928-babc06f59c94",
+      "english": "inn",
+      "translation": null,
+      "hebrew": "פונדק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They stayed at an inn.",
+        "The inn was cozy."
+      ],
+      "synonyms": ["tavern", "hotel"],
+      "topic_tags": ["general", "travel"]
+    },
+    {
+      "word_id": "3166d5b9-19a7-40eb-955e-80ff7cc461de",
+      "english": "intense",
+      "translation": null,
+      "hebrew": "עז",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt intense pain.",
+        "They are under intense pressure."
+      ],
+      "synonyms": ["extreme", "strong"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "99b74659-2da7-4982-b91d-e26f4d2bcb43",
+      "english": "intoxicate",
+      "translation": null,
+      "hebrew": "לשכר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Alcohol can intoxicate.",
+        "The fumes intoxicated him."
+      ],
+      "synonyms": ["inebriate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e27fd513-1608-4711-825e-ec5ecbdeb1bb",
+      "english": "intoxicate",
+      "translation": null,
+      "hebrew": "להקסים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The music intoxicated him.",
+        "Her beauty intoxicated him."
+      ],
+      "synonyms": ["enchant", "captivate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e84f705f-1ca0-4adc-b4a2-cd55af5e21ba",
+      "english": "intuition",
+      "translation": null,
+      "hebrew": "אינטואיציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She had a strong intuition.",
+        "Trust your intuition."
+      ],
+      "synonyms": ["instinct", "hunch"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "863bed9d-252e-458d-83bc-aed19f0e24bb",
+      "english": "invertebrate",
+      "translation": null,
+      "hebrew": "חסר חוליות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "An insect is an invertebrate.",
+        "Worms are invertebrates."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals", "science"]
+    },
+    {
+      "word_id": "0095de30-e145-42b9-bf90-37d63b26cd7d",
+      "english": "ivory",
+      "translation": null,
+      "hebrew": "שנהב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The statue was made of ivory.",
+        "Ivory is a valuable material."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "material"]
+    },
+    {
+      "word_id": "35e38641-20cc-43a1-a224-c4869f75da12",
+      "english": "janitor",
+      "translation": null,
+      "hebrew": "שרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The janitor cleaned the floors.",
+        "He works as a janitor."
+      ],
+      "synonyms": ["caretaker", "custodian"],
+      "topic_tags": ["general", "occupation"]
+    }
+  ]
+}

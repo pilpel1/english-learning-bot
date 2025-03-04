@@ -1,0 +1,584 @@
+{
+  "_meta": {
+    "chunk_number": 97,
+    "words_range": "virtual-baffled",
+    "word_count": 30,
+    "start_index": 2880,
+    "end_index": 2909
+  },
+  "words": [
+    {
+      "word_id": "1c00af45-9fde-45ce-8e79-b12ad1494646",
+      "english": "virtual",
+      "translation": null,
+      "hebrew": "וירטואלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting was held in a virtual conference room.",
+        "He created a virtual world in his computer."
+      ],
+      "synonyms": [
+        "simulated",
+        "digital"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "98993114-a900-4441-a8da-9f01530e629e",
+      "english": "virtually",
+      "translation": null,
+      "hebrew": "כמעט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is virtually complete.",
+        "Virtually all the students passed the exam."
+      ],
+      "synonyms": [
+        "nearly",
+        "almost"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ec7d823-499f-4e1a-963b-c56831a42117",
+      "english": "visual",
+      "translation": null,
+      "hebrew": "חזותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie has stunning visual effects.",
+        "She is a visual artist."
+      ],
+      "synonyms": [
+        "optical",
+        "graphic"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "2faa42f7-6740-4371-8555-963f189dbc51",
+      "english": "visualize",
+      "translation": null,
+      "hebrew": "לדמיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Try to visualize the scene in your mind.",
+        "He can visualize complex structures."
+      ],
+      "synonyms": [
+        "imagine",
+        "envision"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "908a5229-c0cf-4e80-a68e-86779a0c476c",
+      "english": "wealthy",
+      "translation": null,
+      "hebrew": "עשיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a wealthy businessman.",
+        "They live in a wealthy neighborhood."
+      ],
+      "synonyms": [
+        "rich",
+        "affluent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bb96a99a-38b7-46dc-ac14-078a4c6a5cc4",
+      "english": "weigh",
+      "translation": null,
+      "hebrew": "לשקול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The package weighs two kilograms.",
+        "We need to weigh the pros and cons."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "01edd055-9419-476a-bf8b-9f1b34ebd74e",
+      "english": "weight",
+      "translation": null,
+      "hebrew": "משקל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the weight of the suitcase?",
+        "He is trying to lose weight."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "16fcb1ea-a911-4448-84de-88707b672d2a",
+      "english": "wickedly",
+      "translation": null,
+      "hebrew": "ברשעות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She smiled wickedly.",
+        "The plan was wickedly clever."
+      ],
+      "synonyms": [
+        "evilly",
+        "maliciously"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ba20f1c9-21a2-4d76-8e86-9145f2aceb80",
+      "english": "wisdom",
+      "translation": null,
+      "hebrew": "חוכמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is known for his wisdom.",
+        "The old man shared his wisdom with the young."
+      ],
+      "synonyms": [
+        "knowledge",
+        "insight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "953b5b11-75cf-4b2d-83e3-449d639241d3",
+      "english": "abroad",
+      "translation": null,
+      "hebrew": "בחו\"ל",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is studying abroad.",
+        "They went abroad for their vacation."
+      ],
+      "synonyms": [
+        "overseas",
+        "internationally"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "ed34dde6-f15b-4545-bf9e-187c30e18af0",
+      "english": "accomplices",
+      "translation": null,
+      "hebrew": "שותפים לפשע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The thief had several accomplices.",
+        "The police arrested the accomplices."
+      ],
+      "synonyms": [
+        "collaborators",
+        "accessories"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    },
+    {
+      "word_id": "0466cb2f-5b63-494c-b130-e1c76ea9ff2b",
+      "english": "acquitted",
+      "translation": null,
+      "hebrew": "זוכה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was acquitted of the charges.",
+        "The jury acquitted the defendant."
+      ],
+      "synonyms": [
+        "exonerated",
+        "cleared"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "66f0577a-69a2-4e14-8f9c-c316cc398456",
+      "english": "adhere",
+      "translation": null,
+      "hebrew": "לדבוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The paint did not adhere to the wall.",
+        "You must adhere to the rules."
+      ],
+      "synonyms": [
+        "stick",
+        "cling"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ae922f2e-af90-4767-9f53-0407fbc00a8a",
+      "english": "advocate",
+      "translation": null,
+      "hebrew": "סנגור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an advocate for children's rights.",
+        "She hired a legal advocate to help with her case."
+      ],
+      "synonyms": [
+        "supporter",
+        "champion",
+        "proponent"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "94d93e5e-0ca7-473c-8e6f-1b873f6872cd",
+      "english": "advocate",
+      "translation": null,
+      "hebrew": "סנגור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an advocate for children's rights.",
+        "She hired a legal advocate to help with her case."
+      ],
+      "synonyms": [
+        "supporter",
+        "champion",
+        "proponent"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "f2f3c84b-a6b6-4bba-af7b-b1eb3f3896cf",
+      "english": "align",
+      "translation": null,
+      "hebrew": "ליישר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to align the text to the right.",
+        "Their interests align with our goals."
+      ],
+      "synonyms": [
+        "arrange",
+        "position",
+        "coordinate"
+      ],
+      "topic_tags": [
+        "general",
+        "organization"
+      ]
+    },
+    {
+      "word_id": "8f4ca3b9-3bbf-42c1-b565-678d6003eec5",
+      "english": "allowance",
+      "translation": null,
+      "hebrew": "קצבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He receives a monthly allowance from his parents.",
+        "The job includes a travel allowance."
+      ],
+      "synonyms": [
+        "stipend",
+        "payment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "54db9773-0603-484e-bccd-05f31c657555",
+      "english": "allusion",
+      "translation": null,
+      "hebrew": "רמיזה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The speech contained an allusion to Shakespeare.",
+        "His writing is full of allusions."
+      ],
+      "synonyms": [
+        "reference",
+        "hint"
+      ],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "db3eba61-6432-417a-8232-bf22304d1f49",
+      "english": "ample",
+      "translation": null,
+      "hebrew": "מספיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "There is ample evidence to support the claim.",
+        "We have ample time to finish the project."
+      ],
+      "synonyms": [
+        "sufficient",
+        "plenty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c1349529-3cc9-4d21-bb99-12d4fc708db5",
+      "english": "amputation",
+      "translation": null,
+      "hebrew": "קטיעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor performed an amputation.",
+        "Amputation is a last resort."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "61367ac9-8c26-434d-9ede-3b7004f89659",
+      "english": "amusement",
+      "translation": null,
+      "hebrew": "שעשוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The park provides amusement for children.",
+        "He watched the show with amusement."
+      ],
+      "synonyms": [
+        "entertainment",
+        "enjoyment"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4e00e9f7-d820-4b14-b085-4915f16bb774",
+      "english": "anesthesia",
+      "translation": null,
+      "hebrew": "הרדמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The patient was given anesthesia before the surgery.",
+        "He is a doctor of anesthesia."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "7c00cd3b-5255-4dc3-a537-8921ad06bad0",
+      "english": "annoy",
+      "translation": null,
+      "hebrew": "להרגיז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior annoys me.",
+        "The loud noise annoyed the neighbors."
+      ],
+      "synonyms": [
+        "irritate",
+        "bother"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "008615d0-c7e8-4183-b4be-92519bee1322",
+      "english": "appraise",
+      "translation": null,
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The value of the house was appraised.",
+        "The manager will appraise your performance."
+      ],
+      "synonyms": [
+        "assess",
+        "evaluate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "34fafc82-ff73-468d-bb1c-cd0135c9fea4",
+      "english": "ark",
+      "translation": null,
+      "hebrew": "תיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Noah built an ark to save the animals.",
+        "The ark is a symbol of salvation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "05232cd5-cb74-4ae3-9e58-827ed6569b5d",
+      "english": "arrogant",
+      "translation": null,
+      "hebrew": "יהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an arrogant person.",
+        "His arrogant behavior is annoying."
+      ],
+      "synonyms": [
+        "conceited",
+        "haughty"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f0e4fb9a-1fe1-4287-807b-626ddd3148af",
+      "english": "artifact",
+      "translation": null,
+      "hebrew": "ממצא ארכיאולוגי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum displays ancient artifacts.",
+        "The artifact is from the Roman era."
+      ],
+      "synonyms": [
+        "relic",
+        "antique"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "4ae47a1a-b472-4238-a5b8-1aff00504f59",
+      "english": "atrocity",
+      "translation": null,
+      "hebrew": "זוועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The war was full of atrocities.",
+        "The massacre was an atrocity."
+      ],
+      "synonyms": [
+        "horror",
+        "outrage"
+      ],
+      "topic_tags": [
+        "general",
+        "war"
+      ]
+    },
+    {
+      "word_id": "0d0d236e-03a8-4765-be6c-47d367b92c79",
+      "english": "attire",
+      "translation": null,
+      "hebrew": "לבוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The attire for the party is formal.",
+        "He was wearing elegant attire."
+      ],
+      "synonyms": [
+        "clothing",
+        "apparel"
+      ],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "9262e186-f9f0-42ef-b904-9f4409d2212d",
+      "english": "baffled",
+      "translation": null,
+      "hebrew": "נִבְהָל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was baffled by the question.",
+        "The mystery baffled everyone."
+      ],
+      "synonyms": [
+        "puzzled",
+        "confused"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

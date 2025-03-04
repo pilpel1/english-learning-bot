@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 126,
+    "words_range": "adorn-casino",
+    "word_count": 30,
+    "start_index": 3750,
+    "end_index": 3779
+  },
+  "words": [
+    {
+      "word_id": "005a91a7-ac5b-46d3-b04b-440c5b7298c7",
+      "english": "adorn",
+      "translation": null,
+      "hebrew": "לקשט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They adorned the room with flowers.",
+        "She adorned herself with jewelry."
+      ],
+      "synonyms": ["decorate", "embellish", "beautify"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eaa45833-f2f0-4f0e-bbf5-61c8bb7b497b",
+      "english": "agenda",
+      "translation": null,
+      "hebrew": "סדר יום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What's on the agenda for the meeting?",
+        "They have a hidden agenda."
+      ],
+      "synonyms": ["program", "schedule"],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "b42b21c1-685c-49e1-8423-9d1547e2f930",
+      "english": "air conditioner",
+      "translation": null,
+      "hebrew": "מזגן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Turn on the air conditioner.",
+        "The air conditioner is not working."
+      ],
+      "synonyms": ["AC"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "f1b33b5d-3e6c-4b8a-8b81-db90101b08ba",
+      "english": "algae",
+      "translation": null,
+      "hebrew": "אצות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Algae grow in the pond.",
+        "Some algae are edible."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "83c3622d-a7f1-4936-9017-1f166c9fbab1",
+      "english": "antler",
+      "translation": null,
+      "hebrew": "קרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The deer has large antlers.",
+        "He found an antler in the woods."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "03d53db3-8eea-46dd-8875-b58c261cbf02",
+      "english": "automobile",
+      "translation": null,
+      "hebrew": "מכונית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He drives an automobile.",
+        "The automobile industry is important."
+      ],
+      "synonyms": ["car", "vehicle"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "b2270924-e80d-40ab-b068-b38283e91637",
+      "english": "bass",
+      "translation": null,
+      "hebrew": "בס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He plays the bass guitar.",
+        "The singer had a deep bass voice."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "f861ccdc-b0e8-433b-8cef-e170d4c437a8",
+      "english": "bead",
+      "translation": null,
+      "hebrew": "חרוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She made a necklace with beads.",
+        "Sweat beaded on his forehead."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "eb00f2e3-5600-4bac-92f6-9fec329eb76c",
+      "english": "beak",
+      "translation": null,
+      "hebrew": "מקור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird has a strong beak.",
+        "The eagle used its beak to tear the meat."
+      ],
+      "synonyms": ["bill"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "98cad12a-81bb-4eb4-9e73-e8d4283348d4",
+      "english": "bee",
+      "translation": null,
+      "hebrew": "דבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bee makes honey.",
+        "He was stung by a bee."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "1c3da4df-6625-4349-8034-289d23e5408d",
+      "english": "bell",
+      "translation": null,
+      "hebrew": "פעמון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bell rang.",
+        "She rang the doorbell."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a313ece2-5859-4bd6-b794-ec9ea21a79af",
+      "english": "berry",
+      "translation": null,
+      "hebrew": "פירות יער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She picked berries in the forest.",
+        "Strawberries are my favorite berry."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food", "nature"]
+    },
+    {
+      "word_id": "b27c0e71-4ab0-4ff3-b02c-ecccdf335994",
+      "english": "blade",
+      "translation": null,
+      "hebrew": "להב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The knife has a sharp blade.",
+        "He has broken the blade of the sword"
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "db67a9ab-5807-4744-85b5-fe5390e3dea2",
+      "english": "blame",
+      "translation": null,
+      "hebrew": "להאשים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He blamed me for the accident.",
+        "Don't blame yourself."
+      ],
+      "synonyms": ["accuse", "censure"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "524dac6c-46dc-4d79-bfa4-b0fb9c960f9f",
+      "english": "blanket",
+      "translation": null,
+      "hebrew": "שמיכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She covered herself with a blanket.",
+        "The snow formed a blanket over the ground."
+      ],
+      "synonyms": ["cover"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "153d1beb-d31b-41cf-9e2d-4de33e689536",
+      "english": "bleak",
+      "translation": null,
+      "hebrew": "עגום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The future looks bleak.",
+        "The landscape was bleak and barren."
+      ],
+      "synonyms": ["gloomy", "desolate", "depressing"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a587286c-8657-4d2c-9475-0cb79c86b1c9",
+      "english": "blew",
+      "translation": null,
+      "hebrew": "נשבה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The wind blew hard.",
+        "She blew bubbles."
+      ],
+      "synonyms": ["wind", "puff"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2cd5d052-5c5b-4c60-9a32-651878c9c365",
+      "english": "brick",
+      "translation": null,
+      "hebrew": "לבנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is built of brick.",
+        "They laid the bricks carefully."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "construction"]
+    },
+    {
+      "word_id": "c57b7a96-b249-4285-ba4d-03b2dc32dc89",
+      "english": "bully",
+      "translation": null,
+      "hebrew": "בריון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a bully.",
+        "Don't be a bully."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4dadf6e4-4f50-418a-b40f-559afa58eff0",
+      "english": "butterfly",
+      "translation": null,
+      "hebrew": "פרפר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The butterfly flew away.",
+        "Butterflies are beautiful."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals", "nature"]
+    },
+    {
+      "word_id": "23b22ded-6f96-4f82-bc05-397981bb62de",
+      "english": "cadaver",
+      "translation": null,
+      "hebrew": "גופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The medical students studied the cadaver.",
+        "The police found a cadaver."
+      ],
+      "synonyms": ["corpse"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "a5d9ae78-946e-4a1a-a0a4-6d63cf797e4d",
+      "english": "camel",
+      "translation": null,
+      "hebrew": "גמל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The camel can survive in the desert.",
+        "He rode a camel across the Sahara."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "22d11781-49fd-480f-8035-85f356de1542",
+      "english": "cancel",
+      "translation": null,
+      "hebrew": "לבטל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Cancel the meeting.",
+        "They canceled the flight."
+      ],
+      "synonyms": ["revoke", "abolish"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e9df1b65-d95d-4dee-9e35-0c567c4b62fd",
+      "english": "candy",
+      "translation": null,
+      "hebrew": "ממתק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The child loves candy.",
+        "She ate a piece of candy."
+      ],
+      "synonyms": ["sweet"],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "991e687c-3f85-4bd0-afae-5d3d1eb60b44",
+      "english": "canvass",
+      "translation": null,
+      "hebrew": "לסקור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The candidate canvassed the neighborhood.",
+        "They canvassed opinions on the new policy."
+      ],
+      "synonyms": ["survey", "poll"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7ce7c88a-bef7-44d9-85f9-384b095efd44",
+      "english": "carpet",
+      "translation": null,
+      "hebrew": "שטיח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a carpet on the floor.",
+        "The carpet is red."
+      ],
+      "synonyms": ["rug"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "d23b2bc4-1c53-45ec-9dee-6a6eac11fcc9",
+      "english": "cash",
+      "translation": null,
+      "hebrew": "מזומן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you have any cash?",
+        "I paid in cash."
+      ],
+      "synonyms": ["money"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "4e04e304-4349-4b53-911b-e79395ba0b33",
+      "english": "cash",
+      "translation": null,
+      "hebrew": "לפדות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can I cash a check here?",
+        "He cashed his paycheck."
+      ],
+      "synonyms": ["exchange"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "ec9d9a17-1acf-4b08-a3c1-f751ff62d470",
+      "english": "cashier",
+      "translation": null,
+      "hebrew": "קופאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cashier gave me the change.",
+        "She works as a cashier."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "business"]
+    },
+    {
+      "word_id": "b17e3030-367a-49c5-ad18-111c309c23e5",
+      "english": "casino",
+      "translation": null,
+      "hebrew": "קזינו",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to the casino to gamble.",
+        "The city has many casinos."
+      ],
+      "synonyms": ["gambling house"],
+      "topic_tags": ["general", "entertainment"]
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 17,
+    "words_range": "clock-costly",
+    "word_count": 30,
+    "start_index": 480,
+    "end_index": 509
+  },
+  "words": [
+    {
+      "word_id": "6ba8073a-3a9c-4622-8b8b-44dd3ef09c87",
+      "english": "clock",
+      "translation": "שעון",
+      "hebrew": "שעון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The clock on the wall shows the wrong time.",
+        "She set the alarm on her clock for 7 AM."
+      ],
+      "synonyms": ["timepiece", "watch"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "16d59e6e-8f39-4aeb-b65d-fba9eee8a90c",
+      "english": "close",
+      "translation": "לסגור",
+      "hebrew": "לסגור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please close the door.",
+        "She closed her eyes and fell asleep."
+      ],
+      "synonyms": ["shut", "seal"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "6f4ae642-71dd-489a-939b-4e3f10c5fb88",
+      "english": "cloth",
+      "translation": "בד",
+      "hebrew": "בד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wiped the table with a cloth.",
+        "The dress is made of fine cloth."
+      ],
+      "synonyms": ["fabric", "material"],
+      "topic_tags": ["general", "material"]
+    },
+    {
+      "word_id": "b43cc375-b70a-4bfc-87fd-51f2d4101b4e",
+      "english": "coach",
+      "translation": "מאמן",
+      "hebrew": "מאמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The coach gave the team a pep talk.",
+        "She is a swimming coach."
+      ],
+      "synonyms": ["trainer", "instructor"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "aaf9e11d-136d-46bc-931d-c5f14765a395",
+      "english": "coach",
+      "translation": "אוטובוס",
+      "hebrew": "אוטובוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They traveled by coach to the city.",
+        "The coach was comfortable and spacious."
+      ],
+      "synonyms": ["bus", "vehicle"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "695d6a27-57a8-4754-91a2-c697703b4c46",
+      "english": "code",
+      "translation": "קוד",
+      "hebrew": "קוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He cracked the secret code.",
+        "The code for the door is 1234."
+      ],
+      "synonyms": ["cipher", "system"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "e4983152-f734-4c5a-aff9-79340651683f",
+      "english": "coexist",
+      "translation": "לחיות יחד",
+      "hebrew": "לחיות יחד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Different cultures can coexist peacefully.",
+        "The two species coexist in the same habitat."
+      ],
+      "synonyms": ["live together", "cohabit"],
+      "topic_tags": ["general", "society"]
+    },
+    {
+      "word_id": "f38a0ad1-5c22-4b86-b478-5a3e9c833d36",
+      "english": "coin",
+      "translation": "מטבע",
+      "hebrew": "מטבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He tossed a coin to make a decision.",
+        "The coin is made of silver."
+      ],
+      "synonyms": ["currency", "piece"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "60aabb1c-c4b8-4728-828d-db8a81aec609",
+      "english": "cold",
+      "translation": "קר",
+      "hebrew": "קר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is very cold today.",
+        "She caught a cold last week."
+      ],
+      "synonyms": ["chilly", "frigid"],
+      "topic_tags": ["general", "weather"]
+    },
+    {
+      "word_id": "200cbd4f-b91a-4c57-8194-193d001a1707",
+      "english": "colonial",
+      "translation": "קולוניאלי",
+      "hebrew": "קולוניאלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has a colonial style.",
+        "They studied the colonial history of the country."
+      ],
+      "synonyms": ["imperial", "settler"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "bb1ce323-5fda-4844-aa36-5660ce4da0f2",
+      "english": "color",
+      "translation": "צבע",
+      "hebrew": "צבע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Blue is my favorite color.",
+        "The color of the sky is beautiful."
+      ],
+      "synonyms": ["hue", "shade"],
+      "topic_tags": ["general", "art"]
+    },
+    {
+      "word_id": "cfcdc363-c0c5-4e97-b627-6da21e8ec27f",
+      "english": "color",
+      "translation": "לצבוע",
+      "hebrew": "לצבוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She likes to color in her coloring book.",
+        "He colored the picture with crayons."
+      ],
+      "synonyms": ["paint", "tint"],
+      "topic_tags": ["general", "art"]
+    },
+    {
+      "word_id": "51d2aa89-42ca-46e7-9579-24b663b52878",
+      "english": "complain",
+      "translation": "להתלונן",
+      "hebrew": "להתלונן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She complained about the noise.",
+        "He often complains about his job."
+      ],
+      "synonyms": ["grumble", "protest"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "1abe6f8b-31f0-4f2e-b9e6-185a63de2886",
+      "english": "complete",
+      "translation": "להשלים",
+      "hebrew": "להשלים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She completed the puzzle.",
+        "He needs to complete his homework."
+      ],
+      "synonyms": ["finish", "accomplish"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "1212af7a-98f1-4c6c-8a4e-5ae6e7250024",
+      "english": "complete",
+      "translation": "מלא",
+      "hebrew": "מלא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is now complete.",
+        "She has a complete collection of stamps."
+      ],
+      "synonyms": ["entire", "whole"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "5b6a8e9f-55ec-4a0f-b822-f5df5e0d8f6e",
+      "english": "consist",
+      "translation": "להכיל",
+      "hebrew": "להכיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The team consists of five players.",
+        "The dish consists of rice and vegetables."
+      ],
+      "synonyms": ["comprise", "include"],
+      "topic_tags": ["general", "composition"]
+    },
+    {
+      "word_id": "c7729e01-f054-4069-a8da-5e1badd32d28",
+      "english": "contact",
+      "translation": "ליצור קשר",
+      "hebrew": "ליצור קשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please contact me if you have any questions.",
+        "He contacted the company for more information."
+      ],
+      "synonyms": ["reach", "communicate"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "9e80b0bd-dbaa-4924-9cc8-acbb5ef334fa",
+      "english": "continue",
+      "translation": "להמשיך",
+      "hebrew": "להמשיך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She continued to work despite the noise.",
+        "He will continue his studies next year."
+      ],
+      "synonyms": ["persist", "proceed"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "15581ec8-c265-4898-8aa7-205b667eab67",
+      "english": "continuity",
+      "translation": "רציפות",
+      "hebrew": "רציפות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The continuity of the story was maintained.",
+        "They ensured the continuity of the service."
+      ],
+      "synonyms": ["consistency", "flow"],
+      "topic_tags": ["general", "process"]
+    },
+    {
+      "word_id": "857f0325-d100-4344-945b-6b9c9b529ba5",
+      "english": "continuous",
+      "translation": "רציף",
+      "hebrew": "רציף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The machine operates in a continuous cycle.",
+        "He made continuous progress in his studies."
+      ],
+      "synonyms": ["uninterrupted", "constant"],
+      "topic_tags": ["general", "process"]
+    },
+    {
+      "word_id": "1ffbecac-495f-4759-b5f6-71a4fd5ba78b",
+      "english": "control",
+      "translation": "לשלוט",
+      "hebrew": "לשלוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He controls the remote.",
+        "She tried to control her emotions."
+      ],
+      "synonyms": ["manage", "regulate"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "4881ae8a-7a8d-43cd-b361-50ec81fb9dc1",
+      "english": "control",
+      "translation": "שליטה",
+      "hebrew": "שליטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has control over the project.",
+        "The car lost control on the icy road."
+      ],
+      "synonyms": ["command", "authority"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "aec7167b-4acd-4d82-81d3-e8b01a87b311",
+      "english": "cool",
+      "translation": "קריר",
+      "hebrew": "קריר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is cool today.",
+        "He is a cool person."
+      ],
+      "synonyms": ["chilly", "refreshing"],
+      "topic_tags": ["general", "weather"]
+    },
+    {
+      "word_id": "e828aaf5-38f7-4be1-bb15-0101d9ad28c9",
+      "english": "copies",
+      "translation": "עותקים",
+      "hebrew": "עותקים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She made copies of the document.",
+        "The book sold thousands of copies."
+      ],
+      "synonyms": ["duplicates", "reproductions"],
+      "topic_tags": ["general", "reproduction"]
+    },
+    {
+      "word_id": "e080e773-aa17-4ef0-8261-f922b3dec475",
+      "english": "copy",
+      "translation": "להעתיק",
+      "hebrew": "להעתיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He copied the file to his computer.",
+        "She copied the notes from the board."
+      ],
+      "synonyms": ["duplicate", "replicate"],
+      "topic_tags": ["general", "reproduction"]
+    },
+    {
+      "word_id": "eb7e7764-dbc7-43a9-b869-988ddf200c64",
+      "english": "corner",
+      "translation": "פינה",
+      "hebrew": "פינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is hiding in the corner.",
+        "He turned the corner and saw the store."
+      ],
+      "synonyms": ["angle", "nook"],
+      "topic_tags": ["general", "location"]
+    },
+    {
+      "word_id": "0aad1b73-cf47-4e0b-b764-0737a4834035",
+      "english": "correct",
+      "translation": "לתקן",
+      "hebrew": "לתקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please correct the errors in the report.",
+        "He corrected his mistake quickly."
+      ],
+      "synonyms": ["fix", "amend"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "7b3490e7-aa8d-4cbb-8b16-5fa56443f7fc",
+      "english": "correct",
+      "translation": "נכון",
+      "hebrew": "נכון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The answer is correct.",
+        "She gave the correct information."
+      ],
+      "synonyms": ["accurate", "right"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "28edac49-504b-46b6-b044-83188270e13c",
+      "english": "cost",
+      "translation": "עלות",
+      "hebrew": "עלות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cost of living is high.",
+        "He calculated the cost of the trip."
+      ],
+      "synonyms": ["price", "expense"],
+      "topic_tags": ["general", "finance"]
+    },
+    {
+      "word_id": "21a06ea7-805d-4f23-ab86-9e250b62bca4",
+      "english": "costly",
+      "translation": "יקר",
+      "hebrew": "יקר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The repairs were costly.",
+        "It was a costly mistake."
+      ],
+      "synonyms": ["expensive", "pricey"],
+      "topic_tags": ["general", "finance"]
+    }
+  ]
+}

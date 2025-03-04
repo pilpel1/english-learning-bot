@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "chunk_number": 40,
+    "words_range": "adventure-artificial",
+    "word_count": 30,
+    "start_index": 1170,
+    "end_index": 1199
+  },
+  "words": [
+    {
+      "word_id": "6ff56ea0-d117-41da-bb80-fed496357a7d",
+      "english": "adventure",
+      "translation": null,
+      "hebrew": "הרפתקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went on an adventure in the jungle.",
+        "Life is an adventure; enjoy the ride."
+      ],
+      "synonyms": [
+        "expedition",
+        "journey"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "dcea198c-a146-43c5-bc85-805574ffd04b",
+      "english": "affect",
+      "translation": null,
+      "hebrew": "להשפיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather can affect your mood.",
+        "His speech affected many people."
+      ],
+      "synonyms": [
+        "influence",
+        "impact"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "59d72339-59e0-49cd-b678-2fb910306c73",
+      "english": "affection",
+      "translation": null,
+      "hebrew": "חיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of affection for her grandchildren.",
+        "They showed affection by holding hands."
+      ],
+      "synonyms": [
+        "love",
+        "fondness"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "dd2de1a7-989b-4ded-aadc-2df94ceb8ea8",
+      "english": "affluence",
+      "translation": null,
+      "hebrew": "שפע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is known for its affluence.",
+        "Affluence does not always bring happiness."
+      ],
+      "synonyms": [
+        "wealth",
+        "prosperity"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "0ab18c21-2fb3-4e5a-bf8c-f5282efe7e76",
+      "english": "affluent",
+      "translation": null,
+      "hebrew": "עשיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They live in an affluent neighborhood.",
+        "He comes from an affluent family."
+      ],
+      "synonyms": [
+        "wealthy",
+        "rich"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "a021bc39-132f-41b0-921d-696d033885c3",
+      "english": "aid",
+      "translation": null,
+      "hebrew": "עזרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They provided aid to the refugees.",
+        "The country needs financial aid."
+      ],
+      "synonyms": [
+        "help",
+        "assistance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0a33466d-59df-40a7-8d5b-f5eaf904a07c",
+      "english": "airborne",
+      "translation": null,
+      "hebrew": "באוויר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The paratroopers were airborne.",
+        "The virus is airborne."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "7e7ac265-27b0-424e-bc27-d0e26ae86980",
+      "english": "airline",
+      "translation": null,
+      "hebrew": "חברת תעופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Which airline are you flying with?",
+        "The airline offers flights to many destinations."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "670a6a59-f212-42ac-80cd-75e27f938d04",
+      "english": "airplane",
+      "translation": null,
+      "hebrew": "מטוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The airplane took off on time.",
+        "I saw an airplane flying overhead."
+      ],
+      "synonyms": [
+        "plane"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "d096a82f-65c6-4f30-9686-9d2999fdbace",
+      "english": "alike",
+      "translation": null,
+      "hebrew": "דומה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The twins look very alike.",
+        "The two cars are very alike in design."
+      ],
+      "synonyms": [
+        "similar",
+        "identical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "642a0981-a9e7-4c5e-ade0-dcb5cba2c495",
+      "english": "allow",
+      "translation": null,
+      "hebrew": "לאפשר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher doesn't allow talking during the exam.",
+        "My parents allow me to stay out late on weekends."
+      ],
+      "synonyms": [
+        "permit",
+        "let"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "18e65fa1-279d-4b78-923d-a973adb6967c",
+      "english": "ally (allies)",
+      "translation": null,
+      "hebrew": "בעל ברית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The two countries are allies.",
+        "He is a strong ally in the fight against crime."
+      ],
+      "synonyms": [
+        "partner",
+        "associate"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "2037ba30-a738-4005-b5df-cd7e726187a9",
+      "english": "alter",
+      "translation": null,
+      "hebrew": "לשנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You may need to alter your plans.",
+        "The tailor altered the dress to fit perfectly."
+      ],
+      "synonyms": [
+        "change",
+        "modify"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6cd0a9a4-2d56-470c-82bb-6fd948349517",
+      "english": "alterations",
+      "translation": null,
+      "hebrew": "שינויים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dress needs some alterations.",
+        "We made some alterations to the design."
+      ],
+      "synonyms": [
+        "modifications",
+        "changes"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "21f4b2da-dc41-426e-b36e-a1f94f3af772",
+      "english": "alternately",
+      "translation": null,
+      "hebrew": "לסירוגין",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lights flashed alternately.",
+        "They took turns driving alternately."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bddbbe39-b852-4088-965f-b6b45260cf1a",
+      "english": "amateur",
+      "translation": null,
+      "hebrew": "חובבן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an amateur photographer.",
+        "The team is made up of amateur players."
+      ],
+      "synonyms": [
+        "novice",
+        "beginner"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7660669a-c617-4686-b6ec-1e779807354a",
+      "english": "amend",
+      "translation": null,
+      "hebrew": "לתקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The law was amended to include new provisions.",
+        "You can amend your application before the deadline."
+      ],
+      "synonyms": [
+        "revise",
+        "correct"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "9f11dfb7-d291-4a3b-a4d9-335e56642d54",
+      "english": "analyze",
+      "translation": null,
+      "hebrew": "לנתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientists analyzed the data.",
+        "We need to analyze the situation carefully."
+      ],
+      "synonyms": [
+        "examine",
+        "investigate"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "98738e05-68d9-45ac-a3a2-31bf7cafc935",
+      "english": "anticipate",
+      "translation": null,
+      "hebrew": "לצפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We anticipate a large crowd at the event.",
+        "You should anticipate potential problems."
+      ],
+      "synonyms": [
+        "expect",
+        "predict"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3d3b990b-a11e-4c07-964b-99b54a86ba31",
+      "english": "anxious",
+      "translation": null,
+      "hebrew": "חרד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She felt anxious before the exam.",
+        "He is anxious about the future."
+      ],
+      "synonyms": [
+        "worried",
+        "nervous"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "2be217a0-5d0c-4170-85b3-d91fea6ab3ff",
+      "english": "anxious",
+      "translation": null,
+      "hebrew": "להוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is anxious to start his new job.",
+        "They are anxious to see the results."
+      ],
+      "synonyms": [
+        "eager",
+        "keen"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "9d85182d-7e65-41c8-87e3-8a8a48dc494b",
+      "english": "apparent",
+      "translation": null,
+      "hebrew": "גלוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was apparent that she was upset.",
+        "The solution was not immediately apparent."
+      ],
+      "synonyms": [
+        "obvious",
+        "clear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "92782c99-a9d2-4d2d-b343-634422423512",
+      "english": "apparently",
+      "translation": null,
+      "hebrew": "כנראה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Apparently, it's going to rain tomorrow.",
+        "Apparently, he has resigned from his job."
+      ],
+      "synonyms": [
+        "seemingly",
+        "evidently"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4664ef3b-f656-4187-86f0-db70ba55882e",
+      "english": "apply",
+      "translation": null,
+      "hebrew": "להגיש מועמדות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to apply for a visa.",
+        "She applied for a job at the bank."
+      ],
+      "synonyms": [
+        "request",
+        "seek"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "ce2fa18e-2e2f-4734-8261-612b53b70aa4",
+      "english": "appreciate",
+      "translation": null,
+      "hebrew": "להעריך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I appreciate your help.",
+        "We appreciate your business."
+      ],
+      "synonyms": [
+        "value",
+        "cherish"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "e0c766e2-c6b3-459f-93b0-85b1d551ee3b",
+      "english": "appreciation",
+      "translation": null,
+      "hebrew": "הערכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We showed our appreciation with a gift.",
+        "He has a deep appreciation for art."
+      ],
+      "synonyms": [
+        "gratitude",
+        "thankfulness"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "8e2918b5-75f1-4afc-b28c-8f50988981ef",
+      "english": "appropriately",
+      "translation": null,
+      "hebrew": "כראוי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please dress appropriately for the occasion.",
+        "He behaved appropriately in the meeting."
+      ],
+      "synonyms": [
+        "suitably",
+        "properly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "42ff6138-92c1-48fc-bb9a-f8dc3ff97178",
+      "english": "arise",
+      "translation": null,
+      "hebrew": "לעלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "New problems arise every day.",
+        "The sun arises in the east."
+      ],
+      "synonyms": [
+        "emerge",
+        "occur"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "366c6fdd-6e54-48aa-a22b-454dfeb6e1e0",
+      "english": "arise, arose",
+      "translation": null,
+      "hebrew": "קם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He arose early in the morning.",
+        "She arose from her chair to greet them."
+      ],
+      "synonyms": [
+        "get up",
+        "stand up"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2d6fac4f-b93f-4d3c-8632-69e023ff262b",
+      "english": "artificial",
+      "translation": null,
+      "hebrew": "מלאכותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The flowers were artificial.",
+        "She has an artificial smile."
+      ],
+      "synonyms": [
+        "synthetic",
+        "fake"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

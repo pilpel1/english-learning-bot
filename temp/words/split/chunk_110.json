@@ -1,0 +1,522 @@
+{
+  "_meta": {
+    "chunk_number": 110,
+    "words_range": "spike-transition",
+    "word_count": 30,
+    "start_index": 3270,
+    "end_index": 3299
+  },
+  "words": [
+    {
+      "word_id": "723e0fc6-bf6c-4b80-9ad2-ba78b0f3d6ef",
+      "english": "spike",
+      "translation": null,
+      "hebrew": "דוקרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fence is covered with spikes.",
+        "The graph shows a spike in sales."
+      ],
+      "synonyms": [
+        "thorn",
+        "peak"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0ba8b648-cfc3-4eb0-82a4-5837891fd22e",
+      "english": "splendor",
+      "translation": null,
+      "hebrew": "הדר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The palace was filled with splendor.",
+        "The sunset was a sight of great splendor."
+      ],
+      "synonyms": [
+        "magnificence",
+        "glory"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d557d78f-13ca-4415-adc0-c46d15aac9a6",
+      "english": "spotlight",
+      "translation": null,
+      "hebrew": "זרקור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The actor stood in the spotlight.",
+        "The scandal put the company in the spotlight."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ce52f58b-f4ec-47fa-8d3c-b312727daba4",
+      "english": "stage",
+      "translation": null,
+      "hebrew": "במה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The actors performed on the stage.",
+        "The project is in its early stages."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b6a7edcf-a28d-4452-9407-f498a61ddb66",
+      "english": "starve",
+      "translation": null,
+      "hebrew": "לרעוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Many people in the world starve.",
+        "The prisoners were starved."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "613dc376-db37-43b3-8209-4c7c0e7581a8",
+      "english": "store",
+      "translation": null,
+      "hebrew": "חנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I went to the store to buy milk.",
+        "The store is open until 9 PM."
+      ],
+      "synonyms": [
+        "shop"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "32d4e1a4-6a16-4273-bb02-bc8e2bc5706a",
+      "english": "store",
+      "translation": null,
+      "hebrew": "לאחסן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We store food in the refrigerator.",
+        "The data is stored on a server."
+      ],
+      "synonyms": [
+        "keep",
+        "save"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8db56f69-7241-4d87-973a-a8c5baad4ea0",
+      "english": "stress",
+      "translation": null,
+      "hebrew": "לחץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is under a lot of stress.",
+        "Stress can cause health problems."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "4b18e75e-143e-4f8a-af9b-fc4924f6f95f",
+      "english": "stress",
+      "translation": null,
+      "hebrew": "להדגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher stressed the importance of studying.",
+        "I want to stress that this is very important."
+      ],
+      "synonyms": [
+        "emphasize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ec519a39-9d4b-4abe-b7f9-712a59654b3a",
+      "english": "strict",
+      "translation": null,
+      "hebrew": "קפדני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher is very strict.",
+        "The rules are very strict."
+      ],
+      "synonyms": [
+        "firm",
+        "rigid"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7c38ae60-6e11-4082-b2dd-406f9a5774bd",
+      "english": "stubborn",
+      "translation": null,
+      "hebrew": "עקשן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a stubborn person.",
+        "The door is stubborn and won't open."
+      ],
+      "synonyms": [
+        "obstinate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39c81129-c5ec-45a5-a70f-e6a11d23bded",
+      "english": "subsequent",
+      "translation": null,
+      "hebrew": "עוקב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The subsequent events proved him right.",
+        "The subsequent meeting was canceled."
+      ],
+      "synonyms": [
+        "following",
+        "later"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a695ac77-8fa0-40b0-99a5-91a2d03dc2c8",
+      "english": "supplement",
+      "translation": null,
+      "hebrew": "תוספת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He takes vitamin supplements.",
+        "The book has a supplement with extra information."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "df00d552-9cb4-48df-b983-6f26c8c42250",
+      "english": "supply",
+      "translation": null,
+      "hebrew": "אספקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The supply of water is running low.",
+        "We need to increase the supply of food."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99115499-9951-493f-897a-99955f979847",
+      "english": "suppress",
+      "translation": null,
+      "hebrew": "לדכא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government suppressed the rebellion.",
+        "He tried to suppress his anger."
+      ],
+      "synonyms": [
+        "repress",
+        "quash"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d11705b7-a109-4005-aea9-e49531f1f419",
+      "english": "suspense",
+      "translation": null,
+      "hebrew": "מתח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was full of suspense.",
+        "The suspense was killing me."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f4fc0416-c8a0-4701-bfc6-e7968f291ddc",
+      "english": "tact",
+      "translation": null,
+      "hebrew": "טקט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She handled the situation with tact.",
+        "He lacks tact."
+      ],
+      "synonyms": [
+        "diplomacy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b09d53bf-382c-41e9-a905-35625c15408a",
+      "english": "tension",
+      "translation": null,
+      "hebrew": "מתח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a lot of tension in the air.",
+        "The tension between them is palpable."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a754ff22-577e-43e1-88c1-0e86b2a2ad68",
+      "english": "testify",
+      "translation": null,
+      "hebrew": "להעיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He testified in court.",
+        "She refused to testify."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "2003f996-3e6e-4506-84c4-b5492cb1778c",
+      "english": "texture",
+      "translation": null,
+      "hebrew": "מרקם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fabric has a rough texture.",
+        "The texture of the food was unpleasant."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "40c3e31f-588e-4b78-96f9-4373a1192f67",
+      "english": "tie",
+      "translation": null,
+      "hebrew": "לקשור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Tie your shoes.",
+        "Tie the rope to the tree."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ec930da2-5578-46d4-beda-f3c22dff4417",
+      "english": "tie",
+      "translation": null,
+      "hebrew": "עניבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He wore a tie to the meeting.",
+        "The tie is made of silk."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "eaab23cb-56bf-4e5b-98bf-305ac9b03ed5",
+      "english": "timber",
+      "translation": null,
+      "hebrew": "עץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is made of timber.",
+        "The timber industry is important to the region."
+      ],
+      "synonyms": [
+        "wood"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "529d6d06-5250-49a5-92b5-8f452b800983",
+      "english": "tomb",
+      "translation": null,
+      "hebrew": "קבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pharaoh was buried in a tomb.",
+        "The tomb was filled with treasures."
+      ],
+      "synonyms": [
+        "grave"
+      ],
+      "topic_tags": [
+        "general",
+        "history"
+      ]
+    },
+    {
+      "word_id": "75b59040-64ed-4620-91a4-ba6ca86d3fb5",
+      "english": "trait",
+      "translation": null,
+      "hebrew": "תכונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Honesty is a good trait.",
+        "He inherited the trait from his father."
+      ],
+      "synonyms": [
+        "characteristic"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "496beecd-b21c-4abc-aed1-189816bf7abc",
+      "english": "tranquilize",
+      "translation": null,
+      "hebrew": "להרגיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor tranquilized the patient.",
+        "The music tranquilized the baby."
+      ],
+      "synonyms": [
+        "sedate"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "a20eb04b-bc1a-44b0-bcee-19d75c5fb99d",
+      "english": "transaction",
+      "translation": null,
+      "hebrew": "עסקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The transaction was completed successfully.",
+        "The bank charged a fee for the transaction."
+      ],
+      "synonyms": [
+        "deal"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "22b31776-4eb6-4ab2-ae51-f5cf1174ed2d",
+      "english": "transcend",
+      "translation": null,
+      "hebrew": "להתעלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "His achievements transcend ordinary standards.",
+        "The music transcends cultural boundaries."
+      ],
+      "synonyms": [
+        "surpass"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "261032d8-b2ee-45c4-bc6a-00f97d33ef2f",
+      "english": "transition",
+      "translation": null,
+      "hebrew": "מעבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is in a period of transition.",
+        "The transition from summer to fall is beautiful."
+      ],
+      "synonyms": [
+        "change"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

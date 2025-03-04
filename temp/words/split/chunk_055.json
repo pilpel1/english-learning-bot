@@ -1,0 +1,609 @@
+{
+  "_meta": {
+    "chunk_number": 55,
+    "words_range": "chief-conduct",
+    "word_count": 30,
+    "start_index": 1620,
+    "end_index": 1649
+  },
+  "words": [
+    {
+      "word_id": "e7c16a24-e965-4363-b2d4-35e90daba04d",
+      "english": "chief",
+      "translation": null,
+      "hebrew": "ראשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The chief reason for the decision was economic.",
+        "He is the chief editor of the newspaper."
+      ],
+      "synonyms": [
+        "main",
+        "principal"
+      ],
+      "topic_tags": [
+        "general",
+        "leadership"
+      ]
+    },
+    {
+      "word_id": "d629e762-6e2b-4d6c-8be2-6de09797c817",
+      "english": "chief",
+      "translation": null,
+      "hebrew": "מפקד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is the chief of police.",
+        "The fire chief gave the order to evacuate."
+      ],
+      "synonyms": [
+        "leader",
+        "commander"
+      ],
+      "topic_tags": [
+        "general",
+        "leadership"
+      ]
+    },
+    {
+      "word_id": "d022f2fe-aebb-45b1-961d-f9ad4deccace",
+      "english": "citizen",
+      "translation": null,
+      "hebrew": "אזרח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a citizen of the United States.",
+        "All citizens have the right to vote."
+      ],
+      "synonyms": [
+        "national",
+        "resident"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "7606ec19-ca03-469a-b83e-59f71041cbb4",
+      "english": "clarify",
+      "translation": null,
+      "hebrew": "להבהיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Could you clarify what you mean?",
+        "The teacher clarified the instructions."
+      ],
+      "synonyms": [
+        "explain",
+        "define"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "6b9ee633-c6c5-42ae-8235-127a77c5218f",
+      "english": "climate",
+      "translation": null,
+      "hebrew": "אקלים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The climate in this region is very dry.",
+        "Climate change is a major concern."
+      ],
+      "synonyms": [
+        "weather",
+        "environment"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "224650c1-cc10-4c9c-8fc1-3f741a36eecc",
+      "english": "coast",
+      "translation": null,
+      "hebrew": "חוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We drove along the coast.",
+        "The ship sailed close to the coast."
+      ],
+      "synonyms": [
+        "shore",
+        "seashore"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "f74b121e-e854-463a-9a04-3835d1fea20b",
+      "english": "coastline",
+      "translation": null,
+      "hebrew": "קו חוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The coastline is very beautiful.",
+        "We walked along the coastline."
+      ],
+      "synonyms": [
+        "shoreline"
+      ],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "7d7a7754-fd23-4d28-89db-95e8618eb10b",
+      "english": "coat",
+      "translation": null,
+      "hebrew": "מעיל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I put on my coat because it was cold.",
+        "She wore a warm coat."
+      ],
+      "synonyms": [
+        "jacket"
+      ],
+      "topic_tags": [
+        "general",
+        "clothing"
+      ]
+    },
+    {
+      "word_id": "e5b20ecf-8695-4c15-80f0-750a21dd75c8",
+      "english": "coat",
+      "translation": null,
+      "hebrew": "ציפוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The table has a coat of varnish.",
+        "Apply a coat of paint to the wall."
+      ],
+      "synonyms": [
+        "layer",
+        "covering"
+      ],
+      "topic_tags": [
+        "general",
+        "materials"
+      ]
+    },
+    {
+      "word_id": "a5a1ea96-2217-42d2-a178-adfc466e4db0",
+      "english": "coexistence",
+      "translation": null,
+      "hebrew": "דו קיום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to promote peaceful coexistence.",
+        "The two cultures can coexist peacefully."
+      ],
+      "synonyms": [
+        "harmony",
+        "accord"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "e6887c34-c49c-4240-890c-a8ec7be6e1d8",
+      "english": "collaborate",
+      "translation": null,
+      "hebrew": "לשתף פעולה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two companies collaborated on the project.",
+        "Scientists from different countries collaborated."
+      ],
+      "synonyms": [
+        "cooperate",
+        "team up"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "e2c19d12-c33e-410c-a547-6bf3e6e9ea94",
+      "english": "collapse",
+      "translation": null,
+      "hebrew": "לקרוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The building collapsed after the earthquake.",
+        "The deal collapsed at the last minute."
+      ],
+      "synonyms": [
+        "fall",
+        "crumble"
+      ],
+      "topic_tags": [
+        "general",
+        "disaster"
+      ]
+    },
+    {
+      "word_id": "64b593b2-a2ed-4d84-81e4-d7660b942b23",
+      "english": "column",
+      "translation": null,
+      "hebrew": "טור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The newspaper has a column about health.",
+        "Read the advice column in the magazine."
+      ],
+      "synonyms": [
+        "article",
+        "feature"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "2c326d67-eafa-4b48-8c44-6a989eca7a1d",
+      "english": "column",
+      "translation": null,
+      "hebrew": "עמוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has many columns.",
+        "The ancient temple has tall columns."
+      ],
+      "synonyms": [
+        "pillar",
+        "support"
+      ],
+      "topic_tags": [
+        "general",
+        "architecture"
+      ]
+    },
+    {
+      "word_id": "0f32614a-b910-41e7-81c2-b2cb62fdc4d3",
+      "english": "comfort",
+      "translation": null,
+      "hebrew": "נוחות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I like the comfort of my own home.",
+        "The hotel offers every comfort."
+      ],
+      "synonyms": [
+        "ease",
+        "well-being"
+      ],
+      "topic_tags": [
+        "general",
+        "lifestyle"
+      ]
+    },
+    {
+      "word_id": "6d6088c6-13f1-4b01-a842-1f8e8868799c",
+      "english": "comfortable",
+      "translation": null,
+      "hebrew": "נוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This chair is very comfortable.",
+        "I feel comfortable talking to her."
+      ],
+      "synonyms": [
+        "cozy",
+        "relaxed"
+      ],
+      "topic_tags": [
+        "general",
+        "lifestyle"
+      ]
+    },
+    {
+      "word_id": "e9c95496-88b1-4dbb-9108-344686f73875",
+      "english": "commerce",
+      "translation": null,
+      "hebrew": "מסחר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is a center of commerce.",
+        "International commerce is growing."
+      ],
+      "synonyms": [
+        "trade",
+        "business"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "8d666561-e59d-40b5-8a15-d0ae444bdc2e",
+      "english": "commercial",
+      "translation": null,
+      "hebrew": "מסחרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a commercial building.",
+        "The movie was a commercial success."
+      ],
+      "synonyms": [
+        "business",
+        "trade"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7f5e987c-5683-4ed5-a834-33376f9ec6e8",
+      "english": "commercial",
+      "translation": null,
+      "hebrew": "פרסומת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The commercial was very funny.",
+        "We saw a commercial for the new car."
+      ],
+      "synonyms": [
+        "advertisement",
+        "ad"
+      ],
+      "topic_tags": [
+        "general",
+        "marketing"
+      ]
+    },
+    {
+      "word_id": "aadf1ac2-5e09-48e3-a40a-fc4cc90d21cc",
+      "english": "commit",
+      "translation": null,
+      "hebrew": "לבצע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He committed a crime.",
+        "I commit to helping you."
+      ],
+      "synonyms": [
+        "perform",
+        "do"
+      ],
+      "topic_tags": [
+        "general",
+        "actions"
+      ]
+    },
+    {
+      "word_id": "ae5a48d8-e4b4-4a0b-b029-ffca948d06ae",
+      "english": "commit",
+      "translation": null,
+      "hebrew": "להתחייב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I commit to helping you.",
+        "She committed herself to the project."
+      ],
+      "synonyms": [
+        "promise",
+        "pledge"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "5db569f8-ec70-456d-9654-ccdc445cb99b",
+      "english": "committee",
+      "translation": null,
+      "hebrew": "ועדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is on the committee.",
+        "The committee will meet next week."
+      ],
+      "synonyms": [
+        "panel",
+        "board"
+      ],
+      "topic_tags": [
+        "general",
+        "organizations"
+      ]
+    },
+    {
+      "word_id": "7d2cad84-69eb-4ef4-ac8a-b6dbc2fb2a55",
+      "english": "complex",
+      "translation": null,
+      "hebrew": "מורכב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The problem is very complex.",
+        "This is a complex machine."
+      ],
+      "synonyms": [
+        "complicated",
+        "intricate"
+      ],
+      "topic_tags": [
+        "general",
+        "problemsolving"
+      ]
+    },
+    {
+      "word_id": "64d30258-4b00-412f-a0b7-c9717c020181",
+      "english": "complication",
+      "translation": null,
+      "hebrew": "סיבוך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a complication during the surgery.",
+        "The new law caused many complications."
+      ],
+      "synonyms": [
+        "problem",
+        "difficulty"
+      ],
+      "topic_tags": [
+        "general",
+        "problemsolving"
+      ]
+    },
+    {
+      "word_id": "e02a8c8e-cf7a-4b1f-8741-22dc3ef9ce09",
+      "english": "comply",
+      "translation": null,
+      "hebrew": "לציית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must comply with the rules.",
+        "The company must comply with the law."
+      ],
+      "synonyms": [
+        "obey",
+        "follow"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "18923de7-48a7-4b92-b80d-3e6e0557fe7a",
+      "english": "compromise",
+      "translation": null,
+      "hebrew": "פשרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We reached a compromise.",
+        "They made a compromise."
+      ],
+      "synonyms": [
+        "agreement",
+        "settlement"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "51b99949-3f93-45b7-8571-2975c9e8479d",
+      "english": "concern",
+      "translation": null,
+      "hebrew": "דאגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a concern about the project.",
+        "Her main concern is her family."
+      ],
+      "synonyms": [
+        "worry",
+        "anxiety"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "66e4829e-ea6e-4f4c-8b47-7d8578a03580",
+      "english": "condition",
+      "translation": null,
+      "hebrew": "מצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car is in good condition.",
+        "What is the condition of the patient?"
+      ],
+      "synonyms": [
+        "state",
+        "shape"
+      ],
+      "topic_tags": [
+        "general",
+        "status"
+      ]
+    },
+    {
+      "word_id": "06fc2f5a-77ab-4035-844a-2c25ffa793be",
+      "english": "condition",
+      "translation": null,
+      "hebrew": "תנאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What are the conditions of the contract?",
+        "He accepted the job on certain conditions."
+      ],
+      "synonyms": [
+        "term",
+        "requirement"
+      ],
+      "topic_tags": [
+        "general",
+        "agreements"
+      ]
+    },
+    {
+      "word_id": "d364ae88-ac4f-4893-9c3b-90a66e44f20b",
+      "english": "conduct",
+      "translation": null,
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will conduct a survey.",
+        "He conducted the orchestra."
+      ],
+      "synonyms": [
+        "manage",
+        "direct"
+      ],
+      "topic_tags": [
+        "general",
+        "leadership"
+      ]
+    }
+  ]
+}

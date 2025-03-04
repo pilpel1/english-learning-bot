@@ -1,0 +1,584 @@
+{
+  "_meta": {
+    "chunk_number": 104,
+    "words_range": "inherit-meticulous",
+    "word_count": 30,
+    "start_index": 3090,
+    "end_index": 3119
+  },
+  "words": [
+    {
+      "word_id": "5d403143-fb6a-47b5-aedf-bcb74fb9264d",
+      "english": "inherit",
+      "translation": null,
+      "hebrew": "לרשת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She inherited a fortune from her grandfather.",
+        "Children inherit traits from their parents."
+      ],
+      "synonyms": [
+        "receive",
+        "acquire"
+      ],
+      "topic_tags": [
+        "general",
+        "family",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "123ae340-393f-464b-b04a-9880b55c00c5",
+      "english": "inhibit",
+      "translation": null,
+      "hebrew": "לבלום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Fear can inhibit creativity.",
+        "The drug inhibits the growth of bacteria."
+      ],
+      "synonyms": [
+        "restrain",
+        "hinder"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "98215637-6ddf-4b43-a387-911ce9eba6ce",
+      "english": "inject",
+      "translation": null,
+      "hebrew": "להזריק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The nurse injected the patient with a vaccine.",
+        "They inject funds into the project."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "dafe12eb-40e5-46e0-83bf-a65348d6cfb6",
+      "english": "injury",
+      "translation": null,
+      "hebrew": "פציעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He suffered a serious injury in the accident.",
+        "The injury kept him from playing sports."
+      ],
+      "synonyms": [
+        "wound",
+        "harm"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "3cc809c2-be82-4dfd-92a0-c15c3fcf21b9",
+      "english": "insanity",
+      "translation": null,
+      "hebrew": "שיגעון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was found not guilty by reason of insanity.",
+        "The project was pure insanity."
+      ],
+      "synonyms": [
+        "madness",
+        "lunacy"
+      ],
+      "topic_tags": [
+        "general",
+        "law",
+        "health"
+      ]
+    },
+    {
+      "word_id": "1297cc47-8c4d-42de-b3c9-b7e28140959f",
+      "english": "inspect",
+      "translation": null,
+      "hebrew": "לבדוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The mechanic inspected the car.",
+        "The officer inspected the documents."
+      ],
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6cad9b46-7d98-4827-a80d-a87a101b95de",
+      "english": "insult",
+      "translation": null,
+      "hebrew": "עלבון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His words were a direct insult.",
+        "She took his comment as an insult."
+      ],
+      "synonyms": [
+        "affront",
+        "offense"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "3fad0ef5-1df9-4600-b68a-bbf90abe89b0",
+      "english": "insult",
+      "translation": null,
+      "hebrew": "להעליב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't insult me with your lies.",
+        "He insulted her intelligence."
+      ],
+      "synonyms": [
+        "offend",
+        "disrespect"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "e4dd8c21-01c2-4cb7-93da-98a68216e2f3",
+      "english": "integrate",
+      "translation": null,
+      "hebrew": "לשלב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to integrate the new system with the old one.",
+        "He integrated well into the new community."
+      ],
+      "synonyms": [
+        "combine",
+        "merge"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fcb5d396-f8a3-4c81-95ed-a0b27c199d1d",
+      "english": "intelligence",
+      "translation": null,
+      "hebrew": "אינטליגנציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a high level of intelligence.",
+        "Intelligence is not the only factor for success."
+      ],
+      "synonyms": [
+        "intellect",
+        "wisdom"
+      ],
+      "topic_tags": [
+        "general",
+        "brain"
+      ]
+    },
+    {
+      "word_id": "5917b9f4-6053-447c-83f4-0eb83f909b93",
+      "english": "intelligence",
+      "translation": null,
+      "hebrew": "מודיעין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The intelligence agency gathered information.",
+        "They rely on intelligence to prevent attacks."
+      ],
+      "synonyms": [
+        "information",
+        "spy"
+      ],
+      "topic_tags": [
+        "general",
+        "politics",
+        "war"
+      ]
+    },
+    {
+      "word_id": "2c2b42cc-eac9-4e8a-928b-4b51fc6ed372",
+      "english": "interface",
+      "translation": null,
+      "hebrew": "ממשק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The software has a user-friendly interface.",
+        "The interface between the two systems is complex."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "db7ecbcd-c439-4c1a-9f30-a7da04cdc768",
+      "english": "interjection",
+      "translation": null,
+      "hebrew": "מילת קריאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "“Wow!” is an interjection.",
+        "Interjections express sudden emotion."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "grammar"
+      ]
+    },
+    {
+      "word_id": "d345e282-e37d-44ac-8a3b-436f65f8863e",
+      "english": "keystone",
+      "translation": null,
+      "hebrew": "אבן ראשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The keystone is the most important part of the arch.",
+        "Honesty is the keystone of a good relationship."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "architecture"
+      ]
+    },
+    {
+      "word_id": "add86f41-a46a-45df-9ac4-72418bcf6ac0",
+      "english": "lackluster",
+      "translation": null,
+      "hebrew": "חסר ברק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The performance was lackluster.",
+        "The team had a lackluster season."
+      ],
+      "synonyms": [
+        "dull",
+        "uninspired"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c45287aa-1a86-48f1-8331-e3177ef95a09",
+      "english": "leisure",
+      "translation": null,
+      "hebrew": "פנאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need more time for leisure.",
+        "Reading is a popular leisure activity."
+      ],
+      "synonyms": [
+        "recreation",
+        "relaxation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9a681b0d-1ba8-43f0-a788-8ec2e34f3c87",
+      "english": "leisurely",
+      "translation": null,
+      "hebrew": "בנחת",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We took a leisurely stroll through the park.",
+        "He enjoyed a leisurely breakfast."
+      ],
+      "synonyms": [
+        "relaxed",
+        "unhurried"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b72a4bed-d04b-4c42-b8b6-63ef981a4308",
+      "english": "lucrative",
+      "translation": null,
+      "hebrew": "רווחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The business proved to be very lucrative.",
+        "He found a lucrative job in the city."
+      ],
+      "synonyms": [
+        "profitable",
+        "rewarding"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "9eed674b-2af8-4528-b3cb-fe076e0f378f",
+      "english": "luggage",
+      "translation": null,
+      "hebrew": "מטען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We packed our luggage for the trip.",
+        "The luggage was lost at the airport."
+      ],
+      "synonyms": [
+        "baggage"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "675b7889-061a-4536-b1b9-606024706070",
+      "english": "luminous",
+      "translation": null,
+      "hebrew": "זוהר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The moon was luminous in the night sky.",
+        "The painting had a luminous quality."
+      ],
+      "synonyms": [
+        "radiant",
+        "bright"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "07d08d5a-d9ce-4edd-bd01-3591dd7f20c8",
+      "english": "lurking",
+      "translation": null,
+      "hebrew": "אורב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Someone was lurking in the shadows.",
+        "Danger is always lurking."
+      ],
+      "synonyms": [
+        "prowling",
+        "hiding"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e0033605-4706-4028-a600-6973e5b60820",
+      "english": "magnitude",
+      "translation": null,
+      "hebrew": "גודל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The earthquake had a magnitude of 7.0.",
+        "We didn't realize the magnitude of the problem."
+      ],
+      "synonyms": [
+        "size",
+        "extent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "96351406-9ff6-4b2f-a9d0-6a2b351f2def",
+      "english": "malformation",
+      "translation": null,
+      "hebrew": "מום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The baby was born with a malformation.",
+        "Malformation can be caused by genetics."
+      ],
+      "synonyms": [
+        "deformity"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "eeeaf547-59cf-4ffb-abf5-45f5f641f2ec",
+      "english": "manner",
+      "translation": null,
+      "hebrew": "אופן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He spoke in a polite manner.",
+        "She has a strange manner of speaking."
+      ],
+      "synonyms": [
+        "way",
+        "style"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e7fc2c57-45e4-484e-9554-d194d420bc1c",
+      "english": "manners",
+      "translation": null,
+      "hebrew": "נימוסים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Good manners are important.",
+        "He has excellent manners."
+      ],
+      "synonyms": [
+        "etiquette",
+        "courtesy"
+      ],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "09fd721c-4a8a-4a6b-a88a-dfbb9c8be1a1",
+      "english": "marriage",
+      "translation": null,
+      "hebrew": "נישואין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They had a long and happy marriage.",
+        "Marriage is a big commitment."
+      ],
+      "synonyms": [
+        "wedding",
+        "matrimony"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "979a0a7e-f9c8-4a0e-b407-599937805852",
+      "english": "masculine",
+      "translation": null,
+      "hebrew": "גברי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a very masculine appearance.",
+        "The car has a masculine design."
+      ],
+      "synonyms": [
+        "manly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b63e9e5c-08d7-4c61-8a63-9eb5eef36df5",
+      "english": "merit",
+      "translation": null,
+      "hebrew": "ערך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The plan has some merit.",
+        "He was promoted on merit."
+      ],
+      "synonyms": [
+        "value",
+        "worth"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3ca3039b-6270-4f8f-aa34-3ada5c71f328",
+      "english": "metal",
+      "translation": null,
+      "hebrew": "מתכת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bridge is made of metal.",
+        "Gold is a precious metal."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "3560002a-f8a9-4f97-bede-23515e4d0ba2",
+      "english": "meticulous",
+      "translation": null,
+      "hebrew": "קפדני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a meticulous worker.",
+        "The plan was prepared with meticulous attention to detail."
+      ],
+      "synonyms": [
+        "thorough",
+        "precise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

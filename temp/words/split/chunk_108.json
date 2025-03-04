@@ -1,0 +1,568 @@
+{
+  "_meta": {
+    "chunk_number": 108,
+    "words_range": "repressive-saw, see",
+    "word_count": 30,
+    "start_index": 3210,
+    "end_index": 3239
+  },
+  "words": [
+    {
+      "word_id": "a04a4c18-22a1-4b04-a9df-95acf35681d1",
+      "english": "repressive",
+      "translation": null,
+      "hebrew": "מדכא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is very repressive.",
+        "The regime was accused of being repressive."
+      ],
+      "synonyms": [
+        "oppressive",
+        "restrictive"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "b33dd14e-4765-481a-b5db-963172bd5f35",
+      "english": "reproduce",
+      "translation": null,
+      "hebrew": "להתרבות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Animals reproduce to create offspring.",
+        "The plant reproduces by seeds."
+      ],
+      "synonyms": [
+        "breed",
+        "multiply"
+      ],
+      "topic_tags": [
+        "general",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "ed812c56-2b54-47bd-9741-e7b4b8e4435b",
+      "english": "reputation",
+      "translation": null,
+      "hebrew": "מוניטין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has a good reputation.",
+        "His reputation was damaged by the scandal."
+      ],
+      "synonyms": [
+        "name",
+        "image"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "1f4c0154-7355-48a0-aa2f-8aaf582e5e07",
+      "english": "resent",
+      "translation": null,
+      "hebrew": "להתמרמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She resented his success.",
+        "He resented being treated unfairly."
+      ],
+      "synonyms": [
+        "dislike",
+        "grudge"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "d103d28a-32cd-47dc-8116-a24be99700dd",
+      "english": "reservation",
+      "translation": null,
+      "hebrew": "הזמנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a reservation at the restaurant.",
+        "We need to make a reservation."
+      ],
+      "synonyms": [
+        "booking"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "c4324d68-d7d2-4e7e-93c1-7787bed3c854",
+      "english": "reservation",
+      "translation": null,
+      "hebrew": "הסתייגות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have some reservations about the plan.",
+        "She expressed her reservations."
+      ],
+      "synonyms": [
+        "doubt",
+        "hesitation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5a1b01a5-28c7-40d6-a4fe-79339032d25f",
+      "english": "reserve",
+      "translation": null,
+      "hebrew": "לשמור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I reserve the right to change my mind.",
+        "Please reserve a seat for me."
+      ],
+      "synonyms": [
+        "keep",
+        "hold"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3877ef07-33f2-4fdb-8a59-9d11bc4e71a9",
+      "english": "reserve",
+      "translation": null,
+      "hebrew": "עתודה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has large oil reserves.",
+        "We have a reserve of food in case of emergency."
+      ],
+      "synonyms": [
+        "stockpile"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "62ac0368-a9aa-4c92-b6fd-553523616c71",
+      "english": "reserve",
+      "translation": null,
+      "hebrew": "מילואים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is in the army reserve.",
+        "She is a reserve officer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "1b0cfd25-8d2a-445d-9fc0-c9d1e08bea62",
+      "english": "reservoir",
+      "translation": null,
+      "hebrew": "מאגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The reservoir provides water for the city.",
+        "The dam created a large reservoir."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "0e674d17-4fe0-47cf-a06e-718255d572fe",
+      "english": "resigned",
+      "translation": null,
+      "hebrew": "מתפטר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He resigned from his job.",
+        "She resigned herself to her fate."
+      ],
+      "synonyms": [
+        "quit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "14ce60a1-760a-4268-a51f-86c24536fdc1",
+      "english": "respect",
+      "translation": null,
+      "hebrew": "כבוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have great respect for her.",
+        "You should show respect to your elders."
+      ],
+      "synonyms": [
+        "esteem",
+        "admiration"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "da60b483-f70e-4528-8bc7-24b953a63fde",
+      "english": "respectfully",
+      "translation": null,
+      "hebrew": "בכבוד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He spoke respectfully to his boss.",
+        "She respectfully declined the offer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "60e602f0-567e-4987-b50c-7b084d0591d4",
+      "english": "respond",
+      "translation": null,
+      "hebrew": "להגיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "How did he respond to the news?",
+        "Please respond to my email."
+      ],
+      "synonyms": [
+        "reply",
+        "answer"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "79959959-1999-4941-8a99-9694a1995999",
+      "english": "response",
+      "translation": null,
+      "hebrew": "תגובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I am waiting for your response.",
+        "The response was positive."
+      ],
+      "synonyms": [
+        "reply",
+        "answer"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "99999999-9999-4941-8a99-9694a1995999",
+      "english": "responsible",
+      "translation": null,
+      "hebrew": "אחראי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is responsible for the project.",
+        "You are responsible for your actions."
+      ],
+      "synonyms": [
+        "accountable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "354594c6-0671-447e-b750-8d649f06e282",
+      "english": "retirement",
+      "translation": null,
+      "hebrew": "פרישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is planning his retirement.",
+        "She enjoyed her retirement."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "8fa30dda-0556-4fd6-90bb-eb7aad1630d5",
+      "english": "retreat",
+      "translation": null,
+      "hebrew": "לסגת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The army was forced to retreat.",
+        "We had to retreat from the enemy."
+      ],
+      "synonyms": [
+        "withdraw"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "1e2b4eec-e273-435c-9851-a865411ef357",
+      "english": "revise",
+      "translation": null,
+      "hebrew": "לתקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to revise my essay.",
+        "The plan needs to be revised."
+      ],
+      "synonyms": [
+        "edit",
+        "correct"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1f87b1b3-1623-4fca-b1a2-a2de747c453f",
+      "english": "revision",
+      "translation": null,
+      "hebrew": "תיקון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is a revised edition.",
+        "The plan is under revision."
+      ],
+      "synonyms": [
+        "edit",
+        "correction"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f0d13f7e-a06a-4aa1-9ec5-bbd806f5250d",
+      "english": "ridicule",
+      "translation": null,
+      "hebrew": "ללעוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They ridiculed him for his mistakes.",
+        "Don't ridicule her for her accent."
+      ],
+      "synonyms": [
+        "mock",
+        "scorn"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "b9a4f660-b117-415f-8498-5cf1d38791b0",
+      "english": "ridiculous",
+      "translation": null,
+      "hebrew": "מגוחך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That's a ridiculous idea.",
+        "He looks ridiculous in that hat."
+      ],
+      "synonyms": [
+        "absurd",
+        "silly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8dfd4121-cdf3-40b8-b75a-ac58b5d35468",
+      "english": "rim",
+      "translation": null,
+      "hebrew": "שפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rim of the glass is chipped.",
+        "The car has chrome rims."
+      ],
+      "synonyms": [
+        "edge",
+        "border"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a9fecc2e-c8c4-4614-9c8d-433ae5897ebf",
+      "english": "rope",
+      "translation": null,
+      "hebrew": "חבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The climbers used a rope.",
+        "Tie the boat with a rope."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "584fdb6b-10d3-4cd8-8806-18d34e6fb811",
+      "english": "rub",
+      "translation": null,
+      "hebrew": "לשפשף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Rub your hands together to warm them.",
+        "Rub the cream on your skin."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2a66fc9e-e371-469f-a049-347fd754477e",
+      "english": "rumor",
+      "translation": null,
+      "hebrew": "שמועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I heard a rumor that the company is closing.",
+        "Don't believe everything you hear, it's just a rumor."
+      ],
+      "synonyms": [
+        "gossip"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "9a875825-b4c2-490e-a413-9eabff7cef54",
+      "english": "salary",
+      "translation": null,
+      "hebrew": "משכורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your salary?",
+        "He earns a good salary."
+      ],
+      "synonyms": [
+        "wage",
+        "pay"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "3c71c605-7ca9-4a8d-ba6a-6e691250965e",
+      "english": "sanction",
+      "translation": null,
+      "hebrew": "סנקציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country imposed sanctions on its neighbor.",
+        "The sanctions hurt the economy."
+      ],
+      "synonyms": [
+        "penalty"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "703714d0-4588-425c-84ac-75262cc4bc88",
+      "english": "saw",
+      "translation": null,
+      "hebrew": "מסור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He used a saw to cut the wood.",
+        "The carpenter has a saw."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "tools"
+      ]
+    },
+    {
+      "word_id": "29c9bf8f-0d28-4fae-8927-fe1dafeddd98",
+      "english": "saw, see",
+      "translation": null,
+      "hebrew": "ראה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I saw him yesterday.",
+        "Did you see the movie?"
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

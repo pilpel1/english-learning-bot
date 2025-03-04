@@ -1,0 +1,586 @@
+{
+  "_meta": {
+    "chunk_number": 100,
+    "words_range": "disdain-esteemed",
+    "word_count": 30,
+    "start_index": 2970,
+    "end_index": 2999
+  },
+  "words": [
+    {
+      "word_id": "fe043b6e-302b-437a-882a-be2f57093186",
+      "english": "disdain",
+      "translation": null,
+      "hebrew": "בוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He looked at them with disdain.",
+        "She has a disdain for authority."
+      ],
+      "synonyms": [
+        "scorn",
+        "contempt"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "99fe68f0-cda9-47c6-8c13-60126da6b17a",
+      "english": "disgrace",
+      "translation": null,
+      "hebrew": "חרפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He brought disgrace to his family.",
+        "The scandal was a disgrace to the company."
+      ],
+      "synonyms": [
+        "shame",
+        "dishonor"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2e5150b2-9f91-49d5-8297-95e7563025ca",
+      "english": "disguise",
+      "translation": null,
+      "hebrew": "להתחפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He disguised himself as a woman.",
+        "She tried to disguise her feelings."
+      ],
+      "synonyms": [
+        "conceal",
+        "hide"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ad284dab-e9b2-4aae-9931-8c037968ea9a",
+      "english": "disloyal",
+      "translation": null,
+      "hebrew": "לא נאמן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was disloyal to his friends.",
+        "She is a disloyal employee."
+      ],
+      "synonyms": [
+        "unfaithful",
+        "treacherous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cb66aad8-2272-46d8-82e7-73f6846a3963",
+      "english": "disparagement",
+      "translation": null,
+      "hebrew": "זלזול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made disparaging remarks about her work.",
+        "She suffered disparagement from her colleagues."
+      ],
+      "synonyms": [
+        "belittlement",
+        "criticism"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8fe4ebad-fca2-4d07-9adc-cc701444bceb",
+      "english": "dispatch",
+      "translation": null,
+      "hebrew": "לשלוח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company dispatches goods all over the world.",
+        "The police dispatched officers to the scene."
+      ],
+      "synonyms": [
+        "send",
+        "transmit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9237fe5b-f8fa-4334-9dd6-ed7ef1355a60",
+      "english": "displacement",
+      "translation": null,
+      "hebrew": "עקירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The displacement of people after the war was a tragedy.",
+        "The displacement of the refugees caused a crisis."
+      ],
+      "synonyms": [
+        "relocation",
+        "eviction"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "cf8b0410-a624-4775-a881-256a28abd3b6",
+      "english": "disseminate",
+      "translation": null,
+      "hebrew": "להפיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The organization disseminates information about health.",
+        "The news was disseminated quickly."
+      ],
+      "synonyms": [
+        "spread",
+        "circulate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "31ed1cd7-05b4-4956-84ce-9a66503b5105",
+      "english": "docile",
+      "translation": null,
+      "hebrew": "צייתן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog is docile and friendly.",
+        "The students were docile and obedient."
+      ],
+      "synonyms": [
+        "obedient",
+        "compliant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3b6c05dc-461e-4bb1-8726-edff00a2cb95",
+      "english": "domestic",
+      "translation": null,
+      "hebrew": "ביתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Domestic flights are cheaper than international flights.",
+        "She enjoys domestic chores."
+      ],
+      "synonyms": [
+        "household",
+        "internal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6879914d-47b9-4667-a038-786aa6d9adbc",
+      "english": "donate",
+      "translation": null,
+      "hebrew": "לתרום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please donate to our charity.",
+        "He donated blood to the Red Cross."
+      ],
+      "synonyms": [
+        "give",
+        "contribute"
+      ],
+      "topic_tags": [
+        "general",
+        "charity"
+      ]
+    },
+    {
+      "word_id": "63ec4b9f-df88-427e-99c4-d60f0b15ec54",
+      "english": "donor",
+      "translation": null,
+      "hebrew": "תורם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a generous donor to the museum.",
+        "The donor wished to remain anonymous."
+      ],
+      "synonyms": [
+        "contributor",
+        "benefactor"
+      ],
+      "topic_tags": [
+        "general",
+        "charity"
+      ]
+    },
+    {
+      "word_id": "25c40c1b-aa6a-481c-82db-e1a08175c1f9",
+      "english": "draw",
+      "translation": null,
+      "hebrew": "לצייר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She can draw very well.",
+        "He drew a picture of his house."
+      ],
+      "synonyms": [
+        "sketch",
+        "paint"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "8a2c2754-15aa-41de-ab91-9483f4916720",
+      "english": "draw",
+      "translation": null,
+      "hebrew": "למשוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Draw the curtains.",
+        "He drew a gun from his pocket."
+      ],
+      "synonyms": [
+        "pull",
+        "attract"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "61c92920-ec70-4862-807f-ec9ed488d672",
+      "english": "draw (drew)",
+      "translation": null,
+      "hebrew": "לצייר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She drew a beautiful picture.",
+        "He can draw very well."
+      ],
+      "synonyms": [
+        "sketch",
+        "illustrate",
+        "depict"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "c1a21c27-0222-4f1f-afc9-194f7039cc7a",
+      "english": "drawback",
+      "translation": null,
+      "hebrew": "חיסרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The main drawback of the plan is its cost.",
+        "Every solution has its drawbacks."
+      ],
+      "synonyms": [
+        "disadvantage",
+        "downside",
+        "limitation"
+      ],
+      "topic_tags": [
+        "general",
+        "planning"
+      ]
+    },
+    {
+      "word_id": "d88b85b2-4a50-4bce-9192-daa652552781",
+      "english": "drift",
+      "translation": null,
+      "hebrew": "לסחוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The boat drifted out to sea.",
+        "He drifted off to sleep."
+      ],
+      "synonyms": [
+        "float",
+        "wander"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ba5ac365-916a-433d-9656-9b662be0e5e6",
+      "english": "eager",
+      "translation": null,
+      "hebrew": "להוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is eager to learn.",
+        "She is eager to please."
+      ],
+      "synonyms": [
+        "enthusiastic",
+        "keen"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1ee45f40-ccf0-4114-bf7d-7c76c689d1bf",
+      "english": "embryo",
+      "translation": null,
+      "hebrew": "עובר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The embryo develops in the womb.",
+        "The scientist studied the embryo."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "3025a9f6-efa8-4ddd-99d9-dfe6710b32d4",
+      "english": "engage",
+      "translation": null,
+      "hebrew": "לעסוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is engaged in research.",
+        "She engaged him in conversation."
+      ],
+      "synonyms": [
+        "involve",
+        "participate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "50513cef-1b67-40eb-a80c-dd7aa4d9668d",
+      "english": "engagement",
+      "translation": null,
+      "hebrew": "אירוסין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They announced their engagement.",
+        "The engagement party was a success."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "e1b6882b-eebc-48c7-81d4-dd53b6d46770",
+      "english": "engagement",
+      "translation": null,
+      "hebrew": "התחייבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has an engagement to deliver the goods.",
+        "He has a prior engagement."
+      ],
+      "synonyms": [
+        "commitment",
+        "obligation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "17e00aef-d065-47be-818c-360067aa2655",
+      "english": "enlist",
+      "translation": null,
+      "hebrew": "להתגייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He enlisted in the army.",
+        "She enlisted the help of her friends."
+      ],
+      "synonyms": [
+        "join",
+        "recruit"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "31217488-eabf-46dc-a54b-f4f987bd3a9b",
+      "english": "enrage",
+      "translation": null,
+      "hebrew": "להרגיז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "His behavior enraged her.",
+        "The decision enraged the public."
+      ],
+      "synonyms": [
+        "anger",
+        "infuriate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "76ba6338-bd17-48d3-88a5-48d9fe62e6ae",
+      "english": "entertain",
+      "translation": null,
+      "hebrew": "לבדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He entertained the guests with his stories.",
+        "The movie entertained the audience."
+      ],
+      "synonyms": [
+        "amuse",
+        "delight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d2f58984-728a-409a-9776-5186ca35e6a5",
+      "english": "entertainment",
+      "translation": null,
+      "hebrew": "בידור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The city offers a wide range of entertainment.",
+        "The entertainment was excellent."
+      ],
+      "synonyms": [
+        "amusement",
+        "recreation"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "53c432cd-22de-4feb-912d-ab92c8802b7c",
+      "english": "entitled",
+      "translation": null,
+      "hebrew": "זכאי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is entitled to a pension.",
+        "She is entitled to a refund."
+      ],
+      "synonyms": [
+        "qualified",
+        "authorized"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2929f181-8253-418e-bc6b-f308f1efbef3",
+      "english": "entrance",
+      "translation": null,
+      "hebrew": "כניסה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The entrance to the building is on the left.",
+        "She made a grand entrance."
+      ],
+      "synonyms": [
+        "entry",
+        "access"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9b577f3b-6bed-4310-9d0b-c5c452dd0ed8",
+      "english": "envision",
+      "translation": null,
+      "hebrew": "לדמיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I envision a world without war.",
+        "He can envision the future."
+      ],
+      "synonyms": [
+        "imagine",
+        "visualize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d79a9180-8846-4246-8e3e-125bbad32158",
+      "english": "esteemed",
+      "translation": null,
+      "hebrew": "מוערך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an esteemed colleague.",
+        "She is an esteemed writer."
+      ],
+      "synonyms": [
+        "respected",
+        "admired"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

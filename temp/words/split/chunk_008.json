@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 8,
+    "words_range": "ordinarily-since",
+    "word_count": 30,
+    "start_index": 210,
+    "end_index": 239
+  },
+  "words": [
+    {
+      "word_id": "2084d5f9-a896-42fd-8a4e-ed0fa9198b6c",
+      "english": "ordinarily",
+      "translation": "בדרך כלל",
+      "hebrew": "בדרך כלל",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Ordinarily, she wakes up at 7 AM.",
+        "He is ordinarily very punctual."
+      ],
+      "synonyms": ["usually", "generally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c33b34a9-98dd-4abf-aab7-b387df766129",
+      "english": "otherwise",
+      "translation": "אחרת",
+      "hebrew": "אחרת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must study hard; otherwise, you will fail.",
+        "He is very busy, otherwise, he would have joined us."
+      ],
+      "synonyms": ["or else", "if not"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "433e509e-e4ff-4a30-b270-e283f2121499",
+      "english": "outside",
+      "translation": "בחוץ",
+      "hebrew": "בחוץ",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The children are playing outside.",
+        "It's cold outside."
+      ],
+      "synonyms": ["outdoors", "exterior"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88cfce27-c47d-416d-bdb4-06c9aa45c327",
+      "english": "outside",
+      "translation": "מחוץ ל",
+      "hebrew": "מחוץ ל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The car is parked outside the house.",
+        "He stood outside the door."
+      ],
+      "synonyms": ["beyond", "external to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c1b70739-65f1-41dc-abea-812dca2b89ff",
+      "english": "over",
+      "translation": "מעל",
+      "hebrew": "מעל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The plane flew over the city.",
+        "He put a blanket over the baby."
+      ],
+      "synonyms": ["above", "across"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bc951e79-c479-4324-8224-e37acc79ecfa",
+      "english": "overall",
+      "translation": "בכללי",
+      "hebrew": "בכללי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Overall, the project was a success.",
+        "The overall cost is too high."
+      ],
+      "synonyms": ["generally", "in total"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d3ed29d0-9594-4882-ada1-75330482274a",
+      "english": "owing to",
+      "translation": "בגלל",
+      "hebrew": "בגלל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The event was canceled owing to the rain.",
+        "Owing to his hard work, he was promoted."
+      ],
+      "synonyms": ["because of", "due to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8e1c0e3f-cf5f-4296-9a7f-ec751bd7a873",
+      "english": "particularly",
+      "translation": "במיוחד",
+      "hebrew": "במיוחד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is particularly good at math.",
+        "I love all fruits, particularly apples."
+      ],
+      "synonyms": ["especially", "notably"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c9070f9a-8b49-48c1-9090-7dfec7d482f8",
+      "english": "past",
+      "translation": "עבר",
+      "hebrew": "עבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We cannot change the past.",
+        "He learned from his past mistakes."
+      ],
+      "synonyms": ["history", "former times"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8b21618b-0b8e-4bfb-a386-e9ee3375d619",
+      "english": "permanently",
+      "translation": "לצמיתות",
+      "hebrew": "לצמיתות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The files were deleted permanently.",
+        "He moved to the city permanently."
+      ],
+      "synonyms": ["forever", "eternally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d01cc018-d2e2-4f61-9eb4-892eef303f07",
+      "english": "perpetually",
+      "translation": "תמיד",
+      "hebrew": "תמיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is perpetually late.",
+        "The machine is perpetually in motion."
+      ],
+      "synonyms": ["constantly", "endlessly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "795cf7e0-9f15-49aa-b4a8-af0727ee084b",
+      "english": "presently",
+      "translation": "כעת",
+      "hebrew": "כעת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is presently working on a new project.",
+        "The manager is presently unavailable."
+      ],
+      "synonyms": ["currently", "now"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "248b1ca0-489d-4acd-b4d5-ca6170a6e77b",
+      "english": "previously",
+      "translation": "קודם לכן",
+      "hebrew": "קודם לכן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I had previously visited the museum.",
+        "She was previously employed at a bank."
+      ],
+      "synonyms": ["before", "earlier"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39ca501f-086c-46ae-b80b-a3db2d853d42",
+      "english": "primarily",
+      "translation": "בעיקר",
+      "hebrew": "בעיקר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is primarily about history.",
+        "He is known primarily for his paintings."
+      ],
+      "synonyms": ["mainly", "chiefly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b6f98399-8f3f-4e26-a148-f1fb4bd0961b",
+      "english": "prior to",
+      "translation": "לפני",
+      "hebrew": "לפני",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He called me prior to the meeting.",
+        "Prior to joining the company, she worked in marketing."
+      ],
+      "synonyms": ["before", "preceding"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cc775ab5-b8c9-4844-b8b8-b3f64418b370",
+      "english": "provided that",
+      "translation": "בתנאי ש",
+      "hebrew": "בתנאי ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "You can go out, provided that you finish your homework.",
+        "The offer is valid, provided that you apply by the end of the month."
+      ],
+      "synonyms": ["as long as", "if"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dd1b537b-ca6d-48ef-ba7e-d6762f10b88a",
+      "english": "rarely",
+      "translation": "לעיתים רחוקות",
+      "hebrew": "לעיתים רחוקות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He rarely goes to the gym.",
+        "I rarely eat fast food."
+      ],
+      "synonyms": ["seldom", "infrequently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9f5c1869-7ce1-4c53-b6d4-63655b360ffe",
+      "english": "rather",
+      "translation": "למעשה",
+      "hebrew": "למעשה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I would rather stay home tonight.",
+        "He is rather tall for his age."
+      ],
+      "synonyms": ["quite", "somewhat"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "af08381d-8218-4a01-a23f-70f3f1c1c5df",
+      "english": "rather than",
+      "translation": "במקום",
+      "hebrew": "במקום",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I prefer tea rather than coffee.",
+        "He chose to walk rather than drive."
+      ],
+      "synonyms": ["instead of", "as opposed to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "86a40f6d-3da2-4f3e-a41c-3fddb09478a8",
+      "english": "regardless",
+      "translation": "ללא קשר",
+      "hebrew": "ללא קשר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will proceed regardless of the weather.",
+        "She continued to work, regardless of the difficulties."
+      ],
+      "synonyms": ["irrespective", "despite"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "791cb9f0-e4f8-4aa7-b0d3-a8fc36ff43b5",
+      "english": "regularly",
+      "translation": "באופן קבוע",
+      "hebrew": "באופן קבוע",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She exercises regularly.",
+        "I visit my grandparents regularly."
+      ],
+      "synonyms": ["frequently", "consistently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3f61b907-9e4a-4489-a385-c992a24a2225",
+      "english": "right",
+      "translation": "ימין",
+      "hebrew": "ימין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Turn right at the next intersection.",
+        "The book is on the right side of the shelf."
+      ],
+      "synonyms": ["correct", "accurate"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "aa7659ab-7122-4409-a462-81b6ce84edf2",
+      "english": "seldom",
+      "translation": "לעיתים רחוקות",
+      "hebrew": "לעיתים רחוקות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He seldom visits his relatives.",
+        "I seldom watch TV."
+      ],
+      "synonyms": ["rarely", "infrequently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8c1fdf29-44b8-4cf0-8e3f-c4fc4ae67d5f",
+      "english": "shortly",
+      "translation": "בקרוב",
+      "hebrew": "בקרוב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting will start shortly.",
+        "She will arrive shortly."
+      ],
+      "synonyms": ["soon", "in a moment"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "28c34375-a8dd-4e2c-b2c2-2e7943ef0b11",
+      "english": "sideways",
+      "translation": "לצדדים",
+      "hebrew": "לצדדים",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He glanced sideways at her.",
+        "The car skidded sideways."
+      ],
+      "synonyms": ["laterally", "obliquely"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ee1f2cc-3d8e-450f-bb37-bcdaf87bde43",
+      "english": "significantly",
+      "translation": "באופן משמעותי",
+      "hebrew": "באופן משמעותי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The results have improved significantly.",
+        "She was significantly taller than her peers."
+      ],
+      "synonyms": ["considerably", "substantially"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "68f21692-b7b6-4c60-8f89-f72bfc88a456",
+      "english": "similarly",
+      "translation": "באופן דומה",
+      "hebrew": "באופן דומה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two problems are similarly difficult.",
+        "She was similarly dressed as her sister."
+      ],
+      "synonyms": ["likewise", "in the same way"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9ff4a139-d3a0-45bd-bd1b-0aea612fa42d",
+      "english": "simultaneously",
+      "translation": "בו זמנית",
+      "hebrew": "בו זמנית",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two events occurred simultaneously.",
+        "She can listen and type simultaneously."
+      ],
+      "synonyms": ["at the same time", "concurrently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0e98dc66-a985-4f72-a8ef-3492215516dd",
+      "english": "since",
+      "translation": "מאז",
+      "hebrew": "מאז",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "I have lived here since 2010.",
+        "Since the accident, he has been more cautious."
+      ],
+      "synonyms": ["from", "after"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bbd5109e-f779-484b-9402-a6a5a744263a",
+      "english": "since",
+      "translation": "מאז ש",
+      "hebrew": "מאז ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Since you left, things have changed.",
+        "I haven't seen her since she moved."
+      ],
+      "synonyms": ["because", "as"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

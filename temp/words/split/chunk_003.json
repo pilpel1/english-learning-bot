@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 3,
+    "words_range": "beneath-distant",
+    "word_count": 30,
+    "start_index": 60,
+    "end_index": 89
+  },
+  "words": [
+    {
+      "word_id": "03b6cbca-24c0-4e9e-9cab-b4e36a1dba4a",
+      "english": "beneath",
+      "translation": "מתחת",
+      "hebrew": "מתחת",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is hiding beneath the table.",
+        "He felt the ground beneath his feet."
+      ],
+      "synonyms": ["under", "below"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "49cafd62-e2c0-4c13-9264-06e228165295",
+      "english": "beside",
+      "translation": "ליד",
+      "hebrew": "ליד",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She sat beside him during the movie.",
+        "The lamp is beside the bed."
+      ],
+      "synonyms": ["next to", "by"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d13eb614-1453-4984-9bc5-97957f250c7c",
+      "english": "besides",
+      "translation": "חוץ מ",
+      "hebrew": "חוץ מ",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Besides the weather, everything was perfect.",
+        "There is no one here besides us."
+      ],
+      "synonyms": ["apart from", "other than"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d655e4b-c1b5-4b8a-8a34-97079fa464e1",
+      "english": "besides",
+      "translation": "בנוסף",
+      "hebrew": "בנוסף",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I don't want to go, and besides, it's too late.",
+        "Besides, we have other plans."
+      ],
+      "synonyms": ["furthermore", "moreover"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "28d9291a-f997-462e-adb0-b509c1249fe6",
+      "english": "besides",
+      "translation": "חוץ מזה",
+      "hebrew": "חוץ מזה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't come, besides, I'm not interested.",
+        "Besides, it's not my responsibility."
+      ],
+      "synonyms": ["in addition", "also"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d0f62688-f46f-4744-801e-a2ee85b5a4e5",
+      "english": "between",
+      "translation": "בין",
+      "hebrew": "בין",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The ball rolled between the chairs.",
+        "She stood between her friends."
+      ],
+      "synonyms": ["among", "amid"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "03a74295-12d0-46c1-95ac-b0a38d5866c5",
+      "english": "beyond",
+      "translation": "מעבר ל",
+      "hebrew": "מעבר ל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The road continues beyond the hill.",
+        "This is beyond my understanding."
+      ],
+      "synonyms": ["past", "outside"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4f519673-839b-4c26-be29-0d9f923e352e",
+      "english": "both",
+      "translation": "שניהם",
+      "hebrew": "שניהם",
+      "part_of_speech": "determiner",
+      "difficulty_level": 1,
+      "examples": [
+        "Both options are good.",
+        "She likes both cats and dogs."
+      ],
+      "synonyms": ["the two", "each"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7e1084c3-04e0-4827-83b6-1d3cb9a7cf65",
+      "english": "both... and…",
+      "translation": "גם... וגם...",
+      "hebrew": "גם... וגם...",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She is both smart and kind.",
+        "He enjoys both reading and writing."
+      ],
+      "synonyms": ["as well as", "not only... but also"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0792285d-31df-4d63-b659-2c21c8b747a9",
+      "english": "but",
+      "translation": "אבל",
+      "hebrew": "אבל",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to go, but I'm too tired.",
+        "She is nice, but very strict."
+      ],
+      "synonyms": ["however", "yet"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dce75a84-2d08-46cf-b272-9d88c19ca947",
+      "english": "but",
+      "translation": "אלא",
+      "hebrew": "אלא",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Not this one, but that one.",
+        "He is not a teacher, but a student."
+      ],
+      "synonyms": ["rather", "instead"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "298dcbcd-6559-4f40-bc1a-3474576ebdfd",
+      "english": "by",
+      "translation": "על ידי",
+      "hebrew": "על ידי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The book was written by her.",
+        "He stood by the window."
+      ],
+      "synonyms": ["via", "through"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c00a97c-fa70-48ce-ad97-91d16373f670",
+      "english": "by",
+      "translation": "ליד",
+      "hebrew": "ליד",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She sat by the fire.",
+        "The house is by the river."
+      ],
+      "synonyms": ["next to", "beside"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4a52b3de-327c-4d39-b172-6d4cce8eee0d",
+      "english": "certainly",
+      "translation": "בהחלט",
+      "hebrew": "בהחלט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will certainly help you.",
+        "She is certainly talented."
+      ],
+      "synonyms": ["definitely", "surely"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "890c62d6-ed48-4390-9f6d-1178d8a637da",
+      "english": "chiefly",
+      "translation": "בעיקר",
+      "hebrew": "בעיקר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is chiefly about history.",
+        "He is known chiefly for his paintings."
+      ],
+      "synonyms": ["mainly", "primarily"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "643a58ef-ec96-4814-bc17-1034059a4080",
+      "english": "close",
+      "translation": "קרוב",
+      "hebrew": "קרוב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The store is close to my house.",
+        "They are very close friends."
+      ],
+      "synonyms": ["near", "adjacent"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c367f1d9-09df-469b-b004-ccfc2ebf5cad",
+      "english": "comparatively",
+      "translation": "באופן יחסי",
+      "hebrew": "באופן יחסי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The test was comparatively easy.",
+        "She is comparatively young."
+      ],
+      "synonyms": ["relatively", "proportionally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c781effa-0b3b-4a07-aa68-71b973e69c05",
+      "english": "consequently",
+      "translation": "כתוצאה מכך",
+      "hebrew": "כתוצאה מכך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He didn't study, consequently, he failed the exam.",
+        "The weather was bad, consequently, the event was canceled."
+      ],
+      "synonyms": ["therefore", "as a result"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c7575973-fe0b-4937-9fe2-d7bb47ab8761",
+      "english": "consistently",
+      "translation": "בעקביות",
+      "hebrew": "בעקביות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She performs consistently well.",
+        "He has been consistently late."
+      ],
+      "synonyms": ["regularly", "steadily"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "baf515e2-feaf-46c8-abd0-7911b579c1ba",
+      "english": "constantly",
+      "translation": "תמיד",
+      "hebrew": "תמיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is constantly busy.",
+        "The phone is constantly ringing."
+      ],
+      "synonyms": ["continuously", "perpetually"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "171d79e3-1350-47b5-810f-f1fb8eaf6970",
+      "english": "contradictory",
+      "translation": "סותר",
+      "hebrew": "סותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His statements are contradictory.",
+        "The evidence is contradictory."
+      ],
+      "synonyms": ["inconsistent", "opposing"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2516509e-92a4-4242-b52c-96798628a742",
+      "english": "contrary",
+      "translation": "בניגוד",
+      "hebrew": "בניגוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Contrary to popular belief, it is not true.",
+        "His actions were contrary to his words."
+      ],
+      "synonyms": ["opposite", "conflicting"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ef1b6874-8259-48e2-8dd2-28193fc163b4",
+      "english": "conversely",
+      "translation": "לעומת זאת",
+      "hebrew": "לעומת זאת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is rich, conversely, his brother is poor.",
+        "Conversely, if you don't study, you won't pass."
+      ],
+      "synonyms": ["on the other hand", "in contrast"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1b917eb4-a80e-4fa3-95d3-f741a4d2738a",
+      "english": "correspondingly",
+      "translation": "בהתאם",
+      "hebrew": "בהתאם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The prices increased, correspondingly, the demand decreased.",
+        "She worked harder, and correspondingly, her results improved."
+      ],
+      "synonyms": ["accordingly", "similarly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e5776b34-1dd5-404f-b106-a7f26cfe5d1f",
+      "english": "coupled with",
+      "translation": "בשילוב עם",
+      "hebrew": "בשילוב עם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Her intelligence, coupled with her hard work, led to her success.",
+        "The new policy, coupled with the economic downturn, affected many businesses."
+      ],
+      "synonyms": ["together with", "combined with"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a72b309b-cabd-410f-bf3e-9eb8b21877d1",
+      "english": "currently",
+      "translation": "כרגע",
+      "hebrew": "כרגע",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is currently working on a new project.",
+        "The store is currently closed."
+      ],
+      "synonyms": ["at present", "now"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "05ea9064-2c4c-48d8-b9d0-0800495e405b",
+      "english": "daily",
+      "translation": "יומי",
+      "hebrew": "יומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She reads the newspaper daily.",
+        "He goes for a walk daily."
+      ],
+      "synonyms": ["every day", "day-to-day"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "49aeab87-f929-4933-8549-13efb0e55ed4",
+      "english": "despite",
+      "translation": "למרות",
+      "hebrew": "למרות",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Despite the rain, we went for a walk.",
+        "He succeeded despite the difficulties."
+      ],
+      "synonyms": ["in spite of", "notwithstanding"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cc50aae9-5717-4c24-ae32-db9be063814c",
+      "english": "different from",
+      "translation": "שונה מ",
+      "hebrew": "שונה מ",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "This book is different from the others.",
+        "Her style is different from his."
+      ],
+      "synonyms": ["unlike", "distinct from"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1adfa1d2-7b7c-46a2-a698-ddea40e5c43a",
+      "english": "distant",
+      "translation": "מרוחק",
+      "hebrew": "מרוחק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The distant mountains were covered in snow.",
+        "He seemed distant and uninterested."
+      ],
+      "synonyms": ["far", "remote"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

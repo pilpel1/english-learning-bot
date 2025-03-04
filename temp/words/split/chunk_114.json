@@ -1,0 +1,507 @@
+{
+  "_meta": {
+    "chunk_number": 114,
+    "words_range": "diet-elderly",
+    "word_count": 30,
+    "start_index": 3390,
+    "end_index": 3419
+  },
+  "words": [
+    {
+      "word_id": "8c143d5b-7073-472d-82c2-40186c0ebf87",
+      "english": "diet",
+      "translation": null,
+      "hebrew": "דיאטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm on a diet to lose weight.",
+        "A healthy diet is important for good health."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health",
+        "food"
+      ]
+    },
+    {
+      "word_id": "949f0d72-5f03-436b-91c7-e8c45cc4e484",
+      "english": "dim",
+      "translation": null,
+      "hebrew": "עמום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The light in the room was dim.",
+        "He has a dim view of the future."
+      ],
+      "synonyms": [
+        "faint",
+        "weak"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "66efbb12-14ef-453c-a608-323b81cf7fd6",
+      "english": "disarmament",
+      "translation": null,
+      "hebrew": "פירוק נשק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The countries agreed to disarmament talks.",
+        "Nuclear disarmament is a major goal."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics",
+        "war"
+      ]
+    },
+    {
+      "word_id": "d9457d68-a7ad-4136-b2b7-1e52766fa019",
+      "english": "discord",
+      "translation": null,
+      "hebrew": "מחלוקת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was discord among the committee members.",
+        "The strike caused discord in the company."
+      ],
+      "synonyms": [
+        "strife",
+        "conflict"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "358e3530-7ba7-48b4-bd4b-f0a5ecaffd06",
+      "english": "disgust",
+      "translation": null,
+      "hebrew": "גועל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I felt disgust at the sight of the garbage.",
+        "He expressed his disgust with the decision."
+      ],
+      "synonyms": [
+        "repulsion",
+        "aversion"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "b2d07c8b-98d2-4baa-a9f7-50c24e0a9385",
+      "english": "dissect",
+      "translation": null,
+      "hebrew": "לנתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The students dissected a frog in biology class.",
+        "The critic dissected the movie in his review."
+      ],
+      "synonyms": [
+        "analyze"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "93398e72-e8ef-4515-a56e-1c55e1027749",
+      "english": "dissection",
+      "translation": null,
+      "hebrew": "ניתוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The dissection of the body revealed the cause of death.",
+        "The book provides a detailed dissection of the issue."
+      ],
+      "synonyms": [
+        "analysis"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "2c193a26-ab84-45f2-98db-48d53e3cb74f",
+      "english": "disuse",
+      "translation": null,
+      "hebrew": "אי שימוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The old factory fell into disuse.",
+        "The path has fallen into disuse."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e89e8f4e-8925-426f-8d5c-40988ad152b0",
+      "english": "dose",
+      "translation": null,
+      "hebrew": "מינון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor prescribed a dose of medicine.",
+        "What is the correct dose for children?"
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "f733d7d1-5adf-4b03-8c2b-d168a7d9f269",
+      "english": "double standard",
+      "translation": null,
+      "hebrew": "סטנדרט כפול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a double standard for men and women.",
+        "The company has a double standard for its employees."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "87f7cd56-12ea-4a3c-b47a-07edbb863ac5",
+      "english": "draft",
+      "translation": null,
+      "hebrew": "טיוטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I wrote a draft of the letter.",
+        "This is just a draft; it's not final."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "writing"
+      ]
+    },
+    {
+      "word_id": "83698759-5cea-4b2d-be89-1e56079c232c",
+      "english": "draft",
+      "translation": null,
+      "hebrew": "גיוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was drafted into the army.",
+        "The draft is mandatory in some countries."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "war"
+      ]
+    },
+    {
+      "word_id": "c70416f1-a1bb-42a9-9121-a9b95cb6f9ee",
+      "english": "draft",
+      "translation": null,
+      "hebrew": "לגייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They drafted him to play on the team.",
+        "The company drafted a new marketing strategy."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8ef433e6-51a9-49a6-9169-3c795a12d71a",
+      "english": "draft",
+      "translation": null,
+      "hebrew": "מְשִׁיכָה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I felt a draft from the window.",
+        "Close the door, there's a draft."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c5496575-31c9-48ee-a661-8c28d2006d3d",
+      "english": "drench",
+      "translation": null,
+      "hebrew": "להרטיב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The rain drenched us to the bone.",
+        "The sweat drenched his shirt."
+      ],
+      "synonyms": [
+        "soak",
+        "saturate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fdc34be9-6ee8-41e4-92a4-56948594ef5f",
+      "english": "drip",
+      "translation": null,
+      "hebrew": "לטפטף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The faucet is dripping.",
+        "Water dripped from the ceiling."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "acbb51a1-fe7e-421f-9c7d-e6edd4eb74e0",
+      "english": "dull",
+      "translation": null,
+      "hebrew": "משעמם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie was very dull.",
+        "Life in the small town was dull."
+      ],
+      "synonyms": [
+        "boring"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "48a1b488-6504-4e36-b182-1d0ee14c7620",
+      "english": "dull",
+      "translation": null,
+      "hebrew": "עמום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The color was dull.",
+        "The knife is dull."
+      ],
+      "synonyms": [
+        "muted"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d65dbd11-d94c-4251-9341-85c12e05fcb5",
+      "english": "dull",
+      "translation": null,
+      "hebrew": "קהה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The knife is dull.",
+        "His mind was dull after the illness."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7340fa80-34e6-40de-a884-5f5c1cbeae57",
+      "english": "dump",
+      "translation": null,
+      "hebrew": "לזרוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He dumped the garbage in the trash.",
+        "She dumped her boyfriend."
+      ],
+      "synonyms": [
+        "discard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "988dfbe4-5160-49cd-aec0-fef10a085276",
+      "english": "dwell",
+      "translation": null,
+      "hebrew": "לגור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They dwell in a small village.",
+        "Don't dwell on the past."
+      ],
+      "synonyms": [
+        "reside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "90e523b1-15aa-43f4-a406-29cfedf2a045",
+      "english": "dwelling",
+      "translation": null,
+      "hebrew": "מגורים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Their dwelling is a small house.",
+        "The birds built a dwelling in the tree."
+      ],
+      "synonyms": [
+        "residence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0629eb9d-d3ea-4969-be3b-f68348dc3a20",
+      "english": "dye",
+      "translation": null,
+      "hebrew": "לצבוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She dyed her hair blonde.",
+        "The fabric was dyed blue."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "550f1588-3b33-42bf-b011-a39e301db772",
+      "english": "East",
+      "translation": null,
+      "hebrew": "מזרח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun rises in the East.",
+        "They live in the East of the city."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "geography"
+      ]
+    },
+    {
+      "word_id": "c28f0db5-ef11-434a-8751-d2c3a0c2ad67",
+      "english": "eccentric",
+      "translation": null,
+      "hebrew": "אקסצנטרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an eccentric character.",
+        "She has an eccentric style."
+      ],
+      "synonyms": [
+        "odd",
+        "unconventional"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f2919a25-0364-4f3c-a9d3-cfb6c925a121",
+      "english": "ecological",
+      "translation": null,
+      "hebrew": "אקולוגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to take ecological factors into account.",
+        "The project has ecological benefits."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "a6b22408-4090-4924-8af4-6778a920f4b2",
+      "english": "elastic",
+      "translation": null,
+      "hebrew": "אלסטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The material is elastic.",
+        "The company needs to be more elastic in its approach."
+      ],
+      "synonyms": [
+        "flexible"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e074c1a1-a9b6-4827-bda9-479913932938",
+      "english": "elderly",
+      "translation": null,
+      "hebrew": "קשיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The elderly need special care.",
+        "There is an elderly care home in the town."
+      ],
+      "synonyms": [
+        "aged",
+        "old"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    }
+  ]
+}

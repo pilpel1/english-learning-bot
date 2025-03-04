@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 25,
+    "words_range": "viewer-advancement",
+    "word_count": 30,
+    "start_index": 720,
+    "end_index": 749
+  },
+  "words": [
+    {
+      "word_id": "35108bf4-35cc-4f0d-9920-482d61cc8583",
+      "english": "viewer",
+      "translation": "צופה",
+      "hebrew": "צופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The viewer enjoyed the movie.",
+        "She is a regular viewer of the show."
+      ],
+      "synonyms": ["spectator", "observer", "watcher"],
+      "topic_tags": ["general", "media", "observation"]
+    },
+    {
+      "word_id": "de98ff25-b5ad-4045-add1-5139c9e59cfb",
+      "english": "visit",
+      "translation": "לבקר",
+      "hebrew": "לבקר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We plan to visit the museum tomorrow.",
+        "She visits her grandparents every weekend."
+      ],
+      "synonyms": ["call on", "drop by", "stop by"],
+      "topic_tags": ["general", "travel", "social"]
+    },
+    {
+      "word_id": "1f46598f-f561-4e8a-be0c-97f8ffa83e0a",
+      "english": "visitor",
+      "translation": "מבקר",
+      "hebrew": "מבקר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The visitor was impressed by the exhibition.",
+        "They had many visitors during the holidays."
+      ],
+      "synonyms": ["guest", "caller", "sightseer"],
+      "topic_tags": ["general", "social", "travel"]
+    },
+    {
+      "word_id": "53735cf7-8656-470e-a245-b26f88f927ce",
+      "english": "voice",
+      "translation": "קול",
+      "hebrew": "קול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her voice is very soothing.",
+        "He raised his voice to be heard over the noise."
+      ],
+      "synonyms": ["sound", "tone", "speech"],
+      "topic_tags": ["general", "communication", "sound"]
+    },
+    {
+      "word_id": "a7dac25b-3078-4b2c-8d2d-3adfb377e4ce",
+      "english": "wait",
+      "translation": "לחכות",
+      "hebrew": "לחכות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please wait for me at the entrance.",
+        "They waited patiently for the bus."
+      ],
+      "synonyms": ["delay", "pause", "linger"],
+      "topic_tags": ["general", "time", "action"]
+    },
+    {
+      "word_id": "c15fdd6f-1416-4918-868c-a5f4ea6e6723",
+      "english": "way",
+      "translation": "דרך",
+      "hebrew": "דרך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is the best way to solve the problem.",
+        "He found a new way to commute to work."
+      ],
+      "synonyms": ["method", "path", "route"],
+      "topic_tags": ["general", "direction", "method"]
+    },
+    {
+      "word_id": "e45e1cfe-046e-45d6-9553-261c6d7dbb4d",
+      "english": "weather",
+      "translation": "מזג אוויר",
+      "hebrew": "מזג אוויר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is sunny today.",
+        "They canceled the picnic due to bad weather."
+      ],
+      "synonyms": ["climate", "atmosphere", "conditions"],
+      "topic_tags": ["general", "nature", "climate"]
+    },
+    {
+      "word_id": "3dfff9fd-3915-476a-9f13-9dfc078c50f4",
+      "english": "abrupt",
+      "translation": "פתאומי",
+      "hebrew": "פתאומי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting came to an abrupt end.",
+        "His abrupt departure surprised everyone."
+      ],
+      "synonyms": ["sudden", "unexpected", "sharp"],
+      "topic_tags": ["general", "time", "change"]
+    },
+    {
+      "word_id": "ffa764f2-e574-414d-947f-982b4bf34c93",
+      "english": "absolute",
+      "translation": "מוחלט",
+      "hebrew": "מוחלט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has absolute trust in his team.",
+        "The rules are absolute and must be followed."
+      ],
+      "synonyms": ["complete", "total", "unconditional"],
+      "topic_tags": ["general", "degree", "certainty"]
+    },
+    {
+      "word_id": "751a2318-eddf-4f45-800e-54f9ca3cc937",
+      "english": "accessible",
+      "translation": "נגיש",
+      "hebrew": "נגיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is accessible to people with disabilities.",
+        "The information is easily accessible online."
+      ],
+      "synonyms": ["reachable", "available", "approachable"],
+      "topic_tags": ["general", "access", "availability"]
+    },
+    {
+      "word_id": "14b6af8a-27ec-401a-a73d-0c7554c72966",
+      "english": "accomplish",
+      "translation": "להשיג",
+      "hebrew": "להשיג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She accomplished her goals for the year.",
+        "He accomplished the task in record time."
+      ],
+      "synonyms": ["achieve", "complete", "fulfill"],
+      "topic_tags": ["general", "success", "achievement"]
+    },
+    {
+      "word_id": "ab6872fa-6d4e-44e5-bdc0-6e8fc593165b",
+      "english": "accomplished",
+      "translation": "מוצלח",
+      "hebrew": "מוצלח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is an accomplished musician.",
+        "He felt accomplished after finishing the project."
+      ],
+      "synonyms": ["skilled", "proficient", "expert"],
+      "topic_tags": ["general", "success", "skill"]
+    },
+    {
+      "word_id": "b7c142ea-bd40-4802-a84a-f2fcc47a0694",
+      "english": "accomplishment",
+      "translation": "הישג",
+      "hebrew": "הישג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Graduating from college was a major accomplishment.",
+        "He was proud of his accomplishments."
+      ],
+      "synonyms": ["achievement", "success", "feat"],
+      "topic_tags": ["general", "success", "achievement"]
+    },
+    {
+      "word_id": "8d1219f5-4044-45e3-b0b1-bb46d36b67da",
+      "english": "account",
+      "translation": "חשבון",
+      "hebrew": "חשבון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She opened a new bank account.",
+        "He gave a detailed account of the event."
+      ],
+      "synonyms": ["record", "report", "statement"],
+      "topic_tags": ["general", "finance", "record"]
+    },
+    {
+      "word_id": "c72e5437-c5a0-43e7-8f34-bb516e86690c",
+      "english": "account",
+      "translation": "לחשב",
+      "hebrew": "לחשב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He needs to account for all the expenses.",
+        "She accounted for the missing funds."
+      ],
+      "synonyms": ["calculate", "reckon", "consider"],
+      "topic_tags": ["general", "finance", "calculation"]
+    },
+    {
+      "word_id": "d2e60e13-acf8-435f-94dd-d4842cadc53b",
+      "english": "accuracy",
+      "translation": "דיוק",
+      "hebrew": "דיוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The accuracy of the report is crucial.",
+        "He is known for his accuracy in shooting."
+      ],
+      "synonyms": ["precision", "exactness", "correctness"],
+      "topic_tags": ["general", "measurement", "quality"]
+    },
+    {
+      "word_id": "f642a36b-8bf4-4b3b-a1a7-bd0eac31e06d",
+      "english": "accurate",
+      "translation": "מדויק",
+      "hebrew": "מדויק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The data is accurate and reliable.",
+        "He gave an accurate description of the scene."
+      ],
+      "synonyms": ["precise", "correct", "exact"],
+      "topic_tags": ["general", "measurement", "quality"]
+    },
+    {
+      "word_id": "b14ff1b4-e103-42ab-a664-54dbe38c0353",
+      "english": "activist",
+      "translation": "פעיל",
+      "hebrew": "פעיל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a well-known environmental activist.",
+        "The activist organized a protest."
+      ],
+      "synonyms": ["campaigner", "advocate", "reformer"],
+      "topic_tags": ["general", "social", "politics"]
+    },
+    {
+      "word_id": "9c3cced6-58e7-4137-9754-06d2612eb567",
+      "english": "adapt",
+      "translation": "להסתגל",
+      "hebrew": "להסתגל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He adapted quickly to the new environment.",
+        "She had to adapt her plans to the situation."
+      ],
+      "synonyms": ["adjust", "modify", "acclimate"],
+      "topic_tags": ["general", "change", "flexibility"]
+    },
+    {
+      "word_id": "ea05da1a-fedf-47e9-9eb2-d562f7a9b077",
+      "english": "adapt",
+      "translation": "להתאים",
+      "hebrew": "להתאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book was adapted into a movie.",
+        "He adapted the recipe to suit his taste."
+      ],
+      "synonyms": ["adjust", "modify", "tailor"],
+      "topic_tags": ["general", "change", "flexibility"]
+    },
+    {
+      "word_id": "e47c853e-6b0b-4b8b-a2fc-97521acde033",
+      "english": "adapt",
+      "translation": "להתאים",
+      "hebrew": "להתאים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The software was adapted for different platforms.",
+        "She adapted her teaching methods for online classes."
+      ],
+      "synonyms": ["adjust", "modify", "tailor"],
+      "topic_tags": ["general", "change", "flexibility"]
+    },
+    {
+      "word_id": "f3cf06ab-e336-4dfb-b6e0-2d46e0b73646",
+      "english": "administer",
+      "translation": "לנהל",
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She administers the company's finances.",
+        "He was tasked to administer the project."
+      ],
+      "synonyms": ["manage", "oversee", "supervise"],
+      "topic_tags": ["general", "management", "organization"]
+    },
+    {
+      "word_id": "74db40ff-b129-4ec9-bbdc-25e2808a047f",
+      "english": "administer",
+      "translation": "לתת",
+      "hebrew": "לתת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The nurse administered the medication.",
+        "He administered first aid to the injured."
+      ],
+      "synonyms": ["dispense", "provide", "deliver"],
+      "topic_tags": ["general", "health", "care"]
+    },
+    {
+      "word_id": "38bc213a-d647-4605-a3a0-de6543876aed",
+      "english": "administration",
+      "translation": "מִנְהָלָה",
+      "hebrew": "מִנְהָלָה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The administration of the school is very efficient.",
+        "He works in the administration department."
+      ],
+      "synonyms": ["management", "governance", "operation"],
+      "topic_tags": ["general", "organization", "management"]
+    },
+    {
+      "word_id": "68b6cc75-672f-4122-ab63-f3af036ad541",
+      "english": "admit",
+      "translation": "להודות",
+      "hebrew": "להודות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He admitted his mistake.",
+        "She admitted to breaking the vase."
+      ],
+      "synonyms": ["confess", "acknowledge", "concede"],
+      "topic_tags": ["general", "honesty", "confession"]
+    },
+    {
+      "word_id": "d838e09b-2402-41ba-a36e-5bd67c07b6d8",
+      "english": "admit",
+      "translation": "לקבל",
+      "hebrew": "לקבל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The university admitted 500 new students.",
+        "He was admitted to the hospital."
+      ],
+      "synonyms": ["accept", "receive", "enroll"],
+      "topic_tags": ["general", "acceptance", "entry"]
+    },
+    {
+      "word_id": "bb55dce5-65ef-4361-a5d3-d36cdd70de24",
+      "english": "adult",
+      "translation": "מבוגר",
+      "hebrew": "מבוגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Adults are responsible for their actions.",
+        "The movie is suitable for adults only."
+      ],
+      "synonyms": ["grown-up", "mature", "person"],
+      "topic_tags": ["general", "age", "maturity"]
+    },
+    {
+      "word_id": "40e05048-c60f-4f17-abbe-43b64d6832e3",
+      "english": "adulthood",
+      "translation": "בגרות",
+      "hebrew": "בגרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He reached adulthood at the age of 18.",
+        "Adulthood comes with many responsibilities."
+      ],
+      "synonyms": ["maturity", "majority", "adulthood"],
+      "topic_tags": ["general", "age", "maturity"]
+    },
+    {
+      "word_id": "91bf53e3-3fda-44b4-b137-74b0bc41cdcd",
+      "english": "advance",
+      "translation": "להתקדם",
+      "hebrew": "להתקדם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He advanced to the next level in the game.",
+        "The troops advanced towards the enemy."
+      ],
+      "synonyms": ["progress", "proceed", "move forward"],
+      "topic_tags": ["general", "progress", "movement"]
+    },
+    {
+      "word_id": "95b896c9-2fe5-479d-bbed-0225c8e51fdc",
+      "english": "advancement",
+      "translation": "קידום",
+      "hebrew": "קידום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her advancement in the company was well-deserved.",
+        "The advancement of technology is rapid."
+      ],
+      "synonyms": ["progress", "promotion", "development"],
+      "topic_tags": ["general", "progress", "development"]
+    }
+  ]
+}

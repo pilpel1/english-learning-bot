@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 21,
+    "words_range": "hot-mistake",
+    "word_count": 30,
+    "start_index": 600,
+    "end_index": 629
+  },
+  "words": [
+    {
+      "word_id": "bef3768a-e5a6-4e9f-987c-a7e40a5a232a",
+      "english": "hot",
+      "translation": "חם",
+      "hebrew": "חם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The soup is too hot to eat.",
+        "It's a hot day today."
+      ],
+      "synonyms": ["warm", "heated", "scorching"],
+      "topic_tags": ["general", "weather", "temperature"]
+    },
+    {
+      "word_id": "55a3f8e1-9f4c-4839-afbf-9a207f44c3d9",
+      "english": "house",
+      "translation": "בית",
+      "hebrew": "בית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They bought a new house last year.",
+        "The house is located in the city center."
+      ],
+      "synonyms": ["home", "residence", "dwelling"],
+      "topic_tags": ["general", "architecture", "living"]
+    },
+    {
+      "word_id": "bf1ce794-b2d7-4a2a-8bfa-d2342175983c",
+      "english": "house",
+      "translation": "לארח",
+      "hebrew": "לארח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They house guests during the summer.",
+        "The museum houses many ancient artifacts."
+      ],
+      "synonyms": ["accommodate", "shelter", "host"],
+      "topic_tags": ["general", "hospitality", "accommodation"]
+    },
+    {
+      "word_id": "1e0c81b8-902e-4321-a913-fedededc2e82",
+      "english": "impartial",
+      "translation": "אובייקטיבי",
+      "hebrew": "אובייקטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge must remain impartial.",
+        "She gave an impartial opinion on the matter."
+      ],
+      "synonyms": ["unbiased", "neutral", "fair"],
+      "topic_tags": ["general", "judgment", "fairness"]
+    },
+    {
+      "word_id": "bebe4ecd-9cf4-463a-944e-ceb91a890f3c",
+      "english": "inconsistent",
+      "translation": "לא עקבי",
+      "hebrew": "לא עקבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His work is inconsistent.",
+        "The results were inconsistent with the hypothesis."
+      ],
+      "synonyms": ["variable", "irregular", "unpredictable"],
+      "topic_tags": ["general", "behavior", "patterns"]
+    },
+    {
+      "word_id": "704f0223-2638-45b9-858b-4c6f601dffa1",
+      "english": "insert",
+      "translation": "להכניס",
+      "hebrew": "להכניס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please insert the key into the lock.",
+        "He inserted a coin into the vending machine."
+      ],
+      "synonyms": ["put", "place", "embed"],
+      "topic_tags": ["general", "action", "process"]
+    },
+    {
+      "word_id": "9a1f6cee-b8e7-4896-ab55-b56e5b6a113d",
+      "english": "jump",
+      "translation": "לקפוץ",
+      "hebrew": "לקפוץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat can jump very high.",
+        "He jumped over the fence."
+      ],
+      "synonyms": ["leap", "hop", "bounce"],
+      "topic_tags": ["general", "movement", "action"]
+    },
+    {
+      "word_id": "d3403e3f-0852-48c2-a6fc-3b40709c747d",
+      "english": "just",
+      "translation": "רק",
+      "hebrew": "רק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I just finished my homework.",
+        "She just arrived at the party."
+      ],
+      "synonyms": ["only", "simply", "merely"],
+      "topic_tags": ["general", "time", "degree"]
+    },
+    {
+      "word_id": "e8c9ba4b-3739-457a-a9d5-fe2aa725fe77",
+      "english": "just",
+      "translation": "הוגן",
+      "hebrew": "הוגן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The decision was just and fair.",
+        "He is a just leader."
+      ],
+      "synonyms": ["fair", "equitable", "impartial"],
+      "topic_tags": ["general", "justice", "ethics"]
+    },
+    {
+      "word_id": "862853e6-8409-47cf-8c0a-e76cb0fa8df4",
+      "english": "just",
+      "translation": "בדיוק",
+      "hebrew": "בדיוק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I was just about to call you.",
+        "She just left the room."
+      ],
+      "synonyms": ["exactly", "precisely", "right"],
+      "topic_tags": ["general", "time", "precision"]
+    },
+    {
+      "word_id": "8b01dc2d-6277-4588-861c-d118655f849f",
+      "english": "kill",
+      "translation": "להרוג",
+      "hebrew": "להרוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The hunter killed a deer.",
+        "He was killed in the accident."
+      ],
+      "synonyms": ["slay", "murder", "destroy"],
+      "topic_tags": ["general", "action", "violence"]
+    },
+    {
+      "word_id": "333892a7-b4e9-44ed-ad84-4fa9c2256665",
+      "english": "king",
+      "translation": "מלך",
+      "hebrew": "מלך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The king ruled the country for many years.",
+        "He was crowned king in a grand ceremony."
+      ],
+      "synonyms": ["monarch", "sovereign", "ruler"],
+      "topic_tags": ["general", "royalty", "leadership"]
+    },
+    {
+      "word_id": "ee17f1ae-49d7-4055-9e3d-824e519c0716",
+      "english": "kingdom",
+      "translation": "ממלכה",
+      "hebrew": "ממלכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The kingdom was vast and prosperous.",
+        "He inherited the kingdom from his father."
+      ],
+      "synonyms": ["realm", "empire", "domain"],
+      "topic_tags": ["general", "royalty", "territory"]
+    },
+    {
+      "word_id": "da32553a-b412-4dda-8b6c-2d3e78b82e74",
+      "english": "kitchen",
+      "translation": "מטבח",
+      "hebrew": "מטבח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She loves to cook in the kitchen.",
+        "The kitchen is fully equipped."
+      ],
+      "synonyms": ["cooking area", "galley", "cookhouse"],
+      "topic_tags": ["general", "home", "cooking"]
+    },
+    {
+      "word_id": "d1c42be5-310b-437f-9cb0-44adc0bd897f",
+      "english": "last",
+      "translation": "אחרון",
+      "hebrew": "אחרון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was the last person to leave.",
+        "This is the last chance to apply."
+      ],
+      "synonyms": ["final", "ultimate", "end"],
+      "topic_tags": ["general", "order", "time"]
+    },
+    {
+      "word_id": "be8ba64c-b449-4355-8279-112c0e241d7a",
+      "english": "late",
+      "translation": "מאוחר",
+      "hebrew": "מאוחר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He arrived late to the meeting.",
+        "It's too late to change the plans."
+      ],
+      "synonyms": ["tardy", "delayed", "overdue"],
+      "topic_tags": ["general", "time", "schedule"]
+    },
+    {
+      "word_id": "92fb8c06-77fa-449a-9a36-9f28d09c5d4e",
+      "english": "light",
+      "translation": "אור",
+      "hebrew": "אור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was filled with light.",
+        "Turn on the light, please."
+      ],
+      "synonyms": ["illumination", "brightness", "radiance"],
+      "topic_tags": ["general", "physics", "vision"]
+    },
+    {
+      "word_id": "e2d7be58-ba19-47da-8730-c6065d11d321",
+      "english": "light",
+      "translation": "קל",
+      "hebrew": "קל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This bag is very light.",
+        "He prefers light meals."
+      ],
+      "synonyms": ["weightless", "airy", "slight"],
+      "topic_tags": ["general", "weight", "ease"]
+    },
+    {
+      "word_id": "467401d5-9778-49bf-b4f3-3fce9c8e5878",
+      "english": "like",
+      "translation": "לאהוב",
+      "hebrew": "לאהוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I like chocolate ice cream.",
+        "She likes to read books."
+      ],
+      "synonyms": ["enjoy", "prefer", "favor"],
+      "topic_tags": ["general", "preference", "emotion"]
+    },
+    {
+      "word_id": "979ecc9c-d5e3-431d-a5eb-c03982f585a4",
+      "english": "list",
+      "translation": "רשימה",
+      "hebrew": "רשימה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a list of things to do.",
+        "The guest list is very long."
+      ],
+      "synonyms": ["catalog", "inventory", "register"],
+      "topic_tags": ["general", "organization", "record"]
+    },
+    {
+      "word_id": "bc4a8a58-0d82-466a-9e37-286ffa69bca3",
+      "english": "lock",
+      "translation": "מנעול",
+      "hebrew": "מנעול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He forgot the key to the lock.",
+        "The lock was broken."
+      ],
+      "synonyms": ["bolt", "latch", "fastener"],
+      "topic_tags": ["general", "security", "mechanism"]
+    },
+    {
+      "word_id": "302e7616-0f59-4bc7-9cff-55b344d9f49b",
+      "english": "logic",
+      "translation": "לוגיקה",
+      "hebrew": "לוגיקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The logic behind the decision was sound.",
+        "He studied logic in college."
+      ],
+      "synonyms": ["reasoning", "rationale", "deduction"],
+      "topic_tags": ["general", "philosophy", "thinking"]
+    },
+    {
+      "word_id": "d4173d66-f5cf-4cad-a2c0-9cf3d12b2235",
+      "english": "main",
+      "translation": "ראשי",
+      "hebrew": "ראשי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The main road is closed.",
+        "His main concern is safety."
+      ],
+      "synonyms": ["primary", "chief", "principal"],
+      "topic_tags": ["general", "importance", "priority"]
+    },
+    {
+      "word_id": "441bf1ef-a35b-4dc9-9060-c4b67bd8b455",
+      "english": "map",
+      "translation": "מפה",
+      "hebrew": "מפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He used a map to find the location.",
+        "The map shows all the roads."
+      ],
+      "synonyms": ["chart", "plan", "atlas"],
+      "topic_tags": ["general", "navigation", "geography"]
+    },
+    {
+      "word_id": "c382f5f1-f3af-4f99-9887-0a6532508065",
+      "english": "mark",
+      "translation": "סימן",
+      "hebrew": "סימן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He left a mark on the paper.",
+        "The mark was difficult to remove."
+      ],
+      "synonyms": ["sign", "symbol", "indicator"],
+      "topic_tags": ["general", "identification", "symbol"]
+    },
+    {
+      "word_id": "e1846060-c00f-4cc1-8473-be2127d9b077",
+      "english": "maybe",
+      "translation": "אולי",
+      "hebrew": "אולי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Maybe we should try again later.",
+        "He said he would maybe come to the party."
+      ],
+      "synonyms": ["perhaps", "possibly", "conceivably"],
+      "topic_tags": ["general", "possibility", "uncertainty"]
+    },
+    {
+      "word_id": "a44862cc-9177-4952-ab07-cc2dbf708f6b",
+      "english": "meeting",
+      "translation": "פגישה",
+      "hebrew": "פגישה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting was scheduled for 10 AM.",
+        "He attended a meeting with the board."
+      ],
+      "synonyms": ["gathering", "assembly", "conference"],
+      "topic_tags": ["general", "business", "communication"]
+    },
+    {
+      "word_id": "d8634b58-42e6-4f46-a73e-9707c5f1c564",
+      "english": "member",
+      "translation": "חבר",
+      "hebrew": "חבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a member of the club.",
+        "The team has ten members."
+      ],
+      "synonyms": ["participant", "associate", "affiliate"],
+      "topic_tags": ["general", "group", "association"]
+    },
+    {
+      "word_id": "3ebf852d-b333-437b-80ae-74482240a064",
+      "english": "milk",
+      "translation": "חלב",
+      "hebrew": "חלב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He drinks a glass of milk every morning.",
+        "The milk is in the fridge."
+      ],
+      "synonyms": ["dairy", "lactose", "cream"],
+      "topic_tags": ["general", "food", "nutrition"]
+    },
+    {
+      "word_id": "2a746b6f-c82c-41e8-b2ad-afd670c045fc",
+      "english": "mistake",
+      "translation": "טעות",
+      "hebrew": "טעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a mistake in the calculation.",
+        "It was a big mistake to trust him."
+      ],
+      "synonyms": ["error", "blunder", "fault"],
+      "topic_tags": ["general", "error", "learning"]
+    }
+  ]
+}

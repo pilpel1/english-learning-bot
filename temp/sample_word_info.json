@@ -1,0 +1,46 @@
+[
+  {
+    "english": "hello",
+    "part_of_speech": "interjection",
+    "difficulty_level": 1,
+    "examples": [
+      "Hello, how are you today?",
+      "She said hello to everyone at the party."
+    ],
+    "synonyms": ["hi", "greetings"],
+    "topic_tags": ["general", "greetings"]
+  },
+  {
+    "english": "world",
+    "part_of_speech": "noun",
+    "difficulty_level": 1,
+    "examples": [
+      "The world is a beautiful place.",
+      "He wants to travel around the world."
+    ],
+    "synonyms": ["earth", "globe", "planet"],
+    "topic_tags": ["general", "geography"]
+  },
+  {
+    "english": "computer",
+    "part_of_speech": "noun",
+    "difficulty_level": 2,
+    "examples": [
+      "I need to buy a new computer.",
+      "She works on her computer all day."
+    ],
+    "synonyms": ["PC", "laptop", "machine"],
+    "topic_tags": ["technology", "electronics"]
+  },
+  {
+    "english": "algorithm",
+    "part_of_speech": "noun",
+    "difficulty_level": 3,
+    "examples": [
+      "The search engine uses a complex algorithm.",
+      "Computer scientists develop new algorithms to solve problems."
+    ],
+    "synonyms": ["procedure", "process", "formula"],
+    "topic_tags": ["technology", "mathematics", "programming"]
+  }
+] 

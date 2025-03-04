@@ -1,0 +1,620 @@
+{
+  "_meta": {
+    "chunk_number": 101,
+    "words_range": "exaggerate-fluent",
+    "word_count": 30,
+    "start_index": 3000,
+    "end_index": 3029
+  },
+  "words": [
+    {
+      "word_id": "d8784c06-7ba0-4631-b480-52942b5dc8b9",
+      "english": "exaggerate",
+      "translation": null,
+      "hebrew": "להגזים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't exaggerate the story, just tell me what really happened.",
+        "He tends to exaggerate when he talks about his achievements."
+      ],
+      "synonyms": [
+        "overstate",
+        "magnify",
+        "inflate"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "4f42bbab-a95b-4260-89a5-1c78f5113fe0",
+      "english": "examination",
+      "translation": null,
+      "hebrew": "בדיקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor gave me a thorough examination.",
+        "The examination will test your knowledge of the subject."
+      ],
+      "synonyms": [
+        "test",
+        "inspection",
+        "assessment"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "education"
+      ]
+    },
+    {
+      "word_id": "4d426f75-9ae9-4817-af5e-3191e447ab93",
+      "english": "examine",
+      "translation": null,
+      "hebrew": "לבחון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientist will examine the evidence carefully.",
+        "Please examine the document and let me know your thoughts."
+      ],
+      "synonyms": [
+        "inspect",
+        "investigate",
+        "analyze"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "062f99a2-aba1-4a3d-9a74-86488ee118a9",
+      "english": "excitement",
+      "translation": null,
+      "hebrew": "התרגשות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children were filled with excitement on Christmas morning.",
+        "There was a lot of excitement surrounding the new movie release."
+      ],
+      "synonyms": [
+        "thrill",
+        "eagerness",
+        "enthusiasm"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "cf6a3d8e-4f22-4c17-abe6-7b1497544ea0",
+      "english": "exert",
+      "translation": null,
+      "hebrew": "להפעיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to exert more effort if you want to succeed.",
+        "The athlete exerted all his strength in the final sprint."
+      ],
+      "synonyms": [
+        "apply",
+        "use",
+        "strain"
+      ],
+      "topic_tags": [
+        "general",
+        "effort"
+      ]
+    },
+    {
+      "word_id": "e536934f-1d5b-4d6f-b677-cd41129e5719",
+      "english": "exert",
+      "translation": null,
+      "hebrew": "להפעיל לחץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company exerted pressure on its employees to work harder.",
+        "The lawyer exerted his influence to get the case dismissed."
+      ],
+      "synonyms": [
+        "pressure",
+        "influence",
+        "apply"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "abcec4cb-a538-471a-be19-7b3cc93ecf85",
+      "english": "exhaust",
+      "translation": null,
+      "hebrew": "לרוקן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The long hike exhausted us.",
+        "We need to exhaust all options before making a decision."
+      ],
+      "synonyms": [
+        "deplete",
+        "tire",
+        "consume"
+      ],
+      "topic_tags": [
+        "general",
+        "energy"
+      ]
+    },
+    {
+      "word_id": "cf86b463-543d-4909-8f8e-c163a5631fc7",
+      "english": "exist",
+      "translation": null,
+      "hebrew": "להתקיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Do you believe that ghosts exist?",
+        "Poverty continues to exist in many parts of the world."
+      ],
+      "synonyms": [
+        "be",
+        "live",
+        "occur"
+      ],
+      "topic_tags": [
+        "general",
+        "philosophy"
+      ]
+    },
+    {
+      "word_id": "991b4250-06c2-42bb-8a2a-a49ad0b743bd",
+      "english": "existence",
+      "translation": null,
+      "hebrew": "קיום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The meaning of existence is a question that has puzzled philosophers for centuries.",
+        "The company is fighting for its existence in a competitive market."
+      ],
+      "synonyms": [
+        "being",
+        "reality",
+        "survival"
+      ],
+      "topic_tags": [
+        "general",
+        "philosophy"
+      ]
+    },
+    {
+      "word_id": "8a7e59a7-4eb3-4357-a6a7-e6e3f0816a28",
+      "english": "expedite",
+      "translation": null,
+      "hebrew": "לזרז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We will do everything we can to expedite your order.",
+        "The new system is designed to expedite the processing of information."
+      ],
+      "synonyms": [
+        "accelerate",
+        "hasten",
+        "speed up"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "6bce68cd-43b2-42a6-af7a-d25fa1acf9bf",
+      "english": "expend",
+      "translation": null,
+      "hebrew": "להוציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company plans to expend a lot of money on advertising.",
+        "Don't expend all your energy on one task."
+      ],
+      "synonyms": [
+        "spend",
+        "use",
+        "consume"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "d5ce80ab-a673-4cff-b1de-86d92db5e53a",
+      "english": "expendable",
+      "translation": null,
+      "hebrew": "ניתן לויתור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "In this mission, some resources are expendable.",
+        "He felt like he was an expendable member of the team."
+      ],
+      "synonyms": [
+        "replaceable",
+        "disposable",
+        "unnecessary"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "3e2d79a9-a94a-4d94-a272-93053d0235db",
+      "english": "eyesight",
+      "translation": null,
+      "hebrew": "ראייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His eyesight is getting worse as he gets older.",
+        "You need good eyesight to be a pilot."
+      ],
+      "synonyms": [
+        "vision",
+        "sight"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "e73c4d5a-be30-4d02-b565-e83335fda5b3",
+      "english": "factory",
+      "translation": null,
+      "hebrew": "מפעל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The factory produces cars.",
+        "Many people in this town work at the factory."
+      ],
+      "synonyms": [
+        "plant",
+        "mill"
+      ],
+      "topic_tags": [
+        "general",
+        "industry"
+      ]
+    },
+    {
+      "word_id": "454f3602-2ef7-4dd9-a222-33f7379e22c8",
+      "english": "familiar",
+      "translation": null,
+      "hebrew": "מוכר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His face looks familiar.",
+        "The song sounded familiar, but I couldn't remember where I had heard it before."
+      ],
+      "synonyms": [
+        "known",
+        "common"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f496d587-4b03-4243-af02-8727abba82a9",
+      "english": "familiarize",
+      "translation": null,
+      "hebrew": "להכיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please familiarize yourself with the new software.",
+        "I need to familiarize myself with the local customs before I travel there."
+      ],
+      "synonyms": [
+        "acquaint",
+        "introduce"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5d6afc43-56a1-4606-983f-fc998f1d3d59",
+      "english": "fascinate",
+      "translation": null,
+      "hebrew": "לרתק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician's tricks fascinated the audience.",
+        "I've always been fascinated by space exploration."
+      ],
+      "synonyms": [
+        "captivate",
+        "interest",
+        "enthrall"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e776f566-493f-4152-8ffe-7c7db9fe2285",
+      "english": "fertile",
+      "translation": null,
+      "hebrew": "פורה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The land is very fertile.",
+        "She is a fertile writer, producing several books a year."
+      ],
+      "synonyms": [
+        "productive",
+        "fruitful"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "8efe2051-e217-4cfa-beff-6cc2c4028b0f",
+      "english": "fetus",
+      "translation": null,
+      "hebrew": "עובר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fetus develops rapidly during the first trimester.",
+        "Doctors can monitor the health of the fetus using ultrasound."
+      ],
+      "synonyms": [
+        "embryo"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "9b3f9e16-9427-4e12-beb9-a13f844de4a5",
+      "english": "fiber",
+      "translation": null,
+      "hebrew": "סיב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Eat plenty of fiber to stay healthy.",
+        "This shirt is made of natural fibers."
+      ],
+      "synonyms": [
+        "strand",
+        "thread"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "materials"
+      ]
+    },
+    {
+      "word_id": "ffac032e-500b-4879-9816-f9a3e90b5f6b",
+      "english": "figurative",
+      "translation": null,
+      "hebrew": "מטאפורי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The poem uses figurative language.",
+        "He used the term in a figurative sense."
+      ],
+      "synonyms": [
+        "metaphorical",
+        "symbolic"
+      ],
+      "topic_tags": [
+        "general",
+        "language"
+      ]
+    },
+    {
+      "word_id": "98ef6d9b-1e33-427a-8910-cde301e449ea",
+      "english": "finalize",
+      "translation": null,
+      "hebrew": "לסיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to finalize the details of the contract.",
+        "Let's finalize the guest list for the party."
+      ],
+      "synonyms": [
+        "complete",
+        "conclude"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "49a74e02-bf94-4ca5-8866-3d60d42d1e56",
+      "english": "firm",
+      "translation": null,
+      "hebrew": "יציב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The ground felt firm beneath my feet.",
+        "Make sure the ladder is firm before you climb it."
+      ],
+      "synonyms": [
+        "solid",
+        "stable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c9ea65ed-539f-43dc-ad19-2c63c6e3dceb",
+      "english": "firm",
+      "translation": null,
+      "hebrew": "חברה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He works for a law firm.",
+        "The firm is known for its excellent customer service."
+      ],
+      "synonyms": [
+        "company",
+        "business"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f5b28419-6547-4052-ac18-d43bf1239cfd",
+      "english": "firm",
+      "translation": null,
+      "hebrew": "נחוש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is firm in her beliefs.",
+        "He made a firm decision to quit smoking."
+      ],
+      "synonyms": [
+        "determined",
+        "resolute"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5a89445a-b847-4a5e-8402-73c8fceafa69",
+      "english": "flagrant",
+      "translation": null,
+      "hebrew": "בוטה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His disregard for the rules was flagrant.",
+        "The company was fined for flagrant violations of environmental regulations."
+      ],
+      "synonyms": [
+        "blatant",
+        "obvious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3c748763-3632-4697-bc54-396323e453ad",
+      "english": "flexible",
+      "translation": null,
+      "hebrew": "גמיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The job requires someone who is flexible and can adapt to changing situations.",
+        "Yoga can help you become more flexible."
+      ],
+      "synonyms": [
+        "adaptable",
+        "pliable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b183b707-9266-432e-b9e9-e0b41f7d009e",
+      "english": "fluctuation",
+      "translation": null,
+      "hebrew": "תנודה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There has been a fluctuation in the stock market.",
+        "The temperature fluctuation can affect plant growth."
+      ],
+      "synonyms": [
+        "variation",
+        "change"
+      ],
+      "topic_tags": [
+        "general",
+        "economics",
+        "science"
+      ]
+    },
+    {
+      "word_id": "0c60ab28-0fea-4ff2-9cf8-3dcb59f472b7",
+      "english": "fluency",
+      "translation": null,
+      "hebrew": "רהיטות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She speaks English with fluency.",
+        "Fluency in a foreign language is a valuable skill."
+      ],
+      "synonyms": [
+        "eloquence",
+        "articulation"
+      ],
+      "topic_tags": [
+        "general",
+        "language"
+      ]
+    },
+    {
+      "word_id": "85f96f3f-bce5-4668-84f0-6b22d77cd07c",
+      "english": "fluent",
+      "translation": null,
+      "hebrew": "רהוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is fluent in Spanish.",
+        "He gave a fluent presentation."
+      ],
+      "synonyms": [
+        "articulate",
+        "eloquent"
+      ],
+      "topic_tags": [
+        "general",
+        "language"
+      ]
+    }
+  ]
+}

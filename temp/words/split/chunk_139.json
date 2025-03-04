@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "chunk_number": 138,
+    "words_range": "toes-vacation",
+    "word_count": 30,
+    "start_index": 4110,
+    "end_index": 4139
+  },
+  "words": [
+    {
+      "word_id": "e0a5fe9b-3715-42e6-92b4-fd27bba2beb7",
+      "english": "toes",
+      "translation": null,
+      "hebrew": "אצבעות רגליים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wiggled her toes.",
+        "He stubbed his toes."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "body"]
+    },
+    {
+      "word_id": "6269a6b8-8cbb-4cf5-85b2-59d060a1233e",
+      "english": "tongue",
+      "translation": null,
+      "hebrew": "לשון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He stuck out his tongue.",
+        "She spoke in her native tongue."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "body", "language"]
+    },
+    {
+      "word_id": "8653ff2f-c930-485d-a5b5-b9b92cc8b8d8",
+      "english": "treasure",
+      "translation": null,
+      "hebrew": "אוצר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pirates buried the treasure.",
+        "She found a hidden treasure."
+      ],
+      "synonyms": ["riches", "fortune"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3055ddb4-e6e0-49d4-b9f2-8454ef9dd0b3",
+      "english": "treat",
+      "translation": null,
+      "hebrew": "לפנק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He treated her to dinner.",
+        "Treat yourself to something nice."
+      ],
+      "synonyms": ["pamper", "spoil"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d3e03c60-f919-45c2-b537-045979664e83",
+      "english": "treat",
+      "translation": null,
+      "hebrew": "לנהוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Treat others with respect.",
+        "He treated her unfairly."
+      ],
+      "synonyms": ["handle", "deal with"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "86305fd5-a12c-4de1-91f1-29f6cb196ebd",
+      "english": "treat",
+      "translation": null,
+      "hebrew": "פינוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ice cream is a special treat.",
+        "She brought treats for the children."
+      ],
+      "synonyms": ["delight", "joy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "bd0ccd46-576d-46da-859e-57b7881db86c",
+      "english": "treatment",
+      "translation": null,
+      "hebrew": "טיפול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is undergoing medical treatment.",
+        "The treatment was successful."
+      ],
+      "synonyms": ["therapy", "care"],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "8ce7a08a-f867-4948-9bdb-5ae819d7e71f",
+      "english": "treaty",
+      "translation": null,
+      "hebrew": "הסכם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They signed a peace treaty.",
+        "The treaty was violated."
+      ],
+      "synonyms": ["agreement", "pact"],
+      "topic_tags": ["general", "politics"]
+    },
+    {
+      "word_id": "f34ae434-ebbc-4974-9286-e8642503b4a4",
+      "english": "trigger",
+      "translation": null,
+      "hebrew": "טריגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He pulled the trigger of the gun.",
+        "The event was a trigger for his anxiety."
+      ],
+      "synonyms": ["cause", "stimulus"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7a346f78-3cda-4a4d-a8e0-2b74bdd2762c",
+      "english": "triggered",
+      "translation": null,
+      "hebrew": "הופעל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The alarm was triggered by the smoke.",
+        "He was triggered by the memory."
+      ],
+      "synonyms": ["activated", "set off"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4691bc0c-28f5-490f-a45e-374b71eee813",
+      "english": "trim",
+      "translation": null,
+      "hebrew": "לגזום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Trim the branches.",
+        "Trim the edges of the paper."
+      ],
+      "synonyms": ["cut", "clip", "prune"],
+      "topic_tags": ["general", "gardening"]
+    },
+    {
+      "word_id": "e865e442-730e-4c76-bd58-70d23bb78c2b",
+      "english": "triple",
+      "translation": null,
+      "hebrew": "לשלש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company tripled its profits.",
+        "Triple the amount of sugar."
+      ],
+      "synonyms": ["treble"],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "71b0aade-7e84-414f-885d-58c7cad7f6cd",
+      "english": "truck",
+      "translation": null,
+      "hebrew": "משאית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A large truck passed by.",
+        "The truck is carrying cargo."
+      ],
+      "synonyms": ["lorry"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "3722cf2c-b2f9-48ae-9ca7-891991a477c4",
+      "english": "tutor",
+      "translation": null,
+      "hebrew": "לתת שיעורים פרטיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She tutors students in math.",
+        "He is a tutor."
+      ],
+      "synonyms": ["coach", "instruct"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "40aa1c3a-92d0-4de9-995b-8b7e25a9d946",
+      "english": "twig",
+      "translation": null,
+      "hebrew": "ענף קטן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird built a nest out of twigs.",
+        "She broke off a twig."
+      ],
+      "synonyms": ["branchlet"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "e9cf865f-f69b-432e-8983-376e63816a19",
+      "english": "twins",
+      "translation": null,
+      "hebrew": "תאומים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They are identical twins.",
+        "The twins are very close."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "a30f9878-f975-4f67-a75f-3dbf6355efe9",
+      "english": "ugly",
+      "translation": null,
+      "hebrew": "מכוער",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is ugly.",
+        "He has an ugly personality."
+      ],
+      "synonyms": ["unattractive", "hideous"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "229f8f41-ad5a-450d-bea5-37d9d8e64402",
+      "english": "unattractive",
+      "translation": null,
+      "hebrew": "לא מושך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She found him unattractive.",
+        "The offer was unattractive."
+      ],
+      "synonyms": ["ugly", "unappealing"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "81a74bbc-66bc-43e8-8b2f-c05660614529",
+      "english": "uncle",
+      "translation": null,
+      "hebrew": "דוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is my uncle.",
+        "My uncle gave me a gift."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "56d0009f-0aba-4518-a946-fb6912fa2900",
+      "english": "unconcerned",
+      "translation": null,
+      "hebrew": "לא מודאג",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He seemed unconcerned about the problem.",
+        "She was unconcerned by the news."
+      ],
+      "synonyms": ["indifferent", "apathetic"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6a71c061-f88b-477d-be6f-307ad6704910",
+      "english": "uncritical",
+      "translation": null,
+      "hebrew": "לא ביקורתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is uncritical of his work.",
+        "He accepted her statement uncritically."
+      ],
+      "synonyms": ["accepting", "approving"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1775a714-d462-4fd9-b34b-5607b63e4dfc",
+      "english": "unearth",
+      "translation": null,
+      "hebrew": "לחשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The archaeologists unearthed ancient artifacts.",
+        "He unearthed a secret."
+      ],
+      "synonyms": ["discover", "dig up"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8d9b38b1-2825-41ac-9adc-d6c209637e94",
+      "english": "unfair",
+      "translation": null,
+      "hebrew": "לא הוגן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It's unfair to treat him like that.",
+        "The rules are unfair."
+      ],
+      "synonyms": ["unjust", "biased"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0922841d-5ef6-49ec-b7f3-9af9a174a976",
+      "english": "unholy",
+      "translation": null,
+      "hebrew": "לא קדוש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was an unholy alliance.",
+        "The place felt unholy."
+      ],
+      "synonyms": ["wicked", "impious"],
+      "topic_tags": ["general", "religion"]
+    },
+    {
+      "word_id": "bbb95fd9-eafd-43b5-a924-4f42197ed8d3",
+      "english": "unwanted",
+      "translation": null,
+      "hebrew": "לא רצוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She received unwanted attention.",
+        "The dog was unwanted."
+      ],
+      "synonyms": ["undesired"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "81b967a5-3192-4175-b280-593ee5ee8744",
+      "english": "upbringing",
+      "translation": null,
+      "hebrew": "חינוך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His upbringing influenced his values.",
+        "She had a strict upbringing."
+      ],
+      "synonyms": ["nurture", "education"],
+      "topic_tags": ["general", "family"]
+    },
+    {
+      "word_id": "5db315aa-77c9-407a-bb54-edf99c45901b",
+      "english": "upholstery",
+      "translation": null,
+      "hebrew": "ריפוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The upholstery on the chair was old.",
+        "She cleaned the upholstery."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "e60f4a56-33af-4953-9156-83e32d7c6954",
+      "english": "usher",
+      "translation": null,
+      "hebrew": "ללוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He ushered them to their seats.",
+        "He'll usher you in."
+      ],
+      "synonyms": ["escort", "guide"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52486fc3-d986-4012-8817-725acb486cc9",
+      "english": "using up",
+      "translation": null,
+      "hebrew": "מבזבז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We are using up all our resources.",
+        "Using up all of my energy."
+      ],
+      "synonyms": ["depleting", "consuming"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52486fc3-d986-4012-8817-725acb486cc9",
+      "english": "using up",
+      "translation": null,
+      "hebrew": "מכלה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We are using up all our resources.",
+        "She is using up all of the toilet paper."
+      ],
+      "synonyms": ["depleting", "consuming"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52486fc3-d986-4012-8817-725acb486cc9",
+      "english": "using up",
+      "translation": null,
+      "hebrew": "אוזל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Our fuel is using up rapidly.",
+        "They are using up all their power."
+      ],
+      "synonyms": ["depleting", "consuming"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52486fc3-d986-4012-8817-725acb486cc9",
+      "english": "using up",
+      "translation": null,
+      "hebrew": "מנצל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are using up all of their options.",
+        "He's using up all the time."
+      ],
+      "synonyms": ["depleting", "consuming"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "52486fc3-d986-4012-8817-725acb486cc9",
+      "english": "vacation",
+      "translation": null,
+      "hebrew": "חופשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was looking forward to his vacation.",
+        "She took a vacation to Hawaii."
+      ],
+      "synonyms": ["holiday", "break"],
+      "topic_tags": ["general", "travel"]
+    }
+  ]
+}

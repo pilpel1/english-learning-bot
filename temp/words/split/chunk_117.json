@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 117,
+    "words_range": "frustration-infraction",
+    "word_count": 30,
+    "start_index": 3480,
+    "end_index": 3509
+  },
+  "words": [
+    {
+      "word_id": "0daa25c0-c4ab-45ed-ac09-67a4c62b06f0",
+      "english": "frustration",
+      "translation": null,
+      "hebrew": "תסכול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt a lot of frustration after failing the test.",
+        "The traffic jam caused great frustration."
+      ],
+      "synonyms": ["disappointment", "irritation", "annoyance"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ad5292c3-6b58-4669-bfcc-cb21e1d284cd",
+      "english": "fuel",
+      "translation": null,
+      "hebrew": "דלק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car runs on fuel.",
+        "The price of fuel has increased."
+      ],
+      "synonyms": ["gasoline", "petrol"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d364ff26-4aa7-496f-843f-611127887beb",
+      "english": "fume",
+      "translation": null,
+      "hebrew": "עשן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The fumes from the car exhaust were strong.",
+        "The chemical fumes made me cough."
+      ],
+      "synonyms": ["smoke", "vapor"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6abe65f9-a4af-4b26-884a-89b078142162",
+      "english": "fungus",
+      "translation": null,
+      "hebrew": "פטריה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Mushrooms are a type of fungus.",
+        "Some fungi can be harmful to plants."
+      ],
+      "synonyms": ["mushroom", "mold"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "65410f66-7910-4f98-8ac3-78f5b4197fe9",
+      "english": "fur",
+      "translation": null,
+      "hebrew": "פרווה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat has soft fur.",
+        "She wore a coat with fur trim."
+      ],
+      "synonyms": ["coat", "hair"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "62bdf073-1bee-4cd8-ba3b-fe24dec2beed",
+      "english": "fury",
+      "translation": null,
+      "hebrew": "זעם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was filled with fury when he heard the news.",
+        "The storm raged with great fury."
+      ],
+      "synonyms": ["rage", "wrath", "anger"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5c4a2acd-da0d-4f56-b8c4-68a17e220dac",
+      "english": "gamble",
+      "translation": null,
+      "hebrew": "להמר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He likes to gamble on sports games.",
+        "Don't gamble away all your money."
+      ],
+      "synonyms": ["bet", "wager"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "96a6d7e6-afd3-4494-8906-556a19263243",
+      "english": "gene",
+      "translation": null,
+      "hebrew": "גן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Genes determine our physical characteristics.",
+        "The disease is caused by a defective gene."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fe5ab1e3-cfb6-4d32-b0c9-d04215dcaa4d",
+      "english": "genesis",
+      "translation": null,
+      "hebrew": "בראשית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book of Genesis tells the story of creation.",
+        "The genesis of the project was a simple idea."
+      ],
+      "synonyms": ["origin", "beginning", "start"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a85c6190-47a3-4038-915f-02559a720cee",
+      "english": "genesis",
+      "translation": null,
+      "hebrew": "היווצרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The genesis of the universe is a mystery.",
+        "The movie tells the genesis of the band."
+      ],
+      "synonyms": ["origin", "source", "formation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5df9df21-f9e6-4aa4-8654-c12b6a373eea",
+      "english": "genetic",
+      "translation": null,
+      "hebrew": "גנטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Genetic engineering is a controversial topic.",
+        "They are studying the genetic causes of the disease."
+      ],
+      "synonyms": ["hereditary"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cc9a967b-f4ac-4666-9223-b3966b781f4b",
+      "english": "genial",
+      "translation": null,
+      "hebrew": "נעים",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a genial personality.",
+        "She gave me a genial smile."
+      ],
+      "synonyms": ["friendly", "amiable", "pleasant"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e7ae1ce4-c973-4a7c-b0f7-d7ff27ac9ef0",
+      "english": "glance",
+      "translation": null,
+      "hebrew": "להעיף מבט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She glanced at her watch.",
+        "He glanced around the room."
+      ],
+      "synonyms": ["peek", "look"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "32495db3-cf07-46b2-8a37-692e1162aa32",
+      "english": "glitch",
+      "translation": null,
+      "hebrew": "תקלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was a glitch in the system.",
+        "The program had a minor glitch."
+      ],
+      "synonyms": ["bug", "error", "malfunction"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2e8bfe59-7a80-44b7-b3c3-3e9add58dff4",
+      "english": "glorify",
+      "translation": null,
+      "hebrew": "לפאר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie glorifies violence.",
+        "They glorified the hero's achievements."
+      ],
+      "synonyms": ["praise", "exalt", "honor"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "076bf23c-2490-42f9-9ab4-5ffc9ca67c67",
+      "english": "grace",
+      "translation": null,
+      "hebrew": "חסד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She accepted the award with grace.",
+        "He moved with grace and elegance."
+      ],
+      "synonyms": ["elegance", "poise", "charm"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "085c4f5b-b63d-4f13-b4e1-a7fe02b573c2",
+      "english": "gracious",
+      "translation": null,
+      "hebrew": "אדיב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a gracious hostess.",
+        "Thank you for your gracious hospitality."
+      ],
+      "synonyms": ["kind", "courteous", "polite"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "64ec1f0e-ce7b-4e1f-955d-2edfdc0a2e01",
+      "english": "grain",
+      "translation": null,
+      "hebrew": "דגן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wheat is a type of grain.",
+        "The fields were full of grain."
+      ],
+      "synonyms": ["cereal"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9a4a9cfe-13a5-40ef-9947-a2d8e51925aa",
+      "english": "grain",
+      "translation": null,
+      "hebrew": "גרגר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A grain of sand.",
+        "A grain of truth."
+      ],
+      "synonyms": ["particle", "bit"],
+      "topic_tags": ["general"]
+    },
+     {
+      "word_id": "45683afb-3acf-4086-afd2-5c56f3472361",
+      "english": "hike",
+      "translation": null,
+      "hebrew": "טיול רגלי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We went for a hike in the mountains.",
+        "Hiking is a great way to exercise."
+      ],
+      "synonyms": ["trek", "walk"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "323a78a2-4d42-4565-8bb8-0ac166203dbd",
+      "english": "hobby",
+      "translation": null,
+      "hebrew": "תחביב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My hobby is collecting stamps.",
+        "She enjoys painting as a hobby."
+      ],
+      "synonyms": ["pastime", "interest"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2b02d9fa-181b-4216-84a1-812bf5803a75",
+      "english": "humiliate",
+      "translation": null,
+      "hebrew": "להשפיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to humiliate me in front of everyone.",
+        "Don't humiliate yourself by begging."
+      ],
+      "synonyms": ["degrade", "shame", "disgrace"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "67b28546-9230-4881-bbd7-b046dab61a84",
+      "english": "humility",
+      "translation": null,
+      "hebrew": "ענווה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He showed great humility in accepting the award.",
+        "Humility is a virtue."
+      ],
+      "synonyms": ["modesty", "meekness"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "54d3aba9-28eb-4374-a61c-d1a204ca214e",
+      "english": "ice cream",
+      "translation": null,
+      "hebrew": "גלידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I love eating ice cream on a hot day.",
+        "What's your favorite flavor of ice cream?"
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7f8581b9-5843-4ef3-bb33-c8fd95a6ffa5",
+      "english": "iceberg",
+      "translation": null,
+      "hebrew": "קרחון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "An iceberg floated in the ocean.",
+        "Only a small part of an iceberg is visible above the water."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "24ded8f3-50f4-440e-bdbc-d4c47e35eed9",
+      "english": "icicle",
+      "translation": null,
+      "hebrew": "נטיף קרח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Icicles hung from the roof.",
+        "The sun melted the icicles."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6e9f1d67-4ebe-4ae8-8950-2650f144997f",
+      "english": "indigenous",
+      "translation": null,
+      "hebrew": "ילידי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The indigenous people of the Americas.",
+        "The plant is indigenous to this region."
+      ],
+      "synonyms": ["native", "aboriginal"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e51a58ec-8e6e-458e-8e60-7ff3315b8bf4",
+      "english": "inflammation",
+      "translation": null,
+      "hebrew": "דלקת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The injury caused inflammation.",
+        "Anti-inflammatory drugs can reduce inflammation."
+      ],
+      "synonyms": ["swelling", "irritation"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "40f78204-2b24-491a-b773-9ccf573009d2",
+      "english": "inflate",
+      "translation": null,
+      "hebrew": "לנפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Inflate the tires of the bicycle.",
+        "Inflate the balloon."
+      ],
+      "synonyms": ["blow up", "pump up"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2a0dbe8d-6a7a-4ce0-aef1-675f61bd4b84",
+      "english": "infraction",
+      "translation": null,
+      "hebrew": "הפרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "That is a minor infraction of the rules.",
+        "A traffic infraction."
+      ],
+      "synonyms": ["violation", "offense"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

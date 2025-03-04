@@ -1,0 +1,571 @@
+{
+  "_meta": {
+    "chunk_number": 95,
+    "words_range": "shift-sufficient",
+    "word_count": 30,
+    "start_index": 2820,
+    "end_index": 2849
+  },
+  "words": [
+    {
+      "word_id": "b5ec41da-2898-4d7b-87f2-ce0cc4ea9598",
+      "english": "shift",
+      "translation": null,
+      "hebrew": "שינוי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There has been a shift in public opinion.",
+        "The company is undergoing a major shift in strategy."
+      ],
+      "synonyms": [
+        "change",
+        "transition"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9cdd57eb-f865-49b8-92b7-193af6a69fd2",
+      "english": "shiny",
+      "translation": null,
+      "hebrew": "מבריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The car is shiny and new.",
+        "Her hair was shiny and black."
+      ],
+      "synonyms": [
+        "glossy",
+        "gleaming"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c1c861c9-48f0-4e1a-bd57-29970a183a5b",
+      "english": "side effect",
+      "translation": null,
+      "hebrew": "תופעת לוואי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The drug has some unpleasant side effects.",
+        "One side effect of the treatment is hair loss."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "5d6e3185-47f6-4364-af13-0e01e1a601e1",
+      "english": "simplicity",
+      "translation": null,
+      "hebrew": "פשטות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The beauty of the design lies in its simplicity.",
+        "He admired her simplicity and honesty."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "69db886c-d27b-4e33-84e2-92be64e04f8f",
+      "english": "sketch",
+      "translation": null,
+      "hebrew": "סקיצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a quick sketch of the landscape.",
+        "The architect showed us a sketch of the building."
+      ],
+      "synonyms": [
+        "drawing",
+        "outline"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "19ae7eb2-8c08-4386-9e96-a933dfdc04e0",
+      "english": "skyrocket",
+      "translation": null,
+      "hebrew": "להמריא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company's profits skyrocketed last year.",
+        "Prices have skyrocketed due to the increased demand."
+      ],
+      "synonyms": [
+        "soar",
+        "surge"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "5b1fc89e-e388-43e9-8e74-6a3f086ef2f5",
+      "english": "skyscraper",
+      "translation": null,
+      "hebrew": "גורד שחקים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "New York City is famous for its skyscrapers.",
+        "The skyscraper dominates the skyline."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "architecture"
+      ]
+    },
+    {
+      "word_id": "08dc7789-6635-4439-82d5-bb57109fd7f7",
+      "english": "sorrow",
+      "translation": null,
+      "hebrew": "צער",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He felt great sorrow at the loss of his friend.",
+        "Her eyes were filled with sorrow."
+      ],
+      "synonyms": [
+        "grief",
+        "sadness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "36d50d21-94d4-4e86-a9f9-e51296d7c8c1",
+      "english": "spark",
+      "translation": null,
+      "hebrew": "ניצוץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A spark ignited the fire.",
+        "The idea sparked a new interest in the subject."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9d5b9e03-bfc3-4a69-b99e-8f723f1e2ece",
+      "english": "spectacular",
+      "translation": null,
+      "hebrew": "מרהיב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The view from the top of the mountain was spectacular.",
+        "The fireworks display was spectacular."
+      ],
+      "synonyms": [
+        "amazing",
+        "impressive"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ad64ddf5-3af2-44a7-8d8b-44a054d6d8f4",
+      "english": "spirit",
+      "translation": null,
+      "hebrew": "רוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a strong spirit.",
+        "The team showed great spirit in the face of defeat."
+      ],
+      "synonyms": [
+        "courage",
+        "energy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "904c4b7b-0677-4458-be54-a6d98be64de0",
+      "english": "spirit",
+      "translation": null,
+      "hebrew": "נשמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His spirit lives on in his children.",
+        "The music touched my spirit."
+      ],
+      "synonyms": [
+        "soul"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "e67cfd1d-6d94-4bb5-9076-273a7b706220",
+      "english": "spiritual",
+      "translation": null,
+      "hebrew": "רוחני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a spiritual person.",
+        "He is seeking spiritual enlightenment."
+      ],
+      "synonyms": [
+        "religious",
+        "holy"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "974a4d49-8ad4-4e02-9bd7-e0a1337d81ac",
+      "english": "spontaneously",
+      "translation": null,
+      "hebrew": "באופן ספונטני",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The crowd spontaneously erupted in applause.",
+        "He spontaneously offered to help."
+      ],
+      "synonyms": [
+        "naturally",
+        "impulsively"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f694999d-1499-496d-8999-999999999999",
+      "english": "spot",
+      "translation": null,
+      "hebrew": "מקום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a nice spot for a picnic.",
+        "The car was parked in a parking spot."
+      ],
+      "synonyms": [
+        "location",
+        "place"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f694999d-1499-496d-8999-999999999998",
+      "english": "spot",
+      "translation": null,
+      "hebrew": "לזהות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I spotted him in the crowd.",
+        "Can you spot the difference between the two pictures?"
+      ],
+      "synonyms": [
+        "detect",
+        "notice"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9c8cdb97-deb5-4cf8-84ae-e14914fb9530",
+      "english": "steam",
+      "translation": null,
+      "hebrew": "אדים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The kettle is steaming.",
+        "The room was filled with steam."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "190c40ca-d937-48ec-a31d-f6048bd283f5",
+      "english": "steamship",
+      "translation": null,
+      "hebrew": "אוניית קיטור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The steamship crossed the Atlantic.",
+        "He traveled by steamship to America."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "b7ef665f-e0a2-4bba-a344-a29e144f37f6",
+      "english": "straightforward",
+      "translation": null,
+      "hebrew": "פשוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were straightforward.",
+        "He is a straightforward person."
+      ],
+      "synonyms": [
+        "simple",
+        "easy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8ad52d62-ea74-42b6-b571-920f79248fab",
+      "english": "stream",
+      "translation": null,
+      "hebrew": "נחל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The stream flows through the valley.",
+        "We sat by the stream and listened to the water."
+      ],
+      "synonyms": [
+        "brook",
+        "creek"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "3f7fbf3d-76bf-4024-8af7-bba25247b779",
+      "english": "stricken",
+      "translation": null,
+      "hebrew": "מוכה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The town was stricken by poverty.",
+        "He was stricken with grief."
+      ],
+      "synonyms": [
+        "afflicted",
+        "hit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ce44d41-6546-4091-9edf-c61bebae8862",
+      "english": "stride",
+      "translation": null,
+      "hebrew": "צעד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He took long strides.",
+        "She walked with a confident stride."
+      ],
+      "synonyms": [
+        "step",
+        "pace"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ef4722c-9731-48e8-88ac-42725d2bf9bc",
+      "english": "strife",
+      "translation": null,
+      "hebrew": "מאבק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has been torn by strife.",
+        "There was a lot of strife within the community."
+      ],
+      "synonyms": [
+        "conflict",
+        "struggle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0a657e06-2f77-4cfa-a3a2-23849591e3e5",
+      "english": "strike",
+      "translation": null,
+      "hebrew": "לשבות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The workers decided to strike.",
+        "The strike lasted for two weeks."
+      ],
+      "synonyms": [
+        "protest",
+        "walkout"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f3a92628-6f2b-4efd-a0ba-9a816d11c4cb",
+      "english": "strike",
+      "translation": null,
+      "hebrew": "להכות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The lightning struck the tree.",
+        "He struck the ball with all his might."
+      ],
+      "synonyms": [
+        "hit",
+        "attack"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3727bcc-ec0e-4479-86de-1edc0c9d3065",
+      "english": "stripes",
+      "translation": null,
+      "hebrew": "פסים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The zebra has black and white stripes.",
+        "The shirt has blue and white stripes."
+      ],
+      "synonyms": [
+        "lines"
+      ],
+      "topic_tags": [
+        "general",
+        "fashion"
+      ]
+    },
+    {
+      "word_id": "df5b1af2-0df6-45c5-aa63-153803a749f0",
+      "english": "structure",
+      "translation": null,
+      "hebrew": "מבנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The building has a complex structure.",
+        "The structure of the government is based on democracy."
+      ],
+      "synonyms": [
+        "framework",
+        "organization"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27f7f8f7-4e60-4ead-bebd-7964617cffc5",
+      "english": "stumble",
+      "translation": null,
+      "hebrew": "למעוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He stumbled and fell.",
+        "She stumbled over the words."
+      ],
+      "synonyms": [
+        "trip",
+        "falter"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ce0f65cf-378d-49d8-a39d-3bdd31953336",
+      "english": "substitute",
+      "translation": null,
+      "hebrew": "תחליף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Margarine is a substitute for butter.",
+        "He was a substitute teacher."
+      ],
+      "synonyms": [
+        "replacement",
+        "alternative"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "43f76f69-a6ed-4a96-989a-79e7b78cd89c",
+      "english": "sufficient",
+      "translation": null,
+      "hebrew": "מספיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We have sufficient food for the journey.",
+        "Is there sufficient evidence to prove his guilt?"
+      ],
+      "synonyms": [
+        "enough",
+        "adequate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

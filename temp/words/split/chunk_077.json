@@ -1,0 +1,573 @@
+{
+  "_meta": {
+    "chunk_number": 77,
+    "words_range": "necessary-performer",
+    "word_count": 30,
+    "start_index": 2280,
+    "end_index": 2309
+  },
+  "words": [
+    {
+      "word_id": "beb169d6-6846-49a4-8c9f-3d9bde3b593d",
+      "english": "necessary",
+      "translation": null,
+      "hebrew": "הכרחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is necessary for survival.",
+        "It is necessary to have a passport to travel abroad."
+      ],
+      "synonyms": [
+        "essential",
+        "required"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5e4ae1ca-7f64-4ee0-8118-6d1a7c725dec",
+      "english": "neglect",
+      "translation": null,
+      "hebrew": "להזניח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't neglect your studies.",
+        "He neglected to lock the door."
+      ],
+      "synonyms": [
+        "ignore",
+        "disregard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a859bcc6-df88-41d7-8bd0-cd7fa666dfb1",
+      "english": "negligence",
+      "translation": null,
+      "hebrew": "רשלנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His negligence caused the accident.",
+        "The company was sued for negligence."
+      ],
+      "synonyms": [
+        "carelessness",
+        "omission"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "396c9a07-4c79-455c-94a6-1f51568296e3",
+      "english": "nocturnal",
+      "translation": null,
+      "hebrew": "לילי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Owls are nocturnal animals.",
+        "He has a nocturnal lifestyle."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "a9938e5a-1b95-4772-8ed8-67c4147be76e",
+      "english": "noon",
+      "translation": null,
+      "hebrew": "צהריים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We will meet at noon.",
+        "The sun is highest at noon."
+      ],
+      "synonyms": [
+        "midday"
+      ],
+      "topic_tags": [
+        "general",
+        "time"
+      ]
+    },
+    {
+      "word_id": "242dd52d-c2f8-464c-b2eb-efccc99ce7de",
+      "english": "notable",
+      "translation": null,
+      "hebrew": "בולט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a notable figure in the community.",
+        "The event was notable for its success."
+      ],
+      "synonyms": [
+        "remarkable",
+        "famous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "982957db-6ab3-4bce-9e18-2129e145d22f",
+      "english": "notice",
+      "translation": null,
+      "hebrew": "הודעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Did you see the notice on the door?",
+        "I received a notice from the bank."
+      ],
+      "synonyms": [
+        "announcement",
+        "message"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8eec58ef-b073-4205-aca4-c45072dfcc06",
+      "english": "notice",
+      "translation": null,
+      "hebrew": "לשים לב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Did you notice anything strange?",
+        "I didn't notice him leave."
+      ],
+      "synonyms": [
+        "observe",
+        "detect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "53b9c64e-e3b1-4151-90a5-ea8c9aaa8fa2",
+      "english": "notify",
+      "translation": null,
+      "hebrew": "להודיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please notify us of any changes.",
+        "You will be notified by email."
+      ],
+      "synonyms": [
+        "inform",
+        "advise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3fae1a3-4a40-42d9-97b8-185ac5ea9e2f",
+      "english": "obedience",
+      "translation": null,
+      "hebrew": "ציות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Children should show obedience to their parents.",
+        "The dog is trained in obedience."
+      ],
+      "synonyms": [
+        "compliance",
+        "submission"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c4affe95-b73e-4d5b-bfe0-a0c9c9c47026",
+      "english": "obey",
+      "translation": null,
+      "hebrew": "לציית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must obey the law.",
+        "The soldiers obey their commander."
+      ],
+      "synonyms": [
+        "comply",
+        "follow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "14acef73-7685-46bf-9880-6953f3f48e07",
+      "english": "objective",
+      "translation": null,
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your objective in this project?",
+        "The objective of the game is to score points."
+      ],
+      "synonyms": [
+        "goal",
+        "aim"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4b57e2b4-82de-4539-b672-380c656f0ae7",
+      "english": "obstacle",
+      "translation": null,
+      "hebrew": "מכשול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Poverty is a major obstacle to education.",
+        "They overcame many obstacles to achieve their goals."
+      ],
+      "synonyms": [
+        "barrier",
+        "hindrance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "00469f57-cc41-42a4-b032-c3c11b686c17",
+      "english": "offshore",
+      "translation": null,
+      "hebrew": "מחוץ לחוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has offshore accounts.",
+        "They work on an offshore oil rig."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "51b04fbd-dec9-45c9-af5d-f3aa9b6ae9ec",
+      "english": "orbit",
+      "translation": null,
+      "hebrew": "מסלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Earth orbits the sun.",
+        "The satellite is in orbit."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "3ef1e16f-9aa1-477a-9b52-691df1c6786c",
+      "english": "orient",
+      "translation": null,
+      "hebrew": "לכוון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please orient the map to the north.",
+        "They are trying to orient themselves in the new city."
+      ],
+      "synonyms": [
+        "align",
+        "position"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "04509e31-7bd5-4ad6-9625-5f6029ac6cec",
+      "english": "oriented",
+      "translation": null,
+      "hebrew": "מכוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is customer-oriented.",
+        "He is very goal-oriented."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cf364e79-d3e9-4dbe-aa04-e7c40ff29ca3",
+      "english": "outer",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The outer layer of the skin.",
+        "The outer space."
+      ],
+      "synonyms": [
+        "external",
+        "outside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b1b9b49f-5112-40a4-9771-2dd9d0502c44",
+      "english": "outline",
+      "translation": null,
+      "hebrew": "קו מתאר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Draw an outline of the house.",
+        "Here is an outline of the plan."
+      ],
+      "synonyms": [
+        "sketch",
+        "summary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2984f092-3607-46ae-a4f4-dd1febcc632a",
+      "english": "overlooked",
+      "translation": null,
+      "hebrew": "התעלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He overlooked the mistake.",
+        "The city overlooks the sea."
+      ],
+      "synonyms": [
+        "missed",
+        "neglected"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ec17c73-5b10-42e7-a3f6-c2f1da6f7b7f",
+      "english": "parallel",
+      "translation": null,
+      "hebrew": "מקביל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two lines are parallel.",
+        "Their careers followed parallel paths."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7b9c4d3-52f5-4624-ad86-d3f03f7f685c",
+      "english": "party",
+      "translation": null,
+      "hebrew": "מסיבה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We are having a party tonight.",
+        "Did you enjoy the party?"
+      ],
+      "synonyms": [
+        "celebration",
+        "gathering"
+      ],
+      "topic_tags": [
+        "general",
+        "social"
+      ]
+    },
+    {
+      "word_id": "c431c39d-dc4e-43a4-86dd-71dc77e67719",
+      "english": "party",
+      "translation": null,
+      "hebrew": "צד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Which party do you support?",
+        "He is a member of the Green Party."
+      ],
+      "synonyms": [
+        "faction",
+        "group"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "d4b6d07e-b2f3-479d-bc61-0889f0f089a5",
+      "english": "pattern",
+      "translation": null,
+      "hebrew": "דפוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pattern on the wallpaper is beautiful.",
+        "There is a pattern to his behavior."
+      ],
+      "synonyms": [
+        "design",
+        "model"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "69a56c44-c485-46d2-8d9e-6eb8362e2f4e",
+      "english": "penned",
+      "translation": null,
+      "hebrew": "כתב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He penned a letter to his friend.",
+        "She penned a poem."
+      ],
+      "synonyms": [
+        "wrote",
+         "authored"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f0a48fee-046e-45b9-abf7-e07af417b51d",
+      "english": "perceive",
+      "translation": null,
+      "hebrew": "לתפוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "How do you perceive the situation?",
+        "I perceive a change in his attitude."
+      ],
+      "synonyms": [
+        "notice",
+        "understand"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b56309a8-758d-4857-a652-38c14ec07897",
+      "english": "perform",
+      "translation": null,
+      "hebrew": "לבצע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The operation was successfully performed.",
+        "He performs his duties well."
+      ],
+      "synonyms": [
+        "execute",
+        "do"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b4b289e9-2831-44b0-8335-304b19c7f7b8",
+      "english": "performance",
+      "translation": null,
+      "hebrew": "ביצוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The performance of the team was excellent.",
+        "The car's performance is impressive."
+      ],
+      "synonyms": [
+        "execution",
+        "achievement"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5d013813-d368-4d97-af9b-69a9355b933c",
+      "english": "performance",
+      "translation": null,
+      "hebrew": "הופעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The band gave a great performance.",
+        "She is known for her acting performance."
+      ],
+      "synonyms": [
+        "show",
+        "act"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "32bd47a0-67c5-408a-99cd-51c19798b014",
+      "english": "performer",
+      "translation": null,
+      "hebrew": "מבצע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a talented performer.",
+        "The performer received a standing ovation."
+      ],
+      "synonyms": [
+        "artist",
+        "actor"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    }
+  ]
+}

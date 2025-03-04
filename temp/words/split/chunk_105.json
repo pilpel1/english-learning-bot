@@ -1,0 +1,577 @@
+{
+  "_meta": {
+    "chunk_number": 105,
+    "words_range": "migrate-patiently",
+    "word_count": 30,
+    "start_index": 3120,
+    "end_index": 3149
+  },
+  "words": [
+    {
+      "word_id": "8b30aac6-df98-4901-abae-9fa6a70efdfe",
+      "english": "migrate",
+      "translation": null,
+      "hebrew": "להגר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Birds migrate south for the winter.",
+        "Many people migrate to cities in search of work."
+      ],
+      "synonyms": [
+        "emigrate",
+        "immigrate"
+      ],
+      "topic_tags": [
+        "general",
+        "travel",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "96678ee5-8a0d-4849-90c3-841cec3a6441",
+      "english": "mimic",
+      "translation": null,
+      "hebrew": "לחקות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He can mimic the president's voice perfectly.",
+        "Children often mimic their parents' behavior."
+      ],
+      "synonyms": [
+        "imitate",
+        "copy"
+      ],
+      "topic_tags": [
+        "general",
+        "behavior"
+      ]
+    },
+    {
+      "word_id": "24db6e8f-7377-49b5-a7c8-da11543ba671",
+      "english": "minister",
+      "translation": null,
+      "hebrew": "שר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Prime Minister appointed a new Minister of Education.",
+        "The minister gave a speech about the new policies."
+      ],
+      "synonyms": [
+        "official",
+        "diplomat"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "22424f3d-b952-4df5-946d-c74205c2fa99",
+      "english": "monarch",
+      "translation": null,
+      "hebrew": "מלך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The monarch ruled the kingdom for 50 years.",
+        "The country is governed by a monarch."
+      ],
+      "synonyms": [
+        "ruler",
+        "sovereign"
+      ],
+      "topic_tags": [
+        "general",
+        "history",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "1cc06b7f-0ed2-4bb5-8478-49d42f0a8e2f",
+      "english": "morose",
+      "translation": null,
+      "hebrew": "עגום",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was feeling morose after the bad news.",
+        "The rainy weather made her morose."
+      ],
+      "synonyms": [
+        "gloomy",
+        "sad"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "d899f897-b3eb-44a7-8e6e-725ee29180ab",
+      "english": "muscle",
+      "translation": null,
+      "hebrew": "שריר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has strong muscles.",
+        "Exercise helps to build muscle."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health",
+        "body"
+      ]
+    },
+    {
+      "word_id": "cdb13bb5-e824-49cd-8cb1-0154055e8f48",
+      "english": "mutation",
+      "translation": null,
+      "hebrew": "מוטציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mutation caused a change in the organism's DNA.",
+        "Some mutations can be harmful."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science",
+        "biology"
+      ]
+    },
+    {
+      "word_id": "2e7c1d41-079a-4e2a-8671-9971046c34f2",
+      "english": "mystery",
+      "translation": null,
+      "hebrew": "תעלומה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police are trying to solve the mystery.",
+        "It's a mystery how he disappeared."
+      ],
+      "synonyms": [
+        "enigma",
+        "puzzle"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "794c1e82-533d-409b-bb1f-f007e32f4829",
+      "english": "narcotic",
+      "translation": null,
+      "hebrew": "סם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor prescribed a narcotic for the pain.",
+        "Narcotics can be addictive."
+      ],
+      "synonyms": [
+        "drug",
+        "opiate"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "051d8d3b-9ced-432d-97a2-264a66fcc325",
+      "english": "neighbor",
+      "translation": null,
+      "hebrew": "שכן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My neighbor is a very friendly person.",
+        "We borrowed a cup of sugar from our neighbor."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "community"
+      ]
+    },
+    {
+      "word_id": "2ba5725e-ed1d-4183-b1df-aa5eec4a77f2",
+      "english": "neighborhood",
+      "translation": null,
+      "hebrew": "שכונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a quiet neighborhood.",
+        "The neighborhood has a strong sense of community."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "community"
+      ]
+    },
+    {
+      "word_id": "530d55cf-de83-4c95-988d-84e77d31dc48",
+      "english": "noise",
+      "translation": null,
+      "hebrew": "רעש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The noise from the construction site is very loud.",
+        "I can't concentrate with all the noise."
+      ],
+      "synonyms": [
+        "sound",
+        "din"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e4314fcf-76d5-4ea8-98c7-f74363bb13bf",
+      "english": "nuisance",
+      "translation": null,
+      "hebrew": "מטרד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The barking dog is a nuisance.",
+        "The flies were a real nuisance."
+      ],
+      "synonyms": [
+        "pest",
+        "annoyance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9a9ca237-7038-4297-838f-42de40b8da2a",
+      "english": "nurse",
+      "translation": null,
+      "hebrew": "אחות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The nurse took care of the patients.",
+        "She is training to be a nurse."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "a398a93c-92b2-4e15-834a-e3efcb6ab2d8",
+      "english": "nursery",
+      "translation": null,
+      "hebrew": "גן ילדים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The children play in the nursery.",
+        "She works at a nursery."
+      ],
+      "synonyms": [
+        "kindergarten"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "4c6eeda5-18ba-4d6e-bf76-b4445e310c94",
+      "english": "nurture",
+      "translation": null,
+      "hebrew": "לטפח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Parents nurture their children.",
+        "We need to nurture our talents."
+      ],
+      "synonyms": [
+        "foster",
+        "cultivate"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "96ede42e-4e16-47a7-9ad4-f94ed4e97d63",
+      "english": "obligation",
+      "translation": null,
+      "hebrew": "חובה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We have an obligation to help those in need.",
+        "It's my obligation to tell you the truth."
+      ],
+      "synonyms": [
+        "duty",
+        "responsibility"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fccc9eed-dd58-4f39-8ff3-e5309e61320e",
+      "english": "oblige",
+      "translation": null,
+      "hebrew": "לחייב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The law obliges companies to pay taxes.",
+        "I felt obliged to help her."
+      ],
+      "synonyms": [
+        "require",
+        "compel"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "320297e4-4930-4c77-b8a1-af491e33174e",
+      "english": "ocean",
+      "translation": null,
+      "hebrew": "אוקיינוס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ocean is very deep.",
+        "We sailed across the ocean."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "19fe06a7-dcaa-4fc0-999e-32dfa8ab043a",
+      "english": "offset",
+      "translation": null,
+      "hebrew": "לקזז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The gains offset the losses.",
+        "We need to offset our carbon emissions."
+      ],
+      "synonyms": [
+        "counterbalance",
+        "compensate"
+      ],
+      "topic_tags": [
+        "general",
+        "finance"
+      ]
+    },
+    {
+      "word_id": "2a53675f-f2c6-4a8e-9016-99a02ec9b7c1",
+      "english": "overly",
+      "translation": null,
+      "hebrew": "יותר מדי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is overly sensitive.",
+        "The food was overly sweet."
+      ],
+      "synonyms": [
+        "excessively",
+        "too"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9e75e56e-6e1d-4301-b10e-97319200f80b",
+      "english": "oversee",
+      "translation": null,
+      "hebrew": "לפקח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He oversees the project.",
+        "She oversees the work of the employees."
+      ],
+      "synonyms": [
+        "supervise",
+        "manage"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "a515f7b1-ace7-4547-ba64-556b9991c710",
+      "english": "overwhelm",
+      "translation": null,
+      "hebrew": "להמם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The news overwhelmed her.",
+        "The task overwhelmed him."
+      ],
+      "synonyms": [
+        "overpower",
+        "stun"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "a916ec9c-352a-4745-9517-a7c7b1dd62a1",
+      "english": "package",
+      "translation": null,
+      "hebrew": "חבילה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I received a package in the mail.",
+        "The package was wrapped in paper."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "88cbb73a-0f97-4a69-ae43-9c66caba4af4",
+      "english": "painter",
+      "translation": null,
+      "hebrew": "צייר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The painter is working on a new masterpiece.",
+        "He is a famous painter."
+      ],
+      "synonyms": [
+        "artist"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "89751c4f-f989-4170-86d8-c7a957a9172c",
+      "english": "painting",
+      "translation": null,
+      "hebrew": "ציור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The painting is beautiful.",
+        "She bought a painting at the art gallery."
+      ],
+      "synonyms": [
+        "artwork"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "939ae6ff-e872-40af-a57f-a5413aad2799",
+      "english": "passion",
+      "translation": null,
+      "hebrew": "תשוקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a passion for music.",
+        "She spoke with passion about her work."
+      ],
+      "synonyms": [
+        "enthusiasm",
+        "zeal"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "6299c324-a6eb-48a5-819f-fecd6600b16e",
+      "english": "path",
+      "translation": null,
+      "hebrew": "שביל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The path leads to the top of the mountain.",
+        "We walked along the path."
+      ],
+      "synonyms": [
+        "trail",
+        "route"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "fa3e4bc0-fea6-41c5-a22e-6f73ff65ed2e",
+      "english": "patience",
+      "translation": null,
+      "hebrew": "סבלנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need to have patience.",
+        "Patience is a virtue."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "ddeb4114-de3d-4e1d-bfb9-2abae7170ea1",
+      "english": "patiently",
+      "translation": null,
+      "hebrew": "בסבלנות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She waited patiently for her turn.",
+        "He listened patiently to the explanation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

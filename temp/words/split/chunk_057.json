@@ -1,0 +1,605 @@
+{
+  "_meta": {
+    "chunk_number": 57,
+    "words_range": "design-exhausting",
+    "word_count": 30,
+    "start_index": 1680,
+    "end_index": 1709
+  },
+  "words": [
+    {
+      "word_id": "2726bd32-336e-4d5c-ae15-a62fbd14a9dd",
+      "english": "design",
+      "translation": null,
+      "hebrew": "לתכנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He designed the new building.",
+        "She is designing a new dress."
+      ],
+      "synonyms": [
+        "plan",
+        "create"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "424e66e1-5ec7-4b6f-997a-2a1a4cb08c92",
+      "english": "designer",
+      "translation": null,
+      "hebrew": "מעצב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a famous fashion designer.",
+        "She is a talented graphic designer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "ac0dd624-9174-44b5-a297-6f26bcae6f3e",
+      "english": "detect",
+      "translation": null,
+      "hebrew": "לגלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sensor can detect smoke.",
+        "The doctor detected a problem with his heart."
+      ],
+      "synonyms": [
+        "discover",
+        "sense"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "375bd166-2585-426c-93b2-92aec6ad2c28",
+      "english": "determine",
+      "translation": null,
+      "hebrew": "לקבוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to determine the cause of the problem.",
+        "The judge will determine the sentence."
+      ],
+      "synonyms": [
+        "decide",
+        "establish"
+      ],
+      "topic_tags": [
+        "general",
+        "decisionmaking"
+      ]
+    },
+    {
+      "word_id": "595827a4-4d6b-4dd7-a997-7b8fa9907629",
+      "english": "determined",
+      "translation": null,
+      "hebrew": "נחוש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is determined to succeed.",
+        "He is a determined athlete."
+      ],
+      "synonyms": [
+        "resolute",
+        "firm"
+      ],
+      "topic_tags": [
+        "general",
+        "personality"
+      ]
+    },
+    {
+      "word_id": "2cd76b6f-a9fe-4b50-b0b4-4ed7c8bd3052",
+      "english": "develop",
+      "translation": null,
+      "hebrew": "לפתח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is developing a new product.",
+        "He wants to develop his skills."
+      ],
+      "synonyms": [
+        "improve",
+        "expand"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "ed497e70-76e4-461e-a46c-fccef8b08fb5",
+      "english": "development",
+      "translation": null,
+      "hebrew": "פיתוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The development of new technologies is important.",
+        "There has been a lot of development in the area."
+      ],
+      "synonyms": [
+        "growth",
+        "progress"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "4459e1d1-ebb9-406f-a25a-d168d484c267",
+      "english": "diagram",
+      "translation": null,
+      "hebrew": "דיאגרמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The diagram shows the structure of the atom.",
+        "He drew a diagram to explain the process."
+      ],
+      "synonyms": [
+        "chart",
+        "graph"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "1937d847-90e9-4b28-a5c2-63c247770dac",
+      "english": "dialect",
+      "translation": null,
+      "hebrew": "ניב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The local dialect is difficult to understand.",
+        "He speaks in a regional dialect."
+      ],
+      "synonyms": [
+        "accent",
+        "vernacular"
+      ],
+      "topic_tags": [
+        "general",
+        "language"
+      ]
+    },
+    {
+      "word_id": "01b56fd8-6c09-4ce6-8381-ad177d3a71ea",
+      "english": "difference",
+      "translation": null,
+      "hebrew": "הבדל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a big difference between the two cars.",
+        "What is the difference between these two words?"
+      ],
+      "synonyms": [
+        "contrast",
+        "disparity"
+      ],
+      "topic_tags": [
+        "general",
+        "comparison"
+      ]
+    },
+    {
+      "word_id": "a6620a51-600b-4da6-ad39-e62f8bf7b2d6",
+      "english": "differences",
+      "translation": null,
+      "hebrew": "חילוקי דעות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They have some differences, but they are still friends.",
+        "There are many differences between them."
+      ],
+      "synonyms": [
+        "disagreements",
+        "conflicts"
+      ],
+      "topic_tags": [
+        "general",
+        "relationships"
+      ]
+    },
+    {
+      "word_id": "b7b1d81b-23d0-4b52-b21d-5c070e23e59b",
+      "english": "different",
+      "translation": null,
+      "hebrew": "שונה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two cars are very different.",
+        "She has a different opinion."
+      ],
+      "synonyms": [
+        "distinct",
+        "unlike"
+      ],
+      "topic_tags": [
+        "general",
+        "comparison"
+      ]
+    },
+    {
+      "word_id": "c6d5c5f4-51c7-4895-829c-22f12d698194",
+      "english": "differentiate",
+      "translation": null,
+      "hebrew": "להבדיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It is difficult to differentiate between the two.",
+        "We need to differentiate our product from the competition."
+      ],
+      "synonyms": [
+        "distinguish",
+        "discriminate"
+      ],
+      "topic_tags": [
+        "general",
+        "comparison"
+      ]
+    },
+    {
+      "word_id": "78234949-f510-48c8-90a1-712535063603",
+      "english": "diminish",
+      "translation": null,
+      "hebrew": "להפחית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The pain will diminish over time.",
+        "His influence has diminished."
+      ],
+      "synonyms": [
+        "decrease",
+        "reduce"
+      ],
+      "topic_tags": [
+        "general",
+        "change"
+      ]
+    },
+    {
+      "word_id": "72bbc9d4-d62b-4516-a722-8265941aa11f",
+      "english": "disaster",
+      "translation": null,
+      "hebrew": "אסון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The earthquake was a terrible disaster.",
+        "The flood caused a major disaster."
+      ],
+      "synonyms": [
+        "catastrophe",
+        "tragedy"
+      ],
+      "topic_tags": [
+        "general",
+        "events"
+      ]
+    },
+    {
+      "word_id": "ad3975e0-07cc-48c8-af42-d2b53a38da57",
+      "english": "disobey",
+      "translation": null,
+      "hebrew": "לסרב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He disobeyed the rules and got into trouble.",
+        "The child disobeyed his parents."
+      ],
+      "synonyms": [
+        "defy",
+        "rebel"
+      ],
+      "topic_tags": [
+        "general",
+        "behavior"
+      ]
+    },
+    {
+      "word_id": "dfcd1ca7-d3da-4919-93f5-509ae9b74641",
+      "english": "dispose",
+      "translation": null,
+      "hebrew": "להיפטר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to dispose of the waste properly.",
+        "How do you dispose of old batteries?"
+      ],
+      "synonyms": [
+        "discard",
+        "eliminate"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "4e107970-df23-4154-aa98-8102ede094c5",
+      "english": "distance",
+      "translation": null,
+      "hebrew": "מרחק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the distance between the two cities?",
+        "He ran a long distance."
+      ],
+      "synonyms": [
+        "range",
+        "space"
+      ],
+      "topic_tags": [
+        "general",
+        "measurements"
+      ]
+    },
+    {
+      "word_id": "fde19e33-6257-45ce-90eb-e8ab6a636e6f",
+      "english": "drastic",
+      "translation": null,
+      "hebrew": "קיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to take drastic measures.",
+        "The situation requires a drastic change."
+      ],
+      "synonyms": [
+        "extreme",
+        "radical"
+      ],
+      "topic_tags": [
+        "general",
+        "change"
+      ]
+    },
+    {
+      "word_id": "a02c3d35-b706-4239-9d3e-ef42587dc7d1",
+      "english": "effective",
+      "translation": null,
+      "hebrew": "יעיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The new medicine is very effective.",
+        "He is an effective leader."
+      ],
+      "synonyms": [
+        "efficient",
+        "successful"
+      ],
+      "topic_tags": [
+        "general",
+        "success"
+      ]
+    },
+    {
+      "word_id": "4e693b12-a4a7-4f40-b6e4-6e43dd082b8d",
+      "english": "efficient",
+      "translation": null,
+      "hebrew": "יעיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The new system is very efficient.",
+        "She is an efficient worker."
+      ],
+      "synonyms": [
+        "effective",
+        "productive"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "f8ead247-33ec-4baa-b560-0a00e296a976",
+      "english": "effort",
+      "translation": null,
+      "hebrew": "מאמץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It took a lot of effort to finish the project.",
+        "He made a great effort to help."
+      ],
+      "synonyms": [
+        "attempt",
+        "endeavor"
+      ],
+      "topic_tags": [
+        "general",
+        "work"
+      ]
+    },
+    {
+      "word_id": "a6553a0b-1b5e-45e1-ae58-f205f37bb408",
+      "english": "electricity",
+      "translation": null,
+      "hebrew": "חשמל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The electricity went out during the storm.",
+        "We need to pay the electricity bill."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "c67aa667-5d73-4a85-b8a2-2d6dd0bbe45f",
+      "english": "emotion",
+      "translation": null,
+      "hebrew": "רגש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Love is a strong emotion.",
+        "He showed no emotion."
+      ],
+      "synonyms": [
+        "feeling",
+        "sentiment"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "8d60bbf3-e574-48c6-949d-4dbc47eceef8",
+      "english": "enact",
+      "translation": null,
+      "hebrew": "לחוקק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government enacted a new law.",
+        "They plan to enact reforms."
+      ],
+      "synonyms": [
+        "legislate",
+        "decree"
+      ],
+      "topic_tags": [
+        "general",
+        "government"
+      ]
+    },
+    {
+      "word_id": "b3e97d87-da9c-443f-bfc0-dc872816e4c3",
+      "english": "episode",
+      "translation": null,
+      "hebrew": "פרק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I missed the last episode of the show.",
+        "It was an interesting episode in his life."
+      ],
+      "synonyms": [
+        "installment",
+        "chapter"
+      ],
+      "topic_tags": [
+        "general",
+        "entertainment"
+      ]
+    },
+    {
+      "word_id": "03aeaf45-dfa3-4c92-abea-a4c15c0dec91",
+      "english": "ethnic",
+      "translation": null,
+      "hebrew": "אתני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city has a diverse ethnic population.",
+        "They studied ethnic cultures."
+      ],
+      "synonyms": [
+        "cultural",
+        "racial"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "185f106f-931a-441e-9dd8-43465f1bac2d",
+      "english": "excel",
+      "translation": null,
+      "hebrew": "להצטיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She excels in mathematics.",
+        "He wants to excel in his career."
+      ],
+      "synonyms": [
+        "shine",
+        "surpass"
+      ],
+      "topic_tags": [
+        "general",
+        "success"
+      ]
+    },
+    {
+      "word_id": "7db144af-2454-4dbf-9e93-b68caf069d0f",
+      "english": "excellent",
+      "translation": null,
+      "hebrew": "מצוין",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was excellent.",
+        "He did an excellent job."
+      ],
+      "synonyms": [
+        "superb",
+        "outstanding"
+      ],
+      "topic_tags": [
+        "general",
+        "quality"
+      ]
+    },
+    {
+      "word_id": "3fd54457-d37d-4527-8e91-fc2c4bea9bb3",
+      "english": "exhausting",
+      "translation": null,
+      "hebrew": "מתיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The hike was exhausting.",
+        "It was an exhausting day at work."
+      ],
+      "synonyms": [
+        "tiring",
+        "draining"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

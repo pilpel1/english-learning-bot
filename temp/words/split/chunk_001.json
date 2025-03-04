@@ -1,0 +1,501 @@
+{
+  "_meta": {
+    "chunk_number": 1,
+    "words_range": "10th-along",
+    "word_count": 30,
+    "start_index": 0,
+    "end_index": 29
+  },
+  "words": [
+    {
+      "word_id": "0a2a0a2c-0368-4449-a60f-18c417e8cf97",
+      "english": "10th",
+      "translation": "tenth",
+      "hebrew": "עשירי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "This is the 10th time I've told you to clean your room.",
+        "She finished 10th in the competition."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "4f2da9ab-fba5-42c3-9a5c-e07cffbcb208",
+      "english": "1st",
+      "translation": "first",
+      "hebrew": "ראשון",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "She came 1st in the race.",
+        "This is our 1st time visiting this restaurant."
+      ],
+      "synonyms": ["primary", "initial"],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "37f486d4-4cff-462b-a240-dfc5170557ff",
+      "english": "2nd",
+      "translation": "second",
+      "hebrew": "שני",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "He won 2nd place in the competition.",
+        "This is the 2nd time I've been here."
+      ],
+      "synonyms": ["runner-up"],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "b7f12f26-1cbb-46f7-834f-672415501509",
+      "english": "3rd",
+      "translation": "third",
+      "hebrew": "שלישי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "He came in 3rd place.",
+        "This is the 3rd time I've called you."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "87dd2dec-da93-4c96-973b-d46c463c648b",
+      "english": "4th",
+      "translation": "fourth",
+      "hebrew": "רביעי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "She finished 4th in the race.",
+        "This is the 4th time I've visited this place."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "437edf3f-5234-4424-9201-a080aae8ef03",
+      "english": "5th",
+      "translation": "fifth",
+      "hebrew": "חמישי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "He was the 5th person to arrive.",
+        "This is the 5th time I've seen this movie."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "013590c5-3595-4ef9-9251-d6fa7a1742a3",
+      "english": "6th",
+      "translation": "sixth",
+      "hebrew": "שישי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "She came in 6th place.",
+        "This is the 6th time I've tried this."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "d5930b32-471e-4644-875d-b6b8187fcb43",
+      "english": "7th",
+      "translation": "seventh",
+      "hebrew": "שביעי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "He finished 7th in the marathon.",
+        "This is the 7th time I've been here."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "44aa8361-12ac-4e29-8c32-5aed72c95e23",
+      "english": "8th",
+      "translation": "eighth",
+      "hebrew": "שמיני",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "She was the 8th person to finish.",
+        "This is the 8th time I've told you."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "71de5724-40eb-424b-9c34-687b7b998707",
+      "english": "9th",
+      "translation": "ninth",
+      "hebrew": "תשיעי",
+      "part_of_speech": "ordinal",
+      "difficulty_level": 1,
+      "examples": [
+        "He came in 9th place.",
+        "This is the 9th time I've asked you."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "numbers"
+      ]
+    },
+    {
+      "word_id": "1cfc59ae-d057-45e2-a188-fbe7b66fc2a4",
+      "english": "about",
+      "translation": "על",
+      "hebrew": "על",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "We talked about the weather.",
+        "He is curious about science."
+      ],
+      "synonyms": ["regarding", "concerning"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b11ca8ac-0372-45de-83dd-9cf0f6da0478",
+      "english": "about",
+      "translation": "בערך",
+      "hebrew": "בערך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is about 200 pages long.",
+        "He arrived at about 5 PM."
+      ],
+      "synonyms": ["approximately", "roughly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2a6f4ae0-609e-48e2-a6f6-b9ff246b6034",
+      "english": "above",
+      "translation": "מעל",
+      "hebrew": "מעל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The picture is above the sofa.",
+        "Temperatures are above average."
+      ],
+      "synonyms": ["over", "higher than"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "927ea515-ad9a-4864-9661-5b43ceb44687",
+      "english": "above all",
+      "translation": "מעל הכל",
+      "hebrew": "מעל הכל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Above all, stay calm.",
+        "Above all, he values honesty."
+      ],
+      "synonyms": ["most importantly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6786eedb-d9e7-4db1-b08d-7e79d2de547f",
+      "english": "absolutely",
+      "translation": "בהחלט",
+      "hebrew": "בהחלט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I absolutely agree with you.",
+        "The movie was absolutely amazing."
+      ],
+      "synonyms": ["completely", "totally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cdef7c28-27e4-4b64-9aae-4a1e64fcfaeb",
+      "english": "according",
+      "translation": "לפי",
+      "hebrew": "לפי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "According to the report, sales are up.",
+        "He acted according to the rules."
+      ],
+      "synonyms": ["as per", "in accordance with"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0afc831c-02c5-49ad-a213-ec7480087bd1",
+      "english": "accordingly",
+      "translation": "בהתאם",
+      "hebrew": "בהתאם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She adjusted her plans accordingly.",
+        "Act accordingly to the situation."
+      ],
+      "synonyms": ["consequently", "therefore"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "38de8191-7ee7-401c-870d-2a0e16e5dce3",
+      "english": "across",
+      "translation": "מעבר",
+      "hebrew": "מעבר",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He walked across the street.",
+        "The store is across the road."
+      ],
+      "synonyms": ["over", "through"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2dbf9630-4e7c-4a88-84e8-e301615236de",
+      "english": "additionally",
+      "translation": "בנוסף",
+      "hebrew": "בנוסף",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Additionally, we need more time.",
+        "He is smart and, additionally, very kind."
+      ],
+      "synonyms": ["also", "furthermore"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "767b8e1a-3ceb-463e-925d-604853d223f9",
+      "english": "adjacent to",
+      "translation": "סמוך ל",
+      "hebrew": "סמוך ל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The park is adjacent to the school.",
+        "His office is adjacent to mine."
+      ],
+      "synonyms": ["next to", "beside"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d421743b-95dd-47ac-8ef2-c2650259c669",
+      "english": "after",
+      "translation": "אחרי",
+      "hebrew": "אחרי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "We went home after the movie.",
+        "He arrived after dinner."
+      ],
+      "synonyms": ["following", "subsequent to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "239a20f0-ed63-4a50-8140-4228e2c498b5",
+      "english": "after all",
+      "translation": "בסופו של דבר",
+      "hebrew": "בסופו של דבר",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to go, after all.",
+        "After all, it was his decision."
+      ],
+      "synonyms": ["ultimately", "in the end"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7b8ee6e3-f651-4695-8eea-2ee16a651010",
+      "english": "after all",
+      "translation": "למרות הכל",
+      "hebrew": "למרות הכל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She was right, after all.",
+        "After all, he is the expert."
+      ],
+      "synonyms": ["nevertheless", "still"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9c4f24f1-efeb-44ce-83cc-44d7f6cf9f76",
+      "english": "afterwards",
+      "translation": "לאחר מכן",
+      "hebrew": "לאחר מכן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "We went for coffee afterwards.",
+        "He called me afterwards."
+      ],
+      "synonyms": ["later", "subsequently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b3b9fd46-3fd6-4221-b75d-50162c11066f",
+      "english": "again",
+      "translation": "שוב",
+      "hebrew": "שוב",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried again and succeeded.",
+        "Let's meet again tomorrow."
+      ],
+      "synonyms": ["once more", "anew"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "800669bb-4d28-4d77-ab5d-1fdba96cec80",
+      "english": "against",
+      "translation": "נגד",
+      "hebrew": "נגד",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He leaned against the wall.",
+        "They are fighting against injustice."
+      ],
+      "synonyms": ["opposed to", "contrary to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a600d0b2-5c24-439a-b6f7-30b0fd41dde8",
+      "english": "ahead of",
+      "translation": "לפני",
+      "hebrew": "לפני",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He is ahead of his class.",
+        "The car is ahead of us."
+      ],
+      "synonyms": ["in front of", "before"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "527d4af8-d8fb-4f3f-afca-be713a59d608",
+      "english": "albeit",
+      "translation": "אם כי",
+      "hebrew": "אם כי",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "He was making progress, albeit slowly.",
+        "She accepted the job, albeit with some hesitation."
+      ],
+      "synonyms": ["although", "though"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "10351cff-87d3-4abf-a329-cca07478220e",
+      "english": "all in all",
+      "translation": "בסך הכל",
+      "hebrew": "בסך הכל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "All in all, it was a good day.",
+        "All in all, the project was a success."
+      ],
+      "synonyms": ["overall", "generally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5b42be9b-c6f0-4a7d-bef9-ffc59163b5ac",
+      "english": "along",
+      "translation": "לאורך",
+      "hebrew": "לאורך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "We walked along the river.",
+        "There are trees along the road."
+      ],
+      "synonyms": ["beside", "by"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

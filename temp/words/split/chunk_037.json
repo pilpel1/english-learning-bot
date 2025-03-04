@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 37,
+    "words_range": "rise-standardize",
+    "word_count": 30,
+    "start_index": 1080,
+    "end_index": 1109
+  },
+  "words": [
+    {
+      "word_id": "753dd5e2-4902-409f-aead-c3c06d92e88a",
+      "english": "rise",
+      "translation": "לעלות",
+      "hebrew": "לעלות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The sun will rise at 6 AM.",
+        "Prices are expected to rise next year."
+      ],
+      "synonyms": ["increase", "ascend", "elevate"],
+      "topic_tags": ["general", "movement"]
+    },
+    {
+      "word_id": "92890902-1812-4a40-8950-4469c5ffad6b",
+      "english": "rising",
+      "translation": "עולה",
+      "hebrew": "עולה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The rising cost of living is a concern.",
+        "Rising temperatures are affecting the climate."
+      ],
+      "synonyms": ["increasing", "ascending", "soaring"],
+      "topic_tags": ["general", "trend"]
+    },
+    {
+      "word_id": "6997f23b-8e49-4bcb-a41c-29e7108601d6",
+      "english": "rising",
+      "translation": "עלייה",
+      "hebrew": "עלייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a rising in demand for electric cars.",
+        "The rising of the river caused flooding."
+      ],
+      "synonyms": ["increase", "growth", "escalation"],
+      "topic_tags": ["general", "trend"]
+    },
+    {
+      "word_id": "10f9edda-bb05-4175-b833-3984b18f4c6d",
+      "english": "rocket",
+      "translation": "טיל",
+      "hebrew": "טיל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The rocket launched successfully.",
+        "He built a model rocket for the science fair."
+      ],
+      "synonyms": ["missile", "projectile", "spacecraft"],
+      "topic_tags": ["general", "technology"]
+    },
+    {
+      "word_id": "56b94868-74fc-4890-926d-57f65ede4e69",
+      "english": "scene",
+      "translation": "סצנה",
+      "hebrew": "סצנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie's opening scene was breathtaking.",
+        "They filmed the scene in one take."
+      ],
+      "synonyms": ["setting", "sight", "view"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "2290d36e-6ec5-4af6-946f-52f407cc0fd2",
+      "english": "scene",
+      "translation": "זירה",
+      "hebrew": "זירה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police arrived at the crime scene.",
+        "The accident scene was cleared quickly."
+      ],
+      "synonyms": ["location", "site", "spot"],
+      "topic_tags": ["general", "law"]
+    },
+    {
+      "word_id": "eaec4160-b7e0-4e81-84b4-ab1045afb4d9",
+      "english": "scenery",
+      "translation": "נוף",
+      "hebrew": "נוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The scenery in the mountains is beautiful.",
+        "They enjoyed the scenery during their hike."
+      ],
+      "synonyms": ["landscape", "view", "panorama"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "aa450bb9-6fa6-4c14-9b5d-14e7a8bfda02",
+      "english": "science",
+      "translation": "מדע",
+      "hebrew": "מדע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Science has made great advances in recent years.",
+        "She is studying science at university."
+      ],
+      "synonyms": ["discipline", "field", "study"],
+      "topic_tags": ["general", "education"]
+    },
+    {
+      "word_id": "f30431ac-d77b-434e-8545-aec7acc09adb",
+      "english": "scientist",
+      "translation": "מדען",
+      "hebrew": "מדען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The scientist conducted an important experiment.",
+        "She wants to become a scientist when she grows up."
+      ],
+      "synonyms": ["researcher", "scholar", "expert"],
+      "topic_tags": ["general", "profession"]
+    },
+    {
+      "word_id": "d21ac286-5118-421b-8aa4-b1e5275f8b26",
+      "english": "section",
+      "translation": "חלק",
+      "hebrew": "חלק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This section of the book is very interesting.",
+        "The store has a section for electronics."
+      ],
+      "synonyms": ["part", "segment", "division"],
+      "topic_tags": ["general", "structure"]
+    },
+    {
+      "word_id": "837f22fa-8d4d-469b-9f17-88f63ca6ac18",
+      "english": "seem",
+      "translation": "נראה",
+      "hebrew": "נראה",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He seems happy today.",
+        "It seems like a good idea."
+      ],
+      "synonyms": ["appear", "look", "sound"],
+      "topic_tags": ["general", "perception"]
+    },
+    {
+      "word_id": "17ac6997-e27d-4106-818b-074c7d205a57",
+      "english": "sense",
+      "translation": "חוש",
+      "hebrew": "חוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a good sense of humor.",
+        "The sense of smell is very strong in dogs."
+      ],
+      "synonyms": ["feeling", "perception", "awareness"],
+      "topic_tags": ["general", "perception"]
+    },
+    {
+      "word_id": "2c67b044-7040-4271-a1d4-99300adfd773",
+      "english": "sense",
+      "translation": "להרגיש",
+      "hebrew": "להרגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I can sense that something is wrong.",
+        "She sensed his presence in the room."
+      ],
+      "synonyms": ["feel", "detect", "perceive"],
+      "topic_tags": ["general", "perception"]
+    },
+    {
+      "word_id": "0f88c356-829a-4e1f-9d70-423af3cbee5e",
+      "english": "sensible",
+      "translation": "הגיוני",
+      "hebrew": "הגיוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a sensible decision to save money.",
+        "She wore sensible shoes for the hike."
+      ],
+      "synonyms": ["reasonable", "practical", "wise"],
+      "topic_tags": ["general", "judgment"]
+    },
+    {
+      "word_id": "565a7e14-b710-42eb-ac03-59de875adc55",
+      "english": "serious",
+      "translation": "רציני",
+      "hebrew": "רציני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a serious student.",
+        "The situation is quite serious."
+      ],
+      "synonyms": ["grave", "solemn", "earnest"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "b96e9c1a-4ce6-45c8-9a60-9e37d5af2c38",
+      "english": "shuttle",
+      "translation": "שאטל",
+      "hebrew": "שאטל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The shuttle will take you to the airport.",
+        "They use a shuttle service to commute."
+      ],
+      "synonyms": ["bus", "van", "transport"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "d9298f71-408c-41b6-b94b-cc65f0510294",
+      "english": "sign",
+      "translation": "שלט",
+      "hebrew": "שלט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sign says 'No Parking'.",
+        "He put up a sign to advertise the sale."
+      ],
+      "synonyms": ["notice", "placard", "poster"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "87e4d802-efee-4b46-9de5-aa9910510d81",
+      "english": "sign",
+      "translation": "לחתום",
+      "hebrew": "לחתום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please sign your name here.",
+        "He signed the contract yesterday."
+      ],
+      "synonyms": ["autograph", "endorse", "subscribe"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "be414b66-6b8c-4a4c-a495-e8d2de20bdad",
+      "english": "sign",
+      "translation": "סימן",
+      "hebrew": "סימן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A red sky is a sign of good weather.",
+        "He gave me a sign to start the presentation."
+      ],
+      "synonyms": ["indication", "signal", "mark"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "ca034c43-8ebe-4c0c-9ff0-076f2ddc2517",
+      "english": "signal",
+      "translation": "אות",
+      "hebrew": "אות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The traffic light turned green, giving the signal to go.",
+        "He gave a signal to start the meeting."
+      ],
+      "synonyms": ["cue", "indication", "sign"],
+      "topic_tags": ["general", "communication"]
+    },
+    {
+      "word_id": "776d79f3-be82-43d6-89fb-d3bda4e4daad",
+      "english": "similar",
+      "translation": "דומה",
+      "hebrew": "דומה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "These two paintings are very similar.",
+        "She has a similar dress to mine."
+      ],
+      "synonyms": ["alike", "comparable", "resembling"],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "511248b9-a7c6-499f-8637-d9f801b01bf6",
+      "english": "simple",
+      "translation": "פשוט",
+      "hebrew": "פשוט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions are simple to follow.",
+        "He prefers a simple lifestyle."
+      ],
+      "synonyms": ["easy", "straightforward", "uncomplicated"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "aa6ece73-2ad8-4c38-ad63-23945ea2ec45",
+      "english": "simplify",
+      "translation": "לפשט",
+      "hebrew": "לפשט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to simplify the process.",
+        "He simplified the equation for the students."
+      ],
+      "synonyms": ["clarify", "streamline", "reduce"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "f265a7a8-b97d-4e42-a173-4345add3661a",
+      "english": "simply",
+      "translation": "פשוט",
+      "hebrew": "פשוט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He simply ignored the warning.",
+        "The solution is simply to ask for help."
+      ],
+      "synonyms": ["just", "merely", "only"],
+      "topic_tags": ["general", "manner"]
+    },
+    {
+      "word_id": "44878a75-8625-4bf4-83ac-93fead2a22c0",
+      "english": "social",
+      "translation": "חברתי",
+      "hebrew": "חברתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is very social and loves meeting new people.",
+        "Social media has changed the way we communicate."
+      ],
+      "synonyms": ["communal", "societal", "public"],
+      "topic_tags": ["general", "society"]
+    },
+    {
+      "word_id": "598d47b6-66cc-4f0a-b07a-f1c9a3e04343",
+      "english": "spacious",
+      "translation": "מרווח",
+      "hebrew": "מרווח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The living room is spacious and bright.",
+        "They moved to a more spacious apartment."
+      ],
+      "synonyms": ["roomy", "capacious", "ample"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "11e1eb0d-c5a7-4269-b37c-9d1d6b15ddfa",
+      "english": "square",
+      "translation": "כיכר",
+      "hebrew": "כיכר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The town square is a popular meeting place.",
+        "They gathered in the square for the festival."
+      ],
+      "synonyms": ["plaza", "courtyard", "piazza"],
+      "topic_tags": ["general", "location"]
+    },
+    {
+      "word_id": "9944844e-fdd0-4552-93a8-729cc08b9b1a",
+      "english": "square",
+      "translation": "ריבוע",
+      "hebrew": "ריבוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The table is shaped like a square.",
+        "He drew a square on the paper."
+      ],
+      "synonyms": ["quadrilateral", "rectangle", "box"],
+      "topic_tags": ["general", "geometry"]
+    },
+    {
+      "word_id": "0fd5fd01-af42-49e4-9067-a25b593787cd",
+      "english": "stand",
+      "translation": "לעמוד",
+      "hebrew": "לעמוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please stand for the national anthem.",
+        "He stood by the window, watching the rain."
+      ],
+      "synonyms": ["rise", "upright", "position"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "2b921254-9954-4483-838f-8a75b27dc00e",
+      "english": "standardize",
+      "translation": "לתקנן",
+      "hebrew": "לתקנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company aims to standardize its procedures.",
+        "They standardized the test to ensure fairness."
+      ],
+      "synonyms": ["normalize", "regulate", "systematize"],
+      "topic_tags": ["general", "process"]
+    }
+  ]
+}

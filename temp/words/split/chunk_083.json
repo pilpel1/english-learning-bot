@@ -1,0 +1,573 @@
+{
+  "_meta": {
+    "chunk_number": 83,
+    "words_range": "absurd-cancer",
+    "word_count": 30,
+    "start_index": 2460,
+    "end_index": 2489
+  },
+  "words": [
+    {
+      "word_id": "ad5dcd34-a514-47e7-a71c-f7e81c7b059e",
+      "english": "absurd",
+      "translation": "אבסורדי",
+      "hebrew": "אבסורדי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The idea of flying to Mars is absurd.",
+        "It's absurd to think that he would do such a thing."
+      ],
+      "synonyms": [
+        "ridiculous",
+        "silly",
+        "ludicrous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ba1c5efe-d65c-4ca9-9b70-96cd0f55894a",
+      "english": "accelerate",
+      "translation": "להאיץ",
+      "hebrew": "להאיץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The car accelerated quickly.",
+        "We need to accelerate the process."
+      ],
+      "synonyms": [
+        "speed up",
+        "hasten"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b383a383-d42c-4991-837a-17a898c2ce86",
+      "english": "acclaim",
+      "translation": "שבחים",
+      "hebrew": "שבחים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The play received critical acclaim.",
+        "She won acclaim for her performance."
+      ],
+      "synonyms": [
+        "praise",
+        "applause"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d34ab11b-0696-4918-a932-7d5566370603",
+      "english": "accommodate",
+      "translation": "להכיל",
+      "hebrew": "להכיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The hotel can accommodate 200 guests.",
+        "We need to accommodate their needs."
+      ],
+      "synonyms": [
+        "lodge",
+        "house",
+        "adapt"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "00a2ab78-e003-4918-a309-7e31576ecc8c",
+      "english": "accompany",
+      "translation": "ללוות",
+      "hebrew": "ללוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will accompany you to the store.",
+        "The singer was accompanied by a band."
+      ],
+      "synonyms": [
+        "escort",
+        "attend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "067f2ffe-f930-49f3-a7ac-ef527df8085c",
+      "english": "accustomed",
+      "translation": "רגיל",
+      "hebrew": "רגיל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am accustomed to waking up early.",
+        "He is accustomed to the cold weather."
+      ],
+      "synonyms": [
+        "used to",
+        "familiar with"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9bf96571-772b-4915-b19a-7a074b5cdc7d",
+      "english": "aggressive",
+      "translation": "תוקפני",
+      "hebrew": "תוקפני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog is very aggressive.",
+        "He has an aggressive personality."
+      ],
+      "synonyms": [
+        "hostile",
+        "combative"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a5fd9940-0c13-4b0e-a7fb-b799ea649800",
+      "english": "agriculture",
+      "translation": "חקלאות",
+      "hebrew": "חקלאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Agriculture is the main industry in this area.",
+        "Modern agriculture uses advanced technology."
+      ],
+      "synonyms": [
+        "farming"
+      ],
+      "topic_tags": [
+        "general",
+        "business",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "c3e41146-6e09-4874-9ab8-d58e07e79d7e",
+      "english": "allergic",
+      "translation": "אלרגי",
+      "hebrew": "אלרגי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I am allergic to peanuts.",
+        "She is allergic to pollen."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "f92d27f5-052f-4c8e-9122-7416fd2b1df0",
+      "english": "amass",
+      "translation": "לצבור",
+      "hebrew": "לצבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He amassed a large fortune.",
+        "They amassed a collection of rare books."
+      ],
+      "synonyms": [
+        "gather",
+        "accumulate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "33319ba3-c19b-443b-84b7-226f2464f895",
+      "english": "amaze",
+      "translation": "להדהים",
+      "hebrew": "להדהים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician's tricks amazed the audience.",
+        "I was amazed by her talent."
+      ],
+      "synonyms": [
+        "astonish",
+        "surprise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d50955ed-d92c-4f00-a979-1cafd5ee08c4",
+      "english": "appeal",
+      "translation": "לערער",
+      "hebrew": "לערער",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He decided to appeal the court's decision.",
+        "The lawyer will appeal the verdict."
+      ],
+      "synonyms": [
+        "challenge"
+      ],
+      "topic_tags": [
+        "general", "law"
+      ]
+    },
+    {
+      "word_id": "9a3187cf-75f0-4ff7-bb9e-d64b2098609e",
+      "english": "appeal",
+      "translation": "לפנות",
+      "hebrew": "לפנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to appeal to the public for help.",
+        "The advertisement appeals to young people."
+      ],
+      "synonyms": [
+        "attract",
+        "plead"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "002d431e-f604-4f68-8c1a-07f98c878022",
+      "english": "appeal",
+      "translation": "פנייה",
+      "hebrew": "פנייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The charity made an appeal for donations.",
+        "His appeal was denied."
+      ],
+      "synonyms": [
+        "request",
+        "plea"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2e900bc2-7973-4d20-bc41-c0b3a0a05623",
+      "english": "applicant",
+      "translation": "מועמד",
+      "hebrew": "מועמד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There were many applicants for the job.",
+        "The applicant must have a degree in engineering."
+      ],
+      "synonyms": [
+        "candidate"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "0f080730-51e0-49f3-a274-bf3fe1c1bc23",
+      "english": "arousing",
+      "translation": "מעורר",
+      "hebrew": "מעורר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The speech was very arousing.",
+        "The movie had arousing scenes."
+      ],
+      "synonyms": [
+        "stimulating",
+        "exciting"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9c4fc538-100d-4dc3-9e81-cb97b6edf8a5",
+      "english": "as many as",
+      "translation": "ככל ש...",
+      "hebrew": "ככל ש...",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "As many as 20 people were injured in the accident.",
+        "As many as 5000 people attended the concert."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "21af478b-3eba-4e35-a2d3-c7a053ff5c2f",
+      "english": "ascertain",
+      "translation": "לוודא",
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to ascertain the facts.",
+        "The police are trying to ascertain the truth."
+      ],
+      "synonyms": [
+        "determine",
+        "find out"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3b6b82ac-a72e-4358-85fe-c27e47c7b23e",
+      "english": "aspiration",
+      "translation": "שאיפה",
+      "hebrew": "שאיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has high aspirations for the future.",
+        "Her aspiration is to become a doctor."
+      ],
+      "synonyms": [
+        "ambition",
+        "goal"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f49faa68-b2b1-4099-9db2-bce9bb964b52",
+      "english": "audit",
+      "translation": "ביקורת",
+      "hebrew": "ביקורת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is undergoing an audit.",
+        "The audit revealed some financial irregularities."
+      ],
+      "synonyms": [
+        "inspection",
+        "review"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "df4b776e-923d-4f49-8da6-a789fedb924a",
+      "english": "award",
+      "translation": "פרס",
+      "hebrew": "פרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She won an award for her research.",
+        "The company received an award for its innovation."
+      ],
+      "synonyms": [
+        "prize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0785f95d-1c76-4525-80ef-a28705eedf1f",
+      "english": "bank",
+      "translation": "בנק",
+      "hebrew": "בנק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to go to the bank to deposit money.",
+        "The bank is closed on Sundays."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "96cc08cc-9ecb-4910-aa52-d7f5866ef589",
+      "english": "bank",
+      "translation": "גדה",
+      "hebrew": "גדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We sat on the bank of the river.",
+        "The boat landed on the river bank."
+      ],
+      "synonyms": [
+        "shore"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "4789bbf8-1398-4944-be31-e173f9727bf2",
+      "english": "bank",
+      "translation": "לסמוך",
+      "hebrew": "לסמוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can bank on him to help you.",
+        "I wouldn't bank on it."
+      ],
+      "synonyms": [
+        "rely on",
+        "count on"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cebcaa24-5dd1-4d3d-93db-27413d461056",
+      "english": "betray",
+      "translation": "לבגוד",
+      "hebrew": "לבגוד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He betrayed his friends.",
+        "She betrayed his trust."
+      ],
+      "synonyms": [
+        "deceive",
+        "cheat"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "636e3d86-1a6c-4efc-8128-8eab4788a955",
+      "english": "blank",
+      "translation": "ריק",
+      "hebrew": "ריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The page was blank.",
+        "He gave me a blank look."
+      ],
+      "synonyms": [
+        "empty",
+        "void"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ef44c5a0-9358-4a41-889d-0747e97fad0e",
+      "english": "boost",
+      "translation": "לְהַגבִּיר",
+      "hebrew": "לְהַגבִּיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new policy will boost the economy.",
+        "The team needs a boost in morale."
+      ],
+      "synonyms": [
+        "increase",
+        "raise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b32f5a7f-fa8d-48f1-87fa-6d396036cf53",
+      "english": "broadcast",
+      "translation": "לשדר",
+      "hebrew": "לשדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The game will be broadcast live on TV.",
+        "The news was broadcast around the world."
+      ],
+      "synonyms": [
+        "transmit",
+        "air"
+      ],
+      "topic_tags": [
+        "general",
+        "media"
+      ]
+    },
+    {
+      "word_id": "7a3885ef-fc9a-4f4e-8029-97d3bd14b09a",
+      "english": "cage",
+      "translation": "כלוב",
+      "hebrew": "כלוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird was in a cage.",
+        "The lion was pacing in its cage."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "a7f5fef8-ceb8-4971-a52d-2e0f2e15808a",
+      "english": "cancer",
+      "translation": "סרטן",
+      "hebrew": "סרטן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Cancer is a serious disease.",
+        "She is battling cancer."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    }
+  ]
+}

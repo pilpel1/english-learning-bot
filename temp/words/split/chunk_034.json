@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 34,
+    "words_range": "officiate-presence",
+    "word_count": 30,
+    "start_index": 990,
+    "end_index": 1019
+  },
+  "words": [
+    {
+      "word_id": "97b63cd7-3c2e-4e5d-89b0-a436d33d7aaa",
+      "english": "officiate",
+      "translation": "לנהל",
+      "hebrew": "לנהל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He was asked to officiate the wedding ceremony.",
+        "The referee will officiate the game."
+      ],
+      "synonyms": ["preside", "conduct", "oversee"],
+      "topic_tags": ["general", "management"]
+    },
+    {
+      "word_id": "393a200a-54d8-4131-af0c-e2bc6c08df2e",
+      "english": "oil",
+      "translation": "שמן",
+      "hebrew": "שמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car needs an oil change.",
+        "She uses olive oil for cooking."
+      ],
+      "synonyms": ["lubricant", "grease", "petroleum"],
+      "topic_tags": ["general", "substance"]
+    },
+    {
+      "word_id": "6466cf68-bb41-4081-9b32-e68a62033256",
+      "english": "ongoing",
+      "translation": "מתמשך",
+      "hebrew": "מתמשך",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The investigation is ongoing.",
+        "They have an ongoing project."
+      ],
+      "synonyms": ["continuing", "in progress", "unending"],
+      "topic_tags": ["general", "duration"]
+    },
+    {
+      "word_id": "69e63e5e-957b-4bb2-8509-de1dabea6f09",
+      "english": "option",
+      "translation": "אפשרות",
+      "hebrew": "אפשרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You have the option to choose.",
+        "There are several options available."
+      ],
+      "synonyms": ["choice", "alternative", "selection"],
+      "topic_tags": ["general", "decision"]
+    },
+    {
+      "word_id": "4fdfe8da-d8e7-4a63-9451-98828cab3bac",
+      "english": "order",
+      "translation": "סדר",
+      "hebrew": "סדר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The books are in alphabetical order.",
+        "He likes to keep things in order."
+      ],
+      "synonyms": ["arrangement", "sequence", "system"],
+      "topic_tags": ["general", "organization"]
+    },
+    {
+      "word_id": "62bd37fe-4381-44b6-8472-5db51e8910da",
+      "english": "order",
+      "translation": "הזמנה",
+      "hebrew": "הזמנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I placed an order for a new laptop.",
+        "The order will arrive tomorrow."
+      ],
+      "synonyms": ["request", "purchase", "command"],
+      "topic_tags": ["general", "commerce"]
+    },
+    {
+      "word_id": "56a98f11-bdb4-42bf-80b0-e35c72f82dad",
+      "english": "order",
+      "translation": "להורות",
+      "hebrew": "להורות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The officer ordered the troops to advance.",
+        "She ordered him to leave the room."
+      ],
+      "synonyms": ["command", "direct", "instruct"],
+      "topic_tags": ["general", "authority"]
+    },
+    {
+      "word_id": "115ca495-44fc-4b1d-bca7-8bf0c02f2c39",
+      "english": "orderly",
+      "translation": "מסודר",
+      "hebrew": "מסודר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was neat and orderly.",
+        "They formed an orderly line."
+      ],
+      "synonyms": ["tidy", "organized", "methodical"],
+      "topic_tags": ["general", "organization"]
+    },
+    {
+      "word_id": "d98c7c9f-f381-499b-b986-0d20fdd6ccef",
+      "english": "orientation",
+      "translation": "התמצאות",
+      "hebrew": "התמצאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The orientation session will start at 9 AM.",
+        "She has a good sense of orientation."
+      ],
+      "synonyms": ["introduction", "familiarization", "direction"],
+      "topic_tags": ["general", "guidance"]
+    },
+    {
+      "word_id": "e640fa2c-8715-41fc-a22a-7b0f706d277b",
+      "english": "origin",
+      "translation": "מקור",
+      "hebrew": "מקור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The origin of the word is Latin.",
+        "They traced the origin of the river."
+      ],
+      "synonyms": ["source", "beginning", "root"],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "68c26eea-de77-4574-99fa-177554db3045",
+      "english": "original",
+      "translation": "מקורי",
+      "hebrew": "מקורי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is the original painting.",
+        "She has an original way of thinking."
+      ],
+      "synonyms": ["authentic", "unique", "innovative"],
+      "topic_tags": ["general", "creativity"]
+    },
+    {
+      "word_id": "883dd580-8ee6-4848-beda-d6c2906e2e8a",
+      "english": "originality",
+      "translation": "מקוריות",
+      "hebrew": "מקוריות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her originality is evident in her artwork.",
+        "The originality of the idea impressed everyone."
+      ],
+      "synonyms": ["creativity", "novelty", "innovation"],
+      "topic_tags": ["general", "creativity"]
+    },
+    {
+      "word_id": "06f7b740-b7d2-4790-81a8-7ab93eef7c50",
+      "english": "originate",
+      "translation": "להתחיל",
+      "hebrew": "להתחיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The idea originated from a conversation.",
+        "The tradition originated in ancient times."
+      ],
+      "synonyms": ["begin", "start", "arise"],
+      "topic_tags": ["general", "beginning"]
+    },
+    {
+      "word_id": "4be96fea-ba9d-4253-9d66-5dede10f2e98",
+      "english": "outcome",
+      "translation": "תוצאה",
+      "hebrew": "תוצאה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The outcome of the election was surprising.",
+        "We are waiting for the outcome of the test."
+      ],
+      "synonyms": ["result", "consequence", "effect"],
+      "topic_tags": ["general", "result"]
+    },
+    {
+      "word_id": "44a0006a-2d76-4df6-9c0a-22ded820b999",
+      "english": "overcome",
+      "translation": "להתגבר",
+      "hebrew": "להתגבר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She managed to overcome her fears.",
+        "They overcame many obstacles to succeed."
+      ],
+      "synonyms": ["conquer", "defeat", "surmount"],
+      "topic_tags": ["general", "challenge"]
+    },
+    {
+      "word_id": "fe6d838f-068e-4a94-bb8d-bd89f88f6c82",
+      "english": "part",
+      "translation": "חלק",
+      "hebrew": "חלק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is part of the plan.",
+        "He played a major part in the project."
+      ],
+      "synonyms": ["section", "piece", "portion"],
+      "topic_tags": ["general", "component"]
+    },
+    {
+      "word_id": "16cbe9a9-c9c2-46bb-a9c5-723a69c86e18",
+      "english": "partial",
+      "translation": "חלקי",
+      "hebrew": "חלקי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is only partially completed.",
+        "He has a partial understanding of the topic."
+      ],
+      "synonyms": ["incomplete", "fractional", "limited"],
+      "topic_tags": ["general", "extent"]
+    },
+    {
+      "word_id": "296b9401-3284-4387-bec9-5882e5f9dbda",
+      "english": "patient",
+      "translation": "סבלני",
+      "hebrew": "סבלני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is very patient with children.",
+        "You need to be patient while learning a new skill."
+      ],
+      "synonyms": ["tolerant", "calm", "persevering"],
+      "topic_tags": ["general", "character"]
+    },
+    {
+      "word_id": "76a6ad67-4980-4eac-8b8b-42f41e649a6c",
+      "english": "patient",
+      "translation": "מטופל",
+      "hebrew": "מטופל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor is seeing a patient.",
+        "The patient is recovering well."
+      ],
+      "synonyms": ["sick person", "case", "client"],
+      "topic_tags": ["general", "health"]
+    },
+    {
+      "word_id": "30835566-c3f0-4c9d-95ef-ad5220dd7a87",
+      "english": "per",
+      "translation": "לפי",
+      "hebrew": "לפי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The speed limit is 60 miles per hour.",
+        "He earns $20 per hour."
+      ],
+      "synonyms": ["for each", "according to", "by"],
+      "topic_tags": ["general", "measurement"]
+    },
+    {
+      "word_id": "4c730323-9565-4365-bdd1-ff5ffa35ef4a",
+      "english": "percent",
+      "translation": "אחוז",
+      "hebrew": "אחוז",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The interest rate is 5 percent.",
+        "She scored 90 percent on the test."
+      ],
+      "synonyms": ["percentage", "portion", "rate"],
+      "topic_tags": ["general", "measurement"]
+    },
+    {
+      "word_id": "bcdd1468-e83f-4ab5-b572-563907866428",
+      "english": "perfect",
+      "translation": "מושלם",
+      "hebrew": "מושלם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The weather is perfect today.",
+        "She has perfect timing."
+      ],
+      "synonyms": ["flawless", "ideal", "complete"],
+      "topic_tags": ["general", "quality"]
+    },
+    {
+      "word_id": "b55d183b-16a1-4cd1-b8c0-9eefb2ae844e",
+      "english": "perfect",
+      "translation": "להשלים",
+      "hebrew": "להשלים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He worked hard to perfect his skills.",
+        "They are trying to perfect the design."
+      ],
+      "synonyms": ["improve", "refine", "polish"],
+      "topic_tags": ["general", "improvement"]
+    },
+    {
+      "word_id": "01945055-d587-4bcd-afec-1fdc3770e2e9",
+      "english": "pollution",
+      "translation": "זיהום",
+      "hebrew": "זיהום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The pollution in the city is a major concern.",
+        "They are working to reduce air pollution."
+      ],
+      "synonyms": ["contamination", "dirtiness", "impurity"],
+      "topic_tags": ["general", "environment"]
+    },
+    {
+      "word_id": "ddb44b64-d0e2-4acd-842c-53c9e7e798f1",
+      "english": "population",
+      "translation": "אוכלוסייה",
+      "hebrew": "אוכלוסייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The population of the city is growing.",
+        "They conducted a survey of the local population."
+      ],
+      "synonyms": ["inhabitants", "residents", "people"],
+      "topic_tags": ["general", "demographics"]
+    },
+    {
+      "word_id": "25fe7f1b-2c0b-4f52-b669-247a7e37eb88",
+      "english": "possess",
+      "translation": "להחזיק",
+      "hebrew": "להחזיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He possesses great talent.",
+        "They possess a large collection of books."
+      ],
+      "synonyms": ["own", "have", "hold"],
+      "topic_tags": ["general", "ownership"]
+    },
+    {
+      "word_id": "049323d7-3596-4406-80e2-51bc3a4191e6",
+      "english": "possession",
+      "translation": "רכוש",
+      "hebrew": "רכוש",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ring is her most prized possession.",
+        "He lost all his possessions in the fire."
+      ],
+      "synonyms": ["property", "belongings", "assets"],
+      "topic_tags": ["general", "ownership"]
+    },
+    {
+      "word_id": "3a735043-dd37-46f2-bc06-e9e4d4898a3d",
+      "english": "precise",
+      "translation": "מדויק",
+      "hebrew": "מדויק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The instructions were very precise.",
+        "He gave a precise estimate of the costs."
+      ],
+      "synonyms": ["exact", "accurate", "specific"],
+      "topic_tags": ["general", "accuracy"]
+    },
+    {
+      "word_id": "42d7ef19-4ea2-4901-94a7-9ade5ed7b57c",
+      "english": "precision",
+      "translation": "דיוק",
+      "hebrew": "דיוק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The machine operates with high precision.",
+        "Precision is important in scientific research."
+      ],
+      "synonyms": ["accuracy", "exactness", "correctness"],
+      "topic_tags": ["general", "accuracy"]
+    },
+    {
+      "word_id": "5d4d5d1a-3fed-4b24-b5b1-073d21ed5e51",
+      "english": "presence",
+      "translation": "נוכחות",
+      "hebrew": "נוכחות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her presence was comforting.",
+        "The presence of police was reassuring."
+      ],
+      "synonyms": ["attendance", "existence", "appearance"],
+      "topic_tags": ["general", "existence"]
+    }
+  ]
+}

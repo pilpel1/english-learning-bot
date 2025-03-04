@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 120,
+    "words_range": "miss-peek",
+    "word_count": 30,
+    "start_index": 3570,
+    "end_index": 3599
+  },
+  "words": [
+    {
+      "word_id": "a544c029-9615-44f8-a4c9-b054793cc4ec",
+      "english": "miss",
+      "translation": null,
+      "hebrew": "געגוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I miss my family.",
+        "She misses her old friends."
+      ],
+      "synonyms": ["long for"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "16a56351-f143-4f9f-a918-f4ec9a3836ac",
+      "english": "misty",
+      "translation": null,
+      "hebrew": "מעורפל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The mountains were misty in the morning.",
+        "It was a misty day."
+      ],
+      "synonyms": ["foggy", "hazy"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ab952cd0-4647-4ae6-8841-d6638e8668c6",
+      "english": "mix",
+      "translation": null,
+      "hebrew": "לערבב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Mix the flour and sugar together.",
+        "Don't mix business with pleasure."
+      ],
+      "synonyms": ["blend", "combine"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a4cb4dc4-c9c7-44e0-bb14-c2484b6f78fd",
+      "english": "monitor",
+      "translation": null,
+      "hebrew": "לנטר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The doctor monitored the patient's heart rate.",
+        "We need to monitor the situation closely."
+      ],
+      "synonyms": ["observe", "watch"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "294be210-b275-47ed-a8e6-2a7ebcb55a79",
+      "english": "monument",
+      "translation": null,
+      "hebrew": "אנדרטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The monument honors the fallen soldiers.",
+        "The Statue of Liberty is a famous monument."
+      ],
+      "synonyms": ["memorial", "statue"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "f8c6f8fe-4683-4a5c-859d-c81fddbc6061",
+      "english": "motif",
+      "translation": null,
+      "hebrew": "מוטיב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The artist used a recurring floral motif in her paintings.",
+        "The main motif of the story is revenge."
+      ],
+      "synonyms": ["theme", "pattern"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1b05b4cb-5ac2-49b5-aedc-6baff8476b09",
+      "english": "mountain",
+      "translation": null,
+      "hebrew": "הר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They climbed the mountain.",
+        "The mountains are covered in snow."
+      ],
+      "synonyms": ["peak"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "93e0c9e1-1564-4836-9064-ea2022b378ff",
+      "english": "mountainside",
+      "translation": null,
+      "hebrew": "מדרון הר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The village is located on the mountainside.",
+        "They built their house on the mountainside."
+      ],
+      "synonyms": ["slope"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7bf83104-61bc-453b-96db-ba6ff9bca27c",
+      "english": "mountaintop",
+      "translation": null,
+      "hebrew": "פסגת הר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The view from the mountaintop was breathtaking.",
+        "They reached the mountaintop after hours of climbing."
+      ],
+      "synonyms": ["summit", "peak"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a94cd96d-7c92-4e8f-8ea3-cc5a1e84a03c",
+      "english": "mourning",
+      "translation": null,
+      "hebrew": "אבל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is in mourning for her husband.",
+        "The country is in mourning after the tragedy."
+      ],
+      "synonyms": ["grief", "sorrow"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "00ab8d10-ad50-4d5a-b490-92d3ee0da15a",
+      "english": "narration",
+      "translation": null,
+      "hebrew": "קריינות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The film has a powerful narration.",
+        "The book's narration is very engaging."
+      ],
+      "synonyms": ["storytelling", "voice-over"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ddf2ae2f-1468-4b66-a683-ee32288b8f45",
+      "english": "naval",
+      "translation": null,
+      "hebrew": "ימי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The country has a strong naval force.",
+        "He joined the naval academy."
+      ],
+      "synonyms": ["maritime"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "66a5dc00-2a0b-4829-a329-a22562404850",
+      "english": "neck",
+      "translation": null,
+      "hebrew": "צוואר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a necklace around her neck.",
+        "He has a pain in his neck."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "03cf8c13-dd76-4d1d-9258-3a06234b204a",
+      "english": "nest",
+      "translation": null,
+      "hebrew": "קן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The birds built a nest in the tree.",
+        "The eggs are in the nest."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "a3176e32-25c2-49d5-91d3-ac54f4d4a598",
+      "english": "norm",
+      "translation": null,
+      "hebrew": "נורמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is the norm to tip in restaurants.",
+        "They broke the social norm."
+      ],
+      "synonyms": ["standard", "rule"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "176304d3-e0fd-40b4-9b85-18f2c457a267",
+      "english": "North",
+      "translation": null,
+      "hebrew": "צפון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The North is colder than the South.",
+        "They traveled North."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fc51a774-5342-4360-8b48-7371c99122d2",
+      "english": "nose",
+      "translation": null,
+      "hebrew": "אף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a runny nose.",
+        "She wrinkled her nose in disgust."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "fb26f351-ab77-4713-9c44-4eef970dc794",
+      "english": "nowadays",
+      "translation": null,
+      "hebrew": "בימינו",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Nowadays, people use computers for everything.",
+        "Nowadays, it's easier to travel."
+      ],
+      "synonyms": ["currently", "presently"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "29b1c218-5655-475a-910b-284ceb098a6a",
+      "english": "numb",
+      "translation": null,
+      "hebrew": "חָסוּם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "My fingers are numb from the cold.",
+        "The pain made her feel numb."
+      ],
+      "synonyms": ["insensitive", "unfeeling"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0084b188-ce95-4c47-80bb-3d4bf84a619c",
+      "english": "obsession",
+      "translation": null,
+      "hebrew": "אובססיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has an obsession with collecting stamps.",
+        "Her obsession with cleanliness is extreme."
+      ],
+      "synonyms": ["fixation", "compulsion"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d7460194-94b9-4f17-a9e2-db4ed744d672",
+      "english": "odor",
+      "translation": null,
+      "hebrew": "ריח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The odor of the flowers was sweet.",
+        "There was a strange odor in the room."
+      ],
+      "synonyms": ["smell", "scent"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6f6df243-5489-4d40-a3f8-c5eb38ae5f11",
+      "english": "old-fashioned",
+      "translation": null,
+      "hebrew": "מיושן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That style of dress is old-fashioned.",
+        "He has old-fashioned values."
+      ],
+      "synonyms": ["outdated", "antiquated"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "391716c8-eebc-45e2-b17a-83573b2ad5c3",
+      "english": "outweigh",
+      "translation": null,
+      "hebrew": "להכריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The benefits outweigh the risks.",
+        "The advantages outweigh the disadvantages."
+      ],
+      "synonyms": ["exceed", "surpass"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "61adf556-c641-416d-9eb3-7a96dd5b0582",
+      "english": "owe",
+      "translation": null,
+      "hebrew": "חייב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I owe you money.",
+        "He owes a lot of people favors."
+      ],
+      "synonyms": ["be indebted"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c5ce3e15-e1b5-4c1f-9e91-a0d75ae20a30",
+      "english": "oxygen",
+      "translation": null,
+      "hebrew": "חמצן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need oxygen to breathe.",
+        "The air is full of oxygen."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "afc243e0-2edf-47ce-a83e-d91e673ac880",
+      "english": "palm",
+      "translation": null,
+      "hebrew": "כף יד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He held the coin in the palm of his hand.",
+        "Read my palm."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "03b016e0-b99e-49ce-a7f8-87eb74a29f64",
+      "english": "palm",
+      "translation": null,
+      "hebrew": "עץ דקל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Palm trees grow in tropical climates.",
+        "They sat under the shade of a palm tree."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "5d9e0595-e360-49cc-9595-c06e293c6184",
+      "english": "pardon",
+      "translation": null,
+      "hebrew": "סליחה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He asked for pardon for his mistakes.",
+        "The president granted him a pardon."
+      ],
+      "synonyms": ["forgiveness"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8b462ca3-387d-477b-8f13-8dfb11a195b8",
+      "english": "pardon",
+      "translation": null,
+      "hebrew": "לחון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The president can pardon criminals.",
+        "Pardon me?"
+      ],
+      "synonyms": ["forgive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "125b8f24-517c-4900-8507-98d2b40015d4",
+      "english": "peek",
+      "translation": null,
+      "hebrew": "להציץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She peeked through the keyhole.",
+        "He peeked at the answers."
+      ],
+      "synonyms": ["glance", "look"],
+      "topic_tags": ["general"]
+    }
+  ]
+}

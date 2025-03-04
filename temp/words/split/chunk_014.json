@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 14,
+    "words_range": "average-blind",
+    "word_count": 30,
+    "start_index": 390,
+    "end_index": 419
+  },
+  "words": [
+    {
+      "word_id": "20dbb39b-428e-4d5e-8625-c65c33cb6732",
+      "english": "average",
+      "translation": "ממוצע",
+      "hebrew": "ממוצע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The average of the test scores was 75.",
+        "She is an average student."
+      ],
+      "synonyms": ["mean", "median"],
+      "topic_tags": ["general", "mathematics"]
+    },
+    {
+      "word_id": "93512dcd-ef45-48bd-b759-bd27e6531ea9",
+      "english": "avoid",
+      "translation": "להימנע",
+      "hebrew": "להימנע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tries to avoid eating junk food.",
+        "They avoided the traffic by taking a different route."
+      ],
+      "synonyms": ["evade", "shun"],
+      "topic_tags": ["general", "behavior"]
+    },
+    {
+      "word_id": "6e5fc189-0119-48d5-a78d-bf8c14d98d5f",
+      "english": "awake",
+      "translation": "ער",
+      "hebrew": "ער",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I was awake all night.",
+        "She is usually awake by 6 AM."
+      ],
+      "synonyms": ["alert", "conscious"],
+      "topic_tags": ["general", "state"]
+    },
+    {
+      "word_id": "ba2dc899-af05-48f6-be05-f0b32cf63aa6",
+      "english": "bacteria",
+      "translation": "חיידקים",
+      "hebrew": "חיידקים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Bacteria can cause infections.",
+        "The yogurt contains beneficial bacteria."
+      ],
+      "synonyms": ["germs", "microbes"],
+      "topic_tags": ["general", "biology"]
+    },
+    {
+      "word_id": "9a36dfa2-cef9-4fbe-998d-98979a6319a8",
+      "english": "badly",
+      "translation": "רע",
+      "hebrew": "רע",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He played badly in the game.",
+        "The car was badly damaged in the accident."
+      ],
+      "synonyms": ["poorly", "severely"],
+      "topic_tags": ["general", "quality"]
+    },
+    {
+      "word_id": "78763f6a-61d0-4730-9aa8-1b3614d3f141",
+      "english": "baker",
+      "translation": "אופה",
+      "hebrew": "אופה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The baker makes fresh bread every morning.",
+        "She works as a baker in a local bakery."
+      ],
+      "synonyms": ["pastry chef", "bread maker"],
+      "topic_tags": ["general", "occupation"]
+    },
+    {
+      "word_id": "03e38890-89ba-4259-a16d-11a13e649030",
+      "english": "band",
+      "translation": "להקה",
+      "hebrew": "להקה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The band played at the concert.",
+        "She is a member of a rock band."
+      ],
+      "synonyms": ["group", "ensemble"],
+      "topic_tags": ["general", "music"]
+    },
+    {
+      "word_id": "e1c7db4c-1a31-44a7-8d4f-0b7755809d09",
+      "english": "band",
+      "translation": "רצועה",
+      "hebrew": "רצועה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He wore a band around his wrist.",
+        "The band of the watch is made of leather."
+      ],
+      "synonyms": ["strap", "belt"],
+      "topic_tags": ["general", "accessories"]
+    },
+    {
+      "word_id": "62eb19ae-38d4-42bd-aa7a-5058c5a3c249",
+      "english": "barely",
+      "translation": "בקושי",
+      "hebrew": "בקושי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He barely passed the exam.",
+        "She could barely hear the music."
+      ],
+      "synonyms": ["hardly", "scarcely"],
+      "topic_tags": ["general", "degree"]
+    },
+    {
+      "word_id": "63049575-286a-44a1-af6d-6130fdf77d3b",
+      "english": "base",
+      "translation": "בסיס",
+      "hebrew": "בסיס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The base of the statue is made of marble.",
+        "He returned to the military base."
+      ],
+      "synonyms": ["foundation", "bottom"],
+      "topic_tags": ["general", "structure"]
+    },
+    {
+      "word_id": "249c43b8-36f9-46b1-ab90-9aea1b3afdc2",
+      "english": "bat",
+      "translation": "עטלף",
+      "hebrew": "עטלף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Bats are nocturnal animals.",
+        "The bat flew out of the cave."
+      ],
+      "synonyms": ["flying mammal", "chiropteran"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "7488f199-7d24-4944-a93c-b24ad5ef8aca",
+      "english": "bat",
+      "translation": "מחבט",
+      "hebrew": "מחבט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He hit the ball with a bat.",
+        "The baseball bat is made of wood."
+      ],
+      "synonyms": ["club", "stick"],
+      "topic_tags": ["general", "sports"]
+    },
+    {
+      "word_id": "14d2739d-8998-4fc3-8d34-003dfa7f8bb2",
+      "english": "bath",
+      "translation": "אמבטיה",
+      "hebrew": "אמבטיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She took a bath before going to bed.",
+        "The bath was filled with warm water."
+      ],
+      "synonyms": ["tub", "soak"],
+      "topic_tags": ["general", "hygiene"]
+    },
+    {
+      "word_id": "3dac5c6f-aa56-4ea7-9313-12656eab3ba0",
+      "english": "battle",
+      "translation": "קרב",
+      "hebrew": "קרב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The battle lasted for three days.",
+        "He fought bravely in the battle."
+      ],
+      "synonyms": ["fight", "conflict"],
+      "topic_tags": ["general", "war"]
+    },
+    {
+      "word_id": "25551029-b79d-4813-bdf7-e8a6ffdd7cd0",
+      "english": "beach",
+      "translation": "חוף",
+      "hebrew": "חוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They spent the day at the beach.",
+        "The beach was crowded with tourists."
+      ],
+      "synonyms": ["shore", "coast"],
+      "topic_tags": ["general", "nature"]
+    },
+    {
+      "word_id": "323cecd4-8efb-40d9-9293-b02a1e6e577d",
+      "english": "bear",
+      "translation": "דוב",
+      "hebrew": "דוב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Bears hibernate during the winter.",
+        "The bear searched for food in the forest."
+      ],
+      "synonyms": ["grizzly", "bruin"],
+      "topic_tags": ["general", "animals"]
+    },
+    {
+      "word_id": "95db3a28-437f-4188-b643-710544657de5",
+      "english": "bear",
+      "translation": "לשאת",
+      "hebrew": "לשאת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She could not bear the pain.",
+        "He bears a striking resemblance to his father."
+      ],
+      "synonyms": ["endure", "tolerate"],
+      "topic_tags": ["general", "emotion"]
+    },
+    {
+      "word_id": "28adbcbd-1dac-42b1-b540-bb055471325e",
+      "english": "beauty",
+      "translation": "יופי",
+      "hebrew": "יופי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The beauty of the landscape was breathtaking.",
+        "She is known for her beauty."
+      ],
+      "synonyms": ["attractiveness", "loveliness"],
+      "topic_tags": ["general", "aesthetics"]
+    },
+    {
+      "word_id": "29365c1c-4815-4fc6-ab0d-21ce725be89c",
+      "english": "bedroom",
+      "translation": "חדר שינה",
+      "hebrew": "חדר שינה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bedroom is upstairs.",
+        "She decorated her bedroom with new furniture."
+      ],
+      "synonyms": ["chamber", "sleeping room"],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "9389f02a-af67-4844-9550-c8abdb77969f",
+      "english": "begin",
+      "translation": "להתחיל",
+      "hebrew": "להתחיל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting will begin at 10 AM.",
+        "She began to learn French."
+      ],
+      "synonyms": ["start", "commence"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "509e1add-a70e-49e3-8a51-aec62cefcc39",
+      "english": "beginning",
+      "translation": "התחלה",
+      "hebrew": "התחלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The beginning of the book is interesting.",
+        "He was there from the beginning."
+      ],
+      "synonyms": ["start", "onset"],
+      "topic_tags": ["general", "time"]
+    },
+    {
+      "word_id": "afa17d79-0920-48ec-ab1f-0b3f337dc36e",
+      "english": "belong",
+      "translation": "להשתייך",
+      "hebrew": "להשתייך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "These books belong to the library.",
+        "He feels like he belongs here."
+      ],
+      "synonyms": ["fit", "be part of"],
+      "topic_tags": ["general", "relationship"]
+    },
+    {
+      "word_id": "edd9ab93-f72b-4321-8b42-abb0ecc488fb",
+      "english": "best",
+      "translation": "הטוב ביותר",
+      "hebrew": "הטוב ביותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is the best student in the class.",
+        "This is the best solution to the problem."
+      ],
+      "synonyms": ["finest", "top"],
+      "topic_tags": ["general", "quality"]
+    },
+    {
+      "word_id": "1b745d8f-ea47-4aff-b183-3f2f970015cb",
+      "english": "best-seller",
+      "translation": "רב מכר",
+      "hebrew": "רב מכר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book became a best-seller.",
+        "She wrote a best-seller about her travels."
+      ],
+      "synonyms": ["hit", "blockbuster"],
+      "topic_tags": ["general", "literature"]
+    },
+    {
+      "word_id": "a8ba8464-015a-4438-aebc-1a549249ef07",
+      "english": "better",
+      "translation": "טוב יותר",
+      "hebrew": "טוב יותר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She feels better after resting.",
+        "This method is better than the previous one."
+      ],
+      "synonyms": ["improved", "superior"],
+      "topic_tags": ["general", "comparison"]
+    },
+    {
+      "word_id": "3b3aea10-ba37-4a24-bf1c-4844b74853ea",
+      "english": "bicycle",
+      "translation": "אופניים",
+      "hebrew": "אופניים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He rides his bicycle to work.",
+        "The bicycle is parked outside."
+      ],
+      "synonyms": ["bike", "cycle"],
+      "topic_tags": ["general", "transportation"]
+    },
+    {
+      "word_id": "c3ab510b-d040-4416-a94a-40921deba436",
+      "english": "birth",
+      "translation": "לידה",
+      "hebrew": "לידה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The birth of a child is a joyous occasion.",
+        "She gave birth to twins."
+      ],
+      "synonyms": ["nativity", "delivery"],
+      "topic_tags": ["general", "life"]
+    },
+    {
+      "word_id": "7cbcfc1e-2345-4e1c-b94d-545ca64531a8",
+      "english": "bite",
+      "translation": "לנשוך",
+      "hebrew": "לנשוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dog might bite if provoked.",
+        "She took a bite of the apple."
+      ],
+      "synonyms": ["nip", "chomp"],
+      "topic_tags": ["general", "action"]
+    },
+    {
+      "word_id": "047c1202-b494-497c-9cd9-146fc30cc3f5",
+      "english": "bizarre",
+      "translation": "מוזר",
+      "hebrew": "מוזר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The story had a bizarre ending.",
+        "He wore a bizarre outfit to the party."
+      ],
+      "synonyms": ["strange", "weird"],
+      "topic_tags": ["general", "description"]
+    },
+    {
+      "word_id": "7c7d82cf-2c96-4396-bf15-159c3818bd9d",
+      "english": "blind",
+      "translation": "עיוור",
+      "hebrew": "עיוור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has been blind since birth.",
+        "The blind man used a cane to walk."
+      ],
+      "synonyms": ["sightless", "visionless"],
+      "topic_tags": ["general", "health"]
+    }
+  ]
+}

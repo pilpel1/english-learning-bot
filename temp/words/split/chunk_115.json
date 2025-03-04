@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "chunk_number": 115,
+    "words_range": "embalm-extortion",
+    "word_count": 30,
+    "start_index": 3420,
+    "end_index": 3449
+  },
+  "words": [
+    {
+      "word_id": "f7f02d43-6edc-424e-9922-d1c026cfd523",
+      "english": "embalm",
+      "translation": null,
+      "hebrew": "לחנוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The body was embalmed before the funeral.",
+        "Ancient Egyptians embalmed their dead."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history",
+        "death"
+      ]
+    },
+    {
+      "word_id": "93da4bdc-04b2-4552-acd6-59dba8a7e18e",
+      "english": "embarrass",
+      "translation": null,
+      "hebrew": "להביך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I didn't want to embarrass him in front of his friends.",
+        "She was embarrassed by her mistake."
+      ],
+      "synonyms": [
+        "shame",
+        "humiliate"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "23beec83-9249-48bc-a314-0809ab68a1cd",
+      "english": "embitter",
+      "translation": null,
+      "hebrew": "למַרֵר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The experience embittered him for life.",
+        "Don't let your past embitter you."
+      ],
+      "synonyms": [
+        "sour",
+        "resent"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "40a52bac-1944-4c73-a2c7-e0a1a5becaf6",
+      "english": "emit",
+      "translation": null,
+      "hebrew": "לפלוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The factory emits smoke into the air.",
+        "The sun emits light and heat."
+      ],
+      "synonyms": [
+        "release",
+        "discharge"
+      ],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "ae4c042b-0a40-4180-8c9c-2bb57ed92270",
+      "english": "empathy",
+      "translation": null,
+      "hebrew": "אמפתיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of empathy for others.",
+        "Empathy is important for building relationships."
+      ],
+      "synonyms": [
+        "compassion",
+        "understanding"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "c3770992-5be9-4c3a-8bee-a0dd52979369",
+      "english": "emphasize",
+      "translation": null,
+      "hebrew": "להדגיש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The speaker emphasized the importance of education.",
+        "I want to emphasize that this is just my opinion."
+      ],
+      "synonyms": [
+        "stress",
+        "highlight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c21b6f61-f1f2-4cab-8027-9ff5622d4d3e",
+      "english": "enchant",
+      "translation": null,
+      "hebrew": "לכשף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The music enchanted the audience.",
+        "She was enchanted by his charm."
+      ],
+      "synonyms": [
+        "captivate",
+        "charm"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "602e5f0a-3c55-4d12-82a8-99a360509583",
+      "english": "encroach",
+      "translation": null,
+      "hebrew": "לפלוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is encroaching on the surrounding countryside.",
+        "Don't encroach on my personal space."
+      ],
+      "synonyms": [
+        "intrude",
+        "trespass"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ffa5e3a8-80d4-431b-82ca-3b5cff61c259",
+      "english": "engine",
+      "translation": null,
+      "hebrew": "מנוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The car's engine is very powerful.",
+        "The train's engine pulled the carriages."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "ebf632ff-683e-4148-b105-a791fbd18c5e",
+      "english": "engineer",
+      "translation": null,
+      "hebrew": "מהנדס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a civil engineer.",
+        "The engineer designed the bridge."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology",
+        "professions"
+      ]
+    },
+    {
+      "word_id": "9ef151dd-7e31-4dcc-ae54-759b972b4ea3",
+      "english": "enrich",
+      "translation": null,
+      "hebrew": "להעשיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The experience enriched her life.",
+        "The fertilizer enriched the soil."
+      ],
+      "synonyms": [
+        "enhance",
+        "improve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cdc84ba3-c156-4047-84c0-e58f812374e2",
+      "english": "enroll",
+      "translation": null,
+      "hebrew": "להירשם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I want to enroll in a yoga class.",
+        "She enrolled her children in the local school."
+      ],
+      "synonyms": [
+        "register",
+        "sign up"
+      ],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "7e7eb9b0-21ad-45f2-a847-c56bc3289a66",
+      "english": "ensue",
+      "translation": null,
+      "hebrew": "לנבוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "A fight ensued after the argument.",
+        "Chaos ensued when the power went out."
+      ],
+      "synonyms": [
+        "follow",
+        "result"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "02f607b6-bb70-4634-bbc1-564eb236bbf9",
+      "english": "enthusiasm",
+      "translation": null,
+      "hebrew": "התלהבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a lot of enthusiasm for her work.",
+        "The crowd showed their enthusiasm for the team."
+      ],
+      "synonyms": [
+        "passion",
+        "excitement"
+      ],
+      "topic_tags": [
+        "general",
+        "emotions"
+      ]
+    },
+    {
+      "word_id": "95931597-7957-459f-a771-949988116196",
+      "english": "entice",
+      "translation": null,
+      "hebrew": "לפתות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The advertisement enticed me to buy the product.",
+        "They tried to entice him with money."
+      ],
+      "synonyms": [
+        "lure",
+        "tempt"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cea9b698-31f4-42e9-b013-17fb6443a0b2",
+      "english": "epitomize",
+      "translation": null,
+      "hebrew": "לגלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She epitomizes elegance.",
+        "The building epitomizes modern architecture."
+      ],
+      "synonyms": [
+        "embody",
+        "represent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "41a6ec01-ad64-4a0c-b77a-be7ebb43cd70",
+      "english": "erosion",
+      "translation": null,
+      "hebrew": "סחיפה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The erosion of the coastline is a serious problem.",
+        "Soil erosion can lead to desertification."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "7d53fb6d-e193-4cf2-b88c-ad844c8d031d",
+      "english": "erroneous",
+      "translation": null,
+      "hebrew": "שגוי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The report contained erroneous information.",
+        "His calculations were erroneous."
+      ],
+      "synonyms": [
+        "incorrect",
+        "wrong"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c333d5d-b998-4fcd-990f-0914a5bc1208",
+      "english": "evocative",
+      "translation": null,
+      "hebrew": "מעורר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The music was very evocative.",
+        "The smell of the sea is evocative of childhood memories."
+      ],
+      "synonyms": [
+        "suggestive",
+        "reminiscent"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "8f4f267e-b290-4992-8ef3-9dc56eb149c9",
+      "english": "exhale",
+      "translation": null,
+      "hebrew": "לנשוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Take a deep breath and exhale slowly.",
+        "She exhaled a sigh of relief."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "0d5be71b-eeaf-4a6d-985c-37e6dd305bbe",
+      "english": "exhibit",
+      "translation": null,
+      "hebrew": "להציג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The museum exhibits ancient artifacts.",
+        "He exhibited great courage during the crisis."
+      ],
+      "synonyms": [
+        "display",
+        "show"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e4e23676-678f-4a70-81fe-5770c158fcf8",
+      "english": "exhibition",
+      "translation": null,
+      "hebrew": "תערוכה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We went to an art exhibition.",
+        "The exhibition will be held in the city center."
+      ],
+      "synonyms": [
+        "display",
+        "show"
+      ],
+      "topic_tags": [
+        "general",
+        "art"
+      ]
+    },
+    {
+      "word_id": "a05b95d8-4841-46ec-afa2-48c5e9d54ebb",
+      "english": "exile",
+      "translation": null,
+      "hebrew": "גלות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He lived in exile for many years.",
+        "The king was sent into exile."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "history",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "c88d9648-56bc-4cf3-8451-d4b8fc31864e",
+      "english": "expand",
+      "translation": null,
+      "hebrew": "להתרחב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is planning to expand its operations.",
+        "The balloon expanded as it was filled with air."
+      ],
+      "synonyms": [
+        "grow",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "98a63977-4cb5-4be2-a3e6-a110a7fbd756",
+      "english": "expansion",
+      "translation": null,
+      "hebrew": "התרחבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The expansion of the city has led to traffic problems.",
+        "The company's expansion into new markets was successful."
+      ],
+      "synonyms": [
+        "growth",
+        "increase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c82efa37-3b4c-41c1-a20b-1adcf12e1f45",
+      "english": "expatriate",
+      "translation": null,
+      "hebrew": "גולה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an expatriate living in France.",
+        "Many expatriates choose to live abroad for work."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "04b0afe4-aa1c-4b70-974f-54ab45ba45c5",
+      "english": "expel",
+      "translation": null,
+      "hebrew": "לגרש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The student was expelled from school.",
+        "The country expelled the foreign diplomats."
+      ],
+      "synonyms": [
+        "banish",
+        "deport"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f424ea2d-619d-48c1-937f-a405b6b84455",
+      "english": "explode",
+      "translation": null,
+      "hebrew": "להתפוצץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The bomb exploded with a loud noise.",
+        "The company's profits exploded last year."
+      ],
+      "synonyms": [
+        "detonate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ac4fd9d0-cc8b-4a4a-926c-d61340385093",
+      "english": "extortion",
+      "translation": null,
+      "hebrew": "סחיטה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was arrested for extortion.",
+        "The company was a victim of extortion."
+      ],
+      "synonyms": [
+        "blackmail"
+      ],
+      "topic_tags": [
+        "general",
+        "crime"
+      ]
+    }
+  ]
+}

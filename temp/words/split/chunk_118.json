@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 118,
+    "words_range": "ingest-library",
+    "word_count": 30,
+    "start_index": 3510,
+    "end_index": 3539
+  },
+  "words": [
+    {
+      "word_id": "2886f098-9e27-4d80-b6fe-b7a0afa4f1d9",
+      "english": "ingest",
+      "translation": null,
+      "hebrew": "לבלוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The body needs to ingest food for energy.",
+        "The software can ingest large amounts of data."
+      ],
+      "synonyms": ["consume", "swallow"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "8dde0d6d-539e-460d-891e-cdb283e142cb",
+      "english": "ingredients",
+      "translation": null,
+      "hebrew": "מרכיבים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What are the ingredients for this cake?",
+        "The recipe lists all the ingredients."
+      ],
+      "synonyms": ["components", "elements"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b1689b6c-65cb-452f-b8d7-a8db0e83b5c6",
+      "english": "injure",
+      "translation": null,
+      "hebrew": "לפצוע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He injured his leg while playing football.",
+        "Be careful not to injure yourself."
+      ],
+      "synonyms": ["wound", "harm"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4bca1e41-e772-46e2-b577-1fec812f7823",
+      "english": "insect",
+      "translation": null,
+      "hebrew": "חרק",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A fly is a common insect.",
+        "Some insects can be harmful to crops."
+      ],
+      "synonyms": ["bug"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "88b373d0-db44-4c16-ad4d-f4401fd5ad70",
+      "english": "installation",
+      "translation": null,
+      "hebrew": "התקנה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The installation of the new software took several hours.",
+        "The artist created a large-scale installation."
+      ],
+      "synonyms": ["setup", "fitting"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ae1fe49c-995f-4078-b5a7-d5f573818219",
+      "english": "instant",
+      "translation": null,
+      "hebrew": "מיידי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Instant coffee is quick to make.",
+        "She felt an instant connection with him."
+      ],
+      "synonyms": ["immediate", "prompt"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c8787c07-4a1c-4b1f-af7e-1b7c91458b52",
+      "english": "instant",
+      "translation": null,
+      "hebrew": "רגע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Wait a instant, please.",
+        "In that instant, everything changed."
+      ],
+      "synonyms": ["moment", "second"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "07005bb3-1ad3-45c5-b592-ccf5ceb1fe5b",
+      "english": "instill",
+      "translation": null,
+      "hebrew": "להחדיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher tried to instill a love of reading in her students.",
+        "Parents instill values in their children."
+      ],
+      "synonyms": ["implant", "infuse", "inculcate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e3f3652e-eb8f-47d0-afcc-1700a362e2f8",
+      "english": "insulate",
+      "translation": null,
+      "hebrew": "לבודד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to insulate the walls to keep the house warm.",
+        "The company insulated itself from risk."
+      ],
+      "synonyms": ["protect", "shield", "isolate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "98802ec5-1995-4f3a-a0d3-e8e48af27c7f",
+      "english": "insurrection",
+      "translation": null,
+      "hebrew": "התקוממות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The insurrection was quickly suppressed.",
+        "The people rose up in insurrection against the government."
+      ],
+      "synonyms": ["rebellion", "uprising", "revolt"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "0a1168d9-9104-4bfa-ba1b-d07c7679f643",
+      "english": "intact",
+      "translation": null,
+      "hebrew": "שלם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The vase remained intact after the fall.",
+        "The building survived the earthquake intact."
+      ],
+      "synonyms": ["undamaged", "unbroken", "whole"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "c5b985da-d30d-4d04-b9ea-eac2312d9b0d",
+      "english": "intermediary",
+      "translation": null,
+      "hebrew": "מתווך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The lawyer acted as an intermediary between the parties.",
+        "An intermediary can help to resolve disputes."
+      ],
+      "synonyms": ["mediator", "broker"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "e5f05919-44ab-40b4-9bd8-2eaaec5c5466",
+      "english": "interminable",
+      "translation": null,
+      "hebrew": "אינסופי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The meeting seemed interminable.",
+        "The journey felt interminable."
+      ],
+      "synonyms": ["endless", "ceaseless"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b6d2fc7b-4f18-4655-8131-e0ef0a409121",
+      "english": "intimidate",
+      "translation": null,
+      "hebrew": "להפחיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to intimidate me with threats.",
+        "Don't let them intimidate you."
+      ],
+      "synonyms": ["frighten", "threaten", "bully"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "66d9c789-6e55-4f89-b397-8f2bab91288e",
+      "english": "intrusive",
+      "translation": null,
+      "hebrew": "פולשני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The paparazzi are very intrusive.",
+        "The medical procedure is minimally intrusive."
+      ],
+      "synonyms": ["invasive", "obtrusive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "965023af-4a19-4b38-8fef-501f347d26c0",
+      "english": "invariably",
+      "translation": null,
+      "hebrew": "תמיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "It invariably rains on weekends.",
+        "She invariably arrives late."
+      ],
+      "synonyms": ["always", "constantly"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d4d63545-fc77-47b3-8c79-65f5cd4b1c7d",
+      "english": "ironic",
+      "translation": null,
+      "hebrew": "אירוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It's ironic that he failed the exam after studying so hard.",
+        "His comments were ironic."
+      ],
+      "synonyms": ["sarcastic"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4e04e5d9-3214-4c36-82ec-8fb7192919cd",
+      "english": "jagged",
+      "translation": null,
+      "hebrew": "משונן",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The coastline is jagged.",
+        "The knife had a jagged edge."
+      ],
+      "synonyms": ["ragged", "uneven"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3adaae3f-6645-445f-836e-585fc834c9d8",
+      "english": "journey",
+      "translation": null,
+      "hebrew": "מסע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They embarked on a long journey.",
+        "Life is a journey."
+      ],
+      "synonyms": ["trip", "voyage"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cda2602d-4d00-45c0-b774-836ecb692da2",
+      "english": "joyous",
+      "translation": null,
+      "hebrew": "שמח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a joyous occasion.",
+        "They celebrated with a joyous party."
+      ],
+      "synonyms": ["happy", "delightful"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "277a7354-6c1c-4497-9515-f4df0baef4f4",
+      "english": "keep",
+      "translation": null,
+      "hebrew": "לשמור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please keep the room clean.",
+        "Keep your valuables safe."
+      ],
+      "synonyms": ["hold", "retain"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "da994bb2-4c93-426d-b027-cb37ea18246c",
+      "english": "keep",
+      "translation": null,
+      "hebrew": "להחזיק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I keep the keys in my pocket.",
+        "Keep the change."
+      ],
+      "synonyms": ["possess", "own"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "63a85c82-3526-4bf2-b81f-708b09daea32",
+      "english": "kick",
+      "translation": null,
+      "hebrew": "לבעוט",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He kicked the ball.",
+        "Don't kick the furniture."
+      ],
+      "synonyms": ["strike", "boot"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "86015f3b-31cf-4b9d-9466-73aab0d2a999",
+      "english": "knees",
+      "translation": null,
+      "hebrew": "ברכיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She fell on her knees.",
+        "His knees were shaking."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "68481711-0e4d-416c-9e15-9df4bb62ee7d",
+      "english": "knot",
+      "translation": null,
+      "hebrew": "קשר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He tied a knot in the rope.",
+        "She had a knot in her stomach."
+      ],
+      "synonyms": ["tie", "bond"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2604083c-d263-4abb-bb6e-0adbfca9cbf1",
+      "english": "lamentable",
+      "translation": null,
+      "hebrew": "מצער",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It was a lamentable situation.",
+        "The accident was a lamentable tragedy."
+      ],
+      "synonyms": ["deplorable", "regrettable"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6fcb8c52-5a6d-4fd7-8cee-4c02daf0e9a9",
+      "english": "laugh",
+      "translation": null,
+      "hebrew": "לצחוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They started to laugh at the joke.",
+        "It's good to laugh every day."
+      ],
+      "synonyms": ["chuckle", "giggle"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "6740a016-8b71-41a1-abff-c2c218a10cba",
+      "english": "lend",
+      "translation": null,
+      "hebrew": "להלוות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can you lend me some money?",
+        "He offered to lend me his car."
+      ],
+      "synonyms": ["loan"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "66a0955d-d736-4c4d-96f6-c9a493bcbfd1",
+      "english": "liberal",
+      "translation": null,
+      "hebrew": "ליברלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has liberal views.",
+        "The school has a liberal arts curriculum."
+      ],
+      "synonyms": ["tolerant", "progressive"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2802c7dc-d63c-4f48-861d-4f071892e84b",
+      "english": "library",
+      "translation": null,
+      "hebrew": "ספרייה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I went to the library to borrow a book.",
+        "The library has a large collection of books."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "_meta": {
+    "chunk_number": 94,
+    "words_range": "reinvigorate-shift",
+    "word_count": 30,
+    "start_index": 2790,
+    "end_index": 2819
+  },
+  "words": [
+    {
+      "word_id": "97108898-9b52-4c26-9bb2-3a9baa2613f4",
+      "english": "reinvigorate",
+      "translation": null,
+      "hebrew": "להחיות מחדש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The spa treatment reinvigorated her.",
+        "We need to reinvigorate the economy."
+      ],
+      "synonyms": [
+        "revitalize",
+        "refresh"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3d9f39d0-af7d-42d9-96aa-2809b87f65e4",
+      "english": "relationship",
+      "translation": null,
+      "hebrew": "יחסים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They have a close relationship.",
+        "The relationship between the two countries is improving."
+      ],
+      "synonyms": [
+        "connection",
+        "bond"
+      ],
+      "topic_tags": [
+        "general",
+        "social"
+      ]
+    },
+    {
+      "word_id": "0ed5d8cd-58e2-4dae-b66f-79ff40818c2b",
+      "english": "religious",
+      "translation": null,
+      "hebrew": "דתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a religious man.",
+        "Religious freedom is a basic right."
+      ],
+      "synonyms": [
+        "devout",
+        "pious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eeb710ab-cda3-41f4-a542-6cf2324aee10",
+      "english": "remainder",
+      "translation": null,
+      "hebrew": "שארית",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You can keep the remainder.",
+        "The remainder of the money will be donated."
+      ],
+      "synonyms": [
+        "rest",
+        "balance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7954a5fb-aa36-42c5-9d31-9f24440c1071",
+      "english": "renovate",
+      "translation": null,
+      "hebrew": "לשפץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are going to renovate the house.",
+        "The old building needs to be renovated."
+      ],
+      "synonyms": [
+        "remodel",
+        "restore"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "62bd8f10-c01c-4126-960b-81bc67b0b65e",
+      "english": "respective",
+      "translation": null,
+      "hebrew": "בהתאמה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to their respective homes.",
+        "The respective roles of the manager and the assistant are clear."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "644a267d-a5a7-4f0a-9a27-dd0d200f809d",
+      "english": "respectively",
+      "translation": null,
+      "hebrew": "בהתאמה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "John and Mary are 20 and 22 years old, respectively.",
+        "The first and second prizes were given to Tom and Sarah, respectively."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "29b6d868-1c68-4567-afbd-49f73cf7646d",
+      "english": "restrict",
+      "translation": null,
+      "hebrew": "להגביל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Access to the building is restricted.",
+        "We need to restrict the amount of pollution."
+      ],
+      "synonyms": [
+        "limit",
+        "confine"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a2ca9472-98fb-4c05-83b5-396a154f0b1b",
+      "english": "restriction",
+      "translation": null,
+      "hebrew": "הגבלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are no restrictions on visitors.",
+        "The new law imposes restrictions on smoking."
+      ],
+      "synonyms": [
+        "limitation",
+        "constraint"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "847a24d8-ef0d-4c3b-b79b-8d11b23d1926",
+      "english": "retire",
+      "translation": null,
+      "hebrew": "לפרוש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is going to retire next year.",
+        "She retired from her job as a teacher."
+      ],
+      "synonyms": [
+        "resign",
+        "withdraw"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4fcd0b11-8a03-44f2-8442-b28d3ee3e966",
+      "english": "revoke",
+      "translation": null,
+      "hebrew": "לשלול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The license was revoked.",
+        "The decision was revoked by the court."
+      ],
+      "synonyms": [
+        "cancel",
+        "repeal"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "87c28ce5-1264-4bd9-8bf0-f787c9c27b3e",
+      "english": "reward",
+      "translation": null,
+      "hebrew": "פרס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a reward for finding the lost dog.",
+        "Hard work brings its own reward."
+      ],
+      "synonyms": [
+        "prize",
+        "award"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3eb0f771-ebf9-4374-97f8-faba4131aee3",
+      "english": "ritual",
+      "translation": null,
+      "hebrew": "טקס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The ceremony was a traditional ritual.",
+        "They perform the ritual every year."
+      ],
+      "synonyms": [
+        "ceremony",
+        "rite"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e275dd81-ce5d-4e96-b641-b22fab2da14d",
+      "english": "rough",
+      "translation": null,
+      "hebrew": "מחוספס",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The road was rough.",
+        "He had a rough day at work."
+      ],
+      "synonyms": [
+        "uneven",
+        "coarse"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "45a89294-a30b-471e-afb3-8b558371ced6",
+      "english": "rudimentary",
+      "translation": null,
+      "hebrew": "בסיסי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has only a rudimentary knowledge of French.",
+        "The equipment is quite rudimentary."
+      ],
+      "synonyms": [
+        "basic",
+        "elementary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "059eecdf-04b9-4c89-bbc7-908fb8587f28",
+      "english": "sacred",
+      "translation": null,
+      "hebrew": "קדוש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is a sacred place.",
+        "The book is considered sacred."
+      ],
+      "synonyms": [
+        "holy",
+        "divine"
+      ],
+      "topic_tags": [
+        "general",
+        "religion"
+      ]
+    },
+    {
+      "word_id": "fbc8c5b4-31ed-4a33-8f12-7a9c770eb852",
+      "english": "sacrifice",
+      "translation": null,
+      "hebrew": "קורבן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a sacrifice for his family.",
+        "They offered a sacrifice to the gods."
+      ],
+      "synonyms": [
+        "offering",
+        "victim"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3f9f9bb7-6e54-43de-a57e-81e4390992c5",
+      "english": "sake",
+      "translation": null,
+      "hebrew": "למען",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "For the sake of peace, we must negotiate.",
+        "He did it for her sake."
+      ],
+      "synonyms": [
+        "purpose",
+        "reason"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a8d1a2e0-6594-45d2-a84f-22ae2ce2b68e",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "מסך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie is showing on the big screen.",
+        "He looked at the computer screen."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "c68065f1-a6ec-43fc-917a-39ba16a98771",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "להקרין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are going to screen the movie tonight.",
+        "The company screens all employees for drugs."
+      ],
+      "synonyms": [
+        "show",
+        "filter"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "cc4aeb04-ebef-4523-bb1a-d054bd6d0277",
+      "english": "screen",
+      "translation": null,
+      "hebrew": "לסנן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The application screens out unqualified candidates.",
+        "We need to screen the water for impurities."
+      ],
+      "synonyms": [
+        "filter",
+        "sift"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "9fdb566b-4e87-4179-80fd-33b257b3705c",
+      "english": "seek",
+      "translation": null,
+      "hebrew": "לחפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He is seeking a job.",
+        "They are seeking help from the public."
+      ],
+      "synonyms": [
+        "look for",
+        "search"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "94dae0ee-52f8-45ae-b2d6-359da29375c2",
+      "english": "seek, sought",
+      "translation": null,
+      "hebrew": "חיפש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He sought advice from his doctor.",
+        "They sought refuge from the storm."
+      ],
+      "synonyms": [
+        "looked for",
+        "searched"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7a1e1bb5-5c0c-480c-80ea-fd71f1318fbc",
+      "english": "seismic",
+      "translation": null,
+      "hebrew": "סיסמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The earthquake caused seismic waves.",
+        "Seismic activity is monitored by scientists."
+      ],
+      "synonyms": [
+        "earthquake",
+        "tremor"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "7a33ba3c-e2d2-4976-a07b-9f864dbd0ca6",
+      "english": "series",
+      "translation": null,
+      "hebrew": "סדרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The TV show is a popular series.",
+        "There has been a series of accidents."
+      ],
+      "synonyms": [
+        "sequence",
+        "succession"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a3e0539e-5fbb-4d5c-8497-ead83cafb388",
+      "english": "settle",
+      "translation": null,
+      "hebrew": "להתיישב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They decided to settle in the countryside.",
+        "The dust began to settle."
+      ],
+      "synonyms": [
+        "establish",
+        "reside"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7233cdf-9aa9-4c20-8c03-12cc4cb5a8d3",
+      "english": "settle",
+      "translation": null,
+      "hebrew": "ליישב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They need to settle the dispute.",
+        "We need to settle the bill."
+      ],
+      "synonyms": [
+        "resolve",
+        "reconcile"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e3927bed-a43f-421c-82ce-64f0d9a4fa67",
+      "english": "severe",
+      "translation": null,
+      "hebrew": "חמור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The storm caused severe damage.",
+        "He suffered a severe injury."
+      ],
+      "synonyms": [
+        "serious",
+        "critical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "51ff0eda-6367-4a3f-a604-f18a7cd99ed6",
+      "english": "shape",
+      "translation": null,
+      "hebrew": "צורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The box is square in shape.",
+        "The clouds were in the shape of animals."
+      ],
+      "synonyms": [
+        "form",
+        "figure"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "acba7d12-1f18-416f-ad2c-de2023e31fa1",
+      "english": "shift",
+      "translation": null,
+      "hebrew": "משמרת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He works the night shift.",
+        "There has been a shift in public opinion."
+      ],
+      "synonyms": [
+        "turn",
+        "change"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

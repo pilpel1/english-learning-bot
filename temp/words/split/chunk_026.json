@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 26,
+    "words_range": "advancement-capable",
+    "word_count": 30,
+    "start_index": 750,
+    "end_index": 779
+  },
+  "words": [
+    {
+      "word_id": "a0d281de-bf0a-4309-b6fe-dfaff3d2cfc2",
+      "english": "advancement",
+      "translation": "קידום",
+      "hebrew": "קידום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her advancement in the company was well-deserved.",
+        "The advancement of technology is rapid."
+      ],
+      "synonyms": ["progress", "promotion", "development"],
+      "topic_tags": ["general", "progress", "development"]
+    },
+    {
+      "word_id": "d534c9f8-1a92-4788-9f80-b590a8d2999f",
+      "english": "advantage",
+      "translation": "יתרון",
+      "hebrew": "יתרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has the advantage of experience.",
+        "The new policy gives us an advantage."
+      ],
+      "synonyms": ["benefit", "edge", "upper hand"],
+      "topic_tags": ["general", "benefit", "comparison"]
+    },
+    {
+      "word_id": "56be3e18-8a15-4aa4-bb1f-b08b8c88aa88",
+      "english": "advice",
+      "translation": "עצה",
+      "hebrew": "עצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She gave me some good advice.",
+        "I need your advice on this matter."
+      ],
+      "synonyms": ["guidance", "recommendation", "counsel"],
+      "topic_tags": ["general", "guidance", "help"]
+    },
+    {
+      "word_id": "407df19c-db62-47f7-80b5-2eadf71d784f",
+      "english": "advise",
+      "translation": "לייעץ",
+      "hebrew": "לייעץ",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I advise you to take the offer.",
+        "He advised her to see a doctor."
+      ],
+      "synonyms": ["recommend", "suggest", "counsel"],
+      "topic_tags": ["general", "guidance", "suggestion"]
+    },
+    {
+      "word_id": "fa79feb6-209d-42b4-bc39-787b870416b5",
+      "english": "advisor",
+      "translation": "יועץ",
+      "hebrew": "יועץ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a financial advisor.",
+        "The advisor helped him with his career."
+      ],
+      "synonyms": ["consultant", "counselor", "mentor"],
+      "topic_tags": ["general", "guidance", "career"]
+    },
+    {
+      "word_id": "2cbf0d9a-1de9-4d77-a108-2518108001ae",
+      "english": "aesthetic",
+      "translation": "אסתטי",
+      "hebrew": "אסתטי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The aesthetic design of the building is impressive.",
+        "She has a keen aesthetic sense."
+      ],
+      "synonyms": ["artistic", "visual", "beautiful"],
+      "topic_tags": ["general", "art", "design"]
+    },
+    {
+      "word_id": "f97078e7-3ae9-4f15-94d9-94d81d9815d6",
+      "english": "allocate",
+      "translation": "להקצות",
+      "hebrew": "להקצות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company allocated resources for the project.",
+        "They allocated time for each speaker."
+      ],
+      "synonyms": ["assign", "distribute", "allot"],
+      "topic_tags": ["general", "management", "resources"]
+    },
+    {
+      "word_id": "65920dd3-36f8-4b24-ad1a-d6251e1b347d",
+      "english": "announcement",
+      "translation": "הכרזה",
+      "hebrew": "הכרזה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The announcement was made at the meeting.",
+        "They issued an announcement about the new policy."
+      ],
+      "synonyms": ["declaration", "statement", "proclamation"],
+      "topic_tags": ["general", "communication", "news"]
+    },
+    {
+      "word_id": "fbe0bdfa-e812-411f-995f-0a89cd4c65d1",
+      "english": "annually",
+      "translation": "שנתי",
+      "hebrew": "שנתי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The event is held annually.",
+        "They review the budget annually."
+      ],
+      "synonyms": ["yearly", "per annum", "every year"],
+      "topic_tags": ["general", "time", "frequency"]
+    },
+    {
+      "word_id": "2adb0cdd-6883-44f2-af94-f0058d5f73a7",
+      "english": "appoint",
+      "translation": "למנות",
+      "hebrew": "למנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They appointed him as the new manager.",
+        "She was appointed to the board of directors."
+      ],
+      "synonyms": ["assign", "nominate", "designate"],
+      "topic_tags": ["general", "management", "position"]
+    },
+    {
+      "word_id": "c7482db3-8cd0-4bff-b259-5ff2dcd0e7ad",
+      "english": "approach",
+      "translation": "לגשת",
+      "hebrew": "לגשת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He approached the problem with caution.",
+        "She approached the teacher for help."
+      ],
+      "synonyms": ["advance", "come near", "move toward"],
+      "topic_tags": ["general", "action", "interaction"]
+    },
+    {
+      "word_id": "27106603-7a6e-4cd1-85ac-568c1d793f75",
+      "english": "approximately",
+      "translation": "בערך",
+      "hebrew": "בערך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The journey takes approximately two hours.",
+        "There are approximately 100 people in the room."
+      ],
+      "synonyms": ["about", "roughly", "around"],
+      "topic_tags": ["general", "measurement", "estimation"]
+    },
+    {
+      "word_id": "cdd0e5ef-bde9-4f43-a59e-1c3ed4f17436",
+      "english": "astronomy",
+      "translation": "אסטרונומיה",
+      "hebrew": "אסטרונומיה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is studying astronomy at university.",
+        "Astronomy is the study of celestial objects."
+      ],
+      "synonyms": ["stargazing", "astrophysics", "cosmology"],
+      "topic_tags": ["general", "science", "space"]
+    },
+    {
+      "word_id": "3701f0c2-4c88-4eb7-a88c-105d845f755d",
+      "english": "attention",
+      "translation": "תשומת לב",
+      "hebrew": "תשומת לב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She paid close attention to the lecture.",
+        "The teacher asked for the students' attention."
+      ],
+      "synonyms": ["focus", "concentration", "heed"],
+      "topic_tags": ["general", "focus", "awareness"]
+    },
+    {
+      "word_id": "92c7b72b-68c8-4c4c-9d6f-9f9fdc3bfb21",
+      "english": "attribute",
+      "translation": "תכונה",
+      "hebrew": "תכונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Patience is a valuable attribute.",
+        "The attribute of kindness is important."
+      ],
+      "synonyms": ["quality", "trait", "characteristic"],
+      "topic_tags": ["general", "character", "quality"]
+    },
+    {
+      "word_id": "fefebdcd-5668-43bc-83b4-ead61ef414b9",
+      "english": "attribute",
+      "translation": "לייחס",
+      "hebrew": "לייחס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He attributed his success to hard work.",
+        "The quote is often attributed to Einstein."
+      ],
+      "synonyms": ["ascribe", "credit", "assign"],
+      "topic_tags": ["general", "cause", "credit"]
+    },
+    {
+      "word_id": "2760d12a-781c-4221-bc44-a5e84cf33e46",
+      "english": "aware",
+      "translation": "מודע",
+      "hebrew": "מודע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is aware of the risks involved.",
+        "He became aware of the problem."
+      ],
+      "synonyms": ["conscious", "informed", "alert"],
+      "topic_tags": ["general", "awareness", "knowledge"]
+    },
+    {
+      "word_id": "50dd3ef2-8ba4-49ed-bb3b-ac6c4bb06b52",
+      "english": "balance",
+      "translation": "איזון",
+      "hebrew": "איזון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She maintained her balance on the beam.",
+        "The balance between work and life is important."
+      ],
+      "synonyms": ["equilibrium", "stability", "harmony"],
+      "topic_tags": ["general", "stability", "equilibrium"]
+    },
+    {
+      "word_id": "e0966a79-5db0-41e1-b755-3ea54cf5b888",
+      "english": "balance",
+      "translation": "לאזן",
+      "hebrew": "לאזן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He balanced the books carefully.",
+        "She tried to balance her time between work and family."
+      ],
+      "synonyms": ["stabilize", "equalize", "adjust"],
+      "topic_tags": ["general", "stability", "adjustment"]
+    },
+    {
+      "word_id": "f6797a78-1983-43d9-b876-1593f87a6bfb",
+      "english": "ban",
+      "translation": "לאסור",
+      "hebrew": "לאסור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The city banned smoking in public areas.",
+        "They banned the use of plastic bags."
+      ],
+      "synonyms": ["prohibit", "forbid", "outlaw"],
+      "topic_tags": ["general", "restriction", "law"]
+    },
+    {
+      "word_id": "190f330d-b0dd-4b24-958e-6ee54a5616ad",
+      "english": "belief",
+      "translation": "אמונה",
+      "hebrew": "אמונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Her belief in justice is strong.",
+        "He has a belief in the power of education."
+      ],
+      "synonyms": ["faith", "conviction", "trust"],
+      "topic_tags": ["general", "philosophy", "conviction"]
+    },
+    {
+      "word_id": "75ccccc5-4a2c-404c-897c-11702a777104",
+      "english": "bend",
+      "translation": "לכופף",
+      "hebrew": "לכופף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He bent the wire into a circle.",
+        "She bent down to pick up the coin."
+      ],
+      "synonyms": ["curve", "flex", "twist"],
+      "topic_tags": ["general", "action", "movement"]
+    },
+    {
+      "word_id": "87df47e2-c641-4570-afd3-1f39be272c60",
+      "english": "beware",
+      "translation": "להיזהר",
+      "hebrew": "להיזהר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Beware of the dog.",
+        "You should beware of scams."
+      ],
+      "synonyms": ["watch out", "be cautious", "be alert"],
+      "topic_tags": ["general", "warning", "caution"]
+    },
+    {
+      "word_id": "95599be6-fbad-457e-b03f-9b9b9d0053f4",
+      "english": "borrow",
+      "translation": "לשאול",
+      "hebrew": "לשאול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Can I borrow a pen?",
+        "She borrowed a book from the library."
+      ],
+      "synonyms": ["take", "loan", "use"],
+      "topic_tags": ["general", "finance", "loan"]
+    },
+    {
+      "word_id": "c8e3346d-d73b-4268-ae82-bf30ada98a25",
+      "english": "brief",
+      "translation": "קצר",
+      "hebrew": "קצר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He gave a brief summary of the report.",
+        "The meeting was brief but productive."
+      ],
+      "synonyms": ["short", "concise", "succinct"],
+      "topic_tags": ["general", "time", "summary"]
+    },
+    {
+      "word_id": "d531bfc6-c696-462a-8764-521f45469dff",
+      "english": "briefly",
+      "translation": "בקצרה",
+      "hebrew": "בקצרה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He spoke briefly about the project.",
+        "The issue was discussed briefly."
+      ],
+      "synonyms": ["shortly", "concisely", "in brief"],
+      "topic_tags": ["general", "time", "summary"]
+    },
+    {
+      "word_id": "295fa714-8e0d-4758-b303-5533cfe61ba5",
+      "english": "bright",
+      "translation": "בהיר",
+      "hebrew": "בהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The room was bright and cheerful.",
+        "She has a bright future ahead."
+      ],
+      "synonyms": ["shiny", "luminous", "vivid"],
+      "topic_tags": ["general", "light", "color"]
+    },
+    {
+      "word_id": "eac31ee1-09f1-47c3-a516-43cc870077c4",
+      "english": "by no means",
+      "translation": "בשום אופן",
+      "hebrew": "בשום אופן",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "By no means should you ignore this warning.",
+        "He is by no means a beginner."
+      ],
+      "synonyms": ["not at all", "in no way", "absolutely not"],
+      "topic_tags": ["general", "negation", "emphasis"]
+    },
+    {
+      "word_id": "206b6174-6ea6-47c4-8c3a-2974b6e220a7",
+      "english": "by now",
+      "translation": "עד עכשיו",
+      "hebrew": "עד עכשיו",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "You should have finished by now.",
+        "By now, everyone knows the news."
+      ],
+      "synonyms": ["already", "at this point", "so far"],
+      "topic_tags": ["general", "time", "progress"]
+    },
+    {
+      "word_id": "4b4b8c72-eec8-42ae-846d-4ebc749ddf3e",
+      "english": "capable",
+      "translation": "מסוגל",
+      "hebrew": "מסוגל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is capable of handling the situation.",
+        "He is a capable leader."
+      ],
+      "synonyms": ["competent", "able", "skilled"],
+      "topic_tags": ["general", "ability", "skill"]
+    }
+  ]
+}

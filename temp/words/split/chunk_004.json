@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 4,
+    "words_range": "down-from",
+    "word_count": 30,
+    "start_index": 90,
+    "end_index": 119
+  },
+  "words": [
+    {
+      "word_id": "8114b606-8390-4e48-9ce1-ad0a44c6ca1c",
+      "english": "down",
+      "translation": "למטה",
+      "hebrew": "למטה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He looked down at his shoes.",
+        "The elevator is going down."
+      ],
+      "synonyms": ["below", "downward"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c52bbaaa-8f04-449e-9460-dbbd4fe2f2e8",
+      "english": "due to",
+      "translation": "בגלל",
+      "hebrew": "בגלל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The event was canceled due to rain.",
+        "He was late due to traffic."
+      ],
+      "synonyms": ["because of", "owing to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "778109b4-182d-4d21-baa6-03e61ee15bf4",
+      "english": "during",
+      "translation": "במהלך",
+      "hebrew": "במהלך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She fell asleep during the movie.",
+        "We met during the conference."
+      ],
+      "synonyms": ["throughout", "in the course of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fc4175ef-184e-45fb-8bf6-e796086945f8",
+      "english": "e.g.",
+      "translation": "לדוגמה",
+      "hebrew": "לדוגמה",
+      "part_of_speech": "abbreviation",
+      "difficulty_level": 1,
+      "examples": [
+        "You should eat more fruits, e.g., apples and bananas.",
+        "Many countries, e.g., France and Germany, are in Europe."
+      ],
+      "synonyms": ["for example", "such as"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f1c01e22-77b5-41f6-9168-6e044e505245",
+      "english": "earlier",
+      "translation": "מוקדם יותר",
+      "hebrew": "מוקדם יותר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I saw him earlier today.",
+        "She arrived earlier than expected."
+      ],
+      "synonyms": ["previously", "before"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d1722328-16ef-47f9-b44e-05d6e5554117",
+      "english": "either... or…",
+      "translation": "או... או...",
+      "hebrew": "או... או...",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "You can either stay here or come with us.",
+        "Either you apologize, or you leave."
+      ],
+      "synonyms": ["one of two", "alternatively"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8617a3b9-029d-4493-9385-293868ccb393",
+      "english": "elsewhere",
+      "translation": "במקום אחר",
+      "hebrew": "במקום אחר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He couldn't find a job here, so he looked elsewhere.",
+        "The answer lies elsewhere."
+      ],
+      "synonyms": ["somewhere else", "in another place"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f885c3cd-75cc-4f70-b857-66045c77d25c",
+      "english": "equally",
+      "translation": "באותה מידה",
+      "hebrew": "באותה מידה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "They are equally responsible for the project.",
+        "The cake was divided equally among the children."
+      ],
+      "synonyms": ["evenly", "uniformly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1a31c96a-5a54-497f-862b-b07d80c10629",
+      "english": "especially",
+      "translation": "במיוחד",
+      "hebrew": "במיוחד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I love all fruits, especially apples.",
+        "She is especially talented in music."
+      ],
+      "synonyms": ["particularly", "notably"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3f150d1c-2f5c-4434-9280-39fe03555435",
+      "english": "essentially",
+      "translation": "בעיקרון",
+      "hebrew": "בעיקרון",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The two ideas are essentially the same.",
+        "He is essentially a good person."
+      ],
+      "synonyms": ["basically", "fundamentally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d116d64d-79c9-4ead-907d-d624887b8098",
+      "english": "even if",
+      "translation": "גם אם",
+      "hebrew": "גם אם",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I will go even if it rains.",
+        "Even if you apologize, I won't forgive you."
+      ],
+      "synonyms": ["although", "despite"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b66c9baa-f659-4172-9ae0-cc4657959ac2",
+      "english": "even so",
+      "translation": "למרות זאת",
+      "hebrew": "למרות זאת",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The task was difficult, but he completed it even so.",
+        "She was tired, even so, she continued working."
+      ],
+      "synonyms": ["nevertheless", "nonetheless"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d58bcaf-9137-4cf3-a294-9164c0d3f9e1",
+      "english": "even though",
+      "translation": "למרות ש",
+      "hebrew": "למרות ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Even though it was raining, we went out.",
+        "She smiled, even though she was sad."
+      ],
+      "synonyms": ["although", "despite"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19c9a57f-7f28-4d85-9959-4d66895f90a6",
+      "english": "eventually",
+      "translation": "בסופו של דבר",
+      "hebrew": "בסופו של דבר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He eventually found a job.",
+        "Eventually, the rain stopped."
+      ],
+      "synonyms": ["finally", "ultimately"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39aecc40-d018-4feb-8857-b65d2dee5bf2",
+      "english": "every day",
+      "translation": "כל יום",
+      "hebrew": "כל יום",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She goes for a walk every day.",
+        "I drink coffee every day."
+      ],
+      "synonyms": ["daily", "each day"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a485afa1-1ce6-479c-9221-67b60462c475",
+      "english": "every now and then",
+      "translation": "מדי פעם",
+      "hebrew": "מדי פעם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I visit my grandparents every now and then.",
+        "Every now and then, I like to read a good book."
+      ],
+      "synonyms": ["occasionally", "from time to time"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4b3e9fe4-7d0e-4140-bcc3-bbdf8d496889",
+      "english": "except",
+      "translation": "חוץ מ",
+      "hebrew": "חוץ מ",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Everyone was invited except him.",
+        "I like all fruits except bananas."
+      ],
+      "synonyms": ["excluding", "apart from"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ca2f7722-3634-4d62-a26e-dd5acbb83187",
+      "english": "farther",
+      "translation": "רחוק יותר",
+      "hebrew": "רחוק יותר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He walked farther than anyone else.",
+        "The store is farther down the road."
+      ],
+      "synonyms": ["more distant", "further"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f17a3af8-29b8-4ff5-900c-9a69f62b59c1",
+      "english": "finally",
+      "translation": "לבסוף",
+      "hebrew": "לבסוף",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "We finally reached our destination.",
+        "He finally agreed to the plan."
+      ],
+      "synonyms": ["at last", "eventually"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "60001631-d5f1-413c-a663-3a985a23c12d",
+      "english": "first of all",
+      "translation": "ראשית",
+      "hebrew": "ראשית",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "First of all, we need to gather information.",
+        "First of all, I want to thank you."
+      ],
+      "synonyms": ["to begin with", "initially"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "443294d2-e785-495f-8810-42090b9e6228",
+      "english": "for",
+      "translation": "עבור",
+      "hebrew": "עבור",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "This gift is for you.",
+        "I am looking for my keys."
+      ],
+      "synonyms": ["intended for", "meant for"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "599c981c-789c-4c64-9a6e-6a13c047ca9e",
+      "english": "for",
+      "translation": "כי",
+      "hebrew": "כי",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I stayed home, for I was tired.",
+        "He left early, for he had a meeting."
+      ],
+      "synonyms": ["because", "since"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7e26f43d-40a2-4049-a73f-22cc9548052a",
+      "english": "for example",
+      "translation": "לדוגמה",
+      "hebrew": "לדוגמה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Many fruits, for example, apples and bananas, are healthy.",
+        "He likes to travel, for example, to Europe."
+      ],
+      "synonyms": ["such as", "e.g."],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "891b52ba-f4c6-4c9d-af8d-11190cbec2f4",
+      "english": "for instance",
+      "translation": "לדוגמה",
+      "hebrew": "לדוגמה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "There are many ways to cook eggs, for instance, boiling or frying.",
+        "He enjoys outdoor activities, for instance, hiking and biking."
+      ],
+      "synonyms": ["for example", "e.g."],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "597888c2-b306-4541-9452-93010a268ad5",
+      "english": "for the most part",
+      "translation": "ברובו",
+      "hebrew": "ברובו",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The project was successful, for the most part.",
+        "For the most part, the weather was nice."
+      ],
+      "synonyms": ["mainly", "mostly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "028f89b1-73e5-47de-ab01-dcfc2e58a745",
+      "english": "forever",
+      "translation": "לנצח",
+      "hebrew": "לנצח",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will love you forever.",
+        "The memory will last forever."
+      ],
+      "synonyms": ["eternally", "permanently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d96bff84-3314-4064-be25-0a32d89eb36b",
+      "english": "former",
+      "translation": "לשעבר",
+      "hebrew": "לשעבר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a former president.",
+        "She visited her former school."
+      ],
+      "synonyms": ["previous", "ex-"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3e335a5-d7b3-4da0-bf63-7818eb259d2a",
+      "english": "forward",
+      "translation": "קדימה",
+      "hebrew": "קדימה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He took a step forward.",
+        "The car moved forward."
+      ],
+      "synonyms": ["ahead", "onward"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c4787f89-3b46-4a84-836e-ac0b1aa8b2bd",
+      "english": "frequently",
+      "translation": "לעיתים קרובות",
+      "hebrew": "לעיתים קרובות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She visits her family frequently.",
+        "The bus runs frequently."
+      ],
+      "synonyms": ["often", "regularly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ea2426b6-352e-4c13-a3dd-e6d030b37f20",
+      "english": "from",
+      "translation": "מ",
+      "hebrew": "מ",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She is from Canada.",
+        "I received a letter from him."
+      ],
+      "synonyms": ["out of", "originating in"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

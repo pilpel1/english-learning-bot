@@ -1,0 +1,569 @@
+{
+  "_meta": {
+    "chunk_number": 91,
+    "words_range": "mate-parallel",
+    "word_count": 30,
+    "start_index": 2700,
+    "end_index": 2729
+  },
+  "words": [
+    {
+      "word_id": "abeeb860-c941-417b-8343-021a85702af7",
+      "english": "mate",
+      "translation": null,
+      "hebrew": "חבר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He's my best mate.",
+        "We've been mates since high school."
+      ],
+      "synonyms": [
+        "friend",
+        "buddy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2f831548-4b33-4112-b727-65fb060fb483",
+      "english": "maturity",
+      "translation": null,
+      "hebrew": "בגרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She shows great maturity for her age.",
+        "The fruit is picked at its peak of maturity."
+      ],
+      "synonyms": [
+        "adulthood",
+        "ripeness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7832887f-f5ce-4ec8-86ff-0f9434ecf7c6",
+      "english": "mayor",
+      "translation": null,
+      "hebrew": "ראש עיר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mayor of New York City is very busy.",
+        "The mayor gave a speech at the town hall."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "addb926f-42d7-41d0-bce4-80c3486ee13c",
+      "english": "mediate",
+      "translation": null,
+      "hebrew": "לתווך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The UN is trying to mediate between the two countries.",
+        "A neutral party was asked to mediate the dispute."
+      ],
+      "synonyms": [
+        "arbitrate",
+        "negotiate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bb78a9a4-6e26-405c-94ec-b2497974a43d",
+      "english": "mediocre",
+      "translation": null,
+      "hebrew": "בינוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The food was mediocre, nothing special.",
+        "His performance was rather mediocre."
+      ],
+      "synonyms": [
+        "average",
+        "ordinary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "473c0dd0-297e-40d3-9edf-dd7d4997b470",
+      "english": "miserable",
+      "translation": null,
+      "hebrew": "אומלל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "I felt miserable after failing the exam.",
+        "The weather was miserable all day."
+      ],
+      "synonyms": [
+        "unhappy",
+        "sad"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c04544e-375f-4b38-a403-0a0d8d58eda6",
+      "english": "moist",
+      "translation": null,
+      "hebrew": "לח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The cake was nice and moist.",
+        "Keep the soil moist but not too wet."
+      ],
+      "synonyms": [
+        "damp",
+        "wet"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2d56ac02-1ef1-4709-bb7e-fdd604d51046",
+      "english": "moral",
+      "translation": null,
+      "hebrew": "מוסרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is important to have moral values.",
+        "He made a moral decision."
+      ],
+      "synonyms": [
+        "ethical",
+        "righteous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c4966a61-3955-4432-aeb6-18cb93a920da",
+      "english": "morale",
+      "translation": null,
+      "hebrew": "מצב רוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The team's morale is high after the victory.",
+        "The low morale affected productivity."
+      ],
+      "synonyms": [
+        "spirit",
+        "attitude"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0887c413-076f-4bee-898d-95d75f9d69fa",
+      "english": "necessary",
+      "translation": null,
+      "hebrew": "הכרחי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is necessary for survival.",
+        "It is necessary to study hard to pass the exam."
+      ],
+      "synonyms": [
+        "essential",
+        "required"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c7a16bff-c181-4810-b136-2c336c255e70",
+      "english": "neglect",
+      "translation": null,
+      "hebrew": "להזניח",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't neglect your studies.",
+        "He neglected to lock the door."
+      ],
+      "synonyms": [
+        "ignore",
+        "disregard"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1c31f70d-839b-4f34-b9ef-139ae913b4a4",
+      "english": "negligence",
+      "translation": null,
+      "hebrew": "רשלנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "His negligence caused the accident.",
+        "The company was sued for negligence."
+      ],
+      "synonyms": [
+        "carelessness",
+        "omission"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ecc5a4a9-de1e-4b2d-bf60-1cd774613cb4",
+      "english": "nocturnal",
+      "translation": null,
+      "hebrew": "לילי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Owls are nocturnal animals.",
+        "The city has a vibrant nocturnal life."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "animals"
+      ]
+    },
+    {
+      "word_id": "d2842890-6001-4301-9db2-1259bf745e09",
+      "english": "noon",
+      "translation": null,
+      "hebrew": "צהריים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We'll meet at noon.",
+        "The sun is highest at noon."
+      ],
+      "synonyms": [
+        "midday"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "432297a9-ae5f-4551-9bd9-bdde6cf0609b",
+      "english": "notable",
+      "translation": null,
+      "hebrew": "בולט",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a notable figure in the art world.",
+        "The event was notable for its success."
+      ],
+      "synonyms": [
+        "remarkable",
+        "famous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d616395b-90e2-4f19-b833-c329e9524519",
+      "english": "notice",
+      "translation": null,
+      "hebrew": "שים לב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Did you notice anything unusual?",
+        "I didn't notice her leave."
+      ],
+      "synonyms": [
+        "observe",
+        "detect"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "275a8a1e-d31b-4f93-9069-3b489201550a",
+      "english": "notice",
+      "translation": null,
+      "hebrew": "הודעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I saw a notice on the bulletin board.",
+        "Give me a week's notice before you leave."
+      ],
+      "synonyms": [
+        "announcement",
+        "warning"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7f2125e6-74a3-406c-b597-2a77ac70e978",
+      "english": "notify",
+      "translation": null,
+      "hebrew": "להודיע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please notify us of any changes.",
+        "You will be notified by email."
+      ],
+      "synonyms": [
+        "inform",
+        "advise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b269b378-4d1b-4b37-81fa-e5d60f36dc87",
+      "english": "obedience",
+      "translation": null,
+      "hebrew": "ציות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Children should learn obedience.",
+        "The dog showed perfect obedience."
+      ],
+      "synonyms": [
+        "compliance",
+        "submission"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0a1a6632-257b-4ae3-8da5-3d2b0aba5d2b",
+      "english": "obey",
+      "translation": null,
+      "hebrew": "לציית",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You must obey the rules.",
+        "The soldiers obeyed the command."
+      ],
+      "synonyms": [
+        "comply",
+        "submit"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8dce9d77-7c3f-413e-b12d-961c00439412",
+      "english": "objective",
+      "translation": null,
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is your objective in this project?",
+        "The main objective is to increase sales."
+      ],
+      "synonyms": [
+        "goal",
+        "aim"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "add84c89-e500-4baa-b0b9-928b9677baf5",
+      "english": "obstacle",
+      "translation": null,
+      "hebrew": "מכשול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Poverty is a major obstacle to education.",
+        "They overcame many obstacles to achieve success."
+      ],
+      "synonyms": [
+        "barrier",
+        "hindrance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "45ed09b4-0721-4a7a-b597-c2bd4c3751fa",
+      "english": "offshore",
+      "translation": null,
+      "hebrew": "מחוץ לחוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company has offshore accounts.",
+        "They work on an offshore oil rig."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "f232d208-5c7a-4b0a-971d-82c1b6d53b60",
+      "english": "orbit",
+      "translation": null,
+      "hebrew": "מסלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Earth orbits the sun.",
+        "The satellite is in a stable orbit."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "da54c038-f84c-4f77-98b0-41f7045fcb04",
+      "english": "orient",
+      "translation": null,
+      "hebrew": "לכוון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They need to orient the map correctly.",
+        "The building is oriented towards the south."
+      ],
+      "synonyms": [
+        "align",
+        "position"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e8f833a4-baeb-4d5b-9d6d-85289f11c7dd",
+      "english": "oriented",
+      "translation": null,
+      "hebrew": "מכוון",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is customer-oriented.",
+        "He is very goal-oriented."
+      ],
+      "synonyms": [
+        "directed",
+        "focused"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dcb6f85a-77ca-4536-8de6-1495c0dbe4dc",
+      "english": "outer",
+      "translation": null,
+      "hebrew": "חיצוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The outer layer of the skin.",
+        "The outer space is vast."
+      ],
+      "synonyms": [
+        "external",
+        "exterior"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "22b486e2-9149-4b6e-a01d-7125f87a6933",
+      "english": "outline",
+      "translation": null,
+      "hebrew": "קו מתאר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Draw an outline of the shape.",
+        "Here's an outline of the plan."
+      ],
+      "synonyms": [
+        "sketch",
+        "summary"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a5ec85a1-e7c7-40a2-bf98-e9ebd2fdcf4a",
+      "english": "overlooked",
+      "translation": null,
+      "hebrew": "התעלם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He overlooked the mistake.",
+        "The town is overlooked by a castle."
+      ],
+      "synonyms": [
+        "missed",
+        "disregarded"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9faf2623-b604-4ebb-beee-554f36b2a30e",
+      "english": "parallel",
+      "translation": null,
+      "hebrew": "מקביל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The two lines are parallel.",
+        "The stories have parallel themes."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

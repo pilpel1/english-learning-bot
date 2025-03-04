@@ -1,0 +1,577 @@
+{
+  "_meta": {
+    "chunk_number": 90,
+    "words_range": "interior-mate",
+    "word_count": 30,
+    "start_index": 2670,
+    "end_index": 2699
+  },
+  "words": [
+    {
+      "word_id": "d7fd53cd-0d73-46dc-9d8b-82bb060057db",
+      "english": "interior",
+      "translation": null,
+      "hebrew": "פנימי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The interior design of the house is modern.",
+        "The car has a luxurious interior."
+      ],
+      "synonyms": [
+        "internal",
+        "inner"
+      ],
+      "topic_tags": [
+        "general",
+        "design"
+      ]
+    },
+    {
+      "word_id": "bcac0917-e28c-44af-82ae-a33fbf74b63a",
+      "english": "interrupt",
+      "translation": null,
+      "hebrew": "להפריע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please don't interrupt me when I'm speaking.",
+        "The phone call interrupted our conversation."
+      ],
+      "synonyms": [
+        "disrupt",
+        "disturb"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "18701422-15d5-4243-b653-69a5ebcd65e8",
+      "english": "intersection",
+      "translation": null,
+      "hebrew": "צומת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There was an accident at the intersection.",
+        "The traffic is heavy at this intersection."
+      ],
+      "synonyms": [
+        "crossroads",
+        "junction"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "62c2bf32-d724-40de-aff3-1f597c03cdd9",
+      "english": "intervene",
+      "translation": null,
+      "hebrew": "להתערב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher had to intervene in the fight.",
+        "The UN intervened to stop the conflict."
+      ],
+      "synonyms": [
+        "mediate",
+        "interfere"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b747e759-4811-4fc7-a6b7-2c96982ed750",
+      "english": "intervention",
+      "translation": null,
+      "hebrew": "התערבות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Early intervention is crucial for children with learning disabilities.",
+        "Military intervention is a controversial issue."
+      ],
+      "synonyms": [
+        "mediation",
+        "interference"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "70cc23ab-d8f8-4d69-a2d0-e71be432c5b9",
+      "english": "invent",
+      "translation": null,
+      "hebrew": "להמציא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Thomas Edison invented the light bulb.",
+        "He invented a new type of engine."
+      ],
+      "synonyms": [
+        "create",
+        "design"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "b69f401e-d9a7-4011-ae1d-b6abea03aebe",
+      "english": "inventor",
+      "translation": null,
+      "hebrew": "ממציא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "An inventor is someone who creates new things.",
+        "He is a famous inventor."
+      ],
+      "synonyms": [
+        "creator",
+        "designer"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "52d865e1-1844-45c1-98d9-00e1b997f7dc",
+      "english": "inventory",
+      "translation": null,
+      "hebrew": "מלאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to take inventory of the stockroom.",
+        "The store is having an inventory sale."
+      ],
+      "synonyms": [
+        "stock",
+        "supply"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "c355154a-6106-4087-9194-25a6f11dfc68",
+      "english": "invisible",
+      "translation": null,
+      "hebrew": "בלתי נראה",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The magician made the rabbit invisible.",
+        "Air is invisible."
+      ],
+      "synonyms": [
+        "unseen",
+        "undetectable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "423b8fe8-dc5d-4e7a-bff4-eacb2cd22b6c",
+      "english": "invite",
+      "translation": null,
+      "hebrew": "להזמין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I'd like to invite you to my party.",
+        "They invited us to their wedding."
+      ],
+      "synonyms": [
+        "ask",
+        "summon"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "684bc6d7-515b-4b8b-923b-afc986e733b0",
+      "english": "Jew",
+      "translation": null,
+      "hebrew": "יהודי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a Jew.",
+        "She is a Jew from New York."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "culture"
+      ]
+    },
+    {
+      "word_id": "ad813036-f0cc-4856-8237-e820c4c32da3",
+      "english": "kind",
+      "translation": null,
+      "hebrew": "סוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What kind of music do you like?",
+        "There are many different kinds of animals."
+      ],
+      "synonyms": [
+        "type",
+        "sort"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9635f9d2-a1db-40af-ae90-d47ae0b4d286",
+      "english": "kind",
+      "translation": null,
+      "hebrew": "אדיב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a very kind person.",
+        "It was kind of you to help me."
+      ],
+      "synonyms": [
+        "nice",
+        "generous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a4c2fd97-4772-4e14-b089-52b4fc4276c4",
+      "english": "landmark",
+      "translation": null,
+      "hebrew": "נקודת ציון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The Eiffel Tower is a famous landmark.",
+        "The building is a landmark in the city."
+      ],
+      "synonyms": [
+        "monument",
+        "site"
+      ],
+      "topic_tags": [
+        "general",
+        "travel"
+      ]
+    },
+    {
+      "word_id": "a4829cce-23c8-4bf0-8437-6bc77dc621f4",
+      "english": "landscape",
+      "translation": null,
+      "hebrew": "נוף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The landscape is beautiful.",
+        "We enjoyed the landscape on our hike."
+      ],
+      "synonyms": [
+        "scenery",
+        "view"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "95428d57-debe-4c7d-99d8-69003c3f098e",
+      "english": "lean",
+      "translation": null,
+      "hebrew": "להישען",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "You can lean against the wall.",
+        "The tower leans to one side."
+      ],
+      "synonyms": [
+        "rest",
+        "incline"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c52c6435-48e4-4447-88d7-66cfbce30fb0",
+      "english": "legible",
+      "translation": null,
+      "hebrew": "קריא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "His handwriting is not legible.",
+        "The sign was legible from a distance."
+      ],
+      "synonyms": [
+        "readable",
+        "clear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7259c7e-75ed-473e-832e-82172705c8a7",
+      "english": "lens",
+      "translation": null,
+      "hebrew": "עדשה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The camera has a good lens.",
+        "He wears contact lenses."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "6f8df430-cc8c-4a86-b389-2b328cea7c8f",
+      "english": "license",
+      "translation": null,
+      "hebrew": "רישיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "You need a license to drive a car.",
+        "He has a license to practice medicine."
+      ],
+      "synonyms": [
+        "permit",
+        "certificate"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "3d9db512-ed74-4e17-bb68-517b9785b07d",
+      "english": "license",
+      "translation": null,
+      "hebrew": "לתת רישיון",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government licenses broadcasters.",
+        "The company is licensed to sell alcohol."
+      ],
+      "synonyms": [
+        "authorize",
+        "permit"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "862ea103-ec11-4c22-a2a5-83f0ff0f4b34",
+      "english": "lifetime",
+      "translation": null,
+      "hebrew": "משך חיים",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He dedicated his lifetime to helping others.",
+        "The tree can live for a lifetime."
+      ],
+      "synonyms": [
+        "duration",
+        "existence"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "364a09ee-cbda-48ab-823b-b00061137f7c",
+      "english": "literary",
+      "translation": null,
+      "hebrew": "ספרותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is a literary masterpiece.",
+        "He is a literary critic."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "literature"
+      ]
+    },
+    {
+      "word_id": "106489ca-f159-4a86-84d4-fa0779a5e0b2",
+      "english": "literate",
+      "translation": null,
+      "hebrew": "יודע קרוא וכתוב",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The population is highly literate.",
+        "He is literate in several languages."
+      ],
+      "synonyms": [
+        "educated",
+        "learned"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9fc83880-11e8-4c76-87d7-3c62f2dfe2ca",
+      "english": "literature",
+      "translation": null,
+      "hebrew": "ספרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She is studying English literature.",
+        "He is a professor of literature."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "education"
+      ]
+    },
+    {
+      "word_id": "25e2e395-47d7-4c7a-88ef-02d1d36db93a",
+      "english": "load",
+      "translation": null,
+      "hebrew": "לִטעוֹן",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please load the truck with the boxes.",
+        "He loaded the gun."
+      ],
+      "synonyms": [
+        "fill",
+        "pack"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "49a39027-356f-4fb0-b8ba-974f4ed0c2d7",
+      "english": "losing",
+      "translation": null,
+      "hebrew": "מפסיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Our team is losing the game.",
+        "He is losing his hair."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "58e7cd43-98ca-4d1e-890d-34bff8bce197",
+      "english": "mail",
+      "translation": null,
+      "hebrew": "דוֹאַר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have to check the mail.",
+        "The mail arrives at 10 a.m."
+      ],
+      "synonyms": [
+        "post"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9adad4ad-6f23-404d-9aca-a0cd2e819f21",
+      "english": "mailman",
+      "translation": null,
+      "hebrew": "דוור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The mailman delivers the mail every day.",
+        "I saw the mailman on the street."
+      ],
+      "synonyms": [
+        "postman"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd1cf963-89b5-4780-b86a-50dc8a1465cc",
+      "english": "malnutrition",
+      "translation": null,
+      "hebrew": "תת תזונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Malnutrition is a serious problem in developing countries.",
+        "The child is suffering from malnutrition."
+      ],
+      "synonyms": [
+        "undernourishment"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "5ed638b4-f216-436b-b736-a46b9271933a",
+      "english": "mate",
+      "translation": null,
+      "hebrew": "בן זוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The bird is looking for a mate.",
+        "He is my best mate."
+      ],
+      "synonyms": [
+        "partner",
+        "companion"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

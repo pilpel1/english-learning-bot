@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 2,
+    "words_range": "along with-below",
+    "word_count": 30,
+    "start_index": 30,
+    "end_index": 59
+  },
+  "words": [
+    {
+      "word_id": "8f9c4c47-c412-4694-9a29-e8634be1eee9",
+      "english": "along with",
+      "translation": "יחד עם",
+      "hebrew": "יחד עם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He came along with his friend.",
+        "The book comes along with a CD."
+      ],
+      "synonyms": ["together with", "in addition to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "084d15e4-0474-41d2-abbb-c8036b1e5982",
+      "english": "alongside",
+      "translation": "לצד",
+      "hebrew": "לצד",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The car was parked alongside the road.",
+        "She worked alongside her colleagues."
+      ],
+      "synonyms": ["beside", "next to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5c039bc3-09d2-4b20-b811-780329ed4b5d",
+      "english": "also",
+      "translation": "גם",
+      "hebrew": "גם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is a doctor and also a writer.",
+        "I also want to go to the party."
+      ],
+      "synonyms": ["additionally", "as well"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "684f9536-21e2-425c-8b74-b854d0f7a59e",
+      "english": "although",
+      "translation": "למרות",
+      "hebrew": "למרות",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Although it was raining, we went out.",
+        "She smiled, although she was sad."
+      ],
+      "synonyms": ["though", "even though"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8051e495-078a-47fa-92e9-879604eeeaff",
+      "english": "altogether",
+      "translation": "לגמרי",
+      "hebrew": "לגמרי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The experience was altogether enjoyable.",
+        "He stopped talking altogether."
+      ],
+      "synonyms": ["completely", "entirely"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8a7161bd-ab75-416c-a8be-33076682d07e",
+      "english": "always",
+      "translation": "תמיד",
+      "hebrew": "תמיד",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She always arrives on time.",
+        "I will always remember you."
+      ],
+      "synonyms": ["forever", "constantly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0ace20b1-f69e-46ab-a548-0be216330290",
+      "english": "amid",
+      "translation": "בין",
+      "hebrew": "בין",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He stood amid the crowd.",
+        "Amid the chaos, she remained calm."
+      ],
+      "synonyms": ["among", "in the middle of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d416b646-1bbd-49a5-9906-d2cd2ca779e2",
+      "english": "among",
+      "translation": "בין",
+      "hebrew": "בין",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She was among friends.",
+        "The decision was popular among the staff."
+      ],
+      "synonyms": ["amid", "between"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d32b1e44-3ad8-4094-8442-4c89da4e8d52",
+      "english": "and",
+      "translation": "ו",
+      "hebrew": "ו",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She likes apples and oranges.",
+        "He is tall and strong."
+      ],
+      "synonyms": ["plus", "as well as"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "25c70d16-361a-46df-b2f8-8bea8d3e67de",
+      "english": "around",
+      "translation": "סביב",
+      "hebrew": "סביב",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "They sat around the table.",
+        "He looked around the room."
+      ],
+      "synonyms": ["about", "near"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e2e53d8c-11c2-48e2-83b7-ca8acd8b1805",
+      "english": "as",
+      "translation": "כמו",
+      "hebrew": "כמו",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She is as tall as her brother.",
+        "As you know, we have a meeting today."
+      ],
+      "synonyms": ["like", "since"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8cd5463c-a071-48d1-96bd-98c766f1b223",
+      "english": "as",
+      "translation": "כאשר",
+      "hebrew": "כאשר",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "As I was saying, we need to hurry.",
+        "He left as soon as he could."
+      ],
+      "synonyms": ["while", "when"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "73ab2f51-0a7c-48c6-afa1-b05f53035790",
+      "english": "as a result",
+      "translation": "כתוצאה מכך",
+      "hebrew": "כתוצאה מכך",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He was late, and as a result, missed the bus.",
+        "The project was delayed, as a result, we had to work overtime."
+      ],
+      "synonyms": ["therefore", "consequently"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3d253760-969a-4bc9-acec-a597e8893c9a",
+      "english": "as if",
+      "translation": "כאילו",
+      "hebrew": "כאילו",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "He acted as if he knew everything.",
+        "She looked at me as if I was crazy."
+      ],
+      "synonyms": ["like", "as though"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "62e65b63-0e2b-47d4-a28c-cf861daf1357",
+      "english": "as long as",
+      "translation": "כל עוד",
+      "hebrew": "כל עוד",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "You can stay as long as you want.",
+        "As long as it doesn't rain, we'll go hiking."
+      ],
+      "synonyms": ["provided that", "if"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "08b23c00-0bd3-4a72-a6e5-bc27c408dae5",
+      "english": "as soon as",
+      "translation": "ברגע ש",
+      "hebrew": "ברגע ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Call me as soon as you arrive.",
+        "I'll let you know as soon as possible."
+      ],
+      "synonyms": ["immediately when", "once"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e12da36e-c416-4af0-a17b-935e1c45ddac",
+      "english": "as well as",
+      "translation": "כמו גם",
+      "hebrew": "כמו גם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She speaks French as well as English.",
+        "He is a talented musician as well as a painter."
+      ],
+      "synonyms": ["in addition to", "and also"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "68ac915d-ed96-49ab-b575-2c9654c686b2",
+      "english": "aside from",
+      "translation": "מלבד",
+      "hebrew": "מלבד",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Aside from the weather, the trip was great.",
+        "Aside from a few mistakes, the report was excellent."
+      ],
+      "synonyms": ["apart from", "besides"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8f6c7365-ae59-420a-a1bc-00eac27a0f0d",
+      "english": "at",
+      "translation": "ב",
+      "hebrew": "ב",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "She is at home.",
+        "The meeting is at 3 PM."
+      ],
+      "synonyms": ["in", "on"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd95b5ba-7cef-4237-890c-82afc9c1042f",
+      "english": "at first",
+      "translation": "בהתחלה",
+      "hebrew": "בהתחלה",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "At first, I didn't understand.",
+        "He was nervous at first, but then relaxed."
+      ],
+      "synonyms": ["initially", "to begin with"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e0b24e08-219d-4ce2-8e07-dbad8c3298e1",
+      "english": "at last",
+      "translation": "לבסוף",
+      "hebrew": "לבסוף",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "At last, we reached our destination.",
+        "The work was finished at last."
+      ],
+      "synonyms": ["finally", "eventually"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0485589a-354e-4162-ba51-989836355b31",
+      "english": "backward",
+      "translation": "אחורה",
+      "hebrew": "אחורה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He took a step backward.",
+        "The car moved backward."
+      ],
+      "synonyms": ["rearward", "in reverse"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b5c8dd43-3a3a-40b5-a753-a7b47c3c6070",
+      "english": "based on",
+      "translation": "מבוסס על",
+      "hebrew": "מבוסס על",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie is based on a true story.",
+        "His decision was based on facts."
+      ],
+      "synonyms": ["founded on", "grounded in"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f4448de8-c522-4dc9-9dbd-0a7f236d40b2",
+      "english": "because",
+      "translation": "כי",
+      "hebrew": "כי",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I stayed home because I was sick.",
+        "She left early because she had a meeting."
+      ],
+      "synonyms": ["since", "as"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cb0e9744-ad11-4538-8746-67c14d3c5d55",
+      "english": "because of",
+      "translation": "בגלל",
+      "hebrew": "בגלל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The game was canceled because of the rain.",
+        "She was late because of traffic."
+      ],
+      "synonyms": ["due to", "on account of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4df4ba0f-a3e9-4aa8-9460-efc124fffe23",
+      "english": "before",
+      "translation": "לפני",
+      "hebrew": "לפני",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Finish your homework before dinner.",
+        "He arrived before me."
+      ],
+      "synonyms": ["prior to", "earlier than"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5159b90a-e876-41f6-91b5-8aaaf100d45a",
+      "english": "before",
+      "translation": "קודם",
+      "hebrew": "קודם",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Think before you speak.",
+        "He left before I could say goodbye."
+      ],
+      "synonyms": ["prior to", "ahead of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "40d647ff-c2cd-4e91-a4b5-8f9b67346cff",
+      "english": "behind",
+      "translation": "מאחורי",
+      "hebrew": "מאחורי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is hiding behind the curtain.",
+        "He stood behind me in line."
+      ],
+      "synonyms": ["at the back of", "in the rear of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "822b52e8-6491-48c0-95c7-05b83faf08c9",
+      "english": "being that",
+      "translation": "מאחר ש",
+      "hebrew": "מאחר ש",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Being that it's late, we should go home.",
+        "He didn't come, being that he was sick."
+      ],
+      "synonyms": ["since", "because"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5605c7cc-e647-4839-b2f8-072d19ee5b96",
+      "english": "below",
+      "translation": "מתחת",
+      "hebrew": "מתחת",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The temperature is below freezing.",
+        "He lives below us."
+      ],
+      "synonyms": ["under", "beneath"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

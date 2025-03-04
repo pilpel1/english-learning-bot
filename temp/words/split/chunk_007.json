@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 7,
+    "words_range": "namely-or",
+    "word_count": 30,
+    "start_index": 180,
+    "end_index": 209
+  },
+  "words": [
+    {
+      "word_id": "d02adc63-d4d1-4b82-8d9f-8a34fed089af",
+      "english": "namely",
+      "translation": "כלומר",
+      "hebrew": "כלומר",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "There are three main colors, namely, red, blue, and green.",
+        "She has one major flaw, namely, she's always late."
+      ],
+      "synonyms": ["specifically", "that is to say"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "635d4042-b96c-447c-b57e-0c5f0b99dc51",
+      "english": "near",
+      "translation": "קרוב",
+      "hebrew": "קרוב",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The school is near the park.",
+        "Summer is drawing near."
+      ],
+      "synonyms": ["close to", "beside"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "5b509908-fbc6-411b-8746-5cae790809cf",
+      "english": "nearby",
+      "translation": "בקרבת מקום",
+      "hebrew": "בקרבת מקום",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "There's a good restaurant nearby.",
+        "They live nearby."
+      ],
+      "synonyms": ["close", "not far"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d9a6e002-e938-4d12-a85f-ba57efcd4d72",
+      "english": "neither... nor…",
+      "translation": "לא... וגם לא...",
+      "hebrew": "לא... וגם לא...",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Neither John nor Mary came to the party.",
+        "He could neither read nor write."
+      ],
+      "synonyms": ["not either", "none of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2833d5ad-0371-4b13-a28a-291a9ad6fc9c",
+      "english": "never",
+      "translation": "לעולם לא",
+      "hebrew": "לעולם לא",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I have never been to Paris.",
+        "He never arrives on time."
+      ],
+      "synonyms": ["not ever", "at no time"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a7cca92c-b707-4480-9ae9-27ca9bd763b8",
+      "english": "nevertheless",
+      "translation": "בכל זאת",
+      "hebrew": "בכל זאת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The journey was difficult; nevertheless, they continued.",
+        "She was tired; nevertheless, she finished her work."
+      ],
+      "synonyms": ["nonetheless", "however", "still"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e5acccf2-bec6-4344-b52b-0c5ad5b9166f",
+      "english": "next",
+      "translation": "הבא",
+      "hebrew": "הבא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "What's the next step?",
+        "The next train leaves at 3 PM."
+      ],
+      "synonyms": ["following", "subsequent"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dbd95410-fc07-4601-bc26-bde12f398fc0",
+      "english": "next to",
+      "translation": "ליד",
+      "hebrew": "ליד",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The library is next to the school.",
+        "She sat next to me during the concert."
+      ],
+      "synonyms": ["beside", "adjacent to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "adb51e80-44dc-451a-8081-65c0b4844e8f",
+      "english": "nonetheless",
+      "translation": "אף על פי כן",
+      "hebrew": "אף על פי כן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The evidence was weak; nonetheless, they won the case.",
+        "It was raining; nonetheless, we went for a walk."
+      ],
+      "synonyms": ["nevertheless", "however", "still"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "67512843-b67e-4e56-bd79-9f2fc398030d",
+      "english": "not only",
+      "translation": "לא רק",
+      "hebrew": "לא רק",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "She is not only beautiful but also intelligent.",
+        "Not only did he fail the exam, but he also missed the next class."
+      ],
+      "synonyms": ["not just", "not merely"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "214b80ad-545e-48a6-b936-8e3b2cf0261e",
+      "english": "not only... but also…",
+      "translation": "לא רק... אלא גם...",
+      "hebrew": "לא רק... אלא גם...",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "He not only plays the piano but also composes music.",
+        "Not only is she smart, but she is also very kind."
+      ],
+      "synonyms": ["as well as", "both"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2115e8c4-1cd0-4a83-9ab5-3ea1f8504404",
+      "english": "not to mention",
+      "translation": "שלא לדבר על",
+      "hebrew": "שלא לדבר על",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The hotel was expensive, not to mention inconvenient.",
+        "She's a talented singer, not to mention a great dancer."
+      ],
+      "synonyms": ["let alone", "as well as"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cf378394-7ba3-4208-a72f-11287d7d9b16",
+      "english": "not... but…",
+      "translation": "לא... אלא...",
+      "hebrew": "לא... אלא...",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "It was not John but Mary who called.",
+        "She works not for money but for pleasure."
+      ],
+      "synonyms": ["rather", "instead"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "08e5d396-02ce-46c0-95c3-ae355fdf0842",
+      "english": "notably",
+      "translation": "בפרט",
+      "hebrew": "בפרט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Several countries, notably France and Germany, opposed the plan.",
+        "His performance was notably better than last time."
+      ],
+      "synonyms": ["especially", "particularly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "779ce452-5d01-4fea-b099-2f66d547cc21",
+      "english": "now",
+      "translation": "עכשיו",
+      "hebrew": "עכשיו",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to leave now.",
+        "Now I understand what you mean."
+      ],
+      "synonyms": ["at present", "at this moment"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f860bb7e-2d65-405c-a158-1c0a79a8bd22",
+      "english": "occasionally",
+      "translation": "מדי פעם",
+      "hebrew": "מדי פעם",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She occasionally visits her grandmother.",
+        "I occasionally eat at that restaurant."
+      ],
+      "synonyms": ["sometimes", "now and then"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f925a92e-bc66-402a-88d4-0096defb2084",
+      "english": "of",
+      "translation": "של",
+      "hebrew": "של",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The color of the car is red.",
+        "He is a friend of mine."
+      ],
+      "synonyms": ["belonging to", "relating to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7dfb152-8d93-4f01-832d-625d6e893a2c",
+      "english": "of course",
+      "translation": "כמובן",
+      "hebrew": "כמובן",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Of course I'll help you.",
+        "Yes, of course, you can borrow my book."
+      ],
+      "synonyms": ["certainly", "naturally"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "554e8ffc-acf1-412b-a56f-78ec8c9e2c85",
+      "english": "of course… but…",
+      "translation": "כמובן... אבל...",
+      "hebrew": "כמובן... אבל...",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "Of course I want to go, but I have to work.",
+        "Of course she's talented, but she needs more practice."
+      ],
+      "synonyms": ["certainly... however", "sure... nevertheless"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7eb4f908-6a40-4e19-be65-4d44c27db3cf",
+      "english": "often",
+      "translation": "לעיתים קרובות",
+      "hebrew": "לעיתים קרובות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She often goes to the gym.",
+        "How often do you visit your parents?"
+      ],
+      "synonyms": ["frequently", "regularly"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "27ff3c47-aae9-4a1f-93b3-9750df0f772b",
+      "english": "on",
+      "translation": "על",
+      "hebrew": "על",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The book is on the table.",
+        "The movie will be shown on Friday."
+      ],
+      "synonyms": ["upon", "atop"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "93bdf63b-5969-4c0f-b3fd-67d6a0c53ee6",
+      "english": "on one hand…on the other hand",
+      "translation": "מצד אחד... מצד שני",
+      "hebrew": "מצד אחד... מצד שני",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "On one hand, the job pays well; on the other hand, the hours are long.",
+        "On one hand, I want to go; on the other hand, I'm very tired."
+      ],
+      "synonyms": ["conversely", "in contrast"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2c7d0de9-aa77-493d-a3eb-5b18d996ffc4",
+      "english": "on the contrary",
+      "translation": "להיפך",
+      "hebrew": "להיפך",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "I'm not tired; on the contrary, I feel energetic.",
+        "She didn't fail the exam. On the contrary, she got the highest score."
+      ],
+      "synonyms": ["conversely", "on the other hand"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e1e4b085-96bc-4ea1-b3f4-c6cc34dd64b0",
+      "english": "on top of",
+      "translation": "מעל",
+      "hebrew": "מעל",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat is sitting on top of the refrigerator.",
+        "On top of being late, he forgot his presentation."
+      ],
+      "synonyms": ["above", "over"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fdb64767-88e7-411e-9bf9-bc072065a519",
+      "english": "once",
+      "translation": "פעם אחת",
+      "hebrew": "פעם אחת",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I visited London once.",
+        "Once you understand the basics, it becomes easier."
+      ],
+      "synonyms": ["one time", "on one occasion"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "614de647-9675-4e2e-81a4-dd5faaf5daa7",
+      "english": "once",
+      "translation": "ברגע ש",
+      "hebrew": "ברגע ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Once you arrive, call me.",
+        "I'll help you once I finish my work."
+      ],
+      "synonyms": ["as soon as", "when"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ddd36ba2-9239-44b2-8579-dc3616aeefa9",
+      "english": "once in a while",
+      "translation": "מדי פעם",
+      "hebrew": "מדי פעם",
+      "part_of_speech": "phrase",
+      "difficulty_level": 1,
+      "examples": [
+        "We go to the beach once in a while.",
+        "Once in a while, I enjoy watching old movies."
+      ],
+      "synonyms": ["occasionally", "sometimes"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b6b225df-3652-4044-91ba-7762f93b93d5",
+      "english": "only",
+      "translation": "רק",
+      "hebrew": "רק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Only Tom came to the party.",
+        "I have only three dollars."
+      ],
+      "synonyms": ["solely", "exclusively"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "35d523a2-355a-4e39-9c9c-b9e4b6c90502",
+      "english": "opposite",
+      "translation": "מנוגד",
+      "hebrew": "מנוגד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "They have opposite personalities.",
+        "My house is on the opposite side of the street."
+      ],
+      "synonyms": ["contrary", "opposing"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6521fd6d-14e4-468a-9780-d6a11d17eebb",
+      "english": "or",
+      "translation": "או",
+      "hebrew": "או",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Would you like tea or coffee?",
+        "You can pay by cash or credit card."
+      ],
+      "synonyms": ["otherwise", "alternatively"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

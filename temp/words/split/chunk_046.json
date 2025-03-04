@@ -1,0 +1,560 @@
+{
+  "_meta": {
+    "chunk_number": 46,
+    "words_range": "gather-in order",
+    "word_count": 30,
+    "start_index": 1350,
+    "end_index": 1379
+  },
+  "words": [
+    {
+      "word_id": "9bbfa086-45a9-4bb5-987e-9bc27fa7eaac",
+      "english": "gather",
+      "translation": null,
+      "hebrew": "לאסוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We gathered berries in the forest.",
+        "The teacher gathered the students around her.",
+        "I gathered my thoughts before speaking."
+      ],
+      "synonyms": [
+        "collect",
+        "assemble"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ffcc045e-c52d-41f4-b4f5-173f253f8b01",
+      "english": "global",
+      "translation": null,
+      "hebrew": "עולמי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Global warming is a serious problem.",
+        "The company has a global presence.",
+        "We need a global solution to this issue."
+      ],
+      "synonyms": [
+        "worldwide",
+        "international"
+      ],
+      "topic_tags": [
+        "general",
+        "politics",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "2bbfa12e-b5e2-443e-a4e1-f1b4fee64e66",
+      "english": "goal",
+      "translation": null,
+      "hebrew": "מטרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "My goal is to learn English.",
+        "What is your goal in life?",
+        "The team achieved its goal."
+      ],
+      "synonyms": [
+        "aim",
+        "objective"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6d172640-d7d5-4fb8-bf84-d30eb3c22562",
+      "english": "goods",
+      "translation": null,
+      "hebrew": "סחורות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The store sells a variety of goods.",
+        "These goods are imported from China.",
+        "The company produces consumer goods."
+      ],
+      "synonyms": [
+        "merchandise",
+        "products"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "7b9e073a-b0d1-4b65-807f-e51d47976274",
+      "english": "grasp",
+      "translation": null,
+      "hebrew": "לתפוס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He grasped my hand tightly.",
+        "The climber grasped the rope.",
+        "She grasped the opportunity to travel."
+      ],
+      "synonyms": [
+        "hold",
+        "seize"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "32790fb5-eb78-4edb-91e6-28573b34da44",
+      "english": "grasp",
+      "translation": null,
+      "hebrew": "להבין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I didn't grasp the meaning of the poem.",
+        "He couldn't grasp the concept.",
+        "It took me a while to grasp what she was saying."
+      ],
+      "synonyms": [
+        "understand",
+        "comprehend"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c3526be3-d22d-48a8-ab6c-c3151aed6cfd",
+      "english": "group",
+      "translation": null,
+      "hebrew": "קבוצה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We formed a study group.",
+        "The students were divided into groups.",
+        "A group of friends went to the beach."
+      ],
+      "synonyms": [
+        "team",
+        "organization"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd60a124-a0e3-4b35-86f5-2728966c0b39",
+      "english": "hardly",
+      "translation": null,
+      "hebrew": "בקושי",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I hardly know him.",
+        "She hardly ever goes out.",
+        "There was hardly any food left."
+      ],
+      "synonyms": [
+        "barely",
+        "scarcely"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4ebf4359-654f-4673-b335-6ca9e9696d69",
+      "english": "hesitate",
+      "translation": null,
+      "hebrew": "להסס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't hesitate to ask questions.",
+        "He hesitated before answering.",
+        "She hesitated to speak her mind."
+      ],
+      "synonyms": [
+        "pause",
+        "waver"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "32728435-e90e-4732-a2d2-cc3804e214b9",
+      "english": "hold back",
+      "translation": null,
+      "hebrew": "להחזיק מעמד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The dam held back the floodwaters.",
+        "She held back her tears.",
+        "He held back his anger."
+      ],
+      "synonyms": [
+        "restrain",
+        "control"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "feee2efa-2d73-44c2-ada3-eae0e73dad56",
+      "english": "homeland",
+      "translation": null,
+      "hebrew": "מולדת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "This is my homeland.",
+        "He returned to his homeland after many years.",
+        "They fought to defend their homeland."
+      ],
+      "synonyms": [
+        "native land",
+        "fatherland"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "413b6e45-a3cf-449a-9762-6dcf2f69fe34",
+      "english": "honest",
+      "translation": null,
+      "hebrew": "ישר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is an honest man.",
+        "Be honest with me.",
+        "She gave an honest answer."
+      ],
+      "synonyms": [
+        "truthful",
+        "sincere"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "036dd202-a418-4715-900b-78b72993676a",
+      "english": "honor",
+      "translation": null,
+      "hebrew": "כבוד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "It is an honor to meet you.",
+        "He is a man of honor.",
+        "She received an award in honor of her achievements."
+      ],
+      "synonyms": [
+        "respect",
+        "prestige"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "036dd202-a418-4715-900b-78b72993676b",
+      "english": "honor",
+      "translation": null,
+      "hebrew": "לכבד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We honor our veterans.",
+        "The school honored the top students.",
+        "Please honor your commitments."
+      ],
+      "synonyms": [
+        "respect",
+        "revere"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "74fc300f-4629-4ba1-bb8e-2e10a9c3885f",
+      "english": "image",
+      "translation": null,
+      "hebrew": "תמונה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The image is very clear.",
+        "She has a positive image.",
+        "The company wants to improve its image."
+      ],
+      "synonyms": [
+        "picture",
+        "photo"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "29efd5d5-03c8-462d-9016-38882cef31f3",
+      "english": "imagination",
+      "translation": null,
+      "hebrew": "דמיון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a vivid imagination.",
+        "Use your imagination.",
+        "The story is a product of his imagination."
+      ],
+      "synonyms": [
+        "creativity",
+        "fantasy"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "db2046b4-a230-4c91-84cc-defb25ac843b",
+      "english": "imagine",
+      "translation": null,
+      "hebrew": "לתאר לעצמך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Imagine you are on a beach.",
+        "Can you imagine what it would be like?",
+        "I can't imagine living without the internet."
+      ],
+      "synonyms": [
+        "envision",
+        "picture"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1668b736-bd22-4b73-8f33-6ff809c4ef4b",
+      "english": "impair",
+      "translation": null,
+      "hebrew": "לפגום",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Drinking alcohol can impair your judgment.",
+        "The injury impaired his ability to walk.",
+        "Pollution can impair the quality of the air."
+      ],
+      "synonyms": [
+        "damage",
+        "weaken"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "environment"
+      ]
+    },
+    {
+      "word_id": "23a43e37-24cf-44f0-850a-57b43cde36c5",
+      "english": "impart",
+      "translation": null,
+      "hebrew": "להקנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The teacher imparted knowledge to her students.",
+        "The experience imparted wisdom.",
+        "The spice imparts a unique flavor to the dish."
+      ],
+      "synonyms": [
+        "convey",
+        "bestow"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b9e4a03e-34eb-4262-8b1b-4e91da2d9fc5",
+      "english": "impartially",
+      "translation": null,
+      "hebrew": "באופן הוגן",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The judge must act impartially.",
+        "The decision was made impartially.",
+        "The investigation was conducted impartially."
+      ],
+      "synonyms": [
+        "fairly",
+        "objectively"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4c3541d2-654a-4ebe-bda6-400af506b3de",
+      "english": "import",
+      "translation": null,
+      "hebrew": "לייבא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We import goods from China.",
+        "The country imports oil.",
+        "The company imports raw materials."
+      ],
+      "synonyms": [
+        "bring in",
+        "purchase"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "78641ed7-2aa7-491a-9ef4-51be458d777f",
+      "english": "impose",
+      "translation": null,
+      "hebrew": "לכפות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The government imposed a tax.",
+        "Don't impose your views on others.",
+        "The judge imposed a sentence."
+      ],
+      "synonyms": [
+        "force",
+        "enforce"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "55005a7d-58f5-45ed-934b-41286abcfafc",
+      "english": "impossible",
+      "translation": null,
+      "hebrew": "בלתי אפשרי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is impossible to fly without wings.",
+        "The task seems impossible.",
+        "Nothing is impossible if you believe."
+      ],
+      "synonyms": [
+        "unachievable",
+        "unattainable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "84740f42-2bd7-4fa5-97d7-126c2c78323c",
+      "english": "imprisoned",
+      "translation": null,
+      "hebrew": "כלוא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He was imprisoned for his crimes.",
+        "The bird was imprisoned in a cage.",
+        "She felt imprisoned by her circumstances."
+      ],
+      "synonyms": [
+        "jailed",
+        "confined"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "0fe9ae6f-2446-41fe-9ae8-dcd7adaf086d",
+      "english": "improve",
+      "translation": null,
+      "hebrew": "לשפר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to improve our English.",
+        "The company wants to improve its products.",
+        "He is trying to improve his health."
+      ],
+      "synonyms": [
+        "enhance",
+        "better"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "39511c03-1ed0-4664-b39e-d912ae35303c",
+      "english": "improvise",
+      "translation": null,
+      "hebrew": "לאלתר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The actor had to improvise his lines.",
+        "We had to improvise a solution.",
+        "She can improvise a meal with whatever is in the fridge."
+      ],
+      "synonyms": [
+        "ad-lib",
+        "wing it"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d42505f5-63aa-4856-a051-063b8ddb0302",
+      "english": "in order",
+      "translation": null,
+      "hebrew": "בכדי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to study in order to pass the exam.",
+        "She exercises in order to stay healthy.",
+        "He worked hard in order to achieve his goals."
+      ],
+      "synonyms": [
+        "so as to",
+        "to"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

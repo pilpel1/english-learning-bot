@@ -1,0 +1,491 @@
+{
+  "_meta": {
+    "chunk_number": 10,
+    "words_range": "underneath-without",
+    "word_count": 30,
+    "start_index": 270,
+    "end_index": 299
+  },
+  "words": [
+    {
+      "word_id": "9eb5cc01-7262-402e-874f-dda5d414fad5",
+      "english": "underneath",
+      "translation": null,
+      "hebrew": "מתחת",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The cat was hiding underneath the bed.",
+        "She found her keys underneath a pile of books."
+      ],
+      "synonyms": ["below", "beneath"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a4ca5c81-9f2d-43c7-9976-fd668bb48094",
+      "english": "undoubtedly",
+      "translation": null,
+      "hebrew": "ללא ספק",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She is undoubtedly the best candidate for the job.",
+        "This is undoubtedly the most difficult challenge we've faced."
+      ],
+      "synonyms": ["certainly", "definitely"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a8548605-60bc-433a-8147-70a93e6b84da",
+      "english": "unless",
+      "translation": null,
+      "hebrew": "אלא אם",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I won't go unless you come with me.",
+        "Unless it rains, we'll have the party outside."
+      ],
+      "synonyms": ["except if", "if not"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "14582c46-70f0-4b34-a979-0dddce29da19",
+      "english": "unlike",
+      "translation": null,
+      "hebrew": "בניגוד ל",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Unlike his brother, he enjoys reading books.",
+        "Her style is unlike anything I've seen before."
+      ],
+      "synonyms": ["dissimilar to", "different from"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "6bff9fe2-7865-472d-b4b2-80356bc7a8b4",
+      "english": "until",
+      "translation": null,
+      "hebrew": "עד",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll wait until you arrive.",
+        "The store is open until midnight."
+      ],
+      "synonyms": ["till", "up to"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9da49332-6c85-4357-b76e-5c84bdec506b",
+      "english": "until now",
+      "translation": null,
+      "hebrew": "עד עכשיו",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Until now, I haven't had any problems with the software.",
+        "We've been very successful until now."
+      ],
+      "synonyms": ["so far", "up to this point"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7bbde8c8-9110-446f-b6f1-5bbdedbff07d",
+      "english": "up",
+      "translation": null,
+      "hebrew": "למעלה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "He climbed up the ladder.",
+        "Please stand up when the teacher enters."
+      ],
+      "synonyms": ["upward", "aloft"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9e16a34d-c6e5-4ce1-b2ff-0ea961fa87e2",
+      "english": "upon",
+      "translation": null,
+      "hebrew": "על",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "Upon arriving home, she noticed the door was open.",
+        "The book was placed upon the shelf."
+      ],
+      "synonyms": ["on", "atop"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "443ef018-c4f0-4f44-a47a-bfe94df68047",
+      "english": "upside down",
+      "translation": null,
+      "hebrew": "הפוך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The picture is hanging upside down.",
+        "He turned the glass upside down."
+      ],
+      "synonyms": ["inverted", "reversed"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "79c9f6bf-6cce-4da5-bbe3-a889480e1a11",
+      "english": "usually",
+      "translation": null,
+      "hebrew": "בדרך כלל",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I usually go to the gym after work.",
+        "She usually drinks coffee in the morning."
+      ],
+      "synonyms": ["normally", "generally", "typically"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e2a64204-72a4-4725-8b57-6e2c0b0a9339",
+      "english": "vice versa",
+      "translation": null,
+      "hebrew": "להפך",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She helps him with math, and vice versa with English.",
+        "Dogs look like their owners and vice versa."
+      ],
+      "synonyms": ["conversely", "the other way around"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "484ee35e-7a5f-4269-b926-c10f02d5e725",
+      "english": "what",
+      "translation": null,
+      "hebrew": "מה",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "What do you want for dinner?",
+        "She doesn't know what to do."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "393bf5d7-4712-49b7-8458-272ffbcd9fe2",
+      "english": "when",
+      "translation": null,
+      "hebrew": "מתי",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "When will you arrive?",
+        "Call me when you get home."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "78446cb8-65d7-4445-a174-b34d74b43992",
+      "english": "whenever",
+      "translation": null,
+      "hebrew": "בכל פעם ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "You can call me whenever you need help.",
+        "Whenever it rains, the roof leaks."
+      ],
+      "synonyms": ["every time that", "at any time that"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0eefa28e-c857-4379-9775-79a546df993e",
+      "english": "where",
+      "translation": null,
+      "hebrew": "איפה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Where did you put my keys?",
+        "I don't know where he lives."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4bbfed39-9e13-4081-87ab-c1cf2a2351e4",
+      "english": "where",
+      "translation": null,
+      "hebrew": "היכן",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "This is where we first met.",
+        "I want to visit the place where you grew up."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "d1031665-2923-4d35-a1d3-5764388798b9",
+      "english": "whereas",
+      "translation": null,
+      "hebrew": "בעוד ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "She loves coffee, whereas I prefer tea.",
+        "The first proposal was rejected, whereas the second was accepted."
+      ],
+      "synonyms": ["while", "although"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9b1736d2-7b86-4089-83e0-83f49a493d99",
+      "english": "wherever",
+      "translation": null,
+      "hebrew": "בכל מקום ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll follow you wherever you go.",
+        "You can sit wherever you like."
+      ],
+      "synonyms": ["anyplace", "anywhere that"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4232888e-b0a6-4e9c-bc14-a40de507c7e1",
+      "english": "whether... or…",
+      "translation": null,
+      "hebrew": "בין אם... או...",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "Whether you win or lose, I'll be proud of you.",
+        "I'm going whether you like it or not."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1e3d99ba-59de-4456-95a4-4fe882a00004",
+      "english": "which",
+      "translation": null,
+      "hebrew": "איזה",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "Which color do you prefer?",
+        "I don't know which one to choose."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4714c774-fc0b-459b-84d3-ee43f551d18b",
+      "english": "which",
+      "translation": null,
+      "hebrew": "אשר",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "The book which I'm reading is very interesting.",
+        "The house, which was built in 1920, is now a museum."
+      ],
+      "synonyms": ["that"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "edccd28c-fbe7-4110-9b19-971149fecae4",
+      "english": "while",
+      "translation": null,
+      "hebrew": "בזמן ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "I'll watch TV while you cook dinner.",
+        "He fell asleep while reading a book."
+      ],
+      "synonyms": ["during the time that", "as"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8cc4cdc4-4900-4aaf-9157-7d91575bcfaf",
+      "english": "while",
+      "translation": null,
+      "hebrew": "אף על פי ש",
+      "part_of_speech": "conjunction",
+      "difficulty_level": 1,
+      "examples": [
+        "While I understand your concern, I cannot agree with you.",
+        "While it's expensive, the quality is worth it."
+      ],
+      "synonyms": ["although", "whereas"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "64b98c9d-06cd-4277-afc0-e3194446d700",
+      "english": "who",
+      "translation": null,
+      "hebrew": "מי",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "Who is that person?",
+        "I don't know who called you."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "740a030c-65c1-4194-b546-dab570c79f4c",
+      "english": "whom",
+      "translation": null,
+      "hebrew": "שאותו",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "To whom should I address this letter?",
+        "The person whom you met yesterday is my cousin."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1c28daaf-c8f7-47a8-b70d-803d6612a222",
+      "english": "whose",
+      "translation": null,
+      "hebrew": "של מי",
+      "part_of_speech": "pronoun",
+      "difficulty_level": 1,
+      "examples": [
+        "Whose book is this?",
+        "The man whose car was stolen called the police."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b78f4557-c78f-4938-82a0-f55b34109bb7",
+      "english": "why",
+      "translation": null,
+      "hebrew": "למה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Why are you leaving so early?",
+        "I don't understand why she's upset."
+      ],
+      "synonyms": ["for what reason"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "89b03dc2-1693-43e3-8175-b36741cb2e8a",
+      "english": "with",
+      "translation": null,
+      "hebrew": "עם",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "I went to the movies with my friends.",
+        "She cut the paper with scissors."
+      ],
+      "synonyms": ["alongside", "accompanied by"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "591a5691-df05-46e5-92c9-4f3b302141b7",
+      "english": "within",
+      "translation": null,
+      "hebrew": "בתוך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "The park is within walking distance.",
+        "We should arrive within an hour."
+      ],
+      "synonyms": ["inside", "inside of"],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "60614afe-ddff-4048-81e9-53c8b23ed22c",
+      "english": "without",
+      "translation": null,
+      "hebrew": "בלי",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "I can't imagine life without music.",
+        "She went to the party without her husband."
+      ],
+      "synonyms": ["lacking", "in the absence of"],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

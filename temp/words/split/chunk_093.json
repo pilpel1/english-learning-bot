@@ -1,0 +1,594 @@
+{
+  "_meta": {
+    "chunk_number": 93,
+    "words_range": "prevention-reform",
+    "word_count": 30,
+    "start_index": 2760,
+    "end_index": 2789
+  },
+  "words": [
+    {
+      "word_id": "81192363-7dc8-4342-bbdd-95d2848f5eef",
+      "english": "prevention",
+      "translation": null,
+      "hebrew": "מניעה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Prevention is better than cure.",
+        "The goal is the prevention of disease."
+      ],
+      "synonyms": [
+        "avoidance",
+        "deterrence"
+      ],
+      "topic_tags": [
+        "general",
+        "health",
+        "safety"
+      ]
+    },
+    {
+      "word_id": "6db1aafe-c6ff-418e-9b66-ece0647b13df",
+      "english": "previous",
+      "translation": null,
+      "hebrew": "קודם",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "In previous years, the company made a profit.",
+        "He has a previous conviction for theft."
+      ],
+      "synonyms": [
+        "prior",
+        "former"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e87f6c48-be15-41b5-add1-8f021f158f37",
+      "english": "probable",
+      "translation": null,
+      "hebrew": "סביר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "It is probable that it will rain tomorrow.",
+        "The probable cause of the accident was speeding."
+      ],
+      "synonyms": [
+        "likely",
+        "possible"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "17470d22-f5a0-4e00-9f33-837d46ed1b16",
+      "english": "probably",
+      "translation": null,
+      "hebrew": "כנראה",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "I will probably go to the party.",
+        "He is probably at home."
+      ],
+      "synonyms": [
+        "likely",
+        "possibly"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "da12e82d-d21c-4e92-94af-c84ff9b3ad97",
+      "english": "process",
+      "translation": null,
+      "hebrew": "תהליך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The manufacturing process takes several hours.",
+        "What is the process for applying for a visa?"
+      ],
+      "synonyms": [
+        "procedure",
+        "method"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "a04953eb-bab2-42b4-871e-b9dc61fb02a9",
+      "english": "process",
+      "translation": null,
+      "hebrew": "לעבד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The data needs to be processed.",
+        "The application is being processed."
+      ],
+      "synonyms": [
+        "handle",
+        "treat"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "b0378af5-d8b7-4e26-a753-6b981d12a6fb",
+      "english": "prohibit",
+      "translation": null,
+      "hebrew": "לאסור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Smoking is prohibited in this area.",
+        "The law prohibits discrimination."
+      ],
+      "synonyms": [
+        "forbid",
+        "ban"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "2a28d87c-cfec-439b-ac20-6b0873903ed2",
+      "english": "project",
+      "translation": null,
+      "hebrew": "פרויקט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We are working on a new project.",
+        "The project is due next week."
+      ],
+      "synonyms": [
+        "plan",
+        "scheme"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "2fa9283b-9874-453d-b127-90a84e4da5b4",
+      "english": "project",
+      "translation": null,
+      "hebrew": "להקרין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie will be projected onto a large screen.",
+        "The light was projected onto the wall."
+      ],
+      "synonyms": [
+        "show",
+        "display"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "6f838ed6-484d-401c-9c7a-ebc59d408a39",
+      "english": "project",
+      "translation": null,
+      "hebrew": "לשדר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He wants to project an image of confidence.",
+        "The company is trying to project a positive image."
+      ],
+      "synonyms": [
+        "convey",
+        "transmit"
+      ],
+      "topic_tags": [
+        "general",
+        "communication"
+      ]
+    },
+    {
+      "word_id": "a2fc0a86-2be6-47b6-8f16-fa74fc5b43e3",
+      "english": "promote",
+      "translation": null,
+      "hebrew": "לקדם",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The company is promoting a new product.",
+        "He was promoted to manager."
+      ],
+      "synonyms": [
+        "advance",
+        "encourage"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "d0a5cd41-633e-4898-8386-5b4d250406b0",
+      "english": "promotion",
+      "translation": null,
+      "hebrew": "קידום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She got a promotion at work.",
+        "The promotion of healthy eating is important."
+      ],
+      "synonyms": [
+        "advancement",
+        "encouragement"
+      ],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "b3d6b156-ae83-47f0-8f4d-74c085e23f13",
+      "english": "prompted",
+      "translation": null,
+      "hebrew": "הניע",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The news prompted him to take action.",
+        "What prompted you to say that?"
+      ],
+      "synonyms": [
+        "motivated",
+        "inspired"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "11669cf8-bc17-4d19-828f-0528d14b8765",
+      "english": "proponent",
+      "translation": null,
+      "hebrew": "תומך",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a proponent of free trade.",
+        "She is a strong proponent of women's rights."
+      ],
+      "synonyms": [
+        "advocate",
+        "supporter"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    },
+    {
+      "word_id": "4ef498a7-3108-4cfd-9f89-3af12a12f99d",
+      "english": "proportion",
+      "translation": null,
+      "hebrew": "פרופורציה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The proportion of men to women is about equal.",
+        "The room is not in proportion."
+      ],
+      "synonyms": [
+        "ratio",
+        "balance"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "53e8d9a0-f136-400e-82fb-6d2c027046a8",
+      "english": "prosperity",
+      "translation": null,
+      "hebrew": "שגשוג",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The country is enjoying a period of prosperity.",
+        "Economic prosperity is important for society."
+      ],
+      "synonyms": [
+        "wealth",
+        "success"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "c0484532-deb5-4304-9083-fc33f2504205",
+      "english": "prosperous",
+      "translation": null,
+      "hebrew": "משגשג",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The city is prosperous and growing.",
+        "They are a prosperous family."
+      ],
+      "synonyms": [
+        "wealthy",
+        "successful"
+      ],
+      "topic_tags": [
+        "general",
+        "economics"
+      ]
+    },
+    {
+      "word_id": "c041ac1e-1dda-40f0-86bd-22943883523a",
+      "english": "pump",
+      "translation": null,
+      "hebrew": "לשאוב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The pump is used to pump water from the well.",
+        "He needs to pump air into the tires."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "dd8b0e3e-6247-43ba-bbac-9e6215fd8ee0",
+      "english": "pursue",
+      "translation": null,
+      "hebrew": "לרדוף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The police pursued the suspect.",
+        "She wants to pursue a career in medicine."
+      ],
+      "synonyms": [
+        "follow",
+        "chase"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b7c5d8fc-9c6d-4ab2-a2d4-d993d6b7592f",
+      "english": "pursuit",
+      "translation": null,
+      "hebrew": "מרדף",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The police are in pursuit of the suspect.",
+        "The pursuit of happiness is a basic human right."
+      ],
+      "synonyms": [
+        "chase",
+        "search"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fc9bc7c6-5a4d-4e63-a0ca-71d0f37fba96",
+      "english": "quantify",
+      "translation": null,
+      "hebrew": "לכמת",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "It is difficult to quantify the impact of the new policy.",
+        "We need to quantify the risks involved."
+      ],
+      "synonyms": [
+        "measure",
+        "calculate"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "6e6df868-20d0-4b94-bd09-2e6095f718fb",
+      "english": "quantity",
+      "translation": null,
+      "hebrew": "כמות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The quantity of water is limited.",
+        "We need to reduce the quantity of waste."
+      ],
+      "synonyms": [
+        "amount",
+        "volume"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "406ffcd9-1ab8-493b-9060-294389d5940b",
+      "english": "radically",
+      "translation": null,
+      "hebrew": "באופן קיצוני",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The new law will radically change the system.",
+        "The situation has changed radically."
+      ],
+      "synonyms": [
+        "drastically",
+        "fundamentally"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "19a9bf2a-4e98-4f3b-ac70-30f35ae519b3",
+      "english": "rank",
+      "translation": null,
+      "hebrew": "דרגה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He holds the rank of captain.",
+        "What is your rank in the company?"
+      ],
+      "synonyms": [
+        "position",
+        "level"
+      ],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "0df1fe45-f379-41bd-b1f2-ce5b2fc2f10f",
+      "english": "ray",
+      "translation": null,
+      "hebrew": "קרן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "A ray of sunshine came through the clouds.",
+        "The X-ray showed a broken bone."
+      ],
+      "synonyms": [
+        "beam",
+        "streak"
+      ],
+      "topic_tags": [
+        "general",
+        "science"
+      ]
+    },
+    {
+      "word_id": "c78b8e16-459d-4c90-893a-dbdfb094e03a",
+      "english": "razor",
+      "translation": null,
+      "hebrew": "סכין גילוח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He uses a razor to shave his beard.",
+        "The razor is very sharp."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "personal care"
+      ]
+    },
+    {
+      "word_id": "7ebcf5e2-5351-4eaf-abf7-9dbd35410bb1",
+      "english": "rear",
+      "translation": null,
+      "hebrew": "אחורי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The car has a rear window.",
+        "The rear entrance is locked."
+      ],
+      "synonyms": [
+        "back",
+        "hind"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3ad7d55f-6ff7-425a-bba9-e37255295728",
+      "english": "rear",
+      "translation": null,
+      "hebrew": "לגדל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They reared their children in the countryside.",
+        "She was reared by her grandparents."
+      ],
+      "synonyms": [
+        "raise",
+        "bring up"
+      ],
+      "topic_tags": [
+        "general",
+        "family"
+      ]
+    },
+    {
+      "word_id": "f9d715ac-4ec1-4497-9bba-52e1a130239f",
+      "english": "reconcile",
+      "translation": null,
+      "hebrew": "להתפייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They need to reconcile their differences.",
+        "It is difficult to reconcile the two accounts."
+      ],
+      "synonyms": [
+        "settle",
+        "resolve"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "1730457c-5300-4446-ba4d-f28dcab46228",
+      "english": "reform",
+      "translation": null,
+      "hebrew": "רפורמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The government is planning a major tax reform.",
+        "We need to reform the education system."
+      ],
+      "synonyms": [
+        "improvement",
+        "change"
+      ],
+      "topic_tags": [
+        "general",
+        "politics"
+      ]
+    }
+  ]
+}

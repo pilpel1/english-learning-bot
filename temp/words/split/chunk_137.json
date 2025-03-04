@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "chunk_number": 136,
+    "words_range": "stunt-stuff",
+    "word_count": 30,
+    "start_index": 4050,
+    "end_index": 4079
+  },
+  "words": [
+    {
+      "word_id": "9e2e4f4e-98d0-43c2-aaf8-91a0a44c8153",
+      "english": "stunt",
+      "translation": null,
+      "hebrew": "פעלול",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He performed a dangerous stunt.",
+        "The movie is full of stunts."
+      ],
+      "synonyms": ["feat", "trick"],
+      "topic_tags": ["general", "film"]
+    },
+    {
+      "word_id": "a9f8a315-fd19-463f-93af-ac36e3817388",
+      "english": "stupid",
+      "translation": null,
+      "hebrew": "טיפש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "That was a stupid thing to do.",
+        "Don't be stupid."
+      ],
+      "synonyms": ["foolish", "dumb"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ee1b86b8-16b4-4db8-9ffb-b1a5e59e830b",
+      "english": "subtraction",
+      "translation": null,
+      "hebrew": "חיסור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Subtraction is a basic math skill.",
+        "He did the subtraction problem."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "math"]
+    },
+    {
+      "word_id": "df4e8745-478f-4b22-9ab3-f668f168e687",
+      "english": "sugar",
+      "translation": null,
+      "hebrew": "סוכר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Add sugar to the coffee.",
+        "Sugar is bad for your teeth."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "7aeaa004-aefd-45fa-88da-7d92bf4ee790",
+      "english": "sweet",
+      "translation": null,
+      "hebrew": "מתוק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The candy is sweet.",
+        "She has a sweet smile."
+      ],
+      "synonyms": ["sugary"],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "49fb0088-a3ad-4d82-bf40-b3ae276c5461",
+      "english": "swept away",
+      "translation": null,
+      "hebrew": "נסחף",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The flood swept away the house.",
+        "She was swept away by the music."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "9347af27-72f9-43e5-b301-c9a54eb7b39f",
+      "english": "swindler",
+      "translation": null,
+      "hebrew": "רמאי",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a swindler.",
+        "They were victims of a swindler."
+      ],
+      "synonyms": ["fraudster", "con artist"],
+      "topic_tags": ["general", "crime"]
+    },
+    {
+      "word_id": "bc82c30a-cf67-4c1b-adec-243c7128aae1",
+      "english": "sword",
+      "translation": null,
+      "hebrew": "חרב",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The knight carried a sword.",
+        "He fought with a sword."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "history"]
+    },
+    {
+      "word_id": "e5aea8da-4252-4159-b154-bbb38aa369c8",
+      "english": "syllable",
+      "translation": null,
+      "hebrew": "הברה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The word has three syllables.",
+        "Count the syllables."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "language"]
+    },
+    {
+      "word_id": "78c688f3-420c-465f-9fc8-fc7b09fd8a5c",
+      "english": "syndrome",
+      "translation": null,
+      "hebrew": "תסמונת",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He has a rare syndrome.",
+        "She suffers from the syndrome."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical"]
+    },
+    {
+      "word_id": "2a6b4194-03f6-4985-b6f8-9be26890b7ac",
+      "english": "syrup",
+      "translation": null,
+      "hebrew": "סירופ",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Pour syrup on the pancakes.",
+        "Cough syrup."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "food"]
+    },
+    {
+      "word_id": "8209343a-a54e-4529-be58-1ae586969728",
+      "english": "tale",
+      "translation": null,
+      "hebrew": "סיפור",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He told a tale.",
+        "It is a fairy tale."
+      ],
+      "synonyms": ["story", "narrative"],
+      "topic_tags": ["general", "literature"]
+    },
+    {
+      "word_id": "d935c32f-60ae-45ce-9ff8-6b21c78171d2",
+      "english": "taste",
+      "translation": null,
+      "hebrew": "טעם",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The soup has a good taste.",
+        "She has good taste in clothes."
+      ],
+      "synonyms": ["flavor", "palate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "4a44792d-4a39-4e10-94a4-d22faff3cde1",
+      "english": "tax",
+      "translation": null,
+      "hebrew": "מס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They pay taxes.",
+        "The government collects taxes."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "finance", "politics"]
+    },
+    {
+      "word_id": "a04447af-6b0c-44e2-bb22-3250a5d4df4a",
+      "english": "teeth, tooth",
+      "translation": null,
+      "hebrew": "שיניים, שן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Brush your teeth.",
+        "She has a toothache."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "medical", "body"]
+    },
+    {
+      "word_id": "fd2eab0a-0cbc-4dee-b851-afaed5fe0c0c",
+      "english": "tent",
+      "translation": null,
+      "hebrew": "אוהל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They camped in a tent.",
+        "The tent protected them from the rain."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "camping"]
+    },
+    {
+      "word_id": "98597470-b4bc-403e-9f8a-7685bed6912b",
+      "english": "thank",
+      "translation": null,
+      "hebrew": "להודות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Thank you.",
+        "I want to thank you."
+      ],
+      "synonyms": ["appreciate"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "3dd7c67b-eb14-4dbc-af0a-8cf1b539e3f3",
+      "english": "theater",
+      "translation": null,
+      "hebrew": "תיאטרון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to the theater.",
+        "The theater is beautiful."
+      ],
+      "synonyms": ["cinema"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "c09bf825-de32-4f06-8abe-a2fadcf0ecda",
+      "english": "theater",
+      "translation": null,
+      "hebrew": "קולנוע",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "They went to the theater.",
+        "Let's go to the movie theater"
+      ],
+      "synonyms": ["cinema"],
+      "topic_tags": ["general", "entertainment"]
+    },
+    {
+      "word_id": "99330b99-a3d0-418f-8435-4a3472a5e300",
+      "english": "theoretically",
+      "translation": null,
+      "hebrew": "תיאורטית",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "Theoretically, it should work.",
+        "Theoretically, it is possible."
+      ],
+      "synonyms": ["hypothetically"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "b208a807-87f9-46aa-8254-ccc81dc1f3c7",
+      "english": "theory",
+      "translation": null,
+      "hebrew": "תאוריה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He developed a theory.",
+        "That is just a theory."
+      ],
+      "synonyms": ["hypothesis"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "cffe9f40-ffa5-4bdf-8014-963e1205c0c8",
+      "english": "thimble",
+      "translation": null,
+      "hebrew": "נַפָּתוֹן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She wore a thimble while sewing.",
+        "Use a thimble to protect your finger."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "home"]
+    },
+    {
+      "word_id": "cd27a9d4-addf-4f75-9ab8-3554d7d50c78",
+      "english": "through",
+      "translation": null,
+      "hebrew": "דרך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "They went through the tunnel.",
+        "She looked through the window."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "d8493777-caca-4cd0-b1aa-fcbcf52c13ba",
+      "english": "throughout",
+      "translation": null,
+      "hebrew": "בְּמֶשֶׁך",
+      "part_of_speech": "preposition",
+      "difficulty_level": 1,
+      "examples": [
+        "He worked throughout the night.",
+        "The museum is open throughout the year."
+      ],
+      "synonyms": ["during"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "2d91d552-7307-4226-ba27-9a3a7c035f15",
+      "english": "throw",
+      "translation": null,
+      "hebrew": "לזרוק",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He threw the ball.",
+        "Throw it away."
+      ],
+      "synonyms": ["toss", "hurl"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "423dcc22-de1d-4e68-a049-c413ea58240f",
+      "english": "ticket",
+      "translation": null,
+      "hebrew": "כרטיס",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "She bought a ticket.",
+        "He needs a ticket to enter."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "ffe12f64-0844-4a6e-9a79-8743712439d4",
+      "english": "timeline",
+      "translation": null,
+      "hebrew": "ציר זמן",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The timeline shows the events in order.",
+        "Create a timeline for the project."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "7629ae4c-3686-41ec-8442-59c08fee0b21",
+      "english": "tin",
+      "translation": null,
+      "hebrew": "פח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The can is made of tin.",
+        "He packed with tin."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "material"]
+    },
+    {
+      "word_id": "27ce8ae2-40e5-4e97-98d1-a57e6f2f614f",
+      "english": "tiny",
+      "translation": null,
+      "hebrew": "זעיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The house is tiny.",
+        "It's a tiny mistake."
+      ],
+      "synonyms": ["small", "minute", "little"],
+      "topic_tags": ["general"]
+    },
+    {
+      "word_id": "1e1ffb91-db93-42fd-a292-79a53f7d293a",
+      "english": "toad",
+      "translation": null,
+      "hebrew": "קרפדה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The toad sat on a rock.",
+        "Toads are amphibians."
+      ],
+      "synonyms": [],
+      "topic_tags": ["general", "animals"]
+    }
+  ]
+}

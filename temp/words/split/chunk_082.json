@@ -1,0 +1,583 @@
+{
+  "_meta": {
+    "chunk_number": 82,
+    "words_range": "terrain-wisdom",
+    "word_count": 30,
+    "start_index": 2430,
+    "end_index": 2459
+  },
+  "words": [
+    {
+      "word_id": "98c983a8-1644-4504-bcb7-36376027b61c",
+      "english": "terrain",
+      "translation": "שטח",
+      "hebrew": "שטח",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The terrain was rough and uneven.",
+        "The soldiers had to cross difficult terrain."
+      ],
+      "synonyms": [
+        "ground",
+        "landscape"
+      ],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "5596e26d-044e-4f1a-8495-cab98659936c",
+      "english": "terrify",
+      "translation": "להפחיד",
+      "hebrew": "להפחיד",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The loud noise terrified the baby.",
+        "Snakes terrify her."
+      ],
+      "synonyms": [
+        "frighten",
+        "scare"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7602ad0-4fef-4d84-a084-b98cd7445a71",
+      "english": "theme",
+      "translation": "נושא",
+      "hebrew": "נושא",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The theme of the book is love.",
+        "The party had a pirate theme."
+      ],
+      "synonyms": [
+        "topic",
+        "subject"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "55cbfbc1-f22f-4149-bc59-715ffc284847",
+      "english": "threat",
+      "translation": "איום",
+      "hebrew": "איום",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He made a threat against her life.",
+        "The storm is a threat to the coastal areas."
+      ],
+      "synonyms": [
+        "danger",
+        "menace"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0ffd8435-44da-4b36-b3f4-c14d8a90fa4a",
+      "english": "tight",
+      "translation": "צמוד",
+      "hebrew": "צמוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The shirt is too tight for me.",
+        "The lid was on tight."
+      ],
+      "synonyms": [
+        "close-fitting",
+        "firm"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "00410544-a727-42e2-a939-da21013a6011",
+      "english": "tolerance",
+      "translation": "סובלנות",
+      "hebrew": "סובלנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We need to show tolerance towards others.",
+        "Tolerance is important in a diverse society."
+      ],
+      "synonyms": [
+        "patience",
+        "acceptance"
+      ],
+      "topic_tags": [
+        "general",
+        "society"
+      ]
+    },
+    {
+      "word_id": "bb668bd8-fa7b-4597-a39f-e84969af6e58",
+      "english": "tolerate",
+      "translation": "לסבול",
+      "hebrew": "לסבול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I cannot tolerate his behavior anymore.",
+        "She can tolerate spicy food."
+      ],
+      "synonyms": [
+        "endure",
+        "bear"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "ab9e33b5-c43f-4e88-9d5a-aa6cdb11e6ae",
+      "english": "ultimate",
+      "translation": "אולטימטיבי",
+      "hebrew": "אולטימטיבי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "This is the ultimate driving machine.",
+        "The ultimate goal is to win the championship."
+      ],
+      "synonyms": [
+        "final",
+        "supreme"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "4a7d9bde-3678-4efd-8617-9b295ca90e2a",
+      "english": "unbearable",
+      "translation": "בלתי נסבל",
+      "hebrew": "בלתי נסבל",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The pain was unbearable.",
+        "The heat was unbearable."
+      ],
+      "synonyms": [
+        "intolerable",
+        "insufferable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c605f014-4b6b-4e76-a3ca-6c4732ff66d4",
+      "english": "uncountable",
+      "translation": "אינספור",
+      "hebrew": "אינספור",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The stars in the sky are uncountable.",
+        "He has uncountable wealth."
+      ],
+      "synonyms": [
+        "innumerable",
+        "countless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "dc0ebff5-4477-400d-8805-1c6ebc584cc7",
+      "english": "undergo",
+      "translation": "לעבור",
+      "hebrew": "לעבור",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "She had to undergo surgery.",
+        "The bridge will undergo repairs."
+      ],
+      "synonyms": [
+        "experience",
+        "go through"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "be98aae7-6365-4a0b-ab27-198db12ea3b1",
+      "english": "unforgettable",
+      "translation": "בלתי נשכח",
+      "hebrew": "בלתי נשכח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The trip was unforgettable.",
+        "It was an unforgettable experience."
+      ],
+      "synonyms": [
+        "memorable",
+        "remarkable"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c846afc7-908a-401d-a2a3-4e09ef136e24",
+      "english": "unsafe",
+      "translation": "לא בטוח",
+      "hebrew": "לא בטוח",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The building is unsafe to enter.",
+        "It is unsafe to swim in this river."
+      ],
+      "synonyms": [
+        "dangerous",
+        "hazardous"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cc44b787-316f-429a-be89-14609f5493ab",
+      "english": "vain",
+      "translation": "יהיר",
+      "hebrew": "יהיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a vain man who cares too much about his appearance.",
+        "She is too vain to wear glasses."
+      ],
+      "synonyms": [
+        "conceited",
+        "arrogant"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0078ea41-4930-4f80-aa47-c06a177d3970",
+      "english": "vain",
+      "translation": "לשווא",
+      "hebrew": "לשווא",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "All our efforts were in vain.",
+        "He tried in vain to start the car."
+      ],
+      "synonyms": [
+        "useless",
+        "fruitless"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "41acfb5d-811d-41a5-8487-d5f6eb3a86f1",
+      "english": "vary",
+      "translation": "להשתנות",
+      "hebrew": "להשתנות",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The prices vary from store to store.",
+        "The weather can vary greatly in the mountains."
+      ],
+      "synonyms": [
+        "differ",
+        "change"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb500016-f28e-4eda-8f2a-c0c04622a24d",
+      "english": "venture",
+      "translation": "להעז",
+      "hebrew": "להעז",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "They ventured into the forest.",
+        "He ventured to ask her out on a date."
+      ],
+      "synonyms": [
+        "dare",
+        "risk"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "af87bb26-cd7a-4cef-898a-e2f6643f8f74",
+      "english": "verify",
+      "translation": "לוודא",
+      "hebrew": "לוודא",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Please verify your email address.",
+        "We need to verify the facts before publishing the story."
+      ],
+      "synonyms": [
+        "confirm",
+        "check"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "604aafab-8562-49f8-a148-f0635c0a2497",
+      "english": "versions",
+      "translation": "גרסאות",
+      "hebrew": "גרסאות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There are different versions of the software.",
+        "Which version of the story is true?"
+      ],
+      "synonyms": [
+        "editions",
+        "variants"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "544184a9-933d-411a-a93f-bb23c9b55f31",
+      "english": "vessel",
+      "translation": "כלי שיט",
+      "hebrew": "כלי שיט",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The vessel sailed across the ocean.",
+        "A large vessel was spotted near the coast."
+      ],
+      "synonyms": [
+        "ship",
+        "boat"
+      ],
+      "topic_tags": [
+        "general",
+        "transportation"
+      ]
+    },
+    {
+      "word_id": "93c1bdc8-6c70-4cba-a827-b96226050473",
+      "english": "village",
+      "translation": "כפר",
+      "hebrew": "כפר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He lives in a small village.",
+        "The village is located in the mountains."
+      ],
+      "synonyms": [
+        "hamlet"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "158cd270-8ec9-439e-9bcb-6546c3ff7890",
+      "english": "virtual",
+      "translation": "וירטואלי",
+      "hebrew": "וירטואלי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "We had a virtual meeting.",
+        "She created a virtual world."
+      ],
+      "synonyms": [
+        "online",
+        "digital"
+      ],
+      "topic_tags": [
+        "general",
+        "technology"
+      ]
+    },
+    {
+      "word_id": "eb8b3e89-3fb7-452e-873c-1c832578b95b",
+      "english": "virtually",
+      "translation": "כמעט",
+      "hebrew": "כמעט",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "The project is virtually complete.",
+        "Virtually everyone agreed with the plan."
+      ],
+      "synonyms": [
+        "nearly",
+        "almost"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "2d9ac89e-89ea-48f3-97e8-df35a17f7a27",
+      "english": "visual",
+      "translation": "חזותי",
+      "hebrew": "חזותי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The movie had stunning visual effects.",
+        "He is a visual learner."
+      ],
+      "synonyms": [
+        "optical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "468b98ee-1bf6-475c-9f50-8b5d2e5cc9f6",
+      "english": "visualize",
+      "translation": "לדמיין",
+      "hebrew": "לדמיין",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Try to visualize the scene in your mind.",
+        "He can visualize the solution to the problem."
+      ],
+      "synonyms": [
+        "imagine",
+        "envision"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "8013edad-e64f-4680-b467-e96c98fc75cb",
+      "english": "wealthy",
+      "translation": "עשיר",
+      "hebrew": "עשיר",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a wealthy businessman.",
+        "They live in a wealthy neighborhood."
+      ],
+      "synonyms": [
+        "rich",
+        "affluent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "df3e0875-ea00-4887-a74f-cefb51f813db",
+      "english": "weigh",
+      "translation": "לשקול",
+      "hebrew": "לשקול",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The package weighs two pounds.",
+        "We need to weigh the pros and cons."
+      ],
+      "synonyms": [
+        "measure",
+        "consider"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "f7f7561b-913b-4c4d-b004-adb633f2311d",
+      "english": "weight",
+      "translation": "משקל",
+      "hebrew": "משקל",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "What is the weight of the suitcase?",
+        "She is worried about her weight."
+      ],
+      "synonyms": [
+        "heaviness"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "fd160966-d561-4b7e-8d6b-4dcee079d7f4",
+      "english": "wickedly",
+      "translation": "ברשעות",
+      "hebrew": "ברשעות",
+      "part_of_speech": "adverb",
+      "difficulty_level": 1,
+      "examples": [
+        "She smiled wickedly.",
+        "He behaved wickedly."
+      ],
+      "synonyms": [
+        "evilly",
+        "maliciously"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "40f77973-8d8a-4c83-8c58-fe0bc22a561e",
+      "english": "wisdom",
+      "translation": "חוכמה",
+      "hebrew": "חוכמה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is known for his wisdom.",
+        "She shared her wisdom with the students."
+      ],
+      "synonyms": [
+        "knowledge",
+        "insight"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    }
+  ]
+}

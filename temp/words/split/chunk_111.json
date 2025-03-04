@@ -1,0 +1,566 @@
+{
+  "_meta": {
+    "chunk_number": 111,
+    "words_range": "transparent-attorney",
+    "word_count": 30,
+    "start_index": 3300,
+    "end_index": 3329
+  },
+  "words": [
+    {
+      "word_id": "3e5db8a1-9797-4c97-9bdc-6c884b2f0695",
+      "english": "transparent",
+      "translation": null,
+      "hebrew": "שקוף",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The glass is transparent.",
+        "The government should be more transparent."
+      ],
+      "synonyms": [
+        "clear",
+        "obvious"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e1990c67-e711-4d00-b003-06ce8b0b9c35",
+      "english": "transport",
+      "translation": null,
+      "hebrew": "להוביל",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The goods were transported by truck.",
+        "The company transports goods all over the world."
+      ],
+      "synonyms": [
+        "carry",
+        "move"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "683fb7db-fc08-4aed-a071-b449f76ef757",
+      "english": "transport",
+      "translation": null,
+      "hebrew": "תחבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Public transport is very convenient.",
+        "What is your main mode of transport?"
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "372955e2-9380-49e9-906d-c17cec3b4f6b",
+      "english": "transportation",
+      "translation": null,
+      "hebrew": "תחבורה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Transportation is a major industry.",
+        "We need to improve public transportation."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "eb6bb8ca-5c6d-48e8-b368-76e2adf3e896",
+      "english": "unconventional",
+      "translation": null,
+      "hebrew": "לא שגרתי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He has an unconventional approach to life.",
+        "The artist is known for his unconventional methods."
+      ],
+      "synonyms": [
+        "unusual",
+        "original"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "793b42e3-1163-427c-b573-023e427150d7",
+      "english": "underestimate",
+      "translation": null,
+      "hebrew": "להמעיט בערך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Never underestimate your opponent.",
+        "We underestimated the cost of the project."
+      ],
+      "synonyms": [
+        "underrate"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e7f90a14-c1d7-40bd-9949-22671e9cdc87",
+      "english": "vacant",
+      "translation": null,
+      "hebrew": "ריק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The seat is vacant.",
+        "The house has been vacant for years."
+      ],
+      "synonyms": [
+        "empty",
+        "available"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "67cb1cdb-93e7-489e-a6a8-41d3dcb61663",
+      "english": "veteran",
+      "translation": null,
+      "hebrew": "ותיק",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a veteran journalist.",
+        "She is a veteran teacher."
+      ],
+      "synonyms": [
+        "experienced"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "bf7fbe50-7f85-4bfe-9be0-97b88879c150",
+      "english": "veteran",
+      "translation": null,
+      "hebrew": "חייל משוחרר",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He is a veteran of the war.",
+        "The organization helps veterans."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "military"
+      ]
+    },
+    {
+      "word_id": "0ad752e7-ad34-40fa-9756-9a71cf1e9dd2",
+      "english": "virtue",
+      "translation": null,
+      "hebrew": "מעלה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Patience is a virtue.",
+        "Honesty is a virtue."
+      ],
+      "synonyms": [
+        "goodness",
+        "morality"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "0257aa7d-0c70-43d6-aa62-bbd59d223119",
+      "english": "vital",
+      "translation": null,
+      "hebrew": "חיוני",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Water is vital for survival.",
+        "The information is vital to the investigation."
+      ],
+      "synonyms": [
+        "essential",
+        "critical"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cd158cb5-63a1-4629-952d-22905f68c6c7",
+      "english": "vivid",
+      "translation": null,
+      "hebrew": "חי",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "She has a vivid imagination.",
+        "The colors were very vivid."
+      ],
+      "synonyms": [
+        "bright",
+        "colorful"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b85a0428-6204-424e-9ce6-84b4013e3ec9",
+      "english": "vulnerable",
+      "translation": null,
+      "hebrew": "פגיע",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "Children are more vulnerable to diseases.",
+        "The password makes the system vulnerable to attack."
+      ],
+      "synonyms": [
+        "susceptible",
+        "exposed"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "3f96efc6-bfff-4b24-80a3-1e74fa67a761",
+      "english": "warn",
+      "translation": null,
+      "hebrew": "להזהיר",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I warned you not to do that.",
+        "The sign warns of danger."
+      ],
+      "synonyms": [
+        "alert",
+        "caution"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "7715f719-5909-4a2b-8eff-1f7f728aff67",
+      "english": "warning",
+      "translation": null,
+      "hebrew": "אזהרה",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "The sign gives a clear warning about the danger.",
+        "He ignored all the warnings and went ahead with his plan."
+      ],
+      "synonyms": [
+        "caution",
+        "alert",
+        "notice"
+      ],
+      "topic_tags": [
+        "general",
+        "safety"
+      ]
+    },
+    {
+      "word_id": "867053d4-a401-43c3-80fa-ef49f4dd4e52",
+      "english": "weaken",
+      "translation": null,
+      "hebrew": "להחליש",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The illness weakened his immune system.",
+        "Economic sanctions can weaken a country's economy."
+      ],
+      "synonyms": [
+        "debilitate",
+        "reduce",
+        "impair"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "120a9413-423e-4e57-880d-33fc5c896205",
+      "english": "withdraw",
+      "translation": null,
+      "hebrew": "למשוך",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to withdraw money from the bank.",
+        "The company decided to withdraw from the market."
+      ],
+      "synonyms": [
+        "remove",
+        "retract"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "b856a301-a05a-4f97-b5eb-15a7b31a0e5b",
+      "english": "witness",
+      "translation": null,
+      "hebrew": "עֵד",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "He was a witness to the accident.",
+        "The witness gave a statement to the police."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    },
+    {
+      "word_id": "78e93102-dc63-4c99-a8c5-0e8c013deb3f",
+      "english": "worry",
+      "translation": null,
+      "hebrew": "לדאוג",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "Don't worry about me.",
+        "I worry about my children."
+      ],
+      "synonyms": [
+        "fear",
+        "concern"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "476b6363-9a2b-4c2d-b285-bd303d1f0861",
+      "english": "zoo",
+      "translation": null,
+      "hebrew": "גן חיות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "We went to the zoo yesterday.",
+        "The zoo has many different animals."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "nature"
+      ]
+    },
+    {
+      "word_id": "9be93345-a345-4c9d-bbf5-ff9a24099443",
+      "english": "abhor",
+      "translation": null,
+      "hebrew": "לתעב",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "I abhor violence.",
+        "She abhors injustice."
+      ],
+      "synonyms": [
+        "hate",
+        "despise"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e06d9792-d37e-4ae5-9652-9ddabff4eafb",
+      "english": "adolescence",
+      "translation": null,
+      "hebrew": "התבגרות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "Adolescence is a difficult time.",
+        "She is going through adolescence."
+      ],
+      "synonyms": [
+        "puberty"
+      ],
+      "topic_tags": [
+        "general",
+        "psychology"
+      ]
+    },
+    {
+      "word_id": "e98c7908-3d42-48fb-8d38-c39c16b19331",
+      "english": "agency",
+      "translation": null,
+      "hebrew": "סוכנות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I work for a travel agency.",
+        "The government agency is responsible for environmental protection."
+      ],
+      "synonyms": [],
+      "topic_tags": [
+        "general",
+        "business"
+      ]
+    },
+    {
+      "word_id": "942d91c0-574f-47d7-8420-d4bcc210347c",
+      "english": "apathetic",
+      "translation": null,
+      "hebrew": "אדיש",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "He is apathetic about politics.",
+        "The students were apathetic about the lecture."
+      ],
+      "synonyms": [
+        "indifferent"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "9691391e-8c78-4e61-96c4-43ba69242921",
+      "english": "apathy",
+      "translation": null,
+      "hebrew": "אדישות",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "There is a growing sense of apathy among voters.",
+        "Apathy is a dangerous thing."
+      ],
+      "synonyms": [
+        "indifference"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "c1ba9958-4f43-469a-a3b0-17a742f6c1fa",
+      "english": "appease",
+      "translation": null,
+      "hebrew": "לפייס",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "He tried to appease his wife.",
+        "The government tried to appease the protesters."
+      ],
+      "synonyms": [
+        "pacify",
+        "soothe"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "e90ef7b9-afb2-42ea-9044-651b82a3f5db",
+      "english": "appetite",
+      "translation": null,
+      "hebrew": "תאבון",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I have a good appetite.",
+        "The illness affected his appetite."
+      ],
+      "synonyms": [
+        "hunger"
+      ],
+      "topic_tags": [
+        "general",
+        "health"
+      ]
+    },
+    {
+      "word_id": "8bd4db5c-85d8-4c92-9296-6f2fb4cf73c8",
+      "english": "applaud",
+      "translation": null,
+      "hebrew": "למחוא כפיים",
+      "part_of_speech": "verb",
+      "difficulty_level": 1,
+      "examples": [
+        "The audience applauded the performance.",
+        "We applaud their efforts."
+      ],
+      "synonyms": [
+        "clap"
+      ],
+      "topic_tags": [
+        "general"
+      ]
+    },
+    {
+      "word_id": "cf9f746d-96e0-4c89-8eb7-46a0aef4fb4d",
+      "english": "arable",
+      "translation": null,
+      "hebrew": "ראוי לעיבוד",
+      "part_of_speech": "adjective",
+      "difficulty_level": 1,
+      "examples": [
+        "The land is arable.",
+        "Arable land is becoming scarce."
+      ],
+      "synonyms": [
+        "farmable"
+      ],
+      "topic_tags": [
+        "general",
+        "agriculture"
+      ]
+    },
+    {
+      "word_id": "37ae1b60-747a-4de4-9aed-2f3c204557bb",
+      "english": "attorney",
+      "translation": null,
+      "hebrew": "עורך דין",
+      "part_of_speech": "noun",
+      "difficulty_level": 1,
+      "examples": [
+        "I need to hire an attorney.",
+        "The attorney defended his client."
+      ],
+      "synonyms": [
+        "lawyer"
+      ],
+      "topic_tags": [
+        "general",
+        "law"
+      ]
+    }
+  ]
+}
