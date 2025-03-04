@@ -38,6 +38,9 @@ logs/
 # MongoDB local
 data/db/
 
+# Temporary files and development tools
+temp/
+
 # User-specific data
 .DS_Store
 Thumbs.db 
