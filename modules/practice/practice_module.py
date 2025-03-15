@@ -157,6 +157,11 @@ class PracticeModule:
             
             return States.PRACTICING
         
+        elif callback_data == "back_to_menu":
+            # חזרה לתפריט הראשי
+            await query.answer()
+            return States.MAIN_MENU
+        
         elif callback_data == "practice_show_word":
             # הצגת מילה לתרגול
             return await self.show_practice_word(update, context)

@@ -112,6 +112,11 @@ class CommandsModule:
         query = update.callback_query
         callback_data = query.data
         
+        # טיפול בחזרה לתפריט הראשי
+        if callback_data == "back_to_menu":
+            await self.user_module.show_main_menu(update, context)
+            return self.States.MAIN_MENU
+        
         # בדיקה אם הכפתור קשור למודול המשתמש
         user_state = await self.user_module.handle_callback(update, context, callback_data)
         if user_state is not None:
