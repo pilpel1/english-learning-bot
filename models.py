@@ -179,157 +179,86 @@ class WordsRepository:
 class UserRepository:
     """מחלקה לשמירת ושליפת נתוני משתמשים מ-MongoDB"""
     
-    def __init__(self, mongo_uri: str = None):
-        """
-        אתחול חיבור למסד הנתונים
-        
-        Args:
-            mongo_uri: כתובת החיבור ל-MongoDB
-        """
-        self.mongo_uri = mongo_uri
-        self.client = None
-        self.db = None
-        self.users_collection = None
-        
-        if self.mongo_uri:
-            try:
-                self.client = pymongo.MongoClient(self.mongo_uri)
-                self.db = self.client.english_learning_bot
-                self.users_collection = self.db.users
-            except Exception as e:
-                print(f"שגיאה בהתחברות ל-MongoDB: {e}")
-                # במקרה של שגיאה נשתמש במאגר זמני בזיכרון
-                self.users_collection = {}
-        else:
-            # אם לא סופק URI, השתמש במאגר זמני בזיכרון
-            self.users_collection = {}
+    # הוספת WordStatus כמשתנה סטטי של המחלקה
+    WordStatus = WordStatus
     
-    def get_user(self, user_id: int) -> Dict[str, Any]:
+    def __init__(self, data_dir="data/users"):
         """
-        קבלת מידע על משתמש לפי מזהה
+        אתחול מאגר המשתמשים
         
         Args:
-            user_id: מזהה המשתמש בטלגרם
-            
-        Returns:
-            מילון עם פרטי המשתמש או משתמש חדש אם לא קיים
+            data_dir: תיקיית הנתונים לשמירת קבצי המשתמשים
         """
-        if isinstance(self.users_collection, dict):
-            user_data = self.users_collection.get(user_id)
-        else:
-            user_data = self.users_collection.find_one({"user_id": user_id})
-        
-        if not user_data:
-            # יצירת משתמש חדש
-            user_data = self._create_new_user(user_id)
-        
-        return user_data
+        self.data_dir = data_dir
+        # יצירת התיקייה אם לא קיימת
+        os.makedirs(data_dir, exist_ok=True)
     
-    def _create_new_user(self, user_id: int) -> Dict[str, Any]:
-        """
-        יצירת רשומת משתמש חדשה
-        
-        Args:
-            user_id: מזהה המשתמש בטלגרם
-            
-        Returns:
-            מילון עם פרטי המשתמש החדש
-        """
-        new_user = {
-            "user_id": user_id,
-            "join_date": datetime.now().strftime("%Y-%m-%d"),
-            "current_level": 1,
-            "learning_preferences": {
-                "preferred_topics": [],
-                "daily_goal": 10,
-                "preferred_activities": []
-            },
-            "progress": {
-                "words_mastered": 0,
-                "words_learning": [],
-                "daily_streaks": 0,
-                "total_practice_time": 0,
-                "achievement_badges": []
-            },
-            "session_data": {
-                "current_activity": None,
-                "current_word_set": [],
-                "conversation_context": {}
-            }
-        }
-        
-        self.save_user(new_user)
-        return new_user
+    def _get_user_file_path(self, user_id: int) -> str:
+        """מחזיר את הנתיב לקובץ המשתמש"""
+        return os.path.join(self.data_dir, f"user_{user_id}.json")
     
-    def save_user(self, user_data: Dict[str, Any]) -> bool:
-        """
-        שמירת נתוני משתמש
+    async def get_user(self, user_id: int) -> Dict:
+        """קבלת פרופיל משתמש לפי מזהה"""
+        file_path = self._get_user_file_path(user_id)
         
-        Args:
-            user_data: מילון עם פרטי המשתמש
-            
-        Returns:
-            בוליאני המציין אם השמירה הצליחה
-        """
         try:
-            user_id = user_data["user_id"]
-            
-            if isinstance(self.users_collection, dict):
-                self.users_collection[user_id] = user_data
-            else:
-                # בדיקה אם המשתמש כבר קיים ועדכון
-                result = self.users_collection.update_one(
-                    {"user_id": user_id},
-                    {"$set": user_data},
-                    upsert=True
-                )
-                return result.acknowledged
-            
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+        except Exception as e:
+            print(f"Error reading user file: {e}")
+        return None
+    
+    async def save_user(self, user_profile: Dict) -> bool:
+        """שמירת פרופיל משתמש"""
+        try:
+            file_path = self._get_user_file_path(user_profile["user_id"])
+            # שמירה עם פירמוט יפה לקריאות
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(user_profile, f, ensure_ascii=False, indent=2)
             return True
         except Exception as e:
-            print(f"שגיאה בשמירת נתוני משתמש: {e}")
+            print(f"Error saving user file: {e}")
             return False
     
-    def update_user_word_progress(self, user_id: int, word_progress: UserWordProgress) -> bool:
-        """
-        עדכון התקדמות של מילה עבור משתמש
-        
-        Args:
-            user_id: מזהה המשתמש בטלגרם
-            word_progress: אובייקט התקדמות המילה
+    async def update_user_word_progress(self, user_id: int, word_progress: UserWordProgress) -> bool:
+        """עדכון התקדמות המשתמש במילה"""
+        try:
+            user_data = await self.get_user(user_id)  # הוספת await כאן
             
-        Returns:
-            בוליאני המציין אם העדכון הצליח
-        """
-        user_data = self.get_user(user_id)
-        
-        # חיפוש מילה קיימת ברשימת ההתקדמויות
-        word_found = False
-        if "word_progress" not in user_data:
-            user_data["word_progress"] = []
-        
-        for i, wp in enumerate(user_data.get("word_progress", [])):
-            if wp.get("word_id") == word_progress.word_id:
-                user_data["word_progress"][i] = word_progress.to_dict()
-                word_found = True
-                break
-        
-        # אם המילה לא נמצאה, הוסף אותה
-        if not word_found:
-            user_data["word_progress"].append(word_progress.to_dict())
-        
-        # עדכון מונה המילים שנלמדו
-        mastered_count = 0
-        for wp in user_data.get("word_progress", []):
-            if wp.get("status") == WordStatus.MASTERED.value:
-                mastered_count += 1
-        
-        user_data["progress"]["words_mastered"] = mastered_count
-        
-        # שמירת המשתמש
-        return self.save_user(user_data)
+            if not user_data:
+                user_data = {"user_id": user_id, "word_progress": []}
+            
+            if "word_progress" not in user_data:
+                user_data["word_progress"] = []
+            
+            # עדכון או הוספת התקדמות המילה
+            updated = False
+            for wp in user_data["word_progress"]:
+                if wp["word_id"] == word_progress.word_id:
+                    wp.update(word_progress.to_dict())
+                    updated = True
+                    break
+            
+            if not updated:
+                user_data["word_progress"].append(word_progress.to_dict())
+            
+            # עדכון מונה המילים שנלמדו
+            mastered_count = 0
+            for wp in user_data["word_progress"]:
+                if wp["status"] == WordStatus.MASTERED.value:
+                    mastered_count += 1
+            
+            user_data["progress"] = {"words_mastered": mastered_count}
+            
+            # שמירת הנתונים המעודכנים
+            return await self.save_user(user_data)
+            
+        except Exception as e:
+            print(f"Error updating word progress: {e}")
+            return False
     
-    def get_user_word_progress(self, user_id: int, word_id: str) -> Optional[UserWordProgress]:
+    async def get_user_word_progress(self, user_id: int, word_id: str) -> Optional[UserWordProgress]:
         """
         קבלת התקדמות של מילה מסוימת עבור משתמש
         
@@ -340,11 +269,16 @@ class UserRepository:
         Returns:
             אובייקט UserWordProgress אם נמצא, אחרת None
         """
-        user_data = self.get_user(user_id)
+        user_data = await self.get_user(user_id)
         
+        # אם אין נתונים למשתמש, מחזירים התקדמות חדשה
+        if not user_data:
+            return UserWordProgress(word_id)
+        
+        # חיפוש התקדמות קיימת
         for wp_data in user_data.get("word_progress", []):
-            if wp_data.get("word_id") == word_id:
+            if wp_data["word_id"] == word_id:
                 return UserWordProgress.from_dict(wp_data)
         
-        # אם לא נמצאה התקדמות, החזר אובייקט חדש
+        # אם לא נמצאה התקדמות, מחזירים התקדמות חדשה
         return UserWordProgress(word_id) 
