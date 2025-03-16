@@ -7,13 +7,41 @@
   "total_practice_time": 0,
   "session_data": {
     "current_word_set": [
-      "765a545e-b041-4dd4-8150-661469739870",
-      "34536801-e76f-4780-b3e6-3ec2be155b66",
-      "27c82d88-bbbe-41cf-b6bf-e8c9e286ed1f",
-      "6b711757-aede-4058-8457-bbf441cc099f",
-      "de41131b-67c5-4482-919b-90c59963b2c1"
+      "2542d070-7ff1-4736-84cc-cd8de54e3d93",
+      "2d854831-c04f-4878-a46d-367969021bb6",
+      "2a28d87c-cfec-439b-ac20-6b0873903ed2",
+      "28977f65-3836-4455-9d95-adeeccea2990",
+      "9929d21c-80ea-434b-a97b-de8b0cd8c7c2"
     ],
     "current_word_index": 5,
-    "conversation_context": {}
+    "conversation_context": {},
+    "session_results": {
+      "2542d070-7ff1-4736-84cc-cd8de54e3d93": {
+        "word": "poor",
+        "hebrew": "עני",
+        "remembered": true
+      },
+      "2d854831-c04f-4878-a46d-367969021bb6": {
+        "word": "rat",
+        "hebrew": "חולדה",
+        "remembered": true
+      },
+      "2a28d87c-cfec-439b-ac20-6b0873903ed2": {
+        "word": "project",
+        "hebrew": "פרויקט",
+        "remembered": true
+      },
+      "28977f65-3836-4455-9d95-adeeccea2990": {
+        "word": "saga",
+        "hebrew": "סאגה",
+        "remembered": true
+      },
+      "9929d21c-80ea-434b-a97b-de8b0cd8c7c2": {
+        "word": "attraction",
+        "hebrew": "משיכה",
+        "remembered": true
+      }
+    },
+    "last_feedback": "✅ מצוין! המשך כך!\n\n"
   }
 }

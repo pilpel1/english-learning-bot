@@ -126,18 +126,22 @@ class PracticeModule:
         query = update.callback_query
         
         if callback_data == "practice":
-            # התחלת תרגול מילים
+            # התחלת תרגול מילים חדש
             user = query.from_user
             user_profile = await self.get_user_profile(user.id)
             user_profile = self.ensure_session_data(user_profile)
             
-            # בחירת 5 מילים אקראיות לתרגול - בלי קשר לרמה
+            # איפוס נתוני הסשן
+            user_profile["session_data"]["current_word_set"] = []
+            user_profile["session_data"]["current_word_index"] = 0
+            user_profile["session_data"]["session_results"] = {}  # הוספנו איפוס של התוצאות
+            if "last_feedback" in user_profile["session_data"]:
+                del user_profile["session_data"]["last_feedback"]
+            
+            # בחירת 5 מילים אקראיות לתרגול
             words = self.words_repo.get_random_words(5)
             word_ids = [word.word_id for word in words]
-            
-            # שמירת המילים הנוכחיות למשתמש
             user_profile["session_data"]["current_word_set"] = word_ids
-            user_profile["session_data"]["current_word_index"] = 0
             await self.save_user_profile(user_profile)
             
             # הצגת הודעת פתיחה לתרגול
@@ -175,48 +179,38 @@ class PracticeModule:
             return await self.show_practice_word(update, context)
         
         elif callback_data.startswith("practice_remembered_") or callback_data.startswith("practice_forgot_"):
-            # עדכון סטטוס מילה (זכר/שכח)
             word_id = callback_data.split("_")[-1]
             remembered = callback_data.startswith("practice_remembered_")
             
-            # עדכון התקדמות המילה
+            # שמירת התוצאה במילון התוצאות
             user_id = query.from_user.id
-            word_progress = await self.user_repo.get_user_word_progress(user_id, word_id)
-            
-            # עדכון הנתונים בהתאם למה שהמשתמש בחר
-            word_progress.repetitions += 1
-            
-            if remembered:
-                if word_progress.status == self.user_repo.WordStatus.NEW:
-                    word_progress.status = self.user_repo.WordStatus.LEARNING
-                elif word_progress.repetitions >= 3 and word_progress.success_rate >= 0.7:
-                    word_progress.status = self.user_repo.WordStatus.MASTERED
-                    
-                word_progress.success_rate = (word_progress.repetitions - 1) / word_progress.repetitions + (1 / word_progress.repetitions)
-            else:
-                word_progress.success_rate = (word_progress.repetitions - 1) / word_progress.repetitions
-                if word_progress.status == self.user_repo.WordStatus.MASTERED:
-                    word_progress.status = self.user_repo.WordStatus.LEARNING
-            
-            # שמירת ההתקדמות
-            self.user_repo.update_user_word_progress(user_id, word_progress)
-            
-            # מעבר למילה הבאה
             user_profile = await self.get_user_profile(user_id)
             user_profile = self.ensure_session_data(user_profile)
+            
+            # וידוא שיש מילון תוצאות
+            if "session_results" not in user_profile["session_data"]:
+                user_profile["session_data"]["session_results"] = {}
+            
+            # שמירת התוצאה
+            word = self.words_repo.get_word(word_id)
+            user_profile["session_data"]["session_results"][word_id] = {
+                "word": word.english,
+                "hebrew": word.hebrew,
+                "remembered": remembered  # True אם זכר, False אם לא
+            }
+            
+            # עדכון האינדקס והשמירה
             user_profile["session_data"]["current_word_index"] += 1
+            await self.save_user_profile(user_profile)  # חשוב! לשמור את השינויים
+            
+            # מעבר ישיר למילה הבאה עם המשוב המתאים
+            user_profile = await self.get_user_profile(user_id)
+            user_profile = self.ensure_session_data(user_profile)
+            user_profile["session_data"]["last_feedback"] = "✅ מצוין! המשך כך!\n\n" if remembered else "👨‍🎓 לא נורא, זה חלק מתהליך הלמידה!\n\n"
             await self.save_user_profile(user_profile)
             
-            # מציג הודעה על הצלחה/כישלון
-            feedback_text = "✅ מצוין! המשך כך!" if remembered else "👨‍🎓 לא נורא, זה חלק מתהליך הלמידה!"
-            await query.edit_message_text(
-                f"{feedback_text}\n\nטוען את המילה הבאה...",
-                reply_markup=InlineKeyboardMarkup([
-                    [InlineKeyboardButton("⏭️ למילה הבאה", callback_data="practice_show_word")]
-                ])
-            )
-            
-            return States.PRACTICING
+            # מעבר ישיר למילה הבאה
+            return await self.show_practice_word(update, context)
         
         elif callback_data == "practice_random":
             # הצגת מילה אקראית חדשה
@@ -298,9 +292,27 @@ class PracticeModule:
         
         # בדיקה אם סיימנו את הסט
         if current_index >= len(word_ids):
+            results = user_profile["session_data"].get("session_results", {})
+            total_words = len(word_ids)
+            correct = sum(1 for r in results.values() if r.get("remembered", False))
+            
+            summary = (
+                f"כל הכבוד! סיימת את מפגש התרגול 🎉\n"
+                f"ידעת {correct} מתוך {total_words} מילים!\n\n"
+                "סיכום המילים:\n"
+            )
+            
+            # עוברים על כל המילים ומציגים את התוצאה האמיתית מהתרגול
+            for i, word_id in enumerate(word_ids, 1):
+                word = self.words_repo.get_word(word_id)
+                result = results.get(word_id, {})
+                mark = "✅" if result.get("remembered", False) else "❌"
+                summary += f"{i}. {word.english} - {word.hebrew} {mark}\n"
+            
+            summary += "\nרוצה לתרגל עוד מילים?"
+            
             await query.edit_message_text(
-                "כל הכבוד! סיימת את מפגש התרגול. 🎉\n\n"
-                "רוצה לתרגל עוד מילים?",
+                summary,
                 reply_markup=InlineKeyboardMarkup([
                     [InlineKeyboardButton("✅ כן, תן לי עוד", callback_data="practice")],
                     [InlineKeyboardButton("🔙 חזרה לתפריט", callback_data="back_to_menu")]
@@ -315,31 +327,31 @@ class PracticeModule:
         if not word:
             logger.error(f"לא נמצאה מילה עם מזהה {current_word_id}")
             user_profile["session_data"]["current_word_index"] += 1
-            self.save_user_profile(user_profile)
+            await self.save_user_profile(user_profile)
             return await self.show_practice_word(update, context)
         
         # הכנת הטקסט למילה
-        word_text = (
-            f"📝 מילה #{current_index + 1}/{len(word_ids)}: *{word.english}*\n"
-        )
+        word_text = ""
         
-        # אם יש תרגום באנגלית, מציגים אותו
-        if word.translation:
-            word_text += f"🔤 תרגום באנגלית: *{word.translation}*\n"
+        # הוספת המשוב מהמילה הקודמת אם קיים
+        if "last_feedback" in user_profile["session_data"]:
+            word_text += user_profile["session_data"]["last_feedback"]
+            del user_profile["session_data"]["last_feedback"]  # מחיקת המשוב אחרי השימוש
+            await self.save_user_profile(user_profile)
         
-        # אם יש תרגום לעברית, מציגים אותו
-        if word.hebrew:
-            word_text += f"🔤 תרגום לעברית: *{word.hebrew}*\n"
-        
-        # אם יש חלק דיבור, מציגים אותו
-        if word.part_of_speech:
-            word_text += f"📋 חלק דיבור: *{word.part_of_speech}*\n"
+        word_text += f"📝 מילה #{current_index + 1}/{len(word_ids)}: *{word.english}*\n"
+        word_text += f"🔤 תרגום לעברית: *{word.hebrew}*\n\n"
         
         # אם יש דוגמאות, מציגים אותן
         if word.examples:
-            word_text += "\n📚 דוגמאות:\n"
+            word_text += "📚 דוגמאות:\n"
             for i, example in enumerate(word.examples[:2], 1):
                 word_text += f"{i}. {example}\n"
+            word_text += "\n"
+        
+        # אם יש חלק דיבור, מציגים אותו
+        if word.part_of_speech:
+            word_text += f"({word.part_of_speech})\n"
         
         # אם יש מילים נרדפות, מציגים אותן
         if word.synonyms:
@@ -352,9 +364,6 @@ class PracticeModule:
                 InlineKeyboardButton("❌ לא זכרתי", callback_data=f"practice_forgot_{current_word_id}")
             ],
             [
-                InlineKeyboardButton("⏭️ המילה הבאה", callback_data="practice_next")
-            ],
-            [
                 InlineKeyboardButton("🔙 חזרה לתפריט", callback_data="back_to_menu")
             ]
         ]
@@ -362,4 +371,4 @@ class PracticeModule:
         reply_markup = InlineKeyboardMarkup(keyboard)
         await query.edit_message_text(word_text, reply_markup=reply_markup, parse_mode='Markdown')
         
-        return States.PRACTICING 
+        return States.PRACTICING
