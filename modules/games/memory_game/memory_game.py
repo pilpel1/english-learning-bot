@@ -170,6 +170,44 @@ class MemoryGame:
         if not game_state or not game_state.get("message_id"):
             return
         
+        # יצירת רשימת הזוגות שנמצאו
+        matched_pairs = []
+        matched_ids = set()
+        
+        # מעבר על כל הכרטיסיות המותאמות
+        for card_id in game_state["matched"]:
+            card = game_state["cards"][card_id]
+            pair_id = card["pair_id"]
+            
+            # אם כבר הוספנו את הזוג הזה, נמשיך
+            if pair_id in matched_ids:
+                continue
+                
+            # מציאת הכרטיסייה השנייה של הזוג
+            for other_card_id in game_state["matched"]:
+                if other_card_id != card_id and game_state["cards"][other_card_id]["pair_id"] == pair_id:
+                    # מציאת המילה באנגלית והתרגום שלה
+                    if card["type"] == "english":
+                        english = card["text"]
+                        hebrew = game_state["cards"][other_card_id]["text"]
+                    else:
+                        english = game_state["cards"][other_card_id]["text"]
+                        hebrew = card["text"]
+                    
+                    matched_pairs.append(f"{english} - {hebrew}")
+                    matched_ids.add(pair_id)
+                    break
+        
+        # יצירת טקסט הזוגות שנמצאו
+        matched_text = ""
+        if matched_pairs:
+            matched_text = "\n\n*זוגות שנמצאו:*\n"
+            matched_text += "\n".join([f"• {pair}" for pair in matched_pairs])
+        
+        # מספר הזוגות שנמצאו
+        pairs_found = len(matched_pairs)
+        total_pairs = len(game_state["cards"]) // 2
+        
         try:
             # עדכון ההודעה
             await context.bot.edit_message_text(
@@ -177,7 +215,9 @@ class MemoryGame:
                 message_id=game_state["message_id"],
                 text=f"🎮 *משחק הזיכרון*\n"
                      f"מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
-                     f"מספר לחיצות: {game_state['clicks']}",
+                     f"מספר לחיצות: {game_state['clicks']}\n"
+                     f"זוגות שנמצאו: {pairs_found}/{total_pairs}"
+                     f"{matched_text}",
                 reply_markup=self._create_game_keyboard(user_id),
                 parse_mode="Markdown"
             )
@@ -204,6 +244,38 @@ class MemoryGame:
         else:
             performance = "כל הכבוד! 👏"
         
+        # יצירת רשימת הזוגות שנמצאו
+        matched_pairs = []
+        matched_ids = set()
+        
+        # מעבר על כל הכרטיסיות המותאמות
+        for card_id in game_state["matched"]:
+            card = game_state["cards"][card_id]
+            pair_id = card["pair_id"]
+            
+            # אם כבר הוספנו את הזוג הזה, נמשיך
+            if pair_id in matched_ids:
+                continue
+                
+            # מציאת הכרטיסייה השנייה של הזוג
+            for other_card_id in game_state["matched"]:
+                if other_card_id != card_id and game_state["cards"][other_card_id]["pair_id"] == pair_id:
+                    # מציאת המילה באנגלית והתרגום שלה
+                    if card["type"] == "english":
+                        english = card["text"]
+                        hebrew = game_state["cards"][other_card_id]["text"]
+                    else:
+                        english = game_state["cards"][other_card_id]["text"]
+                        hebrew = card["text"]
+                    
+                    matched_pairs.append(f"{english} - {hebrew}")
+                    matched_ids.add(pair_id)
+                    break
+        
+        # יצירת טקסט הזוגות שנמצאו
+        matched_text = "\n\n*המילים שלמדת:*\n"
+        matched_text += "\n".join([f"• {pair}" for pair in matched_pairs])
+        
         # שליחת הודעת סיום
         try:
             await context.bot.edit_message_text(
@@ -211,7 +283,8 @@ class MemoryGame:
                 message_id=game_state["message_id"],
                 text=f"🎮 *משחק הזיכרון - סיום!*\n\n"
                      f"הצלחת למצוא את כל הזוגות תוך *{clicks}* לחיצות!\n"
-                     f"{performance}\n\n"
+                     f"{performance}"
+                     f"{matched_text}\n\n"
                      f"רוצה לשחק שוב?",
                 reply_markup=InlineKeyboardMarkup([
                     [InlineKeyboardButton("🔄 משחק חדש", callback_data="game_memory")],
