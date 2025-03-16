@@ -145,8 +145,8 @@ class CommandsModule:
         elif callback_data.startswith("game_"):
             await self.games_module.handle_game_selection(update, context, callback_data)
             return self.States.PLAYING_GAME
-        elif callback_data.startswith("memory_card_") or callback_data == "memory_empty":
-            # טיפול בלחיצות על כרטיסיות במשחק הזיכרון
+        elif callback_data.startswith("memory_card_") or callback_data == "memory_empty" or callback_data.startswith("memory_difficulty_"):
+            # טיפול בלחיצות על כרטיסיות במשחק הזיכרון או בחירת רמת קושי
             handled = await self.games_module.handle_callback(update, context, callback_data)
             return self.States.PLAYING_GAME if handled else self.States.MAIN_MENU
         

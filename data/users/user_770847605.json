@@ -1,0 +1,26 @@
+{
+  "user_id": 770847605,
+  "join_date": "2025-03-16",
+  "words_learned": [],
+  "daily_streak": 0,
+  "last_practice": null,
+  "total_practice_time": 0,
+  "session_data": {
+    "current_word_set": [
+      "4b3e9fe4-7d0e-4140-bcc3-bbdf8d496889",
+      "6dce877a-2ad5-484f-a4cd-8c1efc382230",
+      "45683afb-3acf-4086-afd2-5c56f3472361",
+      "a9fecc2e-c8c4-4614-9c8d-433ae5897ebf",
+      "29253d52-725b-416c-b630-2cc6f913593f"
+    ],
+    "current_word_index": 1,
+    "conversation_context": {},
+    "session_results": {
+      "4b3e9fe4-7d0e-4140-bcc3-bbdf8d496889": {
+        "word": "except",
+        "hebrew": "חוץ מ",
+        "remembered": false
+      }
+    }
+  }
+}

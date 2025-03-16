@@ -15,7 +15,7 @@ class MemoryGame:
         """אתחול המשחק"""
         self.active_games = {}  # מילון לשמירת מצב המשחק לכל משתמש
     
-    async def start_game(self, update: Update, context: ContextTypes.DEFAULT_TYPE, words: List[Dict]) -> None:
+    async def start_game(self, update: Update, context: ContextTypes.DEFAULT_TYPE, words: List[Dict], difficulty: str = "קל") -> None:
         """התחלת משחק חדש"""
         user_id = update.effective_user.id
         
@@ -38,11 +38,12 @@ class MemoryGame:
             "matched": [],  # כרטיסיות שכבר נמצאו להן זוגות
             "clicks": 0,    # מספר הלחיצות
             "message_id": None,  # מזהה ההודעה של המשחק
+            "difficulty": difficulty  # דרגת הקושי
         }
         
         # שליחת לוח המשחק
         message = await update.effective_message.reply_text(
-            "🎮 *משחק הזיכרון*\n"
+            f"🎮 *משחק הזיכרון - {difficulty}*\n"
             "מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
             "מספר לחיצות: 0",
             reply_markup=self._create_game_keyboard(user_id),
@@ -213,7 +214,7 @@ class MemoryGame:
             await context.bot.edit_message_text(
                 chat_id=user_id,
                 message_id=game_state["message_id"],
-                text=f"🎮 *משחק הזיכרון*\n"
+                text=f"🎮 *משחק הזיכרון - {game_state.get('difficulty', 'קל')}*\n"
                      f"מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
                      f"מספר לחיצות: {game_state['clicks']}\n"
                      f"זוגות שנמצאו: {pairs_found}/{total_pairs}"
@@ -233,6 +234,7 @@ class MemoryGame:
             return
         
         clicks = game_state["clicks"]
+        difficulty = game_state.get("difficulty", "קל")
         
         # הערכת הביצועים
         if clicks <= 20:
@@ -281,7 +283,7 @@ class MemoryGame:
             await context.bot.edit_message_text(
                 chat_id=user_id,
                 message_id=game_state["message_id"],
-                text=f"🎮 *משחק הזיכרון - סיום!*\n\n"
+                text=f"🎮 *משחק הזיכרון - {difficulty} - סיום!*\n\n"
                      f"הצלחת למצוא את כל הזוגות תוך *{clicks}* לחיצות!\n"
                      f"{performance}"
                      f"{matched_text}\n\n"
