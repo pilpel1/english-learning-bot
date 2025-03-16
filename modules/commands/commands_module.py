@@ -8,6 +8,7 @@ from telegram.ext import ContextTypes
 
 # ייבוא ישיר של UserStates
 from modules.user.user_module import UserStates
+from modules.games import GamesModule
 
 class CommandsModule:
     """מחלקה לניהול פקודות הבוט"""
@@ -24,6 +25,7 @@ class CommandsModule:
         self.user_module = user_module
         self.practice_module = practice_module
         self.States = states_enum
+        self.games_module = GamesModule(user_module)
     
     async def start_command(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
         """טיפול בפקודת ההתחלה /start"""
@@ -113,7 +115,7 @@ class CommandsModule:
         callback_data = query.data
         
         # טיפול בחזרה לתפריט הראשי
-        if callback_data == "back_to_menu":
+        if callback_data == "back_to_menu" or callback_data == "main_menu":
             await self.user_module.show_main_menu(update, context)
             return self.States.MAIN_MENU
         
@@ -121,7 +123,7 @@ class CommandsModule:
         user_state = await self.user_module.handle_callback(update, context, callback_data)
         if user_state is not None:
             # המרת מצב UserStates למצב States
-            if callback_data == "back_to_menu":
+            if callback_data == "back_to_menu" or callback_data == "main_menu":
                 return self.States.MAIN_MENU
             elif callback_data.startswith("register_"):
                 return self.States.REGISTRATION
@@ -136,11 +138,20 @@ class CommandsModule:
             practice_state = await self.practice_module.handle_practice_callback(update, context, callback_data)
             return self.States.PRACTICING if practice_state else self.States.MAIN_MENU
         
-        # טיפול בכפתורים אחרים
+        # טיפול בכפתורים של משחקים
         if callback_data == "games":
-            await query.answer("משחקים יהיו זמינים בקרוב! 🎮")
-            return self.States.MAIN_MENU
-        elif callback_data == "stories":
+            await self.games_module.show_games_menu(update, context)
+            return self.States.PLAYING_GAME
+        elif callback_data.startswith("game_"):
+            await self.games_module.handle_game_selection(update, context, callback_data)
+            return self.States.PLAYING_GAME
+        elif callback_data.startswith("memory_card_") or callback_data == "memory_empty":
+            # טיפול בלחיצות על כרטיסיות במשחק הזיכרון
+            handled = await self.games_module.handle_callback(update, context, callback_data)
+            return self.States.PLAYING_GAME if handled else self.States.MAIN_MENU
+        
+        # טיפול בכפתורים אחרים
+        if callback_data == "stories":
             await query.answer("סיפורים יהיו זמינים בקרוב! 📖")
             return self.States.MAIN_MENU
         elif callback_data == "writing":
