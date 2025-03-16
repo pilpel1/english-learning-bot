@@ -38,7 +38,6 @@ class GamesModule:
                             word["id"] = i + 1000  # מספר גדול כדי למנוע התנגשויות
                         self.all_words.append(word)
                 
-                print(f"נטענו {len(self.all_words)} מילים מהמאגר המלא")
             except Exception as e:
                 print(f"שגיאה בטעינת קובץ המילים המלא: {e}")
         
