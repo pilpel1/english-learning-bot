@@ -309,6 +309,27 @@ class PracticeModule:
                 mark = "✅" if result.get("remembered", False) else "❌"
                 summary += f"{i}. {word.english} - {word.hebrew} {mark}\n"
             
+            # עדכון רשימת המילים שהמשתמש למד
+            if correct > 0 or total_words > 0:  # אם יש תוצאות כלשהן
+                # וידוא שיש מילון words_knowledge
+                if "words_knowledge" not in user_profile:
+                    user_profile["words_knowledge"] = {}
+                
+                # עדכון רמת הידע של כל מילה בהתאם לתוצאות
+                for word_id, result in results.items():
+                    # אם המילה לא קיימת במילון, נאתחל אותה ל-0
+                    if word_id not in user_profile["words_knowledge"]:
+                        user_profile["words_knowledge"][word_id] = 0
+                    
+                    # עדכון הציון: +1 אם זכר, -1 אם לא זכר
+                    if result.get("remembered", False):
+                        user_profile["words_knowledge"][word_id] += 1
+                    else:
+                        user_profile["words_knowledge"][word_id] -= 1
+                
+                # שמירת הפרופיל המעודכן
+                await self.save_user_profile(user_profile)
+            
             summary += "\nרוצה לתרגל עוד מילים?"
             
             await query.edit_message_text(

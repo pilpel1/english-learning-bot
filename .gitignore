@@ -43,4 +43,8 @@ temp/
 
 # User-specific data
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# User data files
+data/users/
+data/users/*.json 

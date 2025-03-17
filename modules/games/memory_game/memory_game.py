@@ -153,8 +153,8 @@ class MemoryGame:
                 await query.answer("אין התאמה, נסה שוב.")
                 await self._update_game_message(context, user_id)
                 
-                # המתנה של 3 שניות
-                await asyncio.sleep(3)
+                # המתנה של 2 שניות
+                await asyncio.sleep(2)
                 
                 # הפיכת הכרטיסיות בחזרה
                 game_state["flipped"] = []
@@ -277,6 +277,33 @@ class MemoryGame:
         # יצירת טקסט הזוגות שנמצאו
         matched_text = "\n\n*המילים שלמדת:*\n"
         matched_text += "\n".join([f"• {pair}" for pair in matched_pairs])
+        
+        # עדכון רשימת המילים שהמשתמש למד
+        try:
+            # קבלת פרופיל המשתמש מהמודול המתאים
+            user_profile = await context.bot_data.get("user_module").get_user_profile(user_id)
+            
+            # וידוא שיש מילון words_knowledge
+            if "words_knowledge" not in user_profile:
+                user_profile["words_knowledge"] = {}
+            
+            # הוספת המילים שנמצאו במשחק לרשימת המילים שהמשתמש למד
+            for pair_id in matched_ids:
+                # מציאת המילה המתאימה
+                for card in game_state["cards"]:
+                    if card["pair_id"] == pair_id and card["type"] == "english":
+                        # אם המילה לא קיימת במילון, נאתחל אותה ל-0
+                        if pair_id not in user_profile["words_knowledge"]:
+                            user_profile["words_knowledge"][pair_id] = 0
+                        
+                        # עדכון הציון: +1 עבור כל זוג שנמצא במשחק
+                        user_profile["words_knowledge"][pair_id] += 1
+                        break
+            
+            # שמירת הפרופיל המעודכן
+            await context.bot_data.get("user_module").save_user_profile(user_profile)
+        except Exception as e:
+            print(f"שגיאה בעדכון רמת הידע של המילים: {e}")
         
         # שליחת הודעת סיום
         try:

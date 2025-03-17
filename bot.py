@@ -119,6 +119,10 @@ def main() -> None:
     # יצירת אפליקציית הבוט
     application = Application.builder().token(TELEGRAM_TOKEN).build()
     
+    # שמירת מודולים ב-bot_data לשימוש בכל המודולים
+    application.bot_data["user_module"] = user_module
+    application.bot_data["practice_module"] = practice_module
+    
     # הוספת handlers
     application.add_handler(ConversationHandler(
         entry_points=[

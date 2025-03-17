@@ -30,13 +30,15 @@ class GamesModule:
                     loaded_words = json.load(f)
                 
                 # בדיקה והתאמה של מבנה המילים
-                for i, word in enumerate(loaded_words):
+                for word in loaded_words:
                     # בדיקה אם המילה מכילה את השדות הנדרשים
                     if isinstance(word, dict) and "english" in word and "hebrew" in word:
-                        # הוספת שדה id אם חסר
-                        if "id" not in word:
-                            word["id"] = i + 1000  # מספר גדול כדי למנוע התנגשויות
+                        # וידוא שיש שדה word_id
+                        if "word_id" not in word:
+                            continue  # דילוג על מילים ללא מזהה
                         self.all_words.append(word)
+                
+                print(f"DEBUG: נטענו {len(self.all_words)} מילים מהמאגר המלא")
                 
             except Exception as e:
                 print(f"שגיאה בטעינת קובץ המילים המלא: {e}")
@@ -107,9 +109,8 @@ class GamesModule:
         """טיפול בבחירת משחק"""
         query = update.callback_query
         
-        # בדיקה איזה משחק נבחר
+        # אם זה משחק הזיכרון, נעביר את הטיפול לפונקציה המתאימה
         if callback_data == "game_memory":
-            # הצגת מסך בחירת רמת קושי
             return await self.show_memory_game_difficulty(update, context)
         
         # טיפול במשחקים אחרים
@@ -142,11 +143,52 @@ class GamesModule:
         elif difficulty == "medium":
             # רמה בינונית - מילים שהמשתמש למד
             user_profile = await self.user_module.get_user_profile(user_id)
-            words = user_profile.get("words_learned", [])
+            words_knowledge = user_profile.get("words_knowledge", {})
             
-            # אם אין מספיק מילים שנלמדו, השלם עם מילים קלות
-            if len(words) < 8:
+            # בחירת מילים שהמשתמש כבר למד (עם ציון חיובי)
+            learned_word_ids = [word_id for word_id, score in words_knowledge.items() if score > 0]
+            print(f"DEBUG: מספר המילים שנלמדו עם ציון חיובי: {len(learned_word_ids)}")
+            print(f"DEBUG: מזהי המילים שנלמדו: {learned_word_ids[:5]}...")
+            
+            # אם יש מספיק מילים שנלמדו, השתמש בהן
+            if len(learned_word_ids) >= 8:
+                print(f"DEBUG: יש מספיק מילים שנלמדו ({len(learned_word_ids)})")
+                # המרת מזהי המילים למחרוזות (כי הם מאוחסנים כמחרוזות ב-JSON)
+                learned_word_ids_str = [str(word_id) for word_id in learned_word_ids]
+                
+                # מציאת המילים המתאימות מתוך מאגר המילים המלא
+                learned_words = []
+                print(f"DEBUG: מספר המילים במאגר המלא: {len(self.all_words)}")
+                print(f"DEBUG: דוגמה למבנה מילה במאגר: {self.all_words[0] if self.all_words else 'אין מילים'}")
+                
+                # איסוף כל המילים שנלמדו
+                for word in self.all_words:
+                    # בדיקה אם המילה מכילה את השדה word_id
+                    word_id_str = str(word.get("word_id", ""))
+                    if word_id_str in learned_word_ids_str:
+                        # יצירת מבנה מילה תואם למשחק הזיכרון
+                        learned_words.append({
+                            "id": word_id_str,
+                            "english": word.get("english", ""),
+                            "hebrew": word.get("hebrew", "")
+                        })
+                        print(f"DEBUG: נמצאה מילה מתאימה: {word.get('english')} (id: {word_id_str})")
+                
+                print(f"DEBUG: מספר המילים שנמצאו במאגר: {len(learned_words)}")
+                
+                # אם מצאנו מספיק מילים
+                if len(learned_words) >= 8:
+                    # בחירת 8 מילים באקראי מתוך המילים שנלמדו
+                    words = random.sample(learned_words, 8)
+                    print(f"DEBUG: נבחרו 8 מילים באקראי מתוך {len(learned_words)} מילים שנלמדו")
+                else:
+                    # אם אין מספיק מילים במאגר, השלם עם מילים קלות
+                    words = self.easy_words
+                    print(f"DEBUG: אין מספיק מילים במאגר, משתמשים במילים קלות")
+            else:
+                # אם אין מספיק מילים שנלמדו, השלם עם מילים קלות
                 words = self.easy_words
+                print(f"DEBUG: אין מספיק מילים שנלמדו ({len(learned_word_ids)}), משתמשים במילים קלות")
         elif difficulty == "hard":
             # רמה קשה - מילים אקראיות מהמאגר המלא
             if self.all_words:
@@ -185,8 +227,13 @@ class GamesModule:
         if callback_data.startswith("memory_card_"):
             return await self.memory_game.handle_callback(update, context)
         
-        # בדיקה אם זו בחירת רמת קושי למשחק הזיכרון
-        if callback_data.startswith("memory_difficulty_"):
+        # בדיקה אם זו בחירת רמת קושי למשחק הזיכרון או בקשה למשחק חדש
+        if callback_data.startswith("memory_difficulty_") or callback_data == "game_memory":
+            # אם זו בקשה למשחק חדש, נציג את מסך בחירת רמת הקושי
+            if callback_data == "game_memory":
+                return await self.show_memory_game_difficulty(update, context)
+            
+            # אם זו בחירת רמת קושי, נתחיל משחק חדש
             difficulty = callback_data.split("_")[-1]  # easy, medium, hard
             return await self.start_memory_game(update, context, difficulty)
         

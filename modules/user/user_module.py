@@ -36,7 +36,7 @@ class UserModule:
             user_profile = {
                 "user_id": user_id,
                 "join_date": datetime.now().strftime("%Y-%m-%d"),
-                "words_learned": [],
+                "words_knowledge": {},  # מילון שבו המפתח הוא מזהה המילה והערך הוא רמת הידע (-N עד +N)
                 "daily_streak": 0,
                 "last_practice": None,
                 "total_practice_time": 0,
@@ -110,7 +110,8 @@ class UserModule:
         user_profile = await self.get_user_profile(user.id)
         
         # חישוב סטטיסטיקות בסיסיות
-        words_learned = len(user_profile.get("words_learned", []))
+        words_knowledge = user_profile.get("words_knowledge", {})
+        words_learned = sum(1 for score in words_knowledge.values() if score > 0)
         daily_streak = user_profile.get("daily_streak", 0)
         
         menu_text = f"""
