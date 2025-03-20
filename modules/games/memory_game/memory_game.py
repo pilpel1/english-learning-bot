@@ -15,7 +15,7 @@ class MemoryGame:
         """אתחול המשחק"""
         self.active_games = {}  # מילון לשמירת מצב המשחק לכל משתמש
     
-    async def start_game(self, update: Update, context: ContextTypes.DEFAULT_TYPE, words: List[Dict], difficulty: str = "קל") -> None:
+    async def start_game(self, update: Update, context: ContextTypes.DEFAULT_TYPE, words: List[Dict], difficulty: str = "קל", message_id: Optional[int] = None) -> None:
         """התחלת משחק חדש"""
         user_id = update.effective_user.id
         
@@ -37,21 +37,46 @@ class MemoryGame:
             "flipped": [],  # כרטיסיות שנחשפו בתור הנוכחי
             "matched": [],  # כרטיסיות שכבר נמצאו להן זוגות
             "clicks": 0,    # מספר הלחיצות
-            "message_id": None,  # מזהה ההודעה של המשחק
+            "message_id": message_id,  # מזהה ההודעה של המשחק
             "difficulty": difficulty  # דרגת הקושי
         }
         
-        # שליחת לוח המשחק
-        message = await update.effective_message.reply_text(
-            f"🎮 *משחק הזיכרון - {difficulty}*\n"
-            "מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
-            "מספר לחיצות: 0",
-            reply_markup=self._create_game_keyboard(user_id),
-            parse_mode="Markdown"
-        )
-        
-        # שמירת מזהה ההודעה
-        self.active_games[user_id]["message_id"] = message.message_id
+        # אם נמסר message_id, נעדכן את ההודעה הקיימת במקום לשלוח חדשה
+        if message_id:
+            try:
+                await context.bot.edit_message_text(
+                    chat_id=user_id,
+                    message_id=message_id,
+                    text=f"🎮 *משחק הזיכרון - {difficulty}*\n"
+                         "מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
+                         "מספר לחיצות: 0",
+                    reply_markup=self._create_game_keyboard(user_id),
+                    parse_mode="Markdown"
+                )
+            except Exception as e:
+                # אם יש שגיאה בעדכון ההודעה, ננסה לשלוח הודעה חדשה
+                if "Message is not modified" not in str(e):
+                    print(f"שגיאה בעדכון הודעת המשחק: {e}")
+                    message = await update.effective_message.reply_text(
+                        f"🎮 *משחק הזיכרון - {difficulty}*\n"
+                        "מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
+                        "מספר לחיצות: 0",
+                        reply_markup=self._create_game_keyboard(user_id),
+                        parse_mode="Markdown"
+                    )
+                    self.active_games[user_id]["message_id"] = message.message_id
+        else:
+            # שליחת לוח המשחק כהודעה חדשה
+            message = await update.effective_message.reply_text(
+                f"🎮 *משחק הזיכרון - {difficulty}*\n"
+                "מצאו זוגות של מילים באנגלית והתרגום שלהן בעברית.\n"
+                "מספר לחיצות: 0",
+                reply_markup=self._create_game_keyboard(user_id),
+                parse_mode="Markdown"
+            )
+            
+            # שמירת מזהה ההודעה
+            self.active_games[user_id]["message_id"] = message.message_id
     
     def _create_game_keyboard(self, user_id: int) -> InlineKeyboardMarkup:
         """יצירת מקלדת למשחק"""

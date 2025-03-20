@@ -104,8 +104,15 @@ class UserModule:
         await update.message.reply_text(welcome_text, reply_markup=reply_markup)
         return UserStates.MAIN_MENU
     
-    async def show_main_menu(self, update: Update, context: ContextTypes.DEFAULT_TYPE) -> UserStates:
-        """הצגת התפריט הראשי"""
+    async def show_main_menu(self, update: Update, context: ContextTypes.DEFAULT_TYPE, use_reply: bool = False) -> UserStates:
+        """
+        הצגת התפריט הראשי
+        
+        Args:
+            update: העדכון מהמשתמש
+            context: הקונטקסט של השיחה
+            use_reply: האם לשלוח הודעה חדשה גם כאשר מדובר בקריאה מכפתור
+        """
         user = update.effective_user
         user_profile = await self.get_user_profile(user.id)
         
@@ -143,7 +150,8 @@ class UserModule:
         
         reply_markup = InlineKeyboardMarkup(keyboard)
         
-        if update.callback_query:
+        if update.callback_query and not use_reply:
+            # אם זו קריאה מכפתור, עדכן את ההודעה הקיימת
             await update.callback_query.answer()
             await update.callback_query.edit_message_text(
                 text=menu_text,
@@ -151,7 +159,9 @@ class UserModule:
                 parse_mode='Markdown'
             )
         else:
-            await update.message.reply_text(
+            # אם זו קריאה ישירה או שביקשו במפורש לשלוח הודעה חדשה
+            message = update.callback_query.message if update.callback_query else update.message
+            await message.reply_text(
                 text=menu_text,
                 reply_markup=reply_markup,
                 parse_mode='Markdown'

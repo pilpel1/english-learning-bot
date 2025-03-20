@@ -7,20 +7,48 @@
   "total_practice_time": 0,
   "session_data": {
     "current_word_set": [
-      "4b3e9fe4-7d0e-4140-bcc3-bbdf8d496889",
-      "6dce877a-2ad5-484f-a4cd-8c1efc382230",
-      "45683afb-3acf-4086-afd2-5c56f3472361",
-      "a9fecc2e-c8c4-4614-9c8d-433ae5897ebf",
-      "29253d52-725b-416c-b630-2cc6f913593f"
+      "6e611499-d475-476a-af90-966a5876920e",
+      "54d3aba9-28eb-4374-a61c-d1a204ca214e",
+      "b02a76e2-b1f8-410a-a0f0-ceafaf2f8c3b",
+      "d59c1b8b-26d8-4b11-ae04-b91641558cf6",
+      "8e1c0e3f-cf5f-4296-9a7f-ec751bd7a873"
     ],
-    "current_word_index": 1,
+    "current_word_index": 5,
     "conversation_context": {},
     "session_results": {
-      "4b3e9fe4-7d0e-4140-bcc3-bbdf8d496889": {
-        "word": "except",
-        "hebrew": "חוץ מ",
+      "6e611499-d475-476a-af90-966a5876920e": {
+        "word": "findings",
+        "hebrew": "ממצאים",
+        "remembered": true
+      },
+      "54d3aba9-28eb-4374-a61c-d1a204ca214e": {
+        "word": "ice cream",
+        "hebrew": "גלידה",
+        "remembered": true
+      },
+      "b02a76e2-b1f8-410a-a0f0-ceafaf2f8c3b": {
+        "word": "potter",
+        "hebrew": "יוצר כלי חרס",
+        "remembered": false
+      },
+      "d59c1b8b-26d8-4b11-ae04-b91641558cf6": {
+        "word": "discoveries",
+        "hebrew": "תגליות",
+        "remembered": false
+      },
+      "8e1c0e3f-cf5f-4296-9a7f-ec751bd7a873": {
+        "word": "particularly",
+        "hebrew": "במיוחד",
         "remembered": false
       }
-    }
+    },
+    "last_feedback": "👨‍🎓 לא נורא, זה חלק מתהליך הלמידה!\n\n"
+  },
+  "words_knowledge": {
+    "6e611499-d475-476a-af90-966a5876920e": 1,
+    "54d3aba9-28eb-4374-a61c-d1a204ca214e": 1,
+    "b02a76e2-b1f8-410a-a0f0-ceafaf2f8c3b": -1,
+    "d59c1b8b-26d8-4b11-ae04-b91641558cf6": -1,
+    "8e1c0e3f-cf5f-4296-9a7f-ec751bd7a873": -1
   }
 }

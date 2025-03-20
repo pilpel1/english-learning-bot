@@ -216,8 +216,13 @@ class GamesModule:
                 # אם אין מאגר מילים מלא, השתמש במילים קלות
                 words = self.easy_words
         
-        # התחלת המשחק עם המילים שנבחרו
-        await self.memory_game.start_game(update, context, words, difficulty_text)
+        # קבלת message_id מהקריאה הנוכחית (אם זו קריאת callback)
+        message_id = None
+        if update.callback_query:
+            message_id = update.callback_query.message.message_id
+        
+        # התחלת המשחק עם המילים שנבחרו והעברת ה-message_id
+        await self.memory_game.start_game(update, context, words, difficulty_text, message_id)
         return True
     
     async def handle_callback(self, update: Update, context: ContextTypes.DEFAULT_TYPE, callback_data: str):
@@ -227,8 +232,24 @@ class GamesModule:
         if callback_data.startswith("memory_card_"):
             return await self.memory_game.handle_callback(update, context)
         
+        # בדיקה אם זה משחק זיכרון שהסתיים
+        user_id = update.effective_user.id
+        game_finished = (callback_data in ["game_memory", "back_to_menu"] and 
+                         user_id not in self.memory_game.active_games and
+                         "סיום!" in update.callback_query.message.text)
+        
+        # טיפול במשחק זיכרון שהסתיים
+        if game_finished:
+            # כאשר המשחק הסתיים, ובוחרים "משחק חדש" או "חזרה לתפריט",
+            # פשוט נחזיר True או False בהתאמה
+            if callback_data == "game_memory":
+                return await self.show_memory_game_difficulty(update, context)
+            elif callback_data == "back_to_menu":
+                # החזרת False כדי שהמודול הראשי יציג את התפריט הראשי
+                return False
+        
         # בדיקה אם זו בחירת רמת קושי למשחק הזיכרון או בקשה למשחק חדש
-        if callback_data.startswith("memory_difficulty_") or callback_data == "game_memory":
+        if callback_data.startswith("memory_difficulty_") or (callback_data == "game_memory" and not game_finished):
             # אם זו בקשה למשחק חדש, נציג את מסך בחירת רמת הקושי
             if callback_data == "game_memory":
                 return await self.show_memory_game_difficulty(update, context)

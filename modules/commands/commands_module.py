@@ -40,9 +40,9 @@ class CommandsModule:
             return self.States.SETTINGS
         return self.States.MAIN_MENU
     
-    async def show_main_menu(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+    async def show_main_menu(self, update: Update, context: ContextTypes.DEFAULT_TYPE, use_reply: bool = False):
         """הצגת התפריט הראשי"""
-        user_state = await self.user_module.show_main_menu(update, context)
+        user_state = await self.user_module.show_main_menu(update, context, use_reply)
         # המרת מצב UserStates למצב States
         if user_state == self.user_module.UserStates.MAIN_MENU:
             return self.States.MAIN_MENU
@@ -113,6 +113,33 @@ class CommandsModule:
         """טיפול בלחיצות על כפתורים"""
         query = update.callback_query
         callback_data = query.data
+        
+        # בדיקה אם זה חזרה לתפריט הראשי מסיום משחק הזיכרון
+        if callback_data == "back_to_menu" and query.message.text and "סיום!" in query.message.text and "משחק הזיכרון" in query.message.text:
+            # שליחת הודעה חדשה עם התפריט הראשי
+            await self.user_module.show_main_menu(update, context, use_reply=True)
+            return self.States.MAIN_MENU
+            
+        # בדיקה אם זה "משחק חדש" מסיום משחק הזיכרון
+        if callback_data == "game_memory" and query.message.text and "סיום!" in query.message.text and "משחק הזיכרון" in query.message.text:
+            # במקום לעדכן את ההודעה הקיימת, אנחנו מבטלים את הסמן טעינה של הכפתור
+            await query.answer()
+            # ושולחים הודעה חדשה עם תפריט בחירת רמת הקושי
+            await context.bot.send_message(
+                chat_id=query.message.chat_id,
+                text="בחר את רמת הקושי למשחק הזיכרון:\n\n"
+                     "🟢 *קל* - מילים בסיסיות וקלות\n"
+                     "🟡 *בינוני* - מילים שכבר למדת\n"
+                     "🔴 *קשה* - מילים אקראיות מהמאגר המלא",
+                reply_markup=InlineKeyboardMarkup([
+                    [InlineKeyboardButton("🟢 קל", callback_data="memory_difficulty_easy")],
+                    [InlineKeyboardButton("🟡 בינוני", callback_data="memory_difficulty_medium")],
+                    [InlineKeyboardButton("🔴 קשה", callback_data="memory_difficulty_hard")],
+                    [InlineKeyboardButton("🔙 חזרה למשחקים", callback_data="games")]
+                ]),
+                parse_mode="Markdown"
+            )
+            return self.States.PLAYING_GAME
         
         # טיפול בחזרה לתפריט הראשי
         if callback_data == "back_to_menu" or callback_data == "main_menu":
